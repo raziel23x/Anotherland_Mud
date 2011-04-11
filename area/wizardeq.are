@@ -1,0 +1,379 @@
+#AREADATA
+Name        Classes Wizard Eq~
+Builders    Raziel~
+VNUMs       103100 103114
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#103100
+wizard glass ring~
+#R#P(#C=#c* #CG#class #PW#pizard #PR#ping #c*#C=#P)#R#n~
+A glass ring shimmers on the ground.~
+~
+9 0 3
+0 0 1048576
+25 0 0 0
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103101
+wizard glass bracer~
+#R#P(#C=#c* #CG#class #PW#pizard #PB#pracer #c*#C=#P)#R#n~
+A glass bracer shimmers about the ground.~
+~
+9 0 4097
+0 0 1048576
+25 0 0 0
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103102
+glass wizard pendant~
+#R#P(#C=#c* #CG#class #PW#pizard #PP#pendant #c*#C=#P)#R#n~
+A glass pendant shimmers on the ground~
+~
+9 0 5
+0 0 1048576
+25 0 0 8
+1 100 0
+A
+17 -30
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103103
+glass wizard plate~
+#R#P(#C=#c* #CG#class #PW#pizard #PP#plate #c*#C=#P)#R#n~
+A glass plate shimmers on the ground.~
+~
+9 0 9
+0 0 1048576
+25 0 0 5
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103104
+glass wizard helmet~
+#R#P(#C=#c* #CG#class #PW#pizard #PH#pelmet #c*#C=#P)#R#n~
+A glass helmet shimmers about on the ground.~
+~
+9 0 17
+0 0 1048576
+25 0 0 3
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103105
+magical wizard silk pouch~
+#P(#C=#c* #CM#cagical #7S#0i#7l#0k #PP#pouch #c*#C=#P)#n~
+A magical pouch lays on the ground.~
+~
+15 16384 2049
+0 0 1048576
+1000 0 0 0
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103106
+iron wizard mask~
+#R#P(#C=#c* #0I#nron #PW#pizard #PM#pask #c*#C=#P)#R#n~
+A iron mask shines on the ground.~
+~
+9 0 32769
+0 0 1048576
+25 0 0 0
+1 100 0
+A
+17 -30
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103107
+leather wizard gloves~
+#R#P(#C=#c* #oLeather #PW#pizard #PG#ploves #c*#C=#P)#R#n~
+A pair of leather gloves lay here.~
+~
+9 0 129
+0 0 1048576
+25 0 0 11
+1 100 0
+A
+17 -30
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103108
+steel wizard sleeves~
+#R#P(#C=#c* #0Steel #PW#pizard #PS#pleeves #c*#C=#P)#R#n~
+A pair of steel sleeves lay here.~
+~
+9 0 257
+0 0 1048576
+25 0 0 0
+1 100 0
+A
+17 -30
+A
+19 45
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103109
+leather wizard boots~
+#R#P(#C=#c* #oLeather #PW#pizard #PB#poots #c*#C=#P)#R#n~
+A pair of leather boots lay here.~
+~
+9 0 65
+0 0 1048576
+25 0 0 13
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103110
+steel wizard leggings~
+#R#P(#C=#c* #0S#nt#0e#ne#0l #PW#pizard #PL#peggings #c*#C=#P)#R#n~
+A pair of steel leggings lay here.~
+~
+9 0 33
+0 0 1048576
+25 0 0 17
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103111
+silk wizard cloak~
+#R#P(#C=#c* #7S#0i#7l#0k #PW#pizard #PC#ploak #c*#C=#P)#R#n~
+A silver cloak shimmers in the light.~
+~
+9 0 1025
+0 0 1048576
+25 0 0 16
+1 100 0
+A
+17 -30
+A
+18 45
+A
+19 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103112
+staff of the wizard~
+#R#P(#C=#c* #PS#ptaff #Po#pf #Pt#phe #PW#pizard #c*#C=#P)#R#n~
+A wizard's staff glimmers here.~
+~
+5 0 8193
+0 0 1114112
+37 60 95 7
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103113
+rod of the wizard~
+#R#P(#C=#c* #PR#pod #Po#pf #Pt#phe #PW#pizard #c*#C=#P)#R#n~
+A wizard's rod lay here glittering.~
+~
+5 0 8193
+0 0 1114112
+24 50 95 0
+1 100 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103114
+Mark of the true wizard~
+#R#P(#C=#c* #PM#park #Po#pf #Pt#phe #Pt#prue #PW#pizard #c*#C=#P)#R#n~
+A important mark lays here.~
+~
+9 4224 131073
+0 0 1114112
+25 0 0 29
+1 1000 0
+A
+18 500
+A
+19 500
+A
+13 10000
+A
+12 10000
+A
+14 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,471 @@
+#AREADATA
+Name        Seppuku Kingdom Five~
+Builders    None~
+VNUMs       40400 40499
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40400
+Jeffrey the Awesomers Guardian~
+#CJeffrey#n, Guardian of #CAwesomers#n~
+A kingdom guardian stands here.
+~
+~
+65553 4194456 0 S
+10000 0 0 0d2+1 0d0+0
+0 0
+0 0 0
+#40401
+Awesomers Healer Ariel~
+#CAriel#n, healer supreme of the #CAwesomers#n~
+A young woman hovers here, concentrating on something.
+~
+~
+99331 128 0 S
+10000 0 0 50d0+0 0d0+0
+0 0
+0 0 2
+#40402
+awesomer trainer~
+#CAsjuhoshmu#n~
+#CAsjuhoshmu#n stands here, ready for some action!
+~
+Asphyxiate + jungle + homie + shit + mushookie
+Asjuhoshmu
+ 
+Thanks go to Ryosho, Dagon, Gopey, Ales, and Arendal.
+~
+109971 0 0 S
+53 0 0 50d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#40445
+key of death~
+#7Key #nof #0D#ge#0a#gt#0h#n~
+A #7Key #nof #0D#ge#0a#gt#0h#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40446
+Key of War~
+#gW#0a#Rr#g'#0s #7Key#n~
+#gW#0a#Rr#g'#0s #7Key#n lies here.~
+~
+18 2097152 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40447
+Key of Pestilence~
+#0P#oe#0s#ot#0i#ol#0e#on#0c#oe#0'#os #7key#n~
+#0P#oe#0s#ot#0i#ol#0e#on#0c#oe#0'#os #7key#n lies here.~
+~
+18 2097152 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40448
+Key of Death~
+#0D#ge#0a#gt#0h#g'#0s #7Key#n~
+#0D#ge#0a#gt#0h#g'#0s #7Key#n lies here.~
+~
+18 2097153 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40449
+Key of Famine~
+#rF#Ra#rm#Ri#rn#Re#r'#Rs #7Key#n~
+#rF#Ra#rm#Ri#rn#Re#r'#Rs #7Key#n lies here.~
+~
+18 2097153 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40450
+Portal Key~
+#0Portal #7Key #n~
+A #0Portal #7Key#n lies here.~
+~
+18 1 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40451
+Key of the Apocalypse~
+#7Key #n of the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+The #7Key #n of the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n lies here.~
+~
+18 2097152 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40452
+Unholy Leather Ties~
+#0U#7n#0h#7o#0l#7y #oleather #rties#n~
+Some #0U#7n#0h#7o#0l#7y #oleather #rties#n lie here.~
+~
+67 2097152 1
+0 0 0
+0 40453 40454 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40453
+Demonic Steel Plate~
+#rD#0e#rm#0o#rn#0i#rc #7Steel #oPlate#n~
+A #rD#0e#rm#0o#rn#0i#rc #7Steel #oPlate#n lies here.~
+~
+67 2097152 1
+0 0 0
+40452 0 40454 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40454
+Unholy Steel Chest Plate~
+#0U#7n#0h#7o#0l#7y#n #7Steel #0C#yh#0e#ys#0t #oPlate#n~
+An #0U#7n#0h#7o#0l#7y#n #7Steel #0C#yh#0e#ys#0t #oPlate#n lies here.~
+~
+67 2097152 1
+0 0 0
+0 40457 40458 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40455
+Unholy Steel Buckles~
+#0U#7n#0h#7o#0l#7y#n #7Steel #0Buckles#n~
+Some #0U#7n#0h#7o#0l#7y#n #7Steel #0Buckles#n lie here.~
+~
+67 2097152 1
+0 0 0
+0 40456 40457 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40456
+Demonic slab steel~
+#rD#0e#rm#0o#rn#0i#rc #0Slab #nof #7Steel#n~
+A #rD#0e#rm#0o#rn#0i#rc #0Slab #nof #7Steel#n lies here.~
+~
+67 2097152 1
+0 0 0
+40455 0 40457 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40457
+steel back plate~
+#rD#0e#rm#0o#rn#0i#rc #7Steel#n #cBack #oPlate#n~
+A #rD#0e#rm#0o#rn#0i#rc #7Steel#n #cBack #oPlate#n lies here.~
+~
+67 2097152 1
+0 0 0
+40454 0 40458 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40458
+Demonic Suit of Platemail~
+a #rD#0e#rm#0o#rn#0i#rc #0Suit#n of #7P#ol#0a#7t#oe#0m#7a#oi#0l#n~
+A #rD#0e#rm#0o#rn#0i#rc #0Suit#n of #7P#ol#0a#7t#oe#0m#7a#oi#0l#n lies here reaking evil.~
+~
+9 13505155 9
+2 0 1114112
+250 0 0 22
+0 0 0
+A
+18 1000
+A
+19 1000
+A
+1 5
+A
+2 3
+A
+4 1
+A
+5 3
+A
+17 -1000
+A
+13 7500
+A
+12 7500
+A
+14 7500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40459
+Altar of blood~
+an #oAltar #nof #RB#rl#Ro#ro#Rd#n~
+An #oAltar #nof #RB#rl#Ro#ro#Rd#n sits here.~
+~
+15 1 0
+0 0 0
+10000 15 150040 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40400
+#7Supremacy#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 40401
+D1
+~
+~
+0 0 40404
+D2
+~
+~
+0 0 40402
+D3
+~
+~
+0 0 40403
+D4
+~
+~
+0 0 40405
+D5
+~
+~
+0 0 40406
+S
+#40401
+#7Supremacy#n~
+~
+0 1064960 0
+D2
+~
+~
+0 0 40400
+S
+#40402
+#7Supremacy#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 40400
+S
+#40403
+#7Supremacy#n~
+~
+0 1064960 0
+D1
+~
+~
+0 0 40400
+D5
+~
+~
+0 0 40408
+S
+#40404
+#7Supremacy#n~
+~
+0 1064960 0
+D3
+~
+~
+0 0 40400
+S
+#40405
+#7Supremacy#n~
+~
+0 1064960 0
+D3
+~
+~
+0 0 40407
+D5
+~
+~
+0 0 40400
+S
+#40406
+#7Supremacy#n~
+~
+0 1064964 0
+D4
+~
+~
+0 0 40400
+D5
+~
+~
+0 0 3001
+S
+#40407
+#7Supremacy#n Training Room.#n~
+~
+0 135282692 0
+D1
+~
+~
+0 0 40405
+S
+#40408
+#y#RD#7a#0g#7o#Rn#c's #lR#pav#le#n#n~
+~
+0 0 0
+D4
+~
+~
+0 0 40403
+S
+#0
+
+
+
+#SPECIALS
+M 40400 spec_guard_kingdom5
+M 40401 spec_healer
+S
+
+
+
+#RESETS
+M 0 40400 4 40400
+M 0 40400 4 40400
+M 0 40400 4 40400
+M 0 40401 1 40405
+M 0 40402 1 40407
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

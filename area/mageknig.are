@@ -1,0 +1,3802 @@
+#AREADATA
+Name        Magna   Magna's World of Imagination~
+Builders    Magna~
+VNUMs       101600 101699
+Security    5
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#101600
+centaur outrider~
+a #Gcentaur outrider#n~
+A #Gcentaur outrider#n is here, watching for enemies.
+~
+A figure stands here, half-horse, half-human.
+He points his spear at you and says "Move Along".
+~
+19 0 100000 S
+578 0 0 10d15+2 0d0+0
+0 0
+0 0 1
+#101601
+elven zealot retired~
+a #yretired elven zealot#n~
+A #yretired elven zealot#n is here keeping an eye on the cottage.
+~
+Bent with age, this zealot is a shadow of his former self.
+Worth noting he could still chop you to bits though.
+~
+19 0 1000 S
+574 0 0 10d14+2 0d0+0
+0 0
+0 0 1
+#101602
+elderly elven healer~
+an #yelderly healer#n~
+An #yelderly healer#n sits on the cot mixing her herbs.
+~
+This old faith healer looks tired of healing people.
+She stares at you with blank, soulless eyes.
+~
+19 128 1000 S
+641 0 0 13d16+2 0d0+0
+0 0
+0 0 2
+#101603
+evil living elemental~
+a #Gliving elemental#n~
+A #Gliving elemental#n born from evil earth bursts through the floor!
+~
+This elemetal takes the form of a towering mass of dirt hardened to stone strength.
+It's shape is almost humanoid, especially its hideous face...
+~
+27 4194312 -1000 S
+869 0 0 12d16+2 0d0+0
+0 0
+0 0 0
+#101604
+centaur lieutenant~
+a #Gcentaur lieutenant#n~
+A #Gcentaur lieutenant#n is here, commanding his outriders.
+~
+This centaur is larger than most others you've seen.
+His lance seems to have increased proportionally in size as well.
+~
+19 0 1000 S
+697 0 0 12d18+2 0d0+0
+0 0
+0 0 1
+#101605
+female centaur outrider~
+a #Gcentaur outrider#n~
+A female #Gcentaur outrider#n is here patrolling the forest.
+~
+This female centaur has the lower body of a horse and the upper body of a 
+goddess.
+Who says inter-racial breeding is a bad idea?
+~
+17 0 1000 S
+522 0 0 11d15+2 0d0+0
+0 0
+0 0 2
+#101606
+crystal bladesman elf elven~
+a #Gcrystal bladesman#n~
+A #Gcrystal bladesman#n stands here guarding the gate.
+~
+A tall elf stands here with his crystal blade.
+He is thin and pale, but has a look of grim determination on his face.
+You get the feeling he's been doing the same thing for 3 days or so.
+~
+19 0 1000 S
+1404 0 0 14d18+3 0d0+0
+0 0
+0 0 0
+#101607
+troll brawler~
+a #Gtroll brawler#n~
+An off-duty #Gtroll brawler#n is here, wandering the streets.
+~
+You see a large horned humanoid.
+You wonder how much it hurt to give birth to this guy...
+~
+17 0 1000 S
+653 0 0 12d15+2 0d0+0
+0 0
+0 0 1
+#101608
+crystal bladesman~
+a #Gcrystal bladesman#n~
+An off-duty #Gcrystal bladesman#n strolls the village, carrying his purchases.
+~
+This tall elf carries a crystalline blade at his side.
+He looks rather content at the moment.
+~
+17 0 1000 S
+546 0 0 8d11+2 0d0+0
+0 0
+0 0 1
+#101609
+elf wizard elemancer elemantalist~
+an #Gelemancer#n~
+An #Gelemancer#n is here raising elementals.
+~
+You see a green robed elf.
+He looks really nice.
+But the killer golems surrounding him don't.
+~
+27 0 1000 S
+721 0 0 8d16+2 0d0+0
+0 0
+0 0 0
+#101610
+treelike wood golem~
+a #Gwood golem#n~
+A large, #Gtreelike golem#n is observing you.
+~
+This golem looks really nice.
+If you don't look at him that is.
+And ignore the 10 foot tall shadow.
+~
+19 0 0 S
+611 0 0 9d14+2 0d0+0
+0 0
+0 0 0
+#101611
+living earth elemental~
+a #Gliving elemental#n~
+A #Gliving elemental#n is here, looking friendly.
+~
+This guy... well just doesn't look nice.
+It's like a troll that rolled in the dirt for 3 hours and let it crust on.
+~
+19 0 0 S
+918 0 0 15d19+2 0d0+0
+0 0
+0 0 0
+#101612
+troll artillerist~
+a #Gtroll artillerist#n~
+A #Gtroll artillerist#n is here loading his ballista.
+~
+This is one big mean motha f*****.
+Watch out for the mobile artillery it carries.
+~
+19 0 1000 S
+691 0 0 13d18+2 0d0+0
+0 0
+0 0 1
+#101613
+troll brawler~
+a #Gtroll brawler#n~
+A #Gtroll brawler#n is here de-rusting his gauntlets.
+~
+Big, ugly, and almost friendly.
+It's weird that he's one of the GOOD guys.
+~
+19 0 1000 S
+574 0 0 13d17+2 0d0+0
+0 0
+0 0 1
+#101614
+troll chieftain~
+a #Gtroll chieftain#n~
+A #Gtroll chieftain#n is here commanding his troops.
+~
+Wow, this guy is TALL!
+He's got muscles as thick as giant redwoods.
+And he looks hungry.
+~
+19 0 1000 S
+2639 0 0 17d20+3 0d0+0
+0 0
+0 0 1
+#101615
+rowan high priestess~
+#GHigh Priestess Rowan#n~
+#GHigh Priestess Rowan#n is here drinking a margarita.
+~
+This is the High Priestess, Ruler of the village.
+She looks like she's had one to many margaritas.
+~
+19 128 1000 S
+2836 0 0 14d20+3 0d0+0
+0 0
+0 0 2
+#101616
+byrch crystal bladesman guard~
+#GByrch#n~
+#GByrch#n the crystal bladesman is here standing guard.
+~
+This bladesman looks a lot stronger than the others.
+He also seems a lot richer.
+~
+19 0 0 S
+2885 0 0 13d20+3 0d0+0
+0 0
+0 0 1
+#101617
+liege knight~
+a #yliege knight#n~
+A #yliege knight#n is here, guarding the embassy.
+~
+The liege knight stares at you with brightly lit eyes.
+You begin to realize how creepy this guy is.
+~
+19 8192 0 S
+1013 0 0 15d20+3 0d0+0
+0 0
+0 0 1
+#101618
+squire knights immortal~
+a #yknights immortal squire#n~
+A #yknights immortal squire#n is here, assisting the liege knights.
+~
+This young elf seems in a hurry, running messages back and forth for the older knights.
+He looks extremely annoyed with this state of things.
+~
+19 8192 250 S
+652 0 0 12d18+2 0d0+0
+0 0
+0 0 1
+#101619
+diplomat elf knights immortal~
+a #yknights immortal diplomat#n~
+A #yknights immortal diplomat#n is here, answering questions.
+~
+This guy is a politician.
+Need I say more?
+~
+19 8192 -250 S
+341 0 0 14d12+2 0d0+0
+0 0
+0 0 1
+#101620
+elemancer~
+an #Gelemancer#n~
+An #Gelemancer#n is here, arguing with the foreign diplomats.
+~
+This guy looks really pissed.
+You notice warily that he's chanting some magic words...
+~
+19 0 1000 S
+699 0 0 13d15+2 0d0+0
+0 0
+0 0 1
+#101621
+veteran liege knights immortal~
+a #yveteran liege knight#n~
+A #yveteran liege knight#n is here, standing guard.
+~
+This liege knight stares at you through sunken eyes.
+He looks completely exhausted.
+You get the feeling he hasn't been promoted for a looong time.
+~
+19 8192 250 S
+1139 0 0 17d16+3 0d0+0
+0 0
+0 0 1
+#101622
+temple blademaster knights immortal~
+a #ytemple blademaster#n~
+A #ytemple blademaster#n is here, sitting on his throne.
+~
+This powerful elf looks almost ageless.
+You get the feeling he's killed a whole lot of people in his life.
+He notices you and smiles.
+~
+19 8320 500 S
+1803 0 0 22d20+3 0d0+0
+0 0
+0 0 1
+#101623
+male centaur yearling~
+a #Gmale yearling#n~
+A #Gmale yearling#n is here, admiring the females.
+~
+This centaur is a year old, and horny as hell.
+Of course, you were the same at that age.
+~
+19 0 1000 S
+412 0 0 14d9+2 0d0+0
+0 0
+0 0 1
+#101624
+female centaur yearling~
+a #Gfemale yearling#n~
+A #Gfemale yearling#n is here, flashing the males.
+~
+This centaur is a year old, and horny as hell.
+You notice appreciatively that she's topless...
+~
+19 0 1000 S
+432 0 0 13d8+2 0d0+0
+0 0
+0 0 2
+#101625
+elemental league ranger~
+an #Gelemental league ranger#n~
+An #Gelemental league ranger#n is here, stalking about.
+~
+Dressed in black robes, most of his features are drenched in shadows.
+~
+19 32770 1000 S
+884 0 0 15d17+3 0d0+0
+0 0
+0 0 1
+#101626
+oakes ranger veteran~
+#GOakes#n~
+The veteran ranger #GOakes#n is here, assisting the younger rangers.
+~
+This elf seems to be nothing but swirling shadows...
+~
+19 32770 1000 S
+2627 0 0 18d20+3 0d0+0
+0 0
+0 0 0
+#101627
+elf at arms elf-at-arms~
+an #yElf-at-Arms#n~
+An #yElf-at-Arms#n is here on war patrol.
+~
+This elf is dressed in heavy chainmail.
+Considering he's 5'2 thats a big accomplishment.
+~
+19 8192 500 S
+940 0 0 12d18+3 0d0+0
+0 0
+0 0 1
+#101628
+royal pikeman~
+a #yroyal pikeman#n~
+A #yroyal pikeman#n is here standing guard at the gate.
+~
+This pikeman stands taller than the elf foot soldiers.
+He looks at you with a snobbish scowl before turning away.
+~
+19 8192 500 S
+1256 0 0 17d19+3 0d0+0
+0 0
+0 0 1
+#101629
+elf at arms elf-at-arms~
+an #yElf-at-Arms#n~
+An #yElf-at-Arms#n is lying on a cot, relaxing.
+~
+This elf is out of armor and off-duty.
+You wonder if these guys know hand-to-hand.
+~
+19 8192 500 S
+796 0 0 14d16+3 0d0+0
+0 0
+0 0 1
+#101630
+royal pikeman~
+a #yroyal pikeman#n~
+A #yroyal pikeman#n is here, passing the time.
+~
+This guy looks incredibly snooty, even off-duty.
+~
+19 8192 500 S
+859 0 0 14d17+3 0d0+0
+0 0
+0 0 1
+#101631
+feral bloodsucker vampire~
+a #0feral bloodsucker#n~
+A #0feral bloodsucker#n vampire leaps from the shadows!
+~
+A jet-black shadow with piercing red eyes!
+I'd run!
+~
+27 4194314 -1000 S
+1176 0 0 15d19+3 0d0+0
+0 0
+0 0 0
+#101632
+seething knight~
+a #0seething knight#n~
+A #0seething knight#n charges you with a bloodstained sword!
+~
+In full battle rage this knight charges you!
+Then he trips on something, collects himself, and continues to charge you!
+~
+27 4194312 -1000 S
+1257 0 0 16d19+3 0d0+0
+0 0
+0 0 1
+#101633
+liege knight guardian~
+a #yguardian liege knight#n~
+A #yguardian liege knight#n stands here staring gauntily at you.
+~
+With absolute resolition and gritting his teeth through extreme effort, this liege knight stands here....
+~
+19 8192 1000 S
+1335 0 0 16d20+3 0d0+0
+0 0
+0 0 1
+#101634
+templar blademaster~
+a #ytemplar blademaster#n~
+A #ytemplar blademaster#n stand before you, arcing his sword.
+~
+Almost completely immersed in body armor, this elf is a one man army.
+You think it's a bit vain though for him to dedicate a temple to himself.
+~
+19 8320 0 S
+1828 0 0 17d20+3 0d0+0
+0 0
+0 0 1
+#101635
+elf-at-arms elf at arms~
+an #yElf-at-Arms#n~
+An #yElf-at-Arms#n is here, sobbing as he bashes his fallen comrades.
+~
+This guy looks totally distressed.
+You think about loaning him some tranquilizer.
+~
+19 0 1000 S
+941 0 0 15d18+3 0d0+0
+0 0
+0 0 1
+#101636
+elven zombie~
+an #0elven zombie#n~
+A dead elf rises from the ground as an #0elven zombie#n!
+~
+Indistinguishable from the other elves aside from it's glowing red eyes.
+Oh, and it's dismembered limbs.
+~
+27 4194312 -1000 S
+802 0 0 15d16+3 0d0+0
+0 0
+0 0 0
+#101637
+apprentice necromancer~
+a #0necromancer#n~
+An apprentice #0necromancer#n is here, raising zombies.
+~
+Totally void of any emotion, this necromancer chants his magic.
+~
+27 4194312 -1000 S
+19990 0 0 15d19+3 0d0+0
+0 0
+0 0 1
+#101638
+khamsin fuser~
+a #Rkhamsin fuser#n~
+A #Rkhamsin fuser#n is aiming his rifle at the zombies!
+~
+Short and stout, if he didn't have a gun you'd think he was a friendly fellow.
+~
+19 0 0 S
+706 0 0 12d18+3 0d0+0
+0 0
+0 0 1
+#101639
+zombie~
+a #0zombie#n~
+A freshly raised #0zombie#n is here clawing at you.
+~
+Not yet decaying, this guy is as agile as any living being.
+~
+27 262144 -100 S
+862 0 0 14d19+3 0d0+0
+0 0
+0 0 0
+#101640
+skeleton~
+a #0skeleton#n~
+A shambling #0skeleton#n is here, scratching at the cell doors.
+~
+Less of an undead than a magical monster, this beast is stripped of all flesh.
+It sort of gives you the creeps thinking of how this was done.
+~
+27 4194312 0 S
+845 0 0 13d17+3 0d0+0
+0 0
+0 0 0
+#101641
+noble archer~
+a #ynoble archer#n~
+A #ynoble archer#n is here, giggling wildly.
+~
+Half-naked and half-elf.
+What could be better?
+~
+19 0 0 S
+892 0 0 13d17+3 0d0+0
+0 0
+0 0 2
+#101642
+guard~
+A Security Guard~
+A Security Guard is here.
+~
+~
+27 4194440 1000 S
+50008 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#101643
+woodland scout~
+a #Gwoodland scout#n~
+A #Gwoodland scout#n is here, looking for a way to escape the dungeon.
+~
+Thin and lightly armored, she doesn't seem very dangerous...
+I'm sure she enjoys cuddling!
+~
+19 0 1000 S
+664 0 0 13d14+3 0d0+0
+0 0
+0 0 2
+#101644
+nessa nettle~
+#GNessa Nettle#n~
+#GNessa Nettle#n is here, making herself throw up.
+~
+You can't imagine how she keeps that hourglass figure!
+The vomited food on the floor might be a clue...
+~
+19 0 1000 S
+1293 0 0 17d15+3 0d0+0
+0 0
+0 0 2
+#101645
+marsh zombie~
+a #0marsh zombie#n~
+A #0marsh zombie#n rises from the swampy ground!
+~
+It looks like a big ball of goop with eyes and a mouth...
+It would seem almost edible if it weren't trying to eat you.
+~
+27 0 0 S
+913 0 0 16d14+3 0d0+0
+0 0
+0 0 0
+#101646
+animal rights representative~
+An Animal Rights Representative~
+An Animals Rights Representative is here.
+~
+He doesn't wear fur!
+~
+19 128 0 S
+3007 0 0 15d15+3 0d0+0
+0 0
+0 0 1
+#101647
+small chipmunk~
+a small chipmunk~
+A small chipmunk is here, chittering away.
+~
+It's a small, furry animal of some sort.
+~
+262163 524288 -1000 S
+662 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#101648
+chipmunk commander~
+a chipmunk commander~
+A chipmunk commander is here, commanding the chipmunks.
+~
+He's a furry animal in a military suit!
+~
+19 524288 -1000 S
+3014 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#101649
+evil mutant chipmunk~
+An evil mutant chipmunk~
+An evil mutant chipmunk is here, foaming at the mouth.
+~
+He's a... furry animal?  What're those sores...
+~
+19 0 -1000 S
+2142 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#101650
+ferret commander~
+a ferret commander~
+A ferret commander is here, leading his ferret army.
+~
+He's a furry animal of some sort, wearing camouflauge!
+~
+19 0 0 S
+2450 0 0 25d20+3 0d0+0
+0 0
+0 0 1
+#101651
+ferret soldier~
+a ferret soldier~
+A ferret soldier is here, ready for war.
+~
+He's a furry animal with sharp claws!
+~
+19 0 0 S
+1207 0 0 15d13+3 0d0+0
+0 0
+0 0 1
+#101652
+ferret assassin~
+a ferret assassin~
+A ferret assassin is here, creeping silently.
+~
+He's furry, yet deadly.
+~
+19 98434 0 S
+64955 0 0 20d20+3 0d0+0
+0 0
+0 0 1
+#101653
+Jahren~
+Jahren~
+Jahren is here.
+~
+A large reptilian humanoid, Jharen's skin is almost totally transparent.
+A forked tongue occasionally escapes from between his lips.
+~
+68611 5341756 -250 S
+31983 0 0 20d20+3 0d0+0
+0 0
+0 0 1
+#101654
+Dekhon~
+Dekhon~
+Dekhon is here.
+~
+Captain of the Midgaard Militia, Dekhon is a human of great stature.
+His features, chiseled with decades of battle-scars, exude an aura of cold,
+calculating logic.
+~
+68611 572 250 S
+699957 0 0 20d20+3 0d0+0
+0 0
+0 0 1
+#101655
+Hidion~
+Hidion~
+Hidion the huge hulking demon is here.
+~
+Standing at roughly 8 feet in height, Hidion's glossy ebon skin is in
+contrast to the dull crimson glow of his eyes.  Greenish lightning flickers
+across the length of his body, focusing around his clawed hands.
+~
+68611 5251774 -1000 S
+2499952 0 0 20d20+3 0d0+0
+0 0
+0 0 1
+#101656
+cyclops scout~
+a cyclops scout~
+A cyclops scout stands here, observing the area with his single eye.
+~
+Nearly 12 feet high, the cyclops scout has a small patch of brown hair upon it's
+head.  It's single eye is it's dominating facial feature.
+~
+336899 0 0 S
+1139 0 0 15d15+3 0d0+0
+0 0
+0 0 0
+#101657
+cyclops brute~
+a cyclops brute~
+A cyclops brute stands here, stomping everything in it's way.
+~
+Over 13 feet tall, the cyclops brute is overwhelmingly muscular.
+It's face is covered with war-paint which emphasizes it's central eye.
+~
+336899 0 0 S
+1219 0 0 15d15+3 0d0+0
+0 0
+0 0 0
+#101658
+cyclops peon~
+a cyclops peon~
+A cyclops peon is here, looking dumb-founded.
+~
+Much shorter than it's comrade warriors, the peon makes up the backbone
+of cyclopic forces.  It's face looks confused and angry at the same time.
+~
+336899 0 0 S
+734 0 0 10d10+2 0d0+0
+0 0
+0 0 0
+#101659
+cyclops rager~
+a cyclops rager~
+A cyclops rager is here, breathing heavily as it looks for an opponent.
+~
+A giant among giants, the cyclops rager ripples with thick-veined muscles.
+Small ornamental tusks have been sewn to the sides of it's face.
+~
+336899 0 0 S
+1979 0 0 15d15+3 0d0+0
+0 0
+0 0 0
+#101660
+cyclops magi~
+a cyclops magi~
+A cyclops magi is here, his one eye glowing with energy.
+~
+A rarity among its society of brutish warriors, the cyclops magi commands
+great power nonetheless.  Runes of power are engraved in its facial skin,
+surrounding its, surround its lone eye.
+~
+336899 56 0 S
+1570 0 0 12d12+3 0d0+0
+0 0
+0 0 0
+#101661
+zombie lord~
+a zombie lord~
+A zombie lord is here.
+~
+~
+66563 0 0 S
+5077 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#101662
+zombie bunny~
+a zombie bunny~
+A zombie bunny is here, hopping with unearthly strength.
+~
+~
+336899 0 -1000 S
+1279 0 0 15d15+2 0d0+0
+0 0
+0 0 1
+#101663
+bunny commando~
+#PBunny #LCommando#n~
+A #PBunny #LCommando#n is here, touting his dual machine-guns.
+~
+~
+66579 5349564 -1000 S
+99967 0 0 30d20+3 0d0+0
+0 0
+0 0 1
+#101664
+puppy soldier~
+#oPuppy #ySoldier#n~
+A #oPuppy #ySoldier#n is here.
+~
+~
+327699 0 0 S
+300 0 0 20d15+3 0d0+0
+0 0
+0 0 1
+#101665
+puppy warrior~
+#oPuppy#n #0Warrior#n~
+A #oPuppy #0Warrior#n is here.
+~
+~
+327699 0 0 S
+600 0 0 20d15+3 0d0+0
+0 0
+0 0 1
+#101666
+puppy elite~
+#oPuppy#n #cElite#n~
+A #oPuppy #cElite#n is here.
+~
+~
+327699 0 0 S
+1200 0 0 20d15+3 0d0+0
+0 0
+0 0 1
+#101667
+mega puppy~
+#GMega#0-#oPuppy#n~
+A #GMega#0-#oPuppy#n is here.
+~
+~
+327699 0 0 S
+1800 0 0 20d20+3 0d0+0
+0 0
+0 0 1
+#101668
+escaped garden gnome~
+escaped garden gnome~
+An escaped garden gnome is here, wreaking havoc.
+~
+~
+19 0 0 S
+32049 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#101669
+gnome potato launcher~
+a gnome wielding a potato launcher~
+A gnome is here, wielding a potato launcher.
+~
+~
+19 0 0 S
+50058 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#101670
+sorceror puppy~
+#rSorceror #oPuppy#n~
+A #rSorceror #oPuppy#n is here, being mystical.
+~
+~
+327699 0 0 S
+600 0 0 10d10+2 0d0+0
+0 0
+0 0 1
+#101671
+sorceror~
+a sorceror~
+A sorceror stands here, his face hidden behind a veil of shadows.
+~
+~
+19 0 0 S
+3968 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#101672
+mud security guard~
+#y-#o=#LMud #RSecurity #GGuard#o=#y-#n~
+#y-#o=#LMud #RSecurity #GGuard#o=#y-#n
+~
+One of Magna's Elite Force of Mud Security Guards.
+If your looking at him, your probably already dead.
+~
+197635 5767868 0 S
+500000 0 0 100d20+3 0d0+0
+0 0
+0 0 0
+#101673
+mad gerbil~
+#RM#rad #yG#oerbil#n~
+A mad gerbil is here, foaming at the mouth!
+~
+~
+66561 0 0 S
+530 0 0 10d10+3 0d0+0
+0 0
+0 0 0
+#101680
+nibbly the ferocious~
+#PNibbles #othe #LFerocious#n~
+#PNibbles #othe #LFerocious#y dances gayly here.
+~
+A thing of legends, Nibbles the Ferocious was a failed experiment to
+create the nibbliest of all party snacks.  He soon took on a life of his
+own, and ravaged the land for miles.  He eventually joined forces with Magna
+in exchange for 2 pennies and a piece of drier lint.  
+~
+393233 5242920 0 S
+3992 0 0 25d20+3 0d0+0
+0 0
+0 0 0
+#101681
+parasitic worm~
+a parasite~
+A parasitic worm squirms across the floor.
+~
+~
+1025 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#101690
+tiny demon~
+A tiny demon~
+A tiny demon hovers in the air here, flapping his tiny wings.
+~
+~
+17 524288 0 S
+26 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#101699
+slot machine~
+slot machine~
+A slot machine sits here.
+~
+~
+19 0 0 S
+99989 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#101600
+centaurian spear~
+a centaurian spear~
+A long-shafted wooden spear lies here.~
+~
+5 0 24577
+0 0 0
+0 3 8 2
+15 80 0
+A
+18 5
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101601
+lightweight steel sword~
+a lightweight steel sword~
+A razor-thin steel sword is lying here.~
+~
+5 256 24577
+0 0 0
+0 5 10 3
+1 400 0
+A
+19 3
+A
+18 3
+A
+2 2
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101602
+zealot robes~
+some zealot robes~
+A set of brightly colored robes lies here.~
+~
+9 0 9
+0 0 0
+0 0 0 0
+1 1 0
+A
+17 -10
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101603
+healing wand~
+a healing wand~
+A short ivory wand lies here.~
+~
+3 64 16385
+0 0 0
+50 100 100 'heal'
+1 800 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101604
+centaurian lance~
+a centaurian lance~
+A large metallic lance is lying here.~
+~
+5 0 24577
+0 0 0
+0 6 12 2
+18 400 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101605
+lieutenants helm~
+a lieutenants helm~
+A tall silver plumed helm is lying here.~
+~
+9 0 17
+0 0 0
+0 0 0 0
+7 120 0
+A
+17 -15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101606
+crystal blade sword~
+a crystal blade~
+A small crystalline blade lies here.~
+~
+5 1 24577
+0 0 0
+0 6 12 3
+1 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101607
+elemental staff~
+an elemental staff~
+A greenish emerald staff is lying here.~
+~
+4 1 16385
+0 0 0
+500 500 500 'flamestrike'
+1 600 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101608
+key~
+a key~
+A key~
+~
+18 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101609
+ballista~
+a troll ballista~
+A huge ballista is lying here.~
+~
+5 0 24577
+0 0 0
+0 10 20 6
+500 50 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101610
+troll gauntlets~
+a pair of troll gauntlets~
+Some huge gauntlets are lying here.~
+~
+5 0 24577
+0 0 0
+0 10 20 9
+250 50 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101611
+priestess rod~
+priestess's rod~
+A slim silver rod is lying here.~
+~
+5 3072 24577
+0 0 0
+0 20 30 8
+1 10000 0
+A
+19 20
+A
+18 20
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101612
+troll wand~
+a troll wand~
+A wand capped with the head of a troll is lying here.~
+~
+3 64 16385
+0 0 0
+1000 3 3 'cure critical'
+1 100000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101613
+coin purse~
+a coin purse~
+A large coin purse is lying here.~
+~
+15 0 2049
+0 0 0
+1000 0 0 0
+1 1 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101614
+knights immortal chainmail~
+some knights immortal chainmail~
+A set of chainmail bearing the mark of the Knights immortal is lying here.~
+~
+9 0 9
+0 0 0
+0 0 0 0
+10 1000 0
+A
+17 -25
+A
+18 3
+A
+19 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101615
+name liege knight blade~
+a liege knights blade~
+A short blade bearing the mark of the knights immortal is lying here.~
+~
+5 1026 24577
+0 0 0
+0 11 22 3
+5 400 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101616
+templar shockwave blade~
+a templars shockwave blade~
+A long glowing blade is lying here.~
+~
+5 1027 8193
+0 0 0
+32 15 25 3
+5 1000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101617
+ranger bow~
+a ranger's bow~
+A jet black longbow is lying here.~
+~
+5 0 24577
+0 0 0
+0 11 22 6
+5 500 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101618
+ranger sword~
+a ranger's sword~
+A thin, jet black metal sword is lying here.~
+~
+5 0 24577
+0 0 0
+0 11 22 3
+5 500 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101619
+elven mace~
+an elven mace~
+A short spiked mace is lying here, discarded.~
+~
+5 0 24577
+0 0 0
+0 11 22 8
+8 300 0
+A
+18 5
+A
+19 5
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101620
+pike pole arm polearm~
+a well-forged pike~
+An extremely long spike tipped polearm lies here.~
+~
+5 0 8193
+0 0 0
+0 11 22 11
+15 400 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101621
+none~
+none~
+None~
+~
+13 0 0
+0 0 0
+0 0 0 0
+1500 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101622
+none~
+empty~
+Empty~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101623
+necropolis deathseeker blade~
+a necropolis deathseeker blade~
+A thin blood-stained steel blade lies here.~
+~
+5 0 8193
+0 0 0
+0 11 22 3
+4 500 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101624
+knights immortal plate armor~
+some knights immortal plate armor~
+A set of plate armor bearing the mark of the knights immortal lies here.~
+~
+9 0 9
+0 0 0
+0 0 0 0
+18 1000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101625
+necromantic staff~
+a necromantic staff~
+A skull capped staff is lying here.~
+~
+4 0 8193
+0 0 0
+1000 100 100 'guardian'
+3 1200 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101626
+blackpowder powder fuser~
+a blackpowder fuser~
+A long wooden rifle lies on the floor here, fully loaded.~
+~
+5 0 8193
+0 0 0
+0 12 24 6
+14 500 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101627
+prison keys~
+some prison keys~
+A key ring is lying here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101628
+star token~
+#sStar #sToken#n~
+#sStar #sToken#n~
+~
+8 0 1
+0 0 0
+0 0 0 0
+1 1 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101629
+rusted metal spear~
+a rusted spear~
+A rusted spear with a rotten wooden staff is lying here.~
+~
+5 0 8193
+0 0 0
+0 8 16 11
+6 50 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101630
+thin elven rapier~
+an elven rapier~
+A thin rapier lies here.~
+~
+5 0 8193
+0 0 0
+0 9 18 11
+3 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101631
+memento~
+#sM#se#sm#se#sn#st#so#n~
+#sA #sM#se#sm#se#sn#st#so#n #sfor #sthose #swho #sdied #son #s9#s/#s11#s/#s01 #sin #sterrorist #sattacks#n~
+~
+8 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101632
+corpse~
+a mauled elven corpse~
+A elven corpse lies here, marred almost beyond reccognition.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+5 5 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101633
+venom spitter~
+#p--#P=#cA #GVenom #GSpitter#n#p=#P--#n~
+A small green organism is here, apparently a weapon of some sort.~
+~
+5 262144 8193
+0 128 0
+53 40 60 6
+2 100 0
+A
+14 -5000
+A
+12 -5000
+A
+13 -5000
+A
+19 80
+A
+18 80
+E
+egg~
+A small, slimy translucent pouch hangs off of the left side of the venom
+spitter, apparently a deposit for newly produced eggs.  Occasionally another
+small bulb will push its way into the chamber.  
+~
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101634
+quest voucher~
+a 100 QP Voucher.~
+Redeemable to #PMagna#n for 100 QP.~
+~
+13 1 1
+0 0 0
+0 0 0 0
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101635
+charm scroll~
+a charm scroll~
+A charming scroll.~
+~
+2 0 1
+0 0 0
+2000000000 'charm person' 'charm person' 'charm person'
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101636
+magna scroll~
+a magna scroll~
+A scroll is here~
+~
+2 0 1
+0 0 65536
+2000000 'bind' 'bind' 'bind'
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101637
+stock weapon~
+a stock weapon~
+A stock weapon is here.~
+~
+5 131072 8193
+0 -1 0
+24 200 300 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101638
+readaura device~
+#7A #cReadaura #0Device#n~
+A small device lies here.~
+~
+3 0 16385
+0 0 0
+100 100 100 'readaura'
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101639
+teleportation device~
+#7A #cTeleportation #oDevice#n~
+A weird device is here.~
+~
+3 0 16385
+0 0 0
+1000 100 100 'imp teleport'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101640
+armageddon staff~
+#RArmageddon #7Staff#n~
+An inconspicious staff lies here.~
+~
+4 0 16385
+0 0 0
+10000 3 3 'grand manasplice'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101641
+meanie wand~
+#RA #0Meanie #RWand#n~
+A meanie wand lies here, use it and be twitted!~
+~
+3 0 16385
+0 0 0
+1000000 100 100 ' '
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101642
+breaker device~
+#0A #RBreaker #0Device#n~
+A breaker device has been left here, use it and be twitted!~
+~
+3 0 16385
+0 0 0
+1000000 100 100 'kinetic assault'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101643
+scry device~
+#7A #CScry #LDevice#n~
+(no description)~
+~
+3 0 16385
+0 0 0
+1000 20 20 ' '
+10 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101644
+magic wand~
+#7Magic #oWand#n~
+A magic wand is here.~
+~
+3 0 16385
+0 0 0
+1000 20 20 ' '
+10 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101645
+magna sword~
+#PMagna #LSword#n~
+Magna's Sword lies here.  Good luck using it :-P.~
+~
+5 16392 8192
+0 0 65536
+208 50000 60000 1
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101646
+magna armor~
+#PMagna #LArmor#n~
+Magna's Armor is here.  Good luck using it :-P.~
+~
+9 16392 0
+0 0 65536
+0 0 0 0
+0 0 0
+A
+1 50
+A
+2 50
+A
+3 50
+A
+4 50
+A
+5 50
+A
+17 -30000
+A
+17 -30000
+A
+17 -30000
+A
+17 -30000
+A
+17 -30000
+A
+17 -30000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101647
+qp quest token~
+a 1000 quest token~
+A 1000 quest point token lies here.~
+~
+33 0 1
+0 0 0
+1000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101648
+the couch~
+#lThe #CCouch#n~
+For when Mari get's angry :-).~
+~
+12 0 1
+0 0 0
+1 1000 0 0
+10 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101649
+beer keg~
+#oBeer #lKeg#n~
+A beer keg is sitting here, chug!~
+~
+25 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101650
+sign of a loser stupid~
+#ySign #Cof #Ra #oLoser#n~
+A big sign that says "I'm with stupid" is here.~
+~
+9 0 131073
+0 0 0
+0 0 0 0
+1 1 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101651
+lemon pie~
+#yLemon #oPie#n~
+A lemon pie is here.~
+~
+19 0 1
+0 0 0
+0 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101652
+blueberry pie~
+#LBlueberry #oPie#n~
+A blueberry pie is here.~
+~
+19 0 1
+0 0 0
+0 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#101600
+#L// #rGateway to Mage Knight #L\\#n~
+#gWelcome to the Mage Knight Area!
+Have fun and proceed with caution!
+Area By #lMagna#g.#n
+~
+0 4 0
+D0
+~
+~
+0 0 101601
+S
+#101601
+#gForest Road#n~
+There is a dirt path here, leading outwards from a cottage to the north and
+spiraling east.  There seems to be very few marks on the road, but several
+fresh hoof prints give the indication that someone passed by not to long ago.
+~
+0 0 3
+D0
+~
+~
+0 0 101603
+D1
+~
+~
+0 0 101602
+D2
+~
+~
+0 0 101600
+S
+#101602
+#GPath to the League Village#n~
+You continue down the serene forest path, observing the natural wildlife.
+Overhead a a brightly colored bird sings melodically, while others begin
+to answer it's calls.  Giant foot prints along with hoof marks begin to
+appear more frequently as you head east.
+~
+0 0 3
+D1
+~
+~
+0 0 101608
+D3
+~
+~
+0 0 101601
+S
+#101603
+#y Inside a Musty Cottage #n~
+The cottage is filled with dust as well as the smell of the elderly.  A
+single rocking chair sits near the wall across from a wood-burning stove.
+A pile of straw is placed mysteriously in the corner.
+~
+0 8 0
+E
+straw~
+Lying beneath the straw you notice a hidden panel!
+-
+~
+D0
+~
+~
+0 0 101604
+D2
+~
+~
+0 0 101601
+D5
+~
+panel~
+3 0 101605
+S
+#101604
+#yBackroom of a Musty Cottage #n~
+The dust is even thicker back here, stinging at your eyes continuosly.  Two
+small cots lie in the corner directly under a window.  There also seems to
+be a cabinet full of herbs place in the middle of the wall.  The sparse
+decoration almost makes the place feel like home...
+~
+0 8 0
+D2
+~
+~
+0 0 101603
+S
+#101605
+#yHidden Basement#n~
+This basement seems entirely empty, though you hear noises coming from the
+northernmost end.
+~
+0 8 0
+D0
+~
+~
+0 0 101606
+D2
+~
+~
+0 0 101607
+D4
+~
+panel~
+3 0 101603
+S
+#101606
+#yHidden Basement #n~
+You get an eerie feeling as you explore this portion of the basement.  The
+musty scent has given way to the rich smell of wet earth.  Suddenly the
+floor begins to shake...
+~
+0 8 0
+D2
+~
+~
+0 0 101605
+S
+#101607
+#yHidden Basement#n~
+This basement seems entirely empty.
+~
+0 8 0
+D0
+~
+~
+0 0 101605
+S
+#101608
+#GPath to the League Village#n~
+You continue down the serene forest path, observing the natural wildlife.
+Overhead a a brightly colored bird sings melodically, while others begin
+to answer it's calls.  The path bends towards the north where a large
+gateway becomes visible.
+~
+0 0 3
+D0
+~
+~
+0 0 101609
+D3
+~
+~
+0 0 101602
+S
+#101609
+#GGate to the League Village#n~
+You stand before a large wooden gateway, thrusting into the sky nearly 30
+feet. The elven guards stand silently to either side of the gate, staring
+blankly. You notice the winch that opens the gate and get to work, seeing
+as the guards refuse to acknowledge your existence, yet alone help you.
+~
+0 0 3
+D0
+~
+gate~
+3 0 101610
+D2
+~
+~
+0 0 101608
+S
+#101610
+#gOak #7and #yPine#n~
+You stand on one of the main streets of the Elemental League Village.  To
+the south stands a gateway back into the forest.  To your west you can see a
+vine covered stone building, with a sign that says "Professional Elemancer".
+The road continues to the east and north.  
+~
+0 0 1
+D0
+~
+~
+0 0 101612
+D1
+~
+~
+0 0 101613
+D2
+~
+~
+3 0 101609
+D3
+~
+~
+0 0 101611
+S
+#101611
+#GElementalist Shop#n~
+This shop seems to be a more a garden than a building.  Vines twist
+across the walls and furnitures, vegetables sprout from the floors, Huge
+trees sit in the corner blinking at you.
+ 
+Wait a minute.
+ 
+~
+0 8 0
+D1
+~
+~
+0 0 101610
+S
+#101612
+#gOak #7Street#n~
+You stand on one of the main streets of the Elemental League Village. 
+There is a stone wall to your east.  The road continues to the north and
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 101617
+D2
+~
+~
+0 0 101610
+S
+#101613
+#yPine #7Street#n~
+You stand on one of the main streets of the Elemental League Village. 
+There is little worth noting here.  The road continues to the east and west.
+~
+0 0 1
+D1
+~
+~
+0 0 101614
+D3
+~
+~
+0 0 101610
+S
+#101614
+#GSpruce #7and #yPine#n~
+You stand on one of the main streets of the Elemental League Village.  To
+the east you see a wide stone building.  To the south is a field covered in
+vines.  The road continues to the west and north.  
+~
+0 0 1
+D0
+~
+~
+0 0 101615
+D1
+~
+~
+0 0 101626
+D2
+~
+vines~
+3 0 101627
+D3
+~
+~
+0 0 101613
+S
+#101615
+#GSpruce #7Street#n~
+You stand on one of the main streets of the Elemental Leage Village.  To
+the west you can see the High Priestesses Shrine.  The road continues to the
+north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 101621
+D2
+~
+~
+0 0 101614
+D3
+~
+~
+0 0 101616
+S
+#101616
+Holy Shrine~
+This is the shrine of High Priestess Rowan.  Apparently she's spared no
+expense.  Valuable tapestries cover the walls, incense burns constantly in
+half a dozen candle holders.  What a greedy @$&%# !  
+~
+0 8 0
+D1
+~
+~
+0 0 101615
+S
+#101617
+#gOak #7and #oMaple#n~
+You stand on one of the main streets of the Elemental League Village.  To
+the west you see a large iron gate.  The road continues to the east and
+south.  
+~
+0 0 1
+D1
+~
+~
+0 0 101619
+D2
+~
+~
+0 0 101612
+D3
+~
+~
+0 0 101618
+S
+#101618
+#CWest Gate#n~
+You are in front of a huge iron gate.  There are no guards nearby, but
+you get the feeling that guards aren't needed as evidenced by the huge
+electrical sparks that occasional dance along the gate's metal surface.  To
+the east you see a busy road in the elemental league village.  
+~
+0 4 1
+D1
+~
+~
+0 0 101617
+S
+#101619
+#oMaple #7Street#n~
+You stand on one of the main streets of the Elemental League Village.  To
+the north you can see a large barracks with a large trolls head sign near
+the door.  To the south is a stone wall.  The road continues to the west and
+east.  
+~
+0 0 1
+D0
+~
+~
+0 0 101620
+D1
+~
+~
+0 0 101621
+D3
+~
+~
+0 0 101617
+S
+#101620
+#PInside the Troll Barracks#n~
+Ergghh, this place smells of...  Trolls.  The stone walled barracks are
+empty except for the few cots littering the floor.  
+~
+0 8 0
+D2
+~
+~
+0 0 101619
+D3
+~
+~
+0 0 101622
+S
+#101621
+#GSpruce #7and #oMaple#n~
+You stand on one of the main streets of the Elemental League Village.  To
+the north is a long winding road leading away from the village.  To the east
+you can see a large temple rising several stories.  The road continues to
+the west and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 101630
+D1
+~
+~
+0 0 101623
+D2
+~
+~
+0 0 101615
+D3
+~
+~
+0 0 101619
+S
+#101622
+#PInside the Troll Barracks#n~
+Ergghh, this place smells of...  Trolls.  The stone walled barracks are
+empty except for the few cots littering the floor.  There even looks to be a
+small trollish shrine pushed against the far wall.  
+~
+0 8 0
+D1
+~
+~
+0 0 101620
+S
+#101623
+#yTemplar Station#n~
+You are in the entrance parlor of the Templar Station.  The embassy is
+well guarded, and members of both the Elemental League and the Knights
+Immortal pass by in large numbers.  There is a closed door to the south with
+a small plaque hanging next to it.  
+~
+0 8 0
+E
+plaque~
+The plaque reads "Knights Immortal Only"
+~
+D2
+~
+door~
+3 0 101624
+D3
+~
+~
+0 0 101621
+S
+#101624
+#yTemplar Station#n~
+This hallway has a much different appearance than the entrance hall.  The
+stone walls are smooth, not segemented into blocks.  Floating balls of light
+replace the rows of torches.  You get the feeling that your not supposed to
+be in here.  
+~
+0 8 0
+D0
+~
+door~
+3 0 101623
+D1
+~
+~
+0 0 101625
+S
+#101625
+#yTemplar Station#n~
+A group of Knights Immortal warriors stand in a circle here, chanting in
+a foreign language.  These guys are really starting to creep you out.  
+~
+0 8 0
+D3
+~
+~
+0 0 101624
+S
+#101626
+#cCentaur Stables#n~
+This place smells like an outhouse, which it partially is.  This is a
+place for young centaurs to meet, talk, and...  Do other things.  You're
+really starting to feel uncomfortable here.  
+~
+0 8 0
+D3
+~
+~
+0 0 101614
+S
+#101627
+#lRanger Training Grounds#n~
+Trees and vines make this a perfect place to train new rangers in the
+arts of stealth.  You get the eerie feeling that you're being watched...  
+~
+0 0 0
+D0
+~
+vines~
+3 0 101614
+D1
+~
+~
+0 0 101629
+D2
+~
+~
+0 0 101628
+S
+#101628
+#lRanger Training Grounds#n~
+Trees and vines make this a perfect place to train new rangers in the
+arts of stealth.  You get the eerie feeling that you're being watched...  
+~
+0 0 0
+D0
+~
+~
+0 0 101627
+S
+#101629
+#lRanger Training Grounds#n~
+Trees and vines make this a perfect place to train new rangers in the
+arts of stealth.  You get the eerie feeling that you're being watched...  
+~
+0 0 0
+D3
+~
+~
+0 0 101627
+S
+#101630
+#oNorthern Road#n~
+As you leave the Elemental League village behind the flora becomes less
+dense.  The small trail widens slowly into a wide cobbled road.  To the
+south you can still make out shapes moving in the village.  To the north you
+see what looks to be a castle of some sort.  
+~
+0 4 2
+D0
+~
+~
+0 0 101631
+D2
+~
+~
+0 0 101621
+S
+#101631
+#oNorthern Road#n~
+The large castle to the north looms ever closer as the trail starts to
+wind upwards along the hill.  The village is no longer visible to the south.
+The road seems very barren except for a few occasional passerby's.  
+~
+0 0 2
+D0
+~
+~
+0 0 101632
+D2
+~
+~
+0 0 101630
+S
+#101632
+#oNorthern Road#n~
+As you approach the peak of the hill you notice a large increase in the
+number of people on the road.  Most of them look to be guards on patrol. 
+You wonder how important this castle is.  
+~
+0 0 2
+D0
+~
+~
+0 0 101633
+D2
+~
+~
+0 0 101631
+S
+#101633
+#cBefore a Fortress#n~
+You realize that this is less of a castle than a fortress.  Armed guards
+are everywhere, and on the ramparts you can see yet more figures scurrying
+about and making war preparations.  The hilltop commands a wide view of the
+plains below, and in the distance you can see glowing campfires.  To the
+south is a path leading back to the Elemental League Village.  
+~
+0 0 2
+D0
+~
+gate~
+3 0 101634
+D2
+~
+~
+0 0 101632
+S
+#101634
+#cFortress Entrance#n~
+You are standing inside the entrance foyer of the fortress.  This place is
+obviously made for efficiency and not decor.  The walls are decorated with
+nothing but lanterns, and the tunnels seem optimized for large troop movements.
+The tunnel stretches on almost endlessly to the east and west.
+~
+0 8 0
+D1
+~
+~
+0 0 101645
+D2
+~
+gate~
+3 0 101633
+D3
+~
+~
+0 0 101635
+S
+#101635
+#cFortress Corridor#n~
+As you head west the corridor becomes darker and danker.  A small square
+opening is placed almost every 10 yards just above a catwalk overhead, but
+this helps little since the windows are meant for arrows and not light.  You
+can almost make out some differences in the tunnel to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 101634
+D3
+~
+~
+0 0 101636
+S
+#101636
+#cFortress Corridor#n~
+You turn a corner in the fortress to find corridors much the same as the
+ones you've just left behind.  To the south and west you notice wooden doors
+that nearly blend with the background wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 101637
+D1
+~
+~
+0 0 101635
+D2
+~
+~
+0 0 101647
+D3
+~
+~
+0 0 101646
+S
+#101637
+#cFortress Corridor#n~
+As you pass by you notice a small shadow covered doorway to the west.  A
+dusty bronze plaque in a foreign language is posted on the wall beside it. 
+Other than that this corridor is nothing more than stone floors and walls.  
+~
+0 8 0
+D0
+~
+~
+0 0 101638
+D2
+~
+~
+0 0 101636
+D3
+~
+~
+0 0 101654
+S
+#101638
+#cFortress Corridor#n~
+As you turn this corner you notice that several of the torches are
+extinguished.  You see several shadowy figures stalking eastwards, and you
+begin to get the feeling something is wrong here.  As if to prove you right,
+a bleeding elf creeps out from a dark corner and murmers '#rHelp...  #n'
+before lying still.  
+~
+0 8 0
+E
+elf~
+Torn limb from limb, this guy is a mess...
+~
+D0
+~
+~
+0 0 101677
+D1
+~
+~
+0 0 101639
+D2
+~
+~
+0 0 101637
+D3
+~
+~
+0 0 101653
+S
+#101639
+#cFortress Corridor#n~
+There is definitely something going on here.  To the north a huge hole
+has been blasted in the wall, where you expect there once stood a doorway. 
+Inhuman sounds come from all around you, and dead elves litter the floor. 
+You hear the clash of weaponry to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 101652
+D1
+~
+~
+65536 0 101640
+D3
+~
+~
+0 0 101638
+S
+#101640
+Fortress Corridor~
+~
+0 8 0
+D1
+~
+~
+0 0 101641
+D2
+~
+~
+0 0 101650
+D3
+~
+~
+65536 0 101639
+S
+#101641
+Fortress Corridor~
+~
+0 8 0
+D1
+~
+~
+0 0 101642
+D3
+~
+~
+0 0 101640
+S
+#101642
+Fortress Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 101674
+D2
+~
+~
+0 0 101643
+D3
+~
+~
+0 0 101641
+S
+#101643
+Fortress Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 101642
+D1
+~
+~
+0 0 101651
+D2
+~
+~
+65600 0 101644
+S
+#101644
+#cFortress Corridor#n~
+You turn a corner in the fortress to find corridors much the same as the
+ones you've just left behind.  To the south and east you notice wooden doors
+that nearly blend with the background wall.  
+~
+0 8 0
+D0
+~
+~
+65600 0 101643
+D1
+~
+~
+0 0 101649
+D2
+~
+~
+0 0 101648
+D3
+~
+~
+0 0 101645
+S
+#101645
+#cFortress Corridor#n~
+As you head east the corridor becomes darker and danker.  A small square
+opening is placed almost every 10 yards just above a catwalk overhead, but
+this helps little since the windows are meant for arrows and not light.  You
+can almost make out some differences in the tunnel to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 101644
+D3
+~
+~
+0 0 101634
+S
+#101646
+#LElf Barracks#n~
+You are inside a wide, low ceiling barracks.  Elves loiter everywhere,
+some sleeping, some playing cards.  These guys seem a lot chummier than the
+ones who are on duty.  
+~
+0 8 0
+D1
+~
+~
+0 0 101636
+S
+#101647
+#LElf Barracks#n~
+You are inside a wide, low ceiling barracks.  Elves loiter everywhere,
+some sleeping, some playing cards.  These guys seem a lot chummier than the
+ones who are on duty.  
+~
+0 8 0
+D0
+~
+~
+0 0 101636
+S
+#101648
+#gPrivate Quarters#n~
+This seems to be the private quarters for on the fortresses liege
+knights.  Right now the room appears empty, but their is an eery clawing
+sound coming from below the wooden floor boards...  
+~
+0 8 0
+D0
+~
+~
+0 0 101644
+S
+#101649
+#CArcher Barracks#n~
+A group of female archers in see-through nightgowns are here gathered
+around a diary, giggling.  Their bows are stacked in the corner, as well as
+the rest of their clothing.  You take a moment to enjoy the scenery...  
+~
+0 8 0
+D3
+~
+~
+0 0 101644
+S
+#101650
+Before a Large Staircase~
+~
+0 8 0
+D0
+~
+~
+0 0 101640
+D4
+~
+~
+0 0 101656
+S
+#101651
+Eastern Gate~
+~
+0 8 0
+D1
+~
+~
+0 0 101660
+D3
+~
+~
+0 0 101643
+S
+#101652
+#0Entrance to Dungeon#n~
+This seems more of a warzone than the outlying fields.  Undead clash with
+elves and alarms sound.  You hear rifles firing down below.  In the heart of
+the chaos you hear someone screaming #r"Fickett Townley!  He's escaping!"
+~
+0 8 0
+D2
+~
+~
+0 0 101639
+D5
+~
+~
+0 0 101687
+S
+#101653
+#LPikeman Barracks#n~
+This spacious and comfortable room seems to be the royal pikemen's
+barracks.  The conditions here seem almost regal, a far cry from the
+barracks of the elven footsoldiers.  A few pikemen are lounging around,
+playing chess.  You get the feeling these guys don't have much of a life.  
+~
+0 8 0
+D1
+~
+~
+0 0 101638
+S
+#101654
+#yBrightly Lit Passage#n~
+As you pass through the door your surroundings change immensely.  The
+walls in this hallway seem to be made of solid ivory, pure white and
+flawless.  Magical lights hang from the ceiling, illuminating the area. 
+Guards stand at the ready, watching you closely.  
+~
+0 8 0
+D1
+~
+~
+0 0 101637
+D3
+~
+~
+0 0 101655
+S
+#101655
+#yKnights #sI#sm#sm#so#sr#st#sa#sl #yTemple#n~
+This miniature temple seems to be dedicated solely to the worship of the
+Templar Blademasters, as evidenced by it's sole contents: 3 large statuettes
+of elven warriors in a combat position.  A single large crystal globe hangs
+from the ceiling, showering the room with magical light.  
+~
+0 8 0
+D1
+~
+~
+0 0 101654
+S
+#101656
+Entrance Hall~
+~
+0 8 0
+D0
+~
+~
+0 0 101657
+D1
+~
+~
+0 0 101658
+D5
+~
+~
+0 0 101650
+S
+#101657
+Throne Room~
+~
+0 8 0
+D2
+~
+~
+0 0 101656
+S
+#101658
+Royal Chambers~
+~
+0 8 0
+D2
+~
+~
+0 0 101659
+D3
+~
+~
+0 0 101656
+S
+#101659
+Royal Chambers~
+~
+0 8 0
+D0
+~
+~
+0 0 101658
+S
+#101660
+Training Yard~
+~
+0 0 2
+D0
+~
+~
+0 0 101663
+D3
+~
+~
+0 0 101651
+S
+#101661
+Training Yard~
+~
+0 0 2
+D1
+~
+~
+0 0 101662
+S
+#101662
+Training Yard~
+~
+0 0 2
+D1
+~
+~
+0 0 101665
+D2
+~
+~
+0 0 101668
+S
+#101663
+Training Yard~
+~
+0 0 2
+D0
+~
+~
+0 0 101666
+D2
+~
+~
+0 0 101660
+S
+#101664
+#nClosed~
+~
+0 147873798 0
+S
+#101665
+Training Yard~
+~
+0 0 2
+D3
+~
+~
+0 0 101662
+S
+#101666
+Training Yard~
+~
+0 0 2
+D1
+~
+~
+0 0 101667
+D2
+~
+~
+0 0 101663
+S
+#101667
+Training Yard~
+~
+0 0 2
+D0
+~
+~
+0 0 101670
+D3
+~
+~
+0 0 101666
+S
+#101668
+Training Yard~
+~
+0 0 2
+D0
+~
+~
+0 0 101662
+S
+#101669
+#s911 #sM#se#sm#so#sr#si#sa#sl#n~
+#s*#0................#sIn Memory#0................#s*#n
+#s*#0............#sOf those who died#0............#s*#n
+#s*#0................#sOn #s9#s/#s11#s/#s01#0...............#s*#n
+#s*#0..#sIn Inhumanly Cruel Terrorist Attacks#0...#s*#n
+#s*#0....#sUpon the United States of America#0....#s*#n
+ 
+  A puddle of tears has been left here by the
+      family and friends of this tragedy.
+ 
+n
+~
+0 1036 0
+D5
+~
+~
+0 0 3014
+S
+#101670
+Training Yard~
+~
+0 0 2
+D1
+~
+~
+0 0 101671
+D2
+~
+~
+0 0 101667
+S
+#101671
+Training Yard~
+~
+0 0 2
+D1
+~
+~
+0 0 101672
+D3
+~
+~
+0 0 101670
+S
+#101672
+Weapons Shack~
+~
+0 8 0
+D2
+~
+~
+0 0 101673
+D3
+~
+~
+0 0 101671
+S
+#101673
+Weapons Shack~
+~
+0 8 0
+D0
+~
+~
+0 0 101672
+D5
+~
+~
+0 0 101699
+S
+#101674
+Staircase, Lower Level~
+~
+0 8 0
+D2
+~
+~
+0 0 101642
+D4
+~
+~
+0 0 101675
+S
+#101675
+Ascending a Staircase~
+~
+0 8 0
+D4
+~
+~
+0 0 101676
+D5
+~
+~
+0 0 101674
+S
+#101676
+Staircase, Upper Level~
+~
+0 8 0
+D3
+~
+~
+0 0 101682
+D5
+~
+~
+0 0 101675
+S
+#101677
+#oStaircase, Lower Level#n~
+You stand at the bottom of a very narrow staircase, leading up to the
+catwalk.  You're going to have to conquer your fear of heights to go up
+there...  
+~
+0 8 0
+D2
+~
+~
+0 0 101638
+D4
+~
+~
+65536 0 101678
+S
+#101678
+Ascending a Staircase~
+~
+0 8 0
+D4
+~
+~
+0 0 101679
+D5
+~
+~
+65536 0 101677
+S
+#101679
+Staircase, Upper Level~
+~
+0 8 0
+D1
+~
+~
+0 0 101680
+D5
+~
+~
+0 0 101678
+S
+#101680
+Castle Catwalk~
+~
+0 0 0
+D1
+~
+~
+0 0 101681
+D3
+~
+~
+0 0 101679
+S
+#101681
+Castle Catwalk~
+~
+0 0 0
+D1
+~
+~
+0 0 101682
+D2
+~
+~
+0 0 101683
+D3
+~
+~
+0 0 101680
+S
+#101682
+Castle Catwalk~
+~
+0 0 0
+D1
+~
+~
+0 0 101676
+D3
+~
+~
+0 0 101681
+S
+#101683
+Ammo Room~
+~
+0 8 0
+D0
+~
+~
+0 0 101681
+D3
+~
+~
+0 0 101684
+S
+#101684
+Ammo Room~
+~
+0 8 0
+D1
+~
+~
+0 0 101683
+S
+#101685
+#0Prison Corridor #n~
+Sparsely placed torches are the only thing lighting your way here, yet
+you can see quite easily because of the numerous flashes coming from the
+muzzles of a few Black Powder Rebels.  Apparently the different prisoner
+factions are trying to decide who gets to escape first...  
+~
+0 8 0
+D2
+~
+~
+0 0 101686
+D4
+~
+~
+0 0 101687
+S
+#101686
+#0Prison Office#n~
+The prisons office is nothing more than a small desk and chair placed in
+the corner.  The prison keepers corpse lies splayed on the floor, dry and
+shriveled.  You notice that he is holding a note in his hand, but the prison
+keys are missing.  
+~
+0 8 0
+E
+note~
+#rGeraldo....Draconu....helpi....Fic....Ley....scape.
+~
+D0
+~
+~
+0 0 101685
+D1
+~
+~
+0 0 101688
+S
+#101687
+#oDescending a Staircase#n~
+The sound of rifles can still be heard dully in the distance, coming from
+the depths of this basement.  You are eager to get to the source of the
+sounds, but tread carefully as the stairway crumbles beneath your feet.  The
+light from above begins to fade as you descend ever farther downwards.  
+~
+0 8 0
+D4
+~
+~
+0 0 101652
+D5
+~
+~
+0 0 101685
+S
+#101688
+#0Prison Corridor#n~
+On either side of the corridor is a solid iron door with a tiny square
+window.  There are scratch marks on both doors, as if someone was trying to
+get in.  You hear whimpering coming from inside the northern cell.  On the
+southern cell is posted a diamond shaped brass plaque.  The passage
+continues to the east.  
+~
+0 8 0
+E
+plaque~
+#rMagna's Office#n
+#PWeird #lAl #PYankovich#n
+#PPlayer #lRelations#n
+#gDraconum#n
+#RDO NOT ENTER#n
+#yBeware of Security Guards#n
+~
+D0
+~
+door~
+103 101627 101690
+D1
+~
+~
+0 0 101691
+D3
+~
+~
+0 0 101686
+S
+#101689
+#PM#pagna's #LO#lffice#n~
+You are in Magna's Office.  Beanie-babies line the walls, staring at you eerily.
+Puppies, both dead and living are attached to torture devices spread through the room.
+There is a door on the ceiling which you can't seem to reach.  On it hangs a plaque.
+~
+0 1242587150 0
+E
+plaque~
+#REmployees ONLY#n
+#CPlease#c: #CN#cO #CS#cMOKING #y(#rNot even when set on fire#y)#n
+#PF#pair #LA#lnd #PB#palanced#n
+~
+S
+#101690
+#0Prison Cell#n~
+You are inside a musty prison cell.  Cobwebs hang in the corners and a
+swarm of different bug species covers the floor.  There is no toilet, and
+the area smells of fecal matter.  You better get out of here before you
+throw up...  
+~
+0 8 0
+D2
+~
+door~
+103 0 101688
+S
+#101691
+#0Prison Corridor#n~
+The hallway ends here with 2 more cells on each side, the northern one
+suspiciously open.  You notice the lock is broken and expect this is where
+the intruders are coming from.  
+~
+0 8 0
+D0
+~
+door~
+101 101627 101693
+D2
+~
+door~
+101 101627 101692
+D3
+~
+~
+0 0 101688
+S
+#101692
+#0Prison Cell#n~
+You are inside a musty prison cell.  Cobwebs hang in the corners and a
+swarm of different bug species covers the floor.  There is no toilet, and
+the area smells of fecal matter.  You better get out of here before you
+throw up...  
+~
+0 8 0
+D0
+~
+door~
+101 0 101691
+S
+#101693
+#0Prison Cell#n~
+You gaze in wonder at what you thought would be another prison cell.  The
+dust from the walls is completely washed out, leaving behind solid sheets of
+obsidian black rock.  A magical light hangs from the ceiling, and it seems
+someone has dug a tunnel to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 101694
+D2
+~
+door~
+101 0 101691
+S
+#101694
+#oCave Tunnel#n~
+This tunnel, though freshly dug, seems to be perfectly rectangular in
+shape.  You wonder what type of beast has such skill at digging.  There are
+no lights here, and the path descends into darkness towards the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 101695
+D3
+~
+~
+0 0 101693
+S
+#101695
+#oCave Tunnel#n~
+A sewage eruption seems to have ruined the perfectly rectangular
+structure in this spot.  You try your best to trek over the muddy floor but
+can't seem to keep moving.  It's almost as if something is grabbing at your
+ankles...  
+~
+0 8 0
+D0
+~
+~
+0 0 101696
+D2
+~
+~
+0 0 101694
+S
+#101696
+#oCave Tunnel#n~
+The tunnel seems to have cleared into dry grainy walls once more. 
+Makeshift wooden pillars reinforce the dug in structure here, keeping the
+sandy dirt roof from collapsing.  Sounds of busy excavation can be heard to
+the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 101698
+D2
+~
+~
+0 0 101695
+D3
+~
+~
+0 0 101697
+S
+#101697
+Prisoner's Headquarters~
+~
+0 8 0
+D1
+~
+~
+0 0 101696
+S
+#101698
+Cave Tunnel~
+~
+0 8 0
+D2
+~
+~
+0 0 101699
+D3
+~
+~
+0 0 101696
+S
+#101699
+Cave Tunnel~
+~
+0 8 0
+D0
+~
+~
+0 0 101698
+D4
+~
+~
+0 0 101673
+S
+#0
+
+
+
+#SPECIALS
+M 101600 spec_guard
+M 101602 spec_cast_cleric
+M 101604 spec_guard
+M 101606 spec_guard
+M 101635 spec_guard
+M 101642 spec_guard
+M 101660 spec_cast_mage
+M 101661 spec_zombie_lord
+M 101670 spec_sorceror
+M 101671 spec_sorceror
+M 101681 spec_parasite
+M 101690 spec_guard_kingdom6
+M 101699 spec_slotmachine
+S
+
+
+
+#RESETS
+M 0 101600 3 101601
+E 0 101600 0 16
+M 0 101600 3 101601
+E 0 101600 0 16
+M 0 101600 3 101602
+E 0 101600 0 16
+M 0 101604 1 101602
+E 0 101604 0 16
+E 0 101605 0 6
+M 0 101601 1 101603
+E 0 101601 0 16
+E 0 101602 0 5
+M 0 101602 1 101604
+E 0 101603 0 16
+M 0 101603 1 101606
+M 0 101605 2 101608
+E 0 101600 0 16
+M 0 101605 2 101608
+E 0 101600 0 16
+M 0 101606 2 101609
+E 0 101606 0 16
+M 0 101606 2 101609
+E 0 101606 0 16
+M 0 101607 12 101610
+E 0 101610 0 16
+M 0 101607 12 101610
+E 0 101610 0 16
+M 0 101608 12 101610
+E 0 101606 0 16
+M 0 101608 12 101610
+E 0 101606 0 16
+M 0 101608 12 101610
+E 0 101606 0 16
+M 0 101609 1 101611
+E 0 101607 0 16
+M 0 101610 3 101611
+M 0 101610 3 101611
+M 0 101610 3 101611
+M 0 101611 2 101611
+M 0 101611 2 101611
+M 0 101607 12 101612
+E 0 101610 0 16
+M 0 101608 12 101613
+E 0 101606 0 16
+M 0 101607 12 101614
+E 0 101610 0 16
+M 0 101607 12 101614
+E 0 101610 0 16
+M 0 101608 12 101614
+E 0 101606 0 16
+M 0 101608 12 101614
+E 0 101606 0 16
+M 0 101608 12 101614
+E 0 101606 0 16
+M 0 101607 12 101615
+E 0 101610 0 16
+M 0 101615 1 101616
+E 0 101611 0 16
+M 0 101616 1 101616
+E 0 101606 0 16
+E 0 101613 0 13
+M 0 101608 12 101617
+E 0 101606 0 16
+M 0 101608 12 101617
+E 0 101606 0 16
+M 0 101607 12 101617
+E 0 101610 0 16
+M 0 101607 12 101617
+E 0 101610 0 16
+M 0 101607 12 101617
+E 0 101610 0 16
+M 0 101608 12 101619
+E 0 101606 0 16
+M 0 101612 7 101620
+E 0 101609 0 16
+M 0 101612 7 101620
+E 0 101609 0 16
+M 0 101612 7 101620
+E 0 101609 0 16
+M 0 101612 7 101620
+E 0 101609 0 16
+M 0 101613 5 101620
+E 0 101610 0 16
+M 0 101613 5 101620
+E 0 101610 0 16
+M 0 101613 5 101620
+E 0 101610 0 16
+M 0 101608 12 101621
+E 0 101606 0 16
+M 0 101608 12 101621
+E 0 101606 0 16
+M 0 101607 12 101621
+E 0 101610 0 16
+M 0 101607 12 101621
+E 0 101610 0 16
+M 0 101607 12 101621
+E 0 101610 0 16
+M 0 101614 1 101622
+E 0 101612 0 16
+M 0 101612 7 101622
+E 0 101609 0 16
+M 0 101612 7 101622
+E 0 101609 0 16
+M 0 101612 7 101622
+E 0 101609 0 16
+M 0 101613 5 101622
+E 0 101610 0 16
+M 0 101613 5 101622
+E 0 101610 0 16
+M 0 101617 5 101623
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101617 5 101623
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101618 1 101623
+E 0 101614 0 5
+M 0 101619 1 101623
+M 0 101620 1 101623
+E 0 101607 0 16
+M 0 101617 5 101624
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101617 5 101624
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101617 5 101624
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101621 4 101625
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101621 4 101625
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101621 4 101625
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101621 4 101625
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101622 1 101625
+E 0 101614 0 5
+E 0 101616 0 16
+M 0 101623 3 101626
+M 0 101623 3 101626
+M 0 101623 3 101626
+M 0 101624 5 101626
+M 0 101624 5 101626
+M 0 101624 5 101626
+M 0 101624 5 101626
+M 0 101624 5 101626
+M 0 101625 9 101627
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101627
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101627
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101628
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101628
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101628
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101628
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101629
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101625 9 101629
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101626 1 101629
+E 0 101617 0 16
+E 0 101618 0 17
+M 0 101627 8 101631
+E 0 101614 0 5
+E 0 101619 0 16
+M 0 101627 8 101631
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101631
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101632
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101632
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101632
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101633
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101627 8 101633
+E 0 101614 0 5
+E 0 101619 0 16
+E 0 101619 0 17
+M 0 101628 2 101633
+E 0 101614 0 5
+E 0 101620 0 16
+M 0 101628 2 101633
+E 0 101614 0 5
+E 0 101620 0 16
+O 0 101632 0 101638
+M 0 101631 9 101639
+M 0 101631 9 101639
+M 0 101631 9 101639
+M 0 101631 9 101639
+M 0 101632 3 101639
+E 0 101623 0 16
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101646
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101629 16 101647
+M 0 101641 6 101649
+M 0 101641 6 101649
+M 0 101641 6 101649
+M 0 101641 6 101649
+M 0 101641 6 101649
+M 0 101641 6 101649
+M 0 101631 9 101652
+M 0 101632 3 101652
+E 0 101623 0 16
+M 0 101636 4 101652
+M 0 101636 4 101652
+M 0 101636 4 101652
+M 0 101636 4 101652
+M 0 101637 2 101652
+E 0 101625 0 16
+M 0 101635 4 101652
+E 0 101619 0 16
+E 0 101619 0 17
+E 0 101624 0 5
+M 0 101635 4 101652
+E 0 101619 0 16
+E 0 101619 0 17
+E 0 101624 0 5
+M 0 101635 4 101652
+E 0 101619 0 16
+E 0 101619 0 17
+E 0 101624 0 5
+M 0 101635 4 101652
+E 0 101619 0 16
+E 0 101619 0 17
+E 0 101624 0 5
+M 0 101630 5 101653
+M 0 101630 5 101653
+M 0 101630 5 101653
+M 0 101630 5 101653
+M 0 101630 5 101653
+M 0 101633 5 101654
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101633 5 101654
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101633 5 101654
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101633 5 101655
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101633 5 101655
+E 0 101614 0 5
+E 0 101615 0 16
+M 0 101634 1 101655
+E 0 101624 0 5
+E 0 101616 0 16
+O 0 101631 0 101669
+M 0 101639 4 101685
+M 0 101639 4 101685
+M 0 101639 4 101685
+M 0 101639 4 101685
+M 0 101638 3 101685
+E 0 101626 0 16
+M 0 101638 3 101685
+E 0 101626 0 16
+M 0 101638 3 101685
+E 0 101626 0 16
+M 0 101637 2 101685
+E 0 101625 0 16
+M 0 101632 3 101685
+E 0 101623 0 16
+M 0 101631 9 101687
+M 0 101631 9 101687
+M 0 101631 9 101687
+M 0 101631 9 101687
+M 0 101640 3 101688
+E 0 101629 0 16
+M 0 101640 3 101688
+E 0 101629 0 16
+M 0 101640 3 101688
+E 0 101629 0 16
+M 0 101672 4 101689
+M 0 101643 2 101690
+E 0 101630 0 16
+M 0 101643 2 101690
+E 0 101630 0 16
+M 0 101644 1 101692
+E 0 101630 0 16
+M 0 101645 5 101695
+M 0 101645 5 101695
+M 0 101645 5 101695
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

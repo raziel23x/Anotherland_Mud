@@ -1,0 +1,105 @@
+#AREADATA
+Name        Deepwater~
+Builders    Tanaka~
+VNUMs       102200 102499
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#102200
+#0The Entrance to #CDeep#cwater#n~
+~
+0 4 0
+D5
+~
+~
+0 0 102201
+S
+#102201
+#0Off into the great #LB#Clu#Le S#Ce#La#n~
+In all directions the Sea runs, filled with life. 
+North-The Reef
+South-The Sunken Ship
+East-The Marina
+West-The Deep, Dark Ocean
+~
+0 536870912 0
+D0
+~
+~
+0 0 102202
+D4
+~
+~
+0 0 102200
+S
+#102202
+#0The #CCo#nra#Cl #LR#Cee#Lf#n~
+The reef, is brimming with life, from the smallest sea erchin, to the Manta Rays. The water here is warn and clear.
+~
+0 0 0
+D0
+~
+~
+0 0 102203
+D2
+~
+~
+0 0 102201
+S
+#102203
+#0The #CCo#nra#Cl #LR#Cee#Lf#n~
+The reef, is brimming with life, from the smallest sea erchin, to the Manta Rays. The water here is warn and clear.
+~
+0 0 0
+D0
+~
+~
+0 0 102204
+D2
+~
+~
+0 0 102202
+S
+#102204
+~
+~
+0 0 0
+D2
+~
+~
+0 0 102203
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

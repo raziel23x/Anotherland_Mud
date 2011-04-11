@@ -1,0 +1,314 @@
+#AREADATA
+Name        Seppuku Kingdom Two~
+Builders    None~
+VNUMs       40100 40199
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40100
+Generic Kingdom Mobile~
+Generic Kingdom Mobile~
+Generic Kingdom Mobile
+~
+~
+65553 0 0 S
+17 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40101
+anarchy healer~
+#7A#0n#7a#0r#7c#0h#7y #0H#7e#0a#7l#0e#7r#n~
+#7A#0n#7a#0r#7c#0h#7y #0H#7e#0a#7l#0e#7r#n stands here
+~
+~
+101379 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40107
+anarchy gate guardian~
+#7A#0n#7a#0r#7c#0h#7Y #0G#7a#0t#7e #0G#7u#0a#7r#0d#7i#0a#7n#0.#n~
+#7A#0n#7a#0r#7c#0h#7Y #0G#7a#0t#7e #0G#7u#0a#7r#0d#7i#0a#7n#0.#n stands here
+~
+~
+101763 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40110
+anarchy healer~
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0e#7a#0l#7e#0r#n~
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0e#7a#0l#7e#0r#n stands here
+~
+~
+101379 524416 3 S
+10007 0 0 50d0+0 0d0+0
+0 0
+0 0 1
+#40111
+anarchy trainer~
+#7A#0n#7a#0r#7c#0h#7Y#n #7T#0r#7a#0i#7n#0e#7r#n ~
+#7A#0n#7a#0r#7c#0h#7Y#n #7T#0r#7a#0i#7n#0e#7r#n stands here waiting to get slapped around for not doing the dishes.
+~
+~
+101763 128 0 S
+36 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#40112
+anarchy guardian~
+#7A#0n#7a#0r#7c#0h#7Y#n #7G#0u#7a#0r#7d#0i#7a#0n#n~
+#7A#0n#7a#0r#7c#0h#7Y#n #7G#0u#7a#0r#7d#0i#7a#0n#n is glaring at you clutching its sword.
+~
+~
+65553 4194456 0 S
+10029 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40100
+grope~
+the storage room~
+#n~
+~
+27 0 0
+0 0 0
+40109 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40101
+grope~
+the Healer's room~
+#n~
+~
+27 0 0
+0 0 0
+40105 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40100
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0a#7l#0l~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40101
+D1
+~
+~
+0 0 40103
+D2
+~
+~
+0 0 40104
+D3
+~
+~
+0 0 40102
+D4
+~
+~
+0 0 40105
+D5
+~
+~
+0 0 40106
+S
+#40101
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0a#7l#0l~
+~
+0 24580 0
+D2
+~
+~
+0 0 40100
+S
+#40102
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0a#7l#0l~
+~
+0 1073156 0
+D1
+~
+~
+0 0 40100
+S
+#40103
+#7A#0n#7a#0r#7c#0h#7Y#n #7T#0r#7a#0i#7n#0i#7n#0g #7R#0o#7o#0m~
+~
+0 1064964 0
+D3
+~
+~
+0 0 40100
+S
+#40104
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0a#7l#0l~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40100
+S
+#40105
+#7A#0n#7a#0r#7c#0h#7Y#n #7H#0e#7a#0l#7e#0r~
+~
+0 1073156 0
+D4
+~
+~
+0 0 40108
+D5
+~
+~
+0 0 40100
+S
+#40106
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 1073152 0
+D2
+~
+~
+0 0 40107
+D4
+~
+~
+0 0 40100
+D5
+~
+~
+0 0 3001
+S
+#40107
+Entrence to #7A#0n#7a#0r#7c#0h#7Y#n~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40106
+S
+#40108
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 135290880 0
+D0
+~
+~
+0 0 40110
+D2
+~
+~
+0 0 40111
+D4
+~
+~
+0 0 40109
+D5
+~
+~
+0 0 40105
+S
+#40109
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 135290880 0
+D3
+~
+~
+0 0 40112
+D5
+~
+~
+0 0 40108
+S
+#40110
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 1073152 0
+D2
+~
+~
+0 0 40108
+S
+#40111
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40108
+S
+#40112
+#7A#0n#7a#0r#7c#0h#7Y #0H#7a#0l#7l#n~
+~
+0 1073152 0
+D1
+~
+~
+0 0 40109
+S
+#0
+
+
+
+#SPECIALS
+M 40100 spec_guard_kingdom2
+M 40101 spec_healer
+M 40110 spec_healer
+M 40112 spec_guard_kingdom2
+S
+
+
+
+#RESETS
+M 0 40112 5 40100
+M 0 40112 5 40100
+M 0 40112 5 40100
+M 0 40112 5 40100
+M 0 40112 5 40100
+M 0 40111 1 40103
+M 0 40110 1 40105
+M 0 40107 1 40107
+M 0 40101 1 40112
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

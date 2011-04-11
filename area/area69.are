@@ -1,0 +1,914 @@
+#AREADATA
+Name        Seppuku Spirit World~
+Builders    Seppuku~
+VNUMs       90000 90099
+Security    9
+Recall      3005
+Flags	      16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#90000
+no name~
+(no short description)~
+(no description)~
+~
+67 0 1
+0 0 0
+0 90001 90002 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90001
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90002
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90003
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90004
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90005
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90006
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90007
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90008
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90009
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90010
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90011
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90012
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90013
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90014
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90015
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90016
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90017
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90018
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90019
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90020
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90021
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90022
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90023
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90024
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90025
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90026
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90027
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90028
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90029
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90030
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90031
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90032
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90033
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90034
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90035
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90036
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90037
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90038
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90039
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90040
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90041
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90042
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90043
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90044
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90045
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90046
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90047
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90048
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90049
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90050
+no name~
+(no short description)~
+(no description)~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#90000
+none~
+~
+0 1048580 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

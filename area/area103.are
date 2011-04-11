@@ -1,0 +1,457 @@
+#AREADATA
+Name        Seppuku Kingdom Three~
+Builders    None~
+VNUMs       40200 40299
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40200
+Huge Garou~
+#7A Huge Garou#n~
+#7A Huge #0G#7arou growls at you.#n
+~
+~
+197649 8388760 0 S
+2043 0 0 0d20+0 0d0+0
+0 0
+0 0 0
+#40201
+elite guard~
+elite guard~
+An elite guard stands here.
+~
+~
+65555 0 0 S
+5009 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40202
+powerful elite guard~
+powerful elite guard~
+A powerful elite guard stands here.
+~
+~
+65555 0 0 S
+5507 0 0 15d20+3 0d0+0
+0 0
+0 0 0
+#40203
+solus training robot~
+#rTraining #0Robot#n~
+#rA #R(-#ySOLUS#R-)#r Training #0Robot#n
+~
+~
+101763 128 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40204
+deadly elite guard~
+#7D#0e#7a#0d#7l#0y #7E#0l#7i#0t#7e #0G#7u#0a#7r#0d#n~
+#gA #7D#0e#7a#0d#7l#0y #7E#0l#7i#0t#7e #0G#7u#0a#7r#0d #gStands Here.#n
+~
+~
+65555 0 0 S
+5988 0 0 30d20+3 0d0+0
+0 0
+0 0 0
+#40205
+solus healer~
+#LCatti Brie #cThe #CHealer#n~
+#LCatti Brie #cThe #CHealer #cof #R(-#ySOLUS#R-)#n
+~
+~
+101635 524416 3 S
+2523 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#40206
+mercenary training dummy~
+#C#0|#cMe#Crc#7e#Cna#cry#0|#C#n Training dummy~
+#C#0|#cMe#Crc#7e#Cna#cry#0|#C#n Training dummy
+~
+~
+101763 128 0 S
+999 0 0 3d7+3 0d0+0
+0 0
+0 0 0
+#40207
+shadow priest~
+#0Shadow Priest#n~
+#0Shadow Priest#n stands before you.
+~
+The priest is surrounded in a aura of darkness
+~
+65539 192 0 S
+50 0 0 50d15+3 0d0+0
+0 0
+0 0 1
+#40296
+Mercenary Guardian~
+#C<#0l#cMe#Crc#7e#Cna#cry#0l#C> Guardian.#n~
+#C<#0l#cMe#Crc#7e#Cna#cry#0l#C> Guardian.#n stands here.
+~
+~
+65553 4194456 0 S
+10003 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#40297
+Mercenary Guardian~
+#C<#0l#cMe#Crc#7e#Cna#cry#0l#C> Guardian.#n~
+#C<#0l#cMe#Crc#7e#Cna#cry#0l#C> Guardian.#n stands here.
+~
+~
+65553 4194456 0 S
+10004 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#40298
+mercenary healer~
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C> Healer#n~
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C> Healer#n stands here healing you.
+~
+~
+101635 524416 3 S
+2538 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#40299
+mercenary guardian~
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C> Guardian.#n~
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C> Guardian#n stands here.
+~
+~
+65553 4194456 0 S
+10006 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40200
+bong blitz~
+a bong and a blitz ~
+A bong and a blitz lay on the floor waiting to be used.... and abused.~
+~
+27 0 0
+0 0 0
+40210 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40201
+smoke Doritos~
+trail of smoke and Doritos~
+Trail of #0smoke#n lingers in the #Lair#n and a half eaten bag #RDoritos#n lie on the floor.~
+~
+27 0 0
+0 0 0
+40207 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40205
+-=Elite=- Healer~
+#R-#r=#yElite#r=#R-#7 Healer#n~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40206
+fear's key~
+#RF#rear's #RK#rey#n~
+A key lay's here.~
+~
+18 1 1
+2 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40208
+Golden Hammock of Dreams~
+#yG#oo#yld#oe#yn #7H#0ammock #cof #CM#0e#7l#co#7d#0y#n~
+#cA #yg#oo#yld#oe#yn hammock, hanging in the t#Gr#ge#7e#c, swings in the #Cb#yr#ce#Ce#yz#ce.#n~
+~
+12 0 0
+0 0 0
+1 4 0 0
+1000 0 0
+E
+rokusha~
+#0/#R-#W=#R-#0/ #CL#coves #CD#ca #0/#R-#W=#R-#0/#n Chicks!
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40209
+throne bong~
+#CSynStalker's #0comfortable Tokin' #yThrone#n~
+#CSynStalker's #0comfortable Tokin' #yThrone#n~
+~
+12 0 0
+0 0 0
+1 1 0 0
+1000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40200
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40201
+D1
+~
+~
+0 0 40203
+D2
+~
+~
+0 0 40202
+D3
+~
+~
+0 0 40204
+D4
+~
+~
+0 0 40205
+D5
+~
+~
+0 0 40206
+S
+#40201
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073156 0
+D2
+~
+~
+0 0 40200
+D4
+~
+~
+0 0 40207
+S
+#40202
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40200
+S
+#40203
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073156 0
+D3
+~
+~
+0 0 40200
+S
+#40204
+Entrance to #C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073156 0
+D1
+~
+~
+0 0 40200
+S
+#40205
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 537944068 0
+D5
+~
+~
+0 0 40200
+S
+#40206
+#C<#0|#cMe#Crc#7e#Cna#cry#0|#C>#n~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40208
+D4
+~
+~
+0 0 40200
+D5
+~
+~
+0 0 3001
+S
+#40207
+#L SynStalkers #sM#si#ss#ss#si#so#sn #sC#so#sn#st#sr#so#sl #sR#so#so#sm#n~
+As you enter the room the sweet smell of #Gkilla kind bud#n fills your nostrils.
+You see a round table surrounded with charts and graphs. In the center of the
+table is a #R3ft. bong#n overflowing with smoke. This is where the #Cmagic
+happens......#n
+~
+0 16388 0
+D0
+~
+~
+0 0 40209
+D5
+~
+~
+0 0 40201
+S
+#40208
+#LR#loo#Lm#n of #CM#0e#7l#co#7d#0i#Cc #GIn#gsa#Gni#gty#n~
+#cAs you walk into the room the first thing you notice is a
+#yg#Gi#ga#Gn#yt #yT#Gr#ge#oe #cGrowing up through the floor.  In the
+#yt#Gr#ge#oe#c, swinging slightly, is a #chammock created from the
+#yg#oo#yld#oe#yn #7s#0i#7l#0k#7s#c of #Ce#0te#7r#cn#0i#7t#Cy#c.  Suddenly
+the wind #cpicks up and changes #sc#so#sl#so#sr#ss#c before your eyes from
+#PMa#pgen#Pta#c, to #GEm#gera#Gld#c, #cto #Ll#la#Lp#li#Ls#c, to #yo#opal#c,
+to #7d#0im#7-whit#7e#c, and finally to #yYellow#c.  The #sc#so#sl#so#sr#ss#c
+seem #cto slowly fade and come back once and again.  Suddenly
+#yp#Pe#oa#Pc#ye#c fills your #Cs#co#Cu#cl as you remain in this room.  #n 
+~
+0 1064964 0
+D2
+~
+~
+0 0 40206
+S
+#40209
+#yH#oa#yp#op#yy #oL#yo#ou#yn#og#ye#n~
+.
+.
+                         #y oooo$$$$$$$$$$$$oooo#n
+#y                      oo$$$$$$$$$$$$$$$$$$$$$$$$o#n
+#y                   oo$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o         o$   $$ o$#n
+#y   o $ oo        o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$o       $$ $$ $$o$#n
+#yoo $ $ "$      o$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$o       $$$o$$o$#n
+#y"$$$$$$o$     o$$$$$$$$$      $$$$$$$$$$$      $$$$$$$$$$o    $$$$$$$$#n
+#y  $$$$$$$    $$$$$$$$$$$      $$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$$#n
+#y  $$$$$$$    $$$$$$$$$$$      $$$$$$$$$$$      $$$$$$$$$$$$$$$$$$$$$$$#n
+#y  $$$$$$$$$$$$$$$$$$$$$$$    $$$$$$$$$$$$$    $$$$$$$$$$$$$$  """$$$#n
+#y   "$$$""""$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     "$$$#n
+#y    $$$   o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$     "$$$o#n
+#y   o$$"   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$       $$$o#n
+#y   $$$    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" "$$$$$$ooooo$$$$o#n
+#y  o$$$oooo$$$$$  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   o$$$$$$$$$$$$$$$$$#n
+#y""""       $$$$    "$$$$$$$$$$$$$$$$$$$$$$$$$$$$"      o$$$#n
+#y            "$$$o     """$$$$$$$$$$$$$$$$$$"$$"         $$$#n
+#y              $$$o          "$$""$$$$$$""""           o$$$#n
+#y               $$$$o                                o$$$"  #n
+#y                "$$$$o      o$$$$$$o"$$$$o        o$$$$    #n
+#y                  "$$$$$oo     ""$$$$o$$$$$o   o$$$$""#n
+#y                     ""$$$$$oooo  "$$$o$$$$$$$$$"""#n
+#y                        ""$$$$$$$oo $$$$$$$$$$#n
+#y                                """"$$$$$$$$$$$#n
+#y                                    $$$$$$$$$$$$#n
+#y                                     $$$$$$$$$$"#n
+#y                                      "$$$""""#n
+~
+0 134234116 0
+D2
+~
+~
+0 0 40207
+S
+#40210
+#CH#ca #7H#Ca #cY#7o#Cu #cC#7a#Cn#c'#7t #CF#ci#7n#Cd #cM#7e#C.#n~
+~
+0 135282692 0
+S
+#0
+
+
+
+#SPECIALS
+M 40200 spec_guard_werewolf
+M 40201 spec_guard_kingdom3
+M 40202 spec_guard_kingdom3
+M 40204 spec_guard_kingdom3
+M 40205 spec_healer
+M 40296 spec_guard_kingdom3
+M 40297 spec_guard_kingdom3
+M 40298 spec_healer
+M 40299 spec_guard_kingdom3
+S
+
+
+
+#RESETS
+M 0 40299 2 40200
+M 0 40206 1 40201
+M 0 40206 2 40203
+M 0 40298 1 40205
+M 0 40296 2 40206
+O 0 40209 0 40207
+O 0 40208 0 40208
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,86 @@
+#AREADATA
+Name        Reaver's Odds~
+Builders    Reaver~
+VNUMs       106000 106099
+Security    9
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#106000
+I have no damn idea~
+The begining of the end of the old
+~
+0 538043918 0
+D0
+~
+~
+0 0 106001
+S
+#106001
+~
+~
+0 537978382 0
+D2
+~
+~
+0 0 106000
+S
+#106002
+~
+~
+0 4 0
+S
+#106003
+~
+~
+0 4 0
+S
+#106004
+~
+~
+0 4 0
+S
+#106005
+~
+~
+0 4 0
+S
+#106006
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

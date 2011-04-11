@@ -1,0 +1,1236 @@
+#AREADATA
+Name        Souljah Souljah Heaven~
+Builders    Souljah~
+VNUMs       100400 100500
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#100401
+Angel Statue~
+An Angel Statue~
+An Angel Statue
+~
+~
+1 0 1000 S
+299 0 0 50d5+1 0d0+0
+0 0
+0 0 0
+#100404
+Water Creature~
+Water Creature~
+The water creature plays and splashes about in the pool.
+~
+~
+17 128 1000 S
+179 0 0 0d18+2 0d0+0
+0 0
+0 0 0
+#100405
+Pure Hearted Soul~
+A Pure Hearted Soul~
+A Pure Hearted Soul wanders around happily.
+~
+~
+1 128 1000 S
+235 0 0 50d15+2 0d0+0
+0 0
+0 0 0
+#100406
+Pure Hearted Spirit~
+A Pure Hearted Spirit~
+A Pure Hearted Spirit floats around happily
+~
+~
+1 524416 1000 S
+318 0 0 -10d20+3 0d0+0
+0 0
+0 0 0
+#100407
+ArchAngel~
+An ArchAngel~
+An ArchAngel keeps the peace here.
+~
+~
+3 0 2000 S
+353 0 0 50d10+2 0d0+0
+0 0
+0 0 0
+#100413
+Grandpa Angelfish~
+Adult Angelfish~
+An Adult Angelfish swims around happily.
+~
+~
+1 128 1200 S
+280 0 0 20d9+1 0d0+0
+0 0
+0 0 0
+#100414
+Baby Angelfish~
+Baby Angelfish~
+A Baby Angelfish swims around happily.
+~
+~
+1 128 1200 S
+54 0 0 0d10+2 0d0+0
+0 0
+0 0 0
+#100445
+Angel~
+Angel~
+Angel
+~
+~
+1 0 1500 S
+247 0 0 40d9+2 0d0+0
+0 0
+0 0 0
+#100446
+Castle Servant~
+Castle Servant~
+Castle Servent
+~
+~
+1 0 1000 S
+182 0 0 40d5+1 0d0+0
+0 0
+0 0 0
+#100448
+King Jophus~
+King Jophus~
+King Jophus
+~
+~
+3 128 3000 S
+403 0 0 50d15+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#100400
+Souljahs Heart~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt#n~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt#n #Lb#le#La#lt#Ls #lf#Lo#lr #GE#gl#Ge#gn#Ga#n~
+~
+5 16643 8193
+0 0 0
+0 30 50 6
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100401
+Souljahs Heart Ring~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt #yS#ot#yu#od#yd#oe#yd #yR#oi#yn#og#n~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt #yS#ot#yu#od#yd#oe#yd #yR#oi#yn#og#n~
+~
+9 16704 3
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100402
+Souljahs Heart Locket~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt #yL#oo#yc#ok#ye#ot#n~
+#RS#ro#Ru#rl#Rj#ra#Rh#rs #RH#re#Ra#rr#Rt #yL#oo#yc#ok#ye#ot#n has a photo of #GE#gl#Ge#gn#Ga#n in it.~
+~
+8 323 5
+0 0 0
+0 0 0 0
+0 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100403
+Crystal Pool~
+pool of Crystal Water.~
+The pool gurgles and bubbles with clear, crystal water.~
+~
+25 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100410
+palm tree~
+a Palm #gT#Gr#ge#Ge#n~
+A Palm #gT#Gr#ge#Ge#n~
+~
+15 0 0
+0 0 0
+100 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100411
+palm tree~
+a Palm #GT#gr#Ge#ge#n~
+A Palm #GT#gr#Ge#ge#n~
+~
+15 0 0
+0 0 0
+100 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100412
+Juicy Red Apple~
+a Juicy Red Apple~
+A Juicy Red Apple~
+~
+19 256 1
+0 0 0
+10 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100413
+X Deck~
+#rX #sD#se#sc#sk#n~
+#rX #sD#se#sc#sk#n~
+~
+15 0 1
+0 0 0
+50 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100414
+Little Halo~
+little Halo~
+A Little Halo emits a gold, humming light.~
+~
+9 1283 17
+0 0 0
+0 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100415
+X Card~
+#RX #sC#sa#sr#sd#n~
+#RX #sc#sa#sr#sd#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100419
+X Tattoo~
+#RX #RT#ra#Rt#rt#Ro#ro#n~
+#RX #RT#ra#Rt#rt#Ro#ro#n~
+~
+9 3 131073
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 5000
+A
+14 5000
+A
+12 5000
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100500
+Grail Innconnu~
+#rG#7rail #rO#7f #rT#7he #RI#rnnconnu#n~
+The #rG#7rail #rO#7f #rT#7he #RI#rnnconnu#n rests here.~
+~
+17 16387 16385
+0 0 0
+100000 100000 13 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100400
+Souljah's Lair.~
+The #0dark#n, stone walls are lined with #rBlood Red#n candles.  The
+ground is a cold stone, though it is covered, in parts, with a thick,
+#ofur-like rug#n.  The celing is high, and holds two large chandeliers.  The
+chandeliers appear to be made of a #obrown wood#n, and they, too, hold
+#rblood red#n candles.  The candles emit a flickering, #rred#n glow.  They
+add to the eerie feeling of the room.  
+~
+0 12591116 0
+S
+#100401
+Gate To Heaven~
+Before you stand a pair of gigantic golden gates. Atop the gates sit statues of Angels, carved from all kinds of Gems and Jewels. The statues look down on you. They seem to glow with a radiant, yet invisable aura.
+~
+0 0 2
+D0
+~
+~
+0 0 100402
+S
+#100402
+Inside The Gate To Heaven~
+The Gates Of Heaven stand proudly in the south.  Angels and ArchAngels
+wander around, as do Spirits and Souls of those of pure heart.  There is a
+golden path leading north and west, and to the east is a small, crystal
+clear pool, with lovely fresh green grass at its edges.  
+~
+0 4 2
+D1
+~
+~
+0 0 100403
+D2
+~
+~
+0 0 100401
+D3
+~
+~
+0 0 100405
+S
+#100403
+Beside The Pool~
+The pool of clear water seems to hum gently.  There are a few childeren
+playing and splashing about in the pool.  
+~
+0 0 2
+D1
+~
+~
+0 0 100404
+D3
+~
+~
+0 0 100402
+S
+#100404
+Middle Of The Pool~
+It seems impossible to sink into this pool against your will.  The clear,
+crystal water seems to listen to your thoughts, and let you float or sink as
+you choose.  The water emits a cool and gentle aura.  Blue and grey
+creatures dart about in the water.  
+~
+0 0 2
+D3
+~
+~
+0 0 100403
+D5
+~
+~
+1048579 0 100413
+S
+#100405
+Along The Golden Path~
+The golden path stretches to the east and the west. Along the path, spirits and souls of the pured hearted can be seen. On either side of the path, trees and plants grow tall and strong in many many colorful gardens.
+~
+0 0 2
+D1
+~
+~
+0 0 100402
+D3
+~
+~
+0 0 100406
+S
+#100406
+Along The Golden Path~
+The golden path stretches to the east and west. To the north and south there are large colorful gardens which can be closely observed by walking along the small gravel paths that surround them.
+~
+0 0 2
+D0
+~
+~
+0 0 100407
+D1
+~
+~
+0 0 100405
+D2
+~
+~
+0 0 100408
+D3
+~
+~
+0 0 100409
+S
+#100407
+#0 Above the golden path#n~
+A small gravel path loops gently around a colorful, peaceful looking
+garden.  In it grow thornless roses and tulips and all kinds of colorful,
+healthy looking flowers.  An ArchAngel patrols this area, making sure no one
+breaks any of the rules.  
+~
+0 0 2
+D2
+~
+~
+0 0 100406
+S
+#100408
+#0Below the golden path#n~
+A small gravel path loops gently around a colorful, peaceful looking garden. In it grow thornless roses and tulips and all kinds of colorful, healthy looking flowers. An ArchAngel patrols this area, making sure no one breaks any of the rules.
+~
+0 0 2
+D0
+~
+~
+0 0 100406
+S
+#100409
+Along The Golden Path~
+The golden path stretches to the east and the west.  Along the path,
+spirits and souls of the pured hearted can be seen.  On either side of the
+path, trees and plants grow tall and strong in many many colorful gardens.  
+~
+0 4 2
+D1
+~
+~
+0 0 100406
+D3
+~
+~
+0 0 100410
+S
+#100410
+A Turn In The Path~
+The golden path turns at a 90 degree angle here. The path leads North and East from this point. To the west there is a magnificent garden, filled with all kinds of lovely colorful plants and flowers.
+~
+0 0 2
+D0
+~
+~
+0 0 100411
+D1
+~
+~
+0 0 100409
+S
+#100411
+Leading Towards A Heavenly Castle~
+The path here narrows slightly.  Immediatly to the north is a huge golden
+castle.  Before the castle are another set of large gates.  On either side
+of the path there are apple trees.  
+~
+0 0 2
+D0
+~
+~
+0 0 100412
+D2
+~
+~
+0 0 100410
+S
+#100412
+The Great Gates~
+The massive golden gates tower above even the largest creatures youve
+ever seen.  They glow and hum with a strange golden mist surrounding them. 
+Beyond the great gates is a massive golden castle.  The castle is surrounded
+by beutiful gardens like no other you have seen.  There are pretty fountains
+around the place from which lovely crystal clear water happily bubbles and
+gurgles along.  
+~
+0 4 2
+D0
+~
+~
+0 0 100416
+D2
+~
+~
+0 0 100411
+S
+#100413
+Secret Waterway~
+The waterway is silent, and yet a strange, soothing music fills your
+head.  Water surrounds you, and the sunlight shimmers gently down from the
+surface, lighting up the area and warming the water.  
+~
+0 4 6
+D0
+~
+~
+0 0 100414
+D4
+~
+~
+1048579 0 100404
+S
+#100414
+Secret Waterway~
+The waterway is silent, and yet a strange, soothing music fills your
+head.  Water surrounds you, and the sunlight shimmers gently down from the
+surface, lighting up the area and warming the water.  
+~
+0 0 6
+D1
+~
+~
+0 0 100415
+D2
+~
+~
+0 0 100413
+S
+#100415
+Secret Waterway~
+The waterway is silent, and yet a strange, soothing music fills your
+head.  Water surrounds you, and the sunlight shimmers gently down from the
+surface, lighting up the area and warming the water.  
+~
+0 0 6
+D3
+~
+~
+0 0 100414
+D4
+~
+~
+0 0 100422
+S
+#100416
+Outer Courtyard~
+This is the The Outer Courtyard of the Heavenly Castle. To the north is the entrance to the castle itself. You are surrounded by beutiful fountains and gardens.
+~
+0 0 2
+D0
+~
+~
+0 0 100417
+D2
+~
+~
+0 0 100412
+S
+#100417
+The Entrance To The Heavenly Castle~
+This is the entrance to the Heavenly Castle.  The door is large and
+carved from stone.  Carved in it are prayers and blessings to the followers
+of the Lord.  Large stone pillars support the high, impressive overhead
+covering.  
+~
+0 0 0
+D0
+~
+~
+3 0 100418
+D2
+~
+~
+0 0 100416
+S
+#100418
+Entrance Hall~
+The entrance hall is magnificent. The walls are covered with awesome tapestries, and golden vases hold beutiful flowers. The celing is high, sitting on huge, round marble pillars. A large, beutiful red carpet stretches across the floor. The hall stretches north, and the door to the south.
+~
+0 0 0
+D0
+~
+~
+0 0 100419
+D2
+~
+~
+3 0 100417
+S
+#100419
+Great Hall~
+The Great Hall is an awesome sight. Golden vases on marble tables how roses and tulips. Paintings and Portraits line the walls. Extravagant carpets and rugs cover the floor. Impressive crystal chandeleirs hang from the celing and light up the whole room. The hall continues to the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 100420
+D2
+~
+~
+0 0 100418
+S
+#100420
+A Fork In The Hall~
+The Great Hall forks out here to the east and west, though it loses none of its marvelous beauty. There is a door to the north leading to the Inner Courtyards.
+~
+0 0 0
+D0
+~
+~
+0 0 100421
+D2
+~
+~
+0 0 100419
+D3
+~
+~
+0 0 100430
+S
+#100421
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold. Everything glows and hums as if it were about to explode in its own beauty. To the north is a lovely pool of crystal water, and to the east and west are more of the inner courtyard. To the south is a door leading to the Great Hall.
+~
+0 0 0
+D0
+~
+~
+0 0 100422
+D1
+~
+~
+0 0 100429
+D2
+~
+~
+0 0 100420
+D3
+~
+~
+0 0 100428
+S
+#100422
+Crystal Pool~
+This is the center of the Inner Courtyard. There is a gorgeous pool of crystal water in the center of the yard. Exits in all directions.
+~
+0 4 0
+D0
+~
+~
+0 0 100423
+D1
+~
+~
+0 0 100425
+D2
+~
+~
+0 0 100421
+D3
+~
+~
+0 0 100424
+D5
+~
+~
+0 0 100415
+S
+#100423
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and
+statues, all carved from gold.  Everything glows and hums as if it were
+about to explode in its own beauty.  To the south is a lovely pool of
+crystal water, and to the east and west are more of the inner courtyard.  To
+the north is a door leading to the Great Hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 100437
+D1
+~
+~
+0 0 100426
+D2
+~
+~
+0 0 100422
+D3
+~
+~
+0 0 100427
+S
+#100424
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty.  To the east is a lovely pool of crystal water, and to the north and south are more of the inner courtyard. To the west is a door leading to the Great Hall.
+~
+0 0 0
+D0
+~
+~
+0 0 100427
+D1
+~
+~
+0 0 100422
+D2
+~
+~
+0 0 100428
+D3
+~
+~
+0 0 100433
+S
+#100425
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty.  To the west is a lovely pool of crystal water, and to the north and south are more of the inner courtyard. To the east is a door leading to the Great Hall.
+~
+0 0 0
+D0
+~
+~
+0 0 100426
+D1
+~
+~
+0 0 100441
+D2
+~
+~
+0 0 100429
+D3
+~
+~
+0 0 100422
+S
+#100426
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty. To the west and south are more of the inner courtyard.
+~
+0 0 0
+D2
+~
+~
+0 0 100425
+D3
+~
+~
+0 0 100423
+S
+#100427
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty. To the east and south are more of the inner courtyard.
+~
+0 0 0
+D1
+~
+~
+0 0 100423
+D2
+~
+~
+0 0 100424
+S
+#100428
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty. To the north and east are more of the inner courtyard.
+~
+0 0 0
+D0
+~
+~
+0 0 100424
+D1
+~
+~
+0 0 100421
+S
+#100429
+Inner Courtyard~
+The Inner Courtyards are covered with awesome looking fountains and statues, all carved from gold.  Everything glows and hums as if it were about to explode in its own beauty. To the north and west are more of the inner courtyard.
+~
+0 0 0
+D0
+~
+~
+0 0 100425
+D3
+~
+~
+0 0 100421
+S
+#100430
+Great Hall~
+The Great Hall is the most amazing thing youve ever seen!  It's so
+beautiful with its red carpets, golden vases, awesome paintings, marble
+walls and crystal chandeleirs!  The hall continues East and West.  
+~
+0 0 0
+D1
+~
+~
+0 0 100420
+D3
+~
+~
+0 0 100431
+S
+#100431
+Great Hall~
+The Great Hall bends here.  Here there are less impressive objects,
+though the room is still eyecatching.  The Hall continues North and East.  
+~
+0 0 0
+D0
+~
+~
+0 0 100432
+D1
+~
+~
+0 0 100430
+S
+#100432
+Western Wing~
+This is the Western Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  
+~
+0 0 0
+D0
+~
+~
+0 0 100433
+D2
+~
+~
+0 0 100431
+S
+#100433
+Western Wing~
+This is the Western Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  There is a door to the east leading to the
+Inner Courtyard.  
+~
+0 0 0
+D0
+~
+~
+0 0 100434
+D1
+~
+~
+0 0 100424
+D2
+~
+~
+0 0 100432
+S
+#100434
+Western Wing~
+This is the Western Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  The hall continues North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 100435
+D2
+~
+~
+0 0 100433
+S
+#100435
+Bend In The Hall.~
+The Great Hall bends here. Here there are less impressive objects, though the room is still eyecatching. The Hall continues South and East. There is a red, velvet carpeted staircase leading upwards.
+~
+0 0 0
+D1
+~
+~
+0 0 100436
+D2
+~
+~
+0 0 100434
+D4
+~
+~
+0 0 100445
+S
+#100436
+Great Hall~
+The Great Hall is the most amazing thing youve ever seen!  It's so
+beautiful with its red carpets, golden vases, awesome paintings, marble
+walls and crystal chandeleirs!  The hall continues East and West.  
+~
+0 0 0
+D1
+~
+~
+0 0 100437
+D3
+~
+~
+0 0 100435
+S
+#100437
+Great Hall~
+The Great Hall leads to the east and west, and holds on to of its
+marvelous beauty.  Carved into the marble wall, here, there is a beautiful
+prayer.  There is a door to the south leading to the Inner Courtyards.  
+~
+0 0 0
+D1
+~
+~
+0 0 100438
+D2
+~
+~
+0 0 100423
+D3
+~
+~
+0 0 100436
+S
+#100438
+Great Hall~
+The Great Hall is the most amazing thing youve ever seen!  It's so
+beautiful with its red carpets, golden vases, awesome paintings, marble
+walls and crystal chandeleirs!  The hall continues East and West.  The sun
+slowly disappears in the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 100439
+D3
+~
+~
+0 0 100437
+S
+#100439
+Bend In The Great Hall~
+The Great Hall bends here.  Here there are less impressive objects,
+though the room is still eyecatching.  The Hall continues South and East. 
+There is a red, velvet carpeted staircase leading upwards.  
+~
+0 0 0
+D2
+~
+~
+0 0 100440
+D3
+~
+~
+0 0 100438
+D4
+~
+~
+0 0 100447
+S
+#100440
+Eastern Wing~
+This is the Eastern Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  The hall continues North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 100439
+D2
+~
+~
+0 0 100441
+S
+#100441
+Eastern Wing~
+This is the Eastern Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  The hall continues North and South.  There
+is a door to the west leading to the Inner Courtyard.  
+~
+0 0 0
+D0
+~
+~
+0 0 100440
+D2
+~
+~
+0 0 100442
+D3
+~
+~
+0 0 100425
+S
+#100442
+Eastern Wing~
+This is the Eastern Wing of the Heavenly Castle.  This area is much more
+plain than the Great Hall except for one feature: The entire hall is made
+from solid gold!  It almost hurts your eyes to look at it!  Everything
+glints and shines in the light.  The hall continues North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 100441
+D2
+~
+~
+0 0 100443
+S
+#100443
+A Bend In The Great Hall~
+The Great Hall bends here.  Here there are less impressive objects,
+though the room is still eyecatching.  The Hall continues North and West.  
+~
+0 0 0
+D0
+~
+~
+0 0 100442
+D3
+~
+~
+0 0 100444
+S
+#100444
+Great Hall~
+The Great Hall is the most amazing thing youve ever seen!  It's so
+beautiful with its red carpets, golden vases, awesome paintings, marble
+walls and crystal chandeleirs!  The hall continues East and West.  
+~
+0 0 0
+D1
+~
+~
+0 0 100443
+D3
+~
+~
+0 0 100420
+S
+#100445
+Glowing Hall~
+The glowing hall is lined with #GJade#n walls.  There is a Red Velvet
+Carpet Staircase leading downwards from here, and the hall continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 100446
+D5
+~
+~
+0 0 100435
+S
+#100446
+Glowing Hall~
+The Glowing #GJade#n Hall is lit by seemingly ever-burning red candles. 
+The Hall stretches to the East and West from here.  To the south is a
+#yradiant#n Throne Room.  
+~
+0 0 0
+D1
+~
+~
+0 0 100447
+D2
+~
+~
+0 0 100448
+D3
+~
+~
+0 0 100445
+S
+#100447
+Glowing Hall~
+The glowing hall is lined with #GJade#n walls.  There is a Red Velvet
+Carpet Staircase leading downwards from here, and the hall continues to the
+West.  
+~
+0 0 0
+D3
+~
+~
+0 0 100446
+D5
+~
+~
+0 0 100439
+S
+#100448
+Throne Room~
+This is the Throne Room.  The walls are made from every type of gem you
+can immagine, theres #RRuby#n and #GEmerald #nand #gJade#n and #LSapphire#n
+and many many others.  In the middle of the room sits a large #ygolden#n
+Throne.  
+~
+0 0 0
+D0
+~
+~
+0 0 100446
+S
+#100450
+UnUsed~
+~
+0 0 0
+D0
+~
+~
+0 0 100451
+S
+#100451
+UnUsed~
+~
+0 0 0
+D2
+~
+~
+0 0 100450
+S
+#100456
+~
+~
+0 4 0
+S
+#100457
+Glowing Hall~
+The glowing hall is lined with #GJade#n walls.  There is a Red Velvet
+Carpet Staircase leading downwards from here, and the hall continues to the
+east.  
+~
+0 4 0
+S
+#100500
+~
+~
+0 135348230 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 100401 30 100401
+M 0 100404 30 100403
+M 0 100404 25 100404
+M 0 100405 20 100406
+M 0 100406 20 100406
+M 0 100407 3 100407
+M 0 100407 3 100408
+M 0 100414 20 100414
+M 0 100413 20 100414
+E 0 100414 0 6
+P 0 100403 0 1
+M 0 100446 20 100419
+M 0 100445 10 100419
+M 0 100445 20 100422
+M 0 100446 20 100422
+M 0 100445 30 100433
+M 0 100446 30 100433
+M 0 100446 30 100442
+M 0 100445 30 100442
+M 0 100445 20 100446
+M 0 100446 20 100446
+M 0 100448 1 100448
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

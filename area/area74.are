@@ -1,0 +1,47 @@
+#AREADATA
+Name        New area~
+Builders    None~
+VNUMs       7000000 7000100
+Security    1
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#7000000
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

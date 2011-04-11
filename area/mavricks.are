@@ -1,0 +1,64 @@
+#AREADATA
+Name        Mavrick           blah~
+Builders    None~
+VNUMs       200000 200150
+Security    1
+Recall      3001
+Flags	      16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#200000
+ghant~
+#gGhants king sized bed~
+(no description)~
+~
+12 0 1
+0 0 0
+1 20 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#200000
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

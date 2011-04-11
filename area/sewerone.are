@@ -1,0 +1,4389 @@
+#AREADATA
+Name        Dert    Sewer Level One~
+Builders    Dertaherup~
+VNUMs       210101 210399
+Security    1
+Recall      3001
+Flags	      64
+End
+
+
+
+#MOBILES
+#210101
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210102
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210103
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210104
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210105
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210106
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210107
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210108
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210109
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210110
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210111
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210112
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210113
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+1 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210114
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210115
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210116
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210117
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210118
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210119
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210120
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+1 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210121
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210122
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210123
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210124
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210125
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210126
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210127
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210128
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210129
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210130
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210132
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210133
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210141
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210142
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210143
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210144
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210145
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210146
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210147
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210148
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210149
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210150
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210151
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210152
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210153
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210154
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210155
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210156
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210157
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210158
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210159
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210160
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210161
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210162
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210163
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210164
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210165
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210166
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210167
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210168
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210169
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210170
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210171
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210172
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210173
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210174
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210175
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210176
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210177
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210178
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210179
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210180
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210181
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210182
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210183
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210184
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210185
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210186
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210187
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210188
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210189
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210190
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210191
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210192
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210193
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210194
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210195
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210196
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210197
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210198
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210199
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210200
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210201
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210202
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210203
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210204
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210205
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210206
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210207
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210208
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210209
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210210
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210211
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210212
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210213
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210214
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210215
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210216
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210217
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210218
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210219
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210220
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210221
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210222
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210223
+sewer bored stoners~
+#GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n~
+Some #GB#go#Gr#ge#Gd #GS#gt#Go#gn#Ge#gr#Gs#n are exploring.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210224
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210225
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210226
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210227
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210228
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210229
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210230
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210231
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210232
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210233
+sewer aligator~
+An #0A#gl#Gi#og#0a#gt#Go#or#n~
+An #0A#gl#Gi#og#0a#gt#Go#or#n floats in the muck.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210234
+sewer bum pack~
+#RA P#0a#gc#Gk #Ro#0f #RB#0u#gm#Gs#n~
+#RA P#0a#gc#Gc #Ro#0f #RB#0u#gm#Gs#n charge you!
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210235
+sewer giant spider~
+#PA G#0i#pa#gn#Pt S#0p#pi#gd#Pe#0r#n~
+A #PS#0p#pi#gd#Pe#0r#n rests in the center of it's humungous web.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210236
+sewer turtle~
+#GA T#gu#Gr#gt#Gl#ge#n~
+A #GT#gu#Gr#gt#Gl#ge#n is swimming in radioactive goo.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210237
+sewer gremlin~
+A #oG#0r#re#0m#ol#0i#rn#n~
+A #oG#0r#re#0m#ol#0i#rn#n attacks you!
+~
+~
+25 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210238
+sewer hemizibecus gigantus~
+#GH#ge#0m#oi#gz#Gi#gb#0e#oc#gu#Gs G#gi#0g#oa#gn#Gt#gu#0s#n~
+An enormous sewer croc is looking for a way out.
+~
+~
+25 0 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210239
+sewer thief~
+A #0Thief#n~
+A #0thief#n moves through the shadows.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210240
+sewer used condom~
+#7A U#0s#7e#0d #7C#0o#7n#0d#7o#0m#n~
+A #7u#0s#7e#0d #7C#0o#7n#0d#7o#0m#n floats by on the sewer sludge.
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210241
+sewer filthy rat~
+#oF#0i#rl#0t#oh#ry #oR#0a#rt#n~
+A #oF#0i#rl#0t#oh#ry #oR#0a#rt#n chews on garbage
+~
+~
+17 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#210101
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210155
+D1
+~
+~
+0 0 210102
+D2
+~
+~
+0 0 210118
+D3
+~
+~
+0 0 210120
+D4
+~
+~
+0 0 3014
+S
+#210102
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210103
+D3
+~
+~
+0 0 210101
+S
+#210103
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210104
+D3
+~
+~
+0 0 210102
+S
+#210104
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210105
+D3
+~
+~
+0 0 210103
+S
+#210105
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210104
+D2
+~
+~
+0 0 210106
+S
+#210106
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210105
+D2
+~
+~
+0 0 210107
+S
+#210107
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210106
+D2
+~
+~
+0 0 210108
+S
+#210108
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210107
+D2
+~
+~
+0 0 210109
+S
+#210109
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210108
+D3
+~
+~
+0 0 210110
+S
+#210110
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210109
+D3
+~
+~
+0 0 210111
+S
+#210111
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210115
+D1
+~
+~
+0 0 210110
+D3
+~
+~
+0 0 210112
+S
+#210112
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210111
+D3
+~
+~
+0 0 210113
+S
+#210113
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210112
+D3
+~
+~
+0 0 210114
+S
+#210114
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210113
+S
+#210115
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210116
+D2
+~
+~
+0 0 210111
+S
+#210116
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210117
+D3
+~
+~
+0 0 210115
+S
+#210117
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210116
+S
+#210118
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210101
+D2
+~
+~
+0 0 210119
+S
+#210119
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210118
+D3
+~
+~
+0 0 210121
+S
+#210120
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210101
+D3
+~
+~
+0 0 210123
+S
+#210121
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210122
+D1
+~
+~
+0 0 210119
+S
+#210122
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210121
+S
+#210123
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210193
+D1
+~
+~
+0 0 210120
+D2
+~
+~
+0 0 210147
+D3
+~
+~
+0 0 210124
+S
+#210124
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210123
+D2
+~
+~
+0 0 210194
+D3
+~
+~
+0 0 210125
+S
+#210125
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210124
+D2
+~
+~
+0 0 210145
+D3
+~
+~
+0 0 210126
+S
+#210126
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210125
+D3
+~
+~
+0 0 210127
+S
+#210127
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210126
+D3
+~
+~
+0 0 210128
+S
+#210128
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210129
+D1
+~
+~
+0 0 210127
+S
+#210129
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210130
+D2
+~
+~
+0 0 210128
+S
+#210130
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210141
+D2
+~
+~
+0 0 210129
+S
+#210141
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210142
+D2
+~
+~
+0 0 210130
+S
+#210142
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210143
+D3
+~
+~
+0 0 210141
+S
+#210143
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210142
+D2
+~
+~
+0 0 210144
+S
+#210144
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210143
+S
+#210145
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210125
+D2
+~
+~
+0 0 210146
+S
+#210146
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210145
+S
+#210147
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210123
+D2
+~
+~
+0 0 210148
+S
+#210148
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210147
+D2
+~
+~
+0 0 210149
+S
+#210149
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210148
+D1
+~
+~
+0 0 210150
+S
+#210150
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210151
+D3
+~
+~
+0 0 210149
+S
+#210151
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210152
+D3
+~
+~
+0 0 210150
+S
+#210152
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210153
+D3
+~
+~
+0 0 210151
+S
+#210153
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210154
+D2
+~
+~
+0 0 210152
+S
+#210154
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210153
+S
+#210155
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210156
+D2
+~
+~
+0 0 210101
+S
+#210156
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210157
+D2
+~
+~
+0 0 210155
+S
+#210157
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210158
+D2
+~
+~
+0 0 210156
+D3
+~
+~
+0 0 210163
+S
+#210158
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210159
+D2
+~
+~
+0 0 210157
+S
+#210159
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210160
+D2
+~
+~
+0 0 210158
+S
+#210160
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210159
+D3
+~
+~
+0 0 210161
+S
+#210161
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210160
+D3
+~
+~
+0 0 210162
+S
+#210162
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210161
+S
+#210163
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210157
+D3
+~
+~
+0 0 210164
+S
+#210164
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210165
+D1
+~
+~
+0 0 210163
+S
+#210165
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210166
+D2
+~
+~
+0 0 210164
+D3
+~
+~
+0 0 210169
+S
+#210166
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210167
+D2
+~
+~
+0 0 210165
+S
+#210167
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210168
+D3
+~
+~
+0 0 210166
+S
+#210168
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210167
+S
+#210169
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210181
+D1
+~
+~
+0 0 210165
+D2
+~
+~
+0 0 210188
+D3
+~
+~
+0 0 210170
+S
+#210170
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210169
+D2
+~
+~
+0 0 210171
+S
+#210171
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210170
+D2
+~
+~
+0 0 210172
+S
+#210172
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210171
+D2
+~
+~
+0 0 210173
+S
+#210173
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210172
+D1
+~
+~
+0 0 210174
+D3
+~
+~
+0 0 210175
+S
+#210174
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D3
+~
+~
+0 0 210173
+S
+#210175
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210176
+D1
+~
+~
+0 0 210173
+S
+#210176
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210177
+D2
+~
+~
+0 0 210175
+S
+#210177
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210178
+D2
+~
+~
+0 0 210176
+S
+#210178
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210179
+D2
+~
+~
+0 0 210177
+S
+#210179
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210180
+D2
+~
+~
+0 0 210178
+S
+#210180
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D3
+~
+~
+0 0 210179
+S
+#210181
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210182
+D2
+~
+~
+0 0 210169
+S
+#210182
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210183
+D2
+~
+~
+0 0 210181
+S
+#210183
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210184
+D2
+~
+~
+0 0 210182
+S
+#210184
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210185
+D3
+~
+~
+0 0 210183
+S
+#210185
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210186
+D3
+~
+~
+0 0 210184
+S
+#210186
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210187
+D3
+~
+~
+0 0 210185
+S
+#210187
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D3
+~
+~
+0 0 210186
+S
+#210188
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210169
+D2
+~
+~
+0 0 210189
+S
+#210189
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210188
+D1
+~
+~
+0 0 210190
+S
+#210190
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210191
+D2
+~
+~
+0 0 210193
+D3
+~
+~
+0 0 210189
+S
+#210191
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210192
+D3
+~
+~
+0 0 210190
+S
+#210192
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210191
+S
+#210193
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210190
+D2
+~
+~
+0 0 210123
+S
+#210194
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210124
+D2
+~
+~
+0 0 210195
+S
+#210195
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210194
+D2
+~
+~
+0 0 210196
+S
+#210196
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210195
+D2
+~
+~
+0 0 210197
+S
+#210197
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210196
+D2
+~
+~
+0 0 210198
+S
+#210198
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210197
+D2
+~
+~
+0 0 210199
+S
+#210199
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210198
+D2
+~
+~
+0 0 210200
+S
+#210200
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210199
+D1
+~
+~
+0 0 210201
+S
+#210201
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210202
+D3
+~
+~
+0 0 210200
+S
+#210202
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210203
+D3
+~
+~
+0 0 210201
+S
+#210203
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210204
+D3
+~
+~
+0 0 210202
+S
+#210204
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210205
+D3
+~
+~
+0 0 210203
+S
+#210205
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210206
+D3
+~
+~
+0 0 210204
+S
+#210206
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210207
+D3
+~
+~
+0 0 210205
+S
+#210207
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210208
+D3
+~
+~
+0 0 210206
+S
+#210208
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210209
+D3
+~
+~
+0 0 210207
+S
+#210209
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210210
+D3
+~
+~
+0 0 210208
+S
+#210210
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210209
+D3
+~
+~
+0 0 210211
+S
+#210211
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210210
+D3
+~
+~
+0 0 210212
+S
+#210212
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210211
+D2
+~
+~
+0 0 210213
+S
+#210213
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210212
+D2
+~
+~
+0 0 210214
+S
+#210214
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210213
+D1
+~
+~
+0 0 210215
+S
+#210215
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210216
+D3
+~
+~
+0 0 210214
+S
+#210216
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210217
+D3
+~
+~
+0 0 210215
+S
+#210217
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210218
+D3
+~
+~
+0 0 210216
+S
+#210218
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210221
+D2
+~
+~
+0 0 210217
+D3
+~
+~
+0 0 210219
+S
+#210219
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210218
+D3
+~
+~
+0 0 210220
+S
+#210220
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210219
+S
+#210221
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210222
+D2
+~
+~
+0 0 210218
+S
+#210222
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210223
+D2
+~
+~
+0 0 210221
+S
+#210223
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210222
+D3
+~
+~
+0 0 210224
+S
+#210224
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210229
+D1
+~
+~
+0 0 210223
+D3
+~
+~
+0 0 210225
+S
+#210225
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210224
+D3
+~
+~
+0 0 210226
+S
+#210226
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210225
+D3
+~
+~
+0 0 210227
+S
+#210227
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210226
+D3
+~
+~
+0 0 210228
+S
+#210228
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210227
+S
+#210229
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210230
+D2
+~
+~
+0 0 210224
+S
+#210230
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210231
+D2
+~
+~
+0 0 210229
+S
+#210231
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210232
+D2
+~
+~
+0 0 210230
+S
+#210232
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210231
+D3
+~
+~
+0 0 210233
+S
+#210233
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210232
+D3
+~
+~
+0 0 210234
+S
+#210234
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210235
+D1
+~
+~
+0 0 210233
+S
+#210235
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210236
+D2
+~
+~
+0 0 210234
+S
+#210236
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210237
+D2
+~
+~
+0 0 210235
+S
+#210237
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D0
+~
+~
+0 0 210238
+D2
+~
+~
+0 0 210236
+S
+#210238
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D2
+~
+~
+0 0 210237
+D3
+~
+~
+0 0 210239
+S
+#210239
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210238
+D3
+~
+~
+0 0 210240
+S
+#210240
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210239
+D3
+~
+~
+0 0 210241
+S
+#210241
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+D1
+~
+~
+0 0 210240
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210101 20 210101
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210102 20 210102
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210103 20 210103
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210104 20 210104
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210105 20 210105
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210106 20 210106
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210107 20 210107
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210108 20 210108
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210109 20 210109
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210110 20 210110
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210111 20 210111
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210112 20 210112
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210113 20 210113
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210114 20 210114
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210115 20 210115
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210116 20 210116
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210117 20 210117
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210118 20 210118
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210119 20 210119
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210120 20 210120
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210121 20 210121
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210122 20 210122
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210123 20 210123
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210124 1 210124
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210125 20 210125
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210126 20 210126
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210127 20 210127
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210128 20 210128
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210129 20 210129
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210130 20 210130
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210141 20 210141
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210142 20 210142
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210143 20 210143
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210144 20 210144
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210145 20 210145
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210146 20 210146
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210147 20 210147
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210148 20 210148
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210149 20 210149
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210150 20 210150
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210151 20 210151
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210152 20 210152
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210153 20 210153
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210154 20 210154
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210155 20 210155
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210156 20 210156
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210157 20 210157
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210158 20 210158
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210159 20 210159
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210160 20 210160
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210161 20 210161
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210162 20 210162
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210163 20 210163
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210164 20 210164
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210165 20 210165
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210166 20 210166
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210167 20 210167
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210168 20 210168
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210169 20 210169
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210170 20 210170
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210171 20 210171
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210172 20 210172
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210173 20 210173
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210174 20 210174
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210175 20 210175
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210176 20 210176
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210177 20 210177
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210178 20 210178
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210179 20 210179
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210180 20 210180
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210181 20 210181
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210182 20 210182
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210183 20 210183
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210184 20 210184
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210185 20 210185
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210186 20 210186
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210187 20 210187
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210188 20 210188
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210189 20 210189
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210190 20 210190
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210191 20 210191
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210192 20 210192
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210193 20 210193
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210194 20 210194
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210195 20 210195
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210196 20 210196
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210197 20 210197
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210198 20 210198
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210199 20 210199
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210200 20 210200
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210201 20 210201
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210202 20 210202
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210203 20 210203
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210204 20 210204
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210205 20 210205
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210206 20 210206
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210207 20 210207
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210208 20 210208
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210209 20 210209
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210210 20 210210
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210211 20 210211
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210212 20 210212
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210213 20 210213
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210214 20 210214
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210215 20 210215
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210216 20 210216
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210217 20 210217
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210218 20 210218
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210219 20 210219
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210220 20 210220
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210221 20 210221
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210222 20 210222
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210223 20 210223
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210224 20 210224
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210225 20 210225
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210226 20 210226
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210227 20 210227
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210228 20 210228
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210229 20 210229
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210230 20 210230
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210231 20 210231
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210232 20 210232
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210233 20 210233
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210234 20 210234
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210235 20 210235
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210236 20 210236
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210237 20 210237
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210238 20 210238
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210239 20 210239
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210240 20 210240
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+M 0 210241 20 210241
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

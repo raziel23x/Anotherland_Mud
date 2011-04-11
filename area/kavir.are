@@ -1,0 +1,6600 @@
+#AREADATA
+Name        KaVir   Odds and ends~
+Builders    Ghant Alesyira All~
+VNUMs       2 30073
+Security    9
+Recall      0
+Flags	      0
+End
+
+
+
+#MOBILES
+#2
+gremlin~
+a nasty little gremlin~
+A nasty little gremlin stands here, hopping from foot to foot.
+~
+He grins wickedly at you through pointed little teeth.
+~
+3 552 -1000 S
+13 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#3
+gremlin~
+a big ugly gremlin~
+A big ugly gremlin stands here, snarling angrilly.
+~
+He snarls angrilly at you through long pointed fangs.
+~
+3 552 -1000 S
+64 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#4
+gremlin~
+a huge vicious gremlin~
+A huge vicious gremlin stands here, growling with anger.
+~
+He growls viciously at you through huge curved tusks.
+~
+3 552 -1000 S
+44 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#5
+cute fluffy creature~
+a cute little fluffy creature~
+A cute little fluffy creature looks up at you, begging for food.
+~
+"Please, kind person, spare me some food?", he squeaks.  You consider 
+stamping on the wretched little creature, but then decide it's not worth 
+the mess it would make on your boots.
+~
+3 552 1000 S
+40000 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#6
+mount~
+a generic mount~
+A generic mount stands here, waiting to be ridden.
+~
+It looks like it would make a good mount...
+~
+2563 0 -1000 S
+65 2 2 1d1+100 1d8+32
+100000 0
+0 0 1
+#7
+frog~
+a small green frog~
+A small green frog sits here.
+~
+It's small, green, and intelligent-looking.
+~
+3 552 1000 S
+65 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#8
+bird~
+a raven~
+A raven is flapping around here.
+~
+You notice that it is very intelligent-looking.
+~
+3 524840 1000 S
+89 2 2 1d1+30000 1d8+32
+100000 0
+0 0 2
+#9
+cat~
+a small black cat~
+A small black cat is curled up here.
+~
+It is very cute, and very intelligent-looking.
+~
+7 81962 1000 S
+500 2 2 1d1+30000 1d8+32
+100000 0
+0 0 1
+#10
+Dog~
+a fluffy brown dog~
+An adorable, fluffy brown dog sits here, wagging her tail.
+~
+It is very cute, and very intelligent-looking.
+~
+66563 552 1000 S
+177 2 2 1d1+1 1d8+32
+100000 0
+0 0 2
+#11
+zerg zergling~
+A fierce looking Zergling~
+A small creature is here, staring at you as if you were it's prey.
+~
+~
+66585 4194440 0 S
+30001 0 0 1d1+2 0d0+0
+0 0
+0 0 1
+#12
+eyeball demon~
+Someone's eyeball~
+Someone's eyeball lay's here
+~
+~
+66577 4194312 0 S
+328 2 2 1d1+2 1d8+32
+100000 0
+0 0 1
+#13
+zerg zergling~
+A fierce looking Zergling~
+A small creature is here, staring at you as if you were it's prey.
+~
+~
+66585 4194440 0 S
+298 0 0 1d1+2 0d0+0
+0 0
+0 0 1
+#14
+zerg zergling~
+A fierce looking Zergling~
+A small creature is here, staring at you as if you were it's prey.
+~
+~
+66585 4194440 0 S
+269 0 0 1d1+2 0d0+0
+0 0
+0 0 1
+#15
+zerg zergling~
+A fierce looking Zergling~
+A small creature is here, staring at you as if you were it's prey.
+~
+~
+66587 4718760 0 S
+271 0 0 1d1+2 0d0+0
+0 0
+0 0 1
+#16
+marine~
+A trained marine~
+A trained marine is here, ready for combat.
+~
+~
+1027 136 0 S
+259 0 0 1d2+2 0d0+0
+0 0
+0 0 1
+#17
+marine~
+A trained marine~
+A trained marine is here, ready for combat.
+~
+~
+1027 136 0 S
+354 0 0 2d2+3 0d0+0
+0 0
+0 0 1
+#18
+horny bastard~
+A Horny Bastard~
+A Horny Bastard is here, begging you to touch him in the balls.
+~
+~
+1047 0 0 S
+715 0 0 3d3+3 0d0+0
+0 0
+0 0 1
+#19
+horny bastard~
+A Horny Bastard~
+A Horny Bastard is here, begging you to feel up on her perky tits.
+~
+~
+1047 0 0 S
+789 0 0 3d3+3 0d0+0
+0 0
+0 0 2
+#20
+old horny bastard~
+An Old Horny Bastard~
+An Old Horny Bastard is here, begging you to suck his cock.
+~
+~
+1047 0 0 S
+955 0 0 3d3+3 0d0+0
+0 0
+0 0 1
+#21
+old horny bastardd~
+An Old Horny Bastard~
+An Old Horny Bastard is here, begging you to lick her clit.
+~
+~
+1047 0 0 S
+1012 0 0 3d3+3 0d0+0
+0 0
+0 0 2
+#22
+ultimate horny bastard~
+An Ultimate Horny Bastard~
+An Ultimate Horny Bastard is here, just hoping you will give it the best sex of his life.
+~
+~
+1047 8 0 S
+1503 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#23
+Mozart~
+Mozart~
+Mozart stands here createing musical fusion.
+~
+~
+262145 0 0 S
+500 0 0 0d1+1 0d0+0
+0 0
+0 0 1
+#24
+Butler~
+A Butler~
+The Butler of this house is here, cleaning up.
+~
+~
+131091 0 0 S
+973 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#25
+shopkeeper~
+#7#iThe Official #L#iAnotherLand#n #7#iShopkeeper#n~
+#7#iThe Official #L#iAnotherLand#n #7#iShopkeeper#n stands here, waiting to sell his goodies.
+~
+~
+1 0 0 S
+100061 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40
+Wall Of Force~
+Wall Of Force~
+Wall Of Force
+~
+~
+1 0 0 S
+10000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#59
+ghost phantom~
+#n~
+#n
+~
+~
+9601 0 0 S
+141 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#60
+Harvey the Frog~
+#sHarvey #sThe #sFrog#n~
+#sHarvey #sThe #sFrog#n is hopping around here.
+~
+It's Harvey the frog what do you know.
+~
+66629 65704 1000 S
+2036 0 0 10d1+1 0d0+0
+0 0
+0 0 1
+#61
+Chron0's Cat~
+#PC#phrono#P'#ps #CC#cat#n~
+#PC#phrono#P'#ps #CC#cat#n #clay's here curled up in a ball.#n
+~
+Here lay's Chrono's pretty female kitty, it purrs and meows and rubs against your feet.
+~
+9281 5243580 1000 S
+1044 0 0 50d5+0 0d0+0
+0 0
+0 0 2
+#62
+violent~
+#CV#ciolent #PJ#pay#n~
+#CV#ciolent #PJ#pay#n stands here making a ass of himself.
+~
+~
+1 0 0 S
+17 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#67
+Another Land Thugs~
+#rAnother #lLand #cT#Ch#cu#Cg#cs#n~
+#rAnother #lLand #cT#Ch#cu#Cg#cs#n stands here cracking his knuckles.
+~
+~
+73751 34604544 500 S
+7000 0 0 5d1+1 0d0+0
+0 0
+0 0 1
+#68
+The Killer Sausage~
+#RThe #0Killer #CSausage#n~
+#RThe #0Killer #CSausage#n flys about you making you hungry.
+~
+~
+66597 1079511568 500 S
+4992 0 0 5d2+1 0d0+0
+0 0
+0 0 0
+#69
+Zantiel Aias Ashes Tandy Lupus Tifa Sarai Pandora Kitty Geno~
+The Illegal Name Mob!!~
+I'm the catch-all mob that has a lot of names!!!
+~
+~
+1 0 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#990
+orc~
+orc~
+Orc
+~
+~
+1 0 0 S
+81 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#2172
+cunt~
+Freaking fool~
+Freaking fool
+~
+~
+1 0 0 S
+100008 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#3722
+newbie spirit assistant~
+#7Newbie Assistant#n~
+#CAlesyira's #7Newbie Assistant#n stands here, happy to see you.
+~
+A cute girl is here, smiling at you.  Do you have any
+questions?  If you'd like a run-through on what is 
+different in Another Land from other Dystopia Muds, please
+head North!  There will be lots of information for you to read.
+~
+3 268451968 0 S
+2991 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#6640
+The Guardian~
+The Guardian~
+Sage's Guardian stands here without a blink
+~
+You probobly shouldnt attack this thing!
+~
+67 1581752 -1000 S
+20035 -21 -20 41d41+410 5d10+25
+125000 0
+0 0 0
+#9100
+protector~
+protector~
+Sane's protector
+~
+~
+1 0 0 S
+9968 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#10000
+silly boy~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+499986 0 0 3d3+3 0d0+0
+0 0
+0 0 0
+#10501
+two of hearts~
+Two of #RHearts#N~
+Two of #Hearts#n
+~
+~
+3 0 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30052
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30053
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#4
+Scavenger hunt token~
+#sScavenger #sHunt #sToken#n~
+#sScavenger #sHunt #sToken#n~
+~
+25 32 1
+0 0 0
+0 0 0 0
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5
+Chair Recliner~
+#0A black leather recliner#n~
+#0A new black leather recliner is waiting to be sat on#n~
+~
+12 0 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#6
+shiny store token~
+shiny store token~
+A shiny store token reflects light in to your eyes.~
+~
+63 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#7
+green suede couch~
+#gA suede couch#n~
+#gA deep green suede couch is here inviting you.#n~
+~
+12 0 0
+0 0 0
+1 3 0 0
+0 0 0
+E
+green~
+Old Man Mac owns the large property to your south.  You can't see past
+his adobe home, but a large sandstorm is visable looming to the south and
+moveing quickly this way.  
+~
+E
+suede~
+Old Man Mac owns the large property to your south.  You can't see past
+his adobe home, but a large sandstorm is visable looming to the south and
+moveing quickly this way.  
+~
+E
+couch~
+This spotless couch feels great!  It's cushions conform perfectly to the
+contours of every curve on your body.  On one of the arms a large cuddly
+teddy bear is propped up.  A name tag on it says, "Roosevelt".  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#8
+Token of Immortal Pain~
+punishment for being a Botter!!!~
+Some sort of nasty punishment lies here.~
+~
+63 0 1
+0 0 0
+0 -100000 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#9
+sign~
+#RW#yarning #RS#yign#R!!! #REXAMINE ME#n~
+#RW#yarning #RS#yign#R!!! #REXAMINE ME#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+anybody who leaves this jail without permission will be punished!
+the punishment is up to the immortal and no punishment is too severe.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#17
+gate magical rift~
+a swirling rift of energy~
+A swirling rift of energy is floating above the ground here.~
+~
+12 0 0
+0 0 0
+0 0 0 0
+1000 250 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#25
+heart love~
+a #RHeart#n filled with love~
+I give to you, my darling,  my #Rheart#n so filled with all my #Rlove#n for you to cherish forever.#n~
+~
+13 0 278529
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#26
+.~
+(no short description)~
+(no description)~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#27
+multicolored gem~
+#nA #sMultiColored#s Gem~
+#nA #sMultiColored#s Gem~
+~
+45 131072 1
+0 0 0
+0 0 0 0
+10 100000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#28
+#yAncient Dojo Trans: Piece 2#n~
+ancient Dojo Trans: Piece 2~
+A piece to the Ancient Dojo transporter~
+~
+67 131072 1
+0 0 0
+27 0 31 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29
+#yAncient Dojo Trans: Piece 3#n~
+ancient Dojo Trans: Piece 3~
+A piece of the Ancient Dojo transporter~
+~
+67 0 0
+0 0 0
+28 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#30
+Joshuas supreme armor~
+#LJ#coshua's #LS#cupreme #LA#crmor#n~
+#LJ#coshua's #LS#cupreme #LA#crmor#n~
+~
+9 393216 262145
+1 0 0
+0 0 0 0
+0 0 0
+A
+17 -25000
+A
+17 -25000
+A
+17 -25000
+A
+17 -25000
+A
+14 25000
+A
+14 25000
+A
+14 25000
+A
+14 25000
+A
+12 25000
+A
+12 25000
+A
+12 25000
+A
+12 25000
+A
+13 25000
+A
+13 25000
+A
+13 25000
+A
+13 25000
+A
+19 10000
+A
+18 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#31
+#yAncient Dojo Transporter#n~
+ancient Dojo Transporter~
+The Ancient Dojo transporter~
+~
+68 0 16385
+0 0 0
+75 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#56
+Apocalyps Socket~
+#CA#ppocalyps #RS#7ocket#n~
+A #CA#ppocalyps #RS#7ocket#n lays on the ground.~
+~
+70 1 1
+0 0 131072
+100 100 0 0
+1 100000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#57
+vacuum cleaner~
+#CV#cacuum #PC#pleaner#n~
+A #CV#cacuum #PC#pleaner#n is sucking up stuff.~
+~
+27 0 8193
+0 4 327680
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#58
+Sphere of The Unknown~
+#PS#0p#ph#ne#Pr#0e #Co#Gf #RU#0n#rk#nn#Ro#0w#rn#n~
+A odd looking sphere floats here.~
+~
+15 278530 524289
+0 0 360448
+99999 0 0 0
+0 1000 0
+A
+17 -50
+A
+18 150
+A
+19 150
+A
+12 125
+A
+13 125
+A
+14 125
+A
+1 5
+A
+4 5
+A
+2 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#59
+Artifact Chrono War Scythe~
+#r#u.#R-#0=#L{#7AL#L}#0=#R-#r. #C#uC#chrono's #C#uW#car #C#uS#ccythe #r#u.#R-#0=#L{#7AL#L}#0=#R-#r.#n~
+A odd looking staff lays here.~
+~
+5 16384 8193
+0 0 69369856
+21239 250 750 3
+1 1000000 0
+A
+17 -900
+A
+19 1000
+A
+18 1000
+A
+14 10000
+A
+12 10000
+A
+13 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#60
+Slab of Excavier~
+#7S#wl#0a#wb #7o#wf #RE#rx#Rc#ra#Rv#ri#Re#rr#n~
+Scroll~
+~
+62 8 1
+0 0 20283392
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#61
+1rst Piece of Excavier~
+#C1#crst #CP#ciece #Co#cf #CE#cxcavier#n~
+(no description)~
+~
+67 0 1
+0 0 67108864
+0 62 60 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#62
+2nd Piece of Excavier~
+#C2#cnd #CP#ciece #Co#cf #CE#cxcavier#n~
+A piece of excavier lay's here.~
+~
+67 0 1
+0 0 67108864
+61 0 60 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#63
+shadow toy~
+#0S#nhadow #LT#loy#n~
+#cSomeone's toy lay's here.#n~
+~
+27 0 1
+0 0 67108864
+87148 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#64
+Hilt Combo Scroll~
+#PH#pilt #CC#combo #GS#gcroll#n~
+A scroll of all teh hilt combos lies here.~
+~
+13 1 1
+0 0 67567616
+0 0 0 0
+0 0 0
+E
+poisonous~
+Poisonous Weapon
++ Limestone = Power of Magma
++ Sandstone = Power of General Purpose
++ Bronze = Power of Protection
++ Gold = Power of Clot
++ Marble = Power of Sneak
++ Crystal = Power of Circle
++ Ebony = Power of Remove Curse
++ Ivory = Power of Disarm
+~
+E
+electrified~
+Electrified Weapon
++ Limestone = Power of Clot
++ Sandstone = Power of Peek
++ Bronze = Power of Locate Object
++ Gold = Power of Portal
++ Marble = Power of Kick
++ Crystal = Power of Hide
++ Ebony = Power of Pass Door
++ Ivory  = Power of Lightning Breath
+~
+E
+flamming~
+Flamming Weapon
++ Limestone = Power of High Explosive
++ Sandstone = Power of Godbless
++ Bronze = Power of Flamestrike
++ Gold = Power of Pick Lock
++ Marble = Power of Gas Breath
++ Crystal = Power of Word of Recall
++ Ebony = Power of Giant Strength
++ Ivory = Power of Sleep
+~
+E
+acid~
+Acid Weapon
++ Limestone = Power of Protection
++ Sandstone = Tempered In Hellfire
++ Bronze = Power of Armor
++ Gold= Power of Locate Object
++ Marble = Faerie Fire
++ Crystal =Dispel Magic
++ Ebony = Burning Hands
++ Ivory = Detect Evil
+~
+E
+dark~
+Dark Weapon
++ Limestone = Power of Remove Curse
++ Sandstone = Power of Gate
++ Bronze= Burning Hands
++ Gold = Power of Pass Door
++ Marble = Power of Flamestrike
++ Crystal =Drinks The Souls of Its Victims
++ Ebony = Power of Cause Light
++ Ivory = Power of Detect Magic
+~
+E
+holy~
+Holy Weapon
++ Limestone = Power of Circle
++ Sandstone = Power of Weaken
++ Bronze= Power of Dispel Magic
++ Gold = Power of Hide
++ Marble = Power of Teleport
++ Crystal = Power of Shocking Grasp
++ Ebony = Drinks The Souls of Its Victims
++ Ivory= Power of Protection
+~
+E
+vampiric~
+Vampiric Weapon
++ Limestone =Power of Sneak
++ Sandstone = Power of Frost_ Breath
++ Bronze = Power of Faerie Fire
++ Gold = Power of Kick
++ Marble = Power of Acid Breath
++ Crystal = Power of Teleport
++ Ebony = Power of Flamestrike
++ Ivory = Power of Sanctuary
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#90
+status piece~
+#ya status piece#n~
+#yA glowing ststus piece hovers just above the ground.#n~
+~
+67 2228224 16385
+0 0 0
+0 91 92 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#91
+status piece~
+#ya status piece#n~
+#yA glowing ststus piece hovers just above the ground.#n~
+~
+67 2228224 16385
+0 0 0
+90 0 92 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#92
+status flake~
+#yA Status Flake#n~
+#yA status flake is hovering here.#n #REAT IT!#n~
+~
+71 2228224 16385
+0 0 0
+1 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100
+Cookie~
+#oA #yC#oo#yo#ok#yi#oe#n~
+#oA #yC#oo#yo#ok#yi#oe#n~
+~
+19 0 1
+0 0 0
+100 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150
+broom~
+the Butler's Broom~
+A very expensive broom lies here.~
+~
+5 4096 8193
+0 0 0
+30 10 20 2
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#151
+serving tray~
+a serving tray~
+A shiny silver tray lies here.~
+~
+9 0 513
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#155
+bomb~
+a Bomb~
+A bomb has been left to explode on the ground.~
+~
+13 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#156
+mine~
+a Mine~
+A mine has been left as a trap.~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#157
+missile~
+a Missile~
+A missile is coming towards you!~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#166
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#193
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#200
+horny panty hose pantyhose~
+a Horny Bastard's Pantyhose~
+Some pantyhose lies here.~
+~
+9 0 33
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#201
+big spiky dildo~
+a Big Spiky Dildo~
+A long spiky object lies here.~
+~
+5 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#202
+pink hot thong~
+a hot-pink thong~
+A bright pink piece of cloth is here.~
+~
+9 0 2049
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#203
+mother under underwear wear~
+one of the horny bastard's mother's underwear.~
+Some underwear is lying here.~
+~
+9 0 17
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#204
+pink condom tattoo~
+a pink condom tattoo~
+An imprint of a pink piece of rubber is lying here.~
+~
+9 0 131073
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#205
+inflatable girl girlfriend friend~
+an inflatable girlfriend~
+A fine ass girl is here.~
+~
+5 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#335
+S piece token status~
+#yS#n~
+#yA #yS#Ct#ya#Ct#yu#Cs #yP#Ci#ye#Cc#ye#n#s!#s!#s!#n~
+~
+67 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#500
+qp coupon~
+a coupon worth #710,000#n #1QP's#n~
+#7--<#cTREASURE#7>--#n a coupon lies here.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#501
+qp coupon~
+a coupon worth #71,000#n #1QP's#n~
+#7--<#cTREASURE#7>--#n a coupon lies here.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#502
+qp coupon~
+a coupon worth #7100#n #1QP's#n~
+#7--<#cTREASURE#7>--#n a coupon lies here.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#666
+Sleepy Time Bed~
+sleepy Bed~
+Sleep here and you will sleep for many Hours~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#812
+avatar longsword~
+an avatar longsword~
+Shell~
+~
+5 16384 8193
+0 0 0
+0 25 50 3
+1 0 0
+A
+18 10
+A
+19 10
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#813
+Dagger of Magic~
+#R<>#C*#P{#GDagger of Magic#P}#C*#R<>#n~
+A old and magical dagger lays here~
+~
+5 262144 8193
+0 0 69566464
+21165 153 756 11
+1 0 0
+A
+14 5000
+A
+12 5000
+A
+13 5000
+A
+17 -750
+A
+19 1500
+A
+18 1500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#814
+rune ring~
+a #rRune#n-#rcovered#n ring~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 3
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#815
+rune collar~
+a #rRune#n-#rcovered#n collar~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 5
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#816
+rune bracer~
+a #rRune#n-#rcovered#n bracer~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 4097
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#817
+rune plate~
+a #rRune#n-#rcovered#n plate~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 9
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#818
+rune helmet~
+a #rRune#n-#rcovered#n helmet~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 17
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#819
+rune leggings~
+some #rRune#n-#rcovered#n leggings~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 33
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#820
+rune boots~
+a pair of #rRune#n-#rcovered#n boots~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 65
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#821
+rune gloves~
+a pair of #rRune#n-#rcovered#n gloves~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 129
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#822
+rune sleeves~
+some #rRune#n-#rcovered#n sleeves~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 257
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#823
+rune cape~
+a #rRune#n-#rcovered#n cape~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 1025
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#824
+rune belt~
+a #rRune#n-#rcovered#n belt~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 2049
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#825
+rune mask~
+a #rRune#n-#rcovered#n mask~
+A piece of #rRune#n eq lies here.~
+~
+9 786432 -1015807
+0 0 0
+100 0 0 0
+1 10000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+19 300
+A
+18 300
+A
+17 -300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#826
+no name~
+(no short description)~
+A piece of #rRune#n eq lies here.~
+~
+9 262144 1
+0 0 0
+0 0 0 0
+1 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2650
+Phoenix eq~
+phoenix eq~
+Phoenix eq~
+~
+13 0 2049
+0 0 0
+0 0 0 0
+0 0 0
+A
+18 45
+A
+19 45
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#2651
+Phoenix gloves~
+#0() #rPhoenix Gloves #0(#r#0)#n~
+#0() #rPhoenix Gloves #0(#r#0)#n~
+~
+9 0 129
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#2655
+unused~
+a mage ring~
+A ring of ancient power lies here.~
+~
+9 0 3
+0 0 0
+0 0 0 0
+1 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2656
+mage collar~
+a mage collar~
+A collar of ancient power lies here.~
+~
+9 0 5
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2657
+mage robe~
+a mage robe~
+A mage robe lies here.~
+~
+9 0 9
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2658
+mage cap~
+a mage cap~
+A mage cap lies here~
+~
+9 0 17
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2659
+mage pants~
+a pair of mage pants~
+A pair of pants lies here.~
+~
+9 0 33
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2660
+mage boots~
+a pair of mage boots~
+A pair of boots stands here.~
+~
+9 0 65
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2661
+mage gloves~
+a pair of mage gloves~
+A pair of gloves lies here.~
+~
+9 0 129
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2662
+mage sleeves~
+some mage sleeves~
+Some mage sleeves lies here.~
+~
+9 0 257
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#2663
+mage bracer~
+a mage bracer~
+A mage bracer lies here.~
+~
+9 0 4097
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -25
+A
+18 15
+A
+19 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#3320
+Skyline Car Blue Modified~
+a Modified Baby Blue Car~
+A modified Skyline sits here with its engine running and sound blasting.~
+~
+25 0 0
+0 0 0
+0 0 0 0
+20000 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#3500
+Key of Shadow~
+#0K#7e#0y #7o#0f #7S#0h#7a#0d#7o#0w#n~
+#n~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#3501
+grass~
+#Ggrass#n~
+#n~
+~
+15 0 0
+0 0 0
+1000 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#3760
+gun lacky~
+a lacky's gun~
+The gun of a lacky is here, given to him by the Almighty Buffy.~
+~
+5 0 16385
+0 0 0
+0 5 20 6
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#5000
+Phoenix Arm Pads~
+#0() #rPhoenix Arm pads #0(#r=#0)#n~
+#0() #rPhoenix Arm pads #0(#r=#0)#n~
+~
+9 0 257
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5001
+Phoenix Wrist Bands~
+#0(#R#0) #RP#Rhoeni#Rx W#rris#Rt B#Ran#Rd #0(#R=#0)~
+#0(#R#0) #RP#Rhoeni#Rx W#rris#Rt B#Ran#Rd #0(#R=#0)~
+~
+9 0 4097
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5002
+Phoenix Belt~
+#0(#R#0) #RP#Rhoeni#Rx #RB#rel#Rt #0(#R=#0)~
+#0() #RPhoenix Belt #0(#r=#0)#n~
+~
+9 0 2049
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5003
+Phoenix Collar~
+#0() #rPhoenix Collar #0(#r=#0)#n~
+#0() #rPhoenix Collar #0(#r=#0)#n~
+~
+9 0 5
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5004
+Phoenix Wings~
+#0() #rPhoenix Wings #0(#r=#0)#n~
+#0() #rPhoenix Wings #0(#r=#0)#n~
+~
+9 0 1025
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5005
+Phoenix Mask~
+#0() #rPhoenix Mask #0(#r=#0)#n~
+#0() #rPhoenix Mask #0(#r=#0)#n~
+~
+9 0 32769
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5006
+Phoenix Helmet~
+#0() #rPhoenix Helmet #0(#r=#0)#n~
+#0() #rPhoenix Helmet #0(#r=#0)#n~
+~
+9 0 17
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5007
+Phoenix Plate~
+#0() #rPhoenix Plate #0(#r=#0)#n~
+#0() #rPhoenix Plate #0(#r=#0)#n~
+~
+9 0 9
+0 0 1048576
+25 0 0 8
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5008
+Phoenix Ring~
+#0() #rPhoenix Ring #0(#r=#0)#n~
+#0() #rPhoenix Ring #0(#r=#0)#n~
+~
+9 0 3
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5009
+Phoenix Leggings~
+#0() #rPhoenix Leggings #0(#r=#0)#n~
+#0() #rPhoenix Leggings #0(#r=#0)#n~
+~
+9 0 33
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5010
+Phoenix Claws~
+#0() #rPhoenix Claws #0(#r=#0)#n~
+#0() #rPhoenix Claws #0(#r=#0)#n~
+~
+5 0 8321
+0 0 1048576
+0 90 120 5
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5011
+Phoenix Boots~
+#0() #rPhoenix Boots #0(#r=#0)#n~
+#0() #rPhoenix Boots #0(#r=#0)#n~
+~
+9 0 65
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+19 45
+A
+17 -50
+A
+18 45
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#6660
+sage blade~
+the Legendary Blade of Sage~
+A Blade lies here, Mocking your existance.~
+~
+5 2 8193
+0 0 0
+0 15 25 3
+5 0 0
+A
+19 15
+A
+18 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#10000
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#10099
+Shadow~
+shadow~
+Shadow~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#10609
+Winners Circle~
+#RW#7inner's #RC#7ircle#n~
+#RW#7inner's #RC#7ircle#n~
+~
+27 32768 1
+0 0 0
+10610 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#10917
+no name~
+(no short description)~
+(no description)~
+~
+13 0 1024
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#28662
+brass demon longsword~
+#ca brass demonic longsword#n~
+A longsword crafted from #cbrass#n demonic steel lies here~
+~
+5 16384 8193
+0 0 0
+18000 50 75 1
+1 100000 0
+A
+19 15
+A
+18 15
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#28663
+brass demon shortsword~
+#ca brass demonic shortsword#n~
+A short crafted from #cbrass#n demonic steel lies here~
+~
+5 16384 8193
+0 0 0
+17000 50 75 1
+1 100000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#28664
+helm~
+a #rgreathelmet #nwith pointy #0black#n horns~
+A large helmet with long horns lies here.~
+~
+9 0 17
+0 0 0
+25 0 0 15
+1 100000 0
+A
+13 500
+A
+17 -100
+A
+1 10
+A
+5 10
+A
+4 -5
+A
+3 -5
+A
+18 80
+A
+19 80
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29500
+elfstone greenstone elf green stone~
+a #Ggreen#n elfstone~
+An elfstone sits in the ground, eminating a green mist.~
+~
+64 1 1025
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29501
+elfstone bluestone stone elf blue~
+a #Lblue#n elfstone~
+A elf stone faintly glows a deep blue aura.~
+~
+66 1 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29502
+elfstone redstone stone elf red~
+a #Rred#n elfstone~
+A elf stone emits a bright red color while fizzing.~
+~
+65 1 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#29614
+dagger~
+#0Sacrificial #pdagger #0of #pLloth#n~
+A wicked dagger lies here.~
+~
+5 0 8193
+0 0 0
+17000 50 90 1
+1 10000 0
+A
+19 40
+A
+18 40
+A
+17 -100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29620
+knife shapeshifter butterfly~
+a butterfly knife~
+A strange looking device lies on the ground.~
+~
+5 0 8193
+0 0 0
+0 40 80 11
+1 10000 0
+A
+19 25
+A
+18 25
+A
+2 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29621
+shapeshifter kane~
+a kane with a hidden springblade~
+A long walking stick lies on the ground.~
+~
+5 0 8193
+0 0 0
+0 45 75 1
+1 10000 0
+A
+2 3
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29622
+bands shapeshifter~
+#GS#go#Gm#ge #Gc#ga#Gm#go#Gu#gf#Gl#ga#Gg#ge #Gb#ga#Gn#gd#Gs#n~
+Some wrist bands blends in with the ground.~
+~
+9 0 4097
+0 0 0
+20 0 0 24
+1 10000 0
+A
+19 25
+A
+18 25
+A
+17 -50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29623
+shapeshifter~
+necklace of invisibility~
+A glinting necklace of pure silver lies on the ground.~
+~
+9 0 5
+0 0 0
+20 0 0 5
+1 10000 0
+A
+17 -50
+A
+19 25
+A
+18 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29624
+shapeshifter ring~
+a ring made from glass~
+A plain glass ring lies here.~
+~
+9 0 3
+0 0 0
+0 0 0 0
+1 10000 0
+A
+18 25
+A
+19 25
+A
+17 -50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29625
+jacket shapeshifter~
+#GA #gc#Ga#gm#Go#gu#Gf#gl#Ga#gg#Ge #gj#Ga#gc#Gk#ge#Gt#n~
+A jacket made for blending with the forest lies here.~
+~
+9 0 9
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29626
+helmet shapeshifter~
+a helmet of many shapes~
+A non-descript helmet lies here.~
+~
+9 0 17
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29627
+pants shapeshifter~
+#GA #gp#Ga#gi#Gr #go#Gf #gc#Ga#gm#Go#gu#Gf#gl#Ga#gg#Ge #gp#Ga#gn#Gt#gs#n~
+A pair of pants with grey and white stripes lies here.~
+~
+9 0 33
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29628
+boots shapeshifter~
+#GA #gp#Ga#gi#Gr #go#Gf #gE#Gl#gv#Ge#gn #Gb#go#Go#gt#Gs#n~
+A pair of leather boots stands here.~
+~
+9 0 65
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29629
+gloves shapeshifter~
+#nA pair of thin leather gloves~
+A pair of gloves lies here in the sun.~
+~
+9 0 129
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29630
+shirt shapeshifter~
+a net t-shirt~
+A bundle of strings lies here.~
+~
+9 0 257
+0 0 0
+0 0 0 8
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29631
+cloak shapeshifter~
+a #0Displacer#n cloak~
+A shimmering cloak lies on the ground.~
+~
+9 0 1025
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29632
+belt shapeshifter~
+a thin leather belt~
+A thin leather belt lies here.~
+~
+9 0 2049
+0 0 0
+20 0 0 3
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29633
+visor shapeshifter~
+a visor of many faces~
+Some human skin lies on the ground.~
+~
+9 0 -1015807
+0 0 0
+0 0 0 0
+1 10000 0
+A
+17 -50
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29634
+tall hat~
+a tall hat~
+A tall hat lies on the ground waiting to be picked up.~
+~
+9 0 17
+0 0 0
+12 0 0 0
+5 200 0
+A
+17 -12
+A
+18 8
+A
+19 7
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29697
+Klaive Werewolf Greater~
+#c{#C*#pWW#C*#c} #0Gre#7ate#0r #RKl#rai#Rve #c{#C*#pWW#C*#c}#n~
+A greater Klaive lies here~
+~
+5 16384 8193
+0 1024 1409024
+20024 100 900 11
+0 1000000 0
+A
+18 55
+A
+19 55
+E
+ged~
+~
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29730
+monk ring~
+#C]#0--#7*#CM#7*#0--#C[#PGo#pdl#Py #GRi#gn#Gg#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 3
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29731
+monk amulet~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GAmu#gle#Gt#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 5
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29732
+monk plate~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GPla#gt#Ge#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 9
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29733
+monk helmet~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GHel#gme#Gt#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 17
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29734
+monk leggings~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GLegg#ging#Gs#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 33
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29735
+monk boots~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GBo#got#Gs#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 65
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29736
+monk sleeves~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GSlee#gve#Gs#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 257
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29737
+monk belt~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GBe#gl#Gt#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 2049
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29738
+monk mask~
+#C]#0--#7*#CM#7*#0--#C[#n#PGo#pdl#Py #GMa#gs#Gk#C]#0--#7*#CM#7*#0--#C[#n~
+A piece of godly eq lies here.~
+~
+9 0 -1015807
+0 0 0
+20 0 0 0
+1 10000 0
+A
+17 -35
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29740
+#c--#pN#c--#0Ni#7nj#0a R#7in#0g--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a R#7in#0g#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 3
+0 0 0
+20 0 0 0
+1 0 0
+A
+17 -40
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29741
+#c--#pN#c--#0Ni#7nj#0a Br#7ac#0er#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Bra#7ce#0r#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 4097
+0 0 0
+20 0 0 0
+1 0 0
+A
+17 -40
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29742
+#c--#pN#c--#0Ni#7nj#0a Co#7lla#0r#c--#pN#c--#n~
+#y** #0a #rninjitsu #0collar #y**#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 5
+0 0 0
+20 0 0 0
+1 0 0
+A
+17 -40
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29743
+#c--#pN#c--#0Ni#7nj#0a R#7o#0be#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a R#7ob#0e#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 9
+0 0 0
+20 0 0 0
+1 0 0
+A
+17 -40
+A
+18 18
+A
+19 18
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29744
+#c--#pN#c--#0Ni#7nj#0a Hel#7me#0t#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Hel#7me#0t#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 17
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29745
+#c--#pN#c--#0Ni#7nj#0a Leg#7gin#0gs#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Leg#7gin#0gs#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 33
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29746
+#c--#pN#c--#0Ni#7nj#0a Bo#7ot#0s#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Bo#7ot#0s#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 65
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29747
+#c--#pN#c--#0Ni#7nj#0a Gl#7ov#0es#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Gl#7ov#0es#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 129
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29748
+#c--#pN#c--#0Ni#7nj#0a Cl#7oa#0k#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Cl#7oa#0k#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 1025
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29749
+#c--#pN#c--#0Ni#7nj#0a B#7el#0t#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a B#7el#0t#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 2049
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29750
+#c--#pN#c--#0Ni#7nj#0a Sl#7eev#0es#c--#pN#c--#n~
+#c--#pN#c--#0Ni#7nj#0a Sl#7eev#0es#c--#pN#c--#n~
+A piece of ninjitsu armor lies here.~
+~
+9 0 257
+0 0 0
+20 0 0 0
+1 0 0
+A
+19 18
+A
+18 18
+A
+17 -40
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29801
+belt~
+#0The#l belt#0 of#r Shao#l-#ylin#n~
+A #0black#n belt of smooth silk lies here.~
+~
+9 0 2049
+0 0 0
+25 0 0 17
+1 100000 0
+A
+14 1000
+A
+1 5
+A
+2 5
+A
+19 65
+A
+18 65
+A
+17 -100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29802
+boots~
+#0a pair #rof #0ancient #rfleshcrafted #0boots#n~
+A pair of boots made from the skin of a #rflayed#n human lies here.~
+~
+9 0 65
+0 0 0
+25 0 0 17
+1 10000 0
+A
+19 60
+A
+18 60
+A
+17 -85
+A
+13 500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29803
+vampire collar~
+#R]#r-#cV#r-#R[#PVamp#pire Col#Plar#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 5
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29804
+vampire bracer~
+#R]#r-#cV#r-#R[#PVamp#pire Br#Pacer#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 4097
+0 0 0
+20 0 0 0
+1 10000 0
+A
+18 95
+A
+19 95
+A
+13 100
+A
+12 100
+A
+14 100
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29805
+vampire leggings~
+#R]#r-#cV#r-#R[#PVamp#pire Legg#Pings#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 33
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29806
+vampire boots~
+#R]#r-#cV#r-#R[#PVamp#pire Bo#Pots#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 65
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29807
+vampire gloves~
+#R]#r-#cV#r-#R[#PVamp#pire Glo#Pves#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 129
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29808
+vampire sleeves~
+#R]#r-#cV#r-#R[#PVamp#pire Sle#Peves#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 257
+0 0 0
+20 0 0 0
+1 10000 0
+A
+18 95
+A
+19 95
+A
+13 100
+A
+12 100
+A
+14 100
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29809
+vampire cape~
+#R]#r-#cV#r-#R[#PVamp#pire Ca#Ppe#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 1025
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29810
+vampire belt~
+#R]#r-#cV#r-#R[#PVamp#pire B#Pelt#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 2049
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29811
+vampire mask~
+#R]#r-#cV#r-#R[#PVamp#pire Ma#Psk#R]#r-#cV#r-#R[#n~
+A piece of vampire eq lies here.~
+~
+9 0 -1015807
+0 0 0
+20 0 0 0
+1 10000 0
+A
+14 100
+A
+12 100
+A
+13 100
+A
+19 95
+A
+18 95
+A
+17 -25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29975
+breastplate plate knight~
+#0^\ a #yrusty #0old breastplate /^#n~
+An old rusty plate with old enscription of times long past lies on the floor.~
+~
+9 0 9
+0 0 0
+25 0 0 8
+1 10000 0
+A
+1 5
+A
+17 -35
+A
+19 35
+A
+18 35
+A
+2 5
+A
+5 5
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29976
+longsword knight~
+#0ancient #rblackended #0longsword#n~
+An ancient weapon of great power lies on the ground, radiating evil.~
+~
+5 16384 8193
+0 0 0
+18001 55 90 3
+1 10000 0
+A
+18 50
+A
+19 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29977
+shortsword knight~
+#0ancient #rblackended #0shortsword#n~
+An ancient weapon of great power lies on the ground, radiating evil.~
+~
+5 0 8193
+0 0 0
+17012 60 92 1
+1 10000 0
+A
+19 50
+A
+18 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29978
+knight ring~
+#0^\ a #yrusty #0old ring /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 3
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29979
+knight bracer~
+#0^\ a #yrusty #0old bracer /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 4097
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29980
+knight collar~
+#0^\ a #yrusty #0old collar /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 5
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29981
+knight helmet~
+#0^\ a #yrusty #0old helmet /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 17
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29982
+knight leggings~
+#0^\ a pair of #yrusty #0old leggings /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 33
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29983
+knight boots~
+#0^\ a pair of #yrusty #0old boots /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 65
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29984
+knight gauntlets~
+#0^\ a pair of #yrusty #0old gauntlets /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 129
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29985
+knight chain~
+#0^\ a set of #yrusty #0old chains /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 257
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29986
+knight cloak~
+#0^\ a #ydusty #0old cloak /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 1025
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29987
+knight belt~
+#0^\ a #ydusty #0old belt /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 2049
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29988
+knight visor~
+#0^\ a #yrusty #0old visor /^#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 -1015807
+0 0 0
+25 0 0 0
+1 10000 0
+A
+17 -50
+A
+19 38
+A
+18 38
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29989
+Mastery Knight Tattoo~
+#0*#y^#0* Emblem of the #RBurning #0Sun *#y^#0*#n~
+A piece of ancient armor lies on the floor.~
+~
+9 0 131073
+0 0 0
+25 0 0 21
+1 10000 0
+A
+18 500
+A
+19 500
+A
+13 10000
+A
+12 10000
+A
+14 10000
+A
+17 -100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29990
+no name~
+(no short description)~
+A piece of ancient armor lies on the floor.~
+~
+9 0 1
+0 0 0
+0 0 0 0
+1 10000 0
+A
+18 25
+A
+19 25
+A
+17 -50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#29991
+no name~
+(no short description)~
+A piece of ancient armor lies on the floor.~
+~
+9 0 1
+0 0 0
+0 0 0 0
+1 10000 0
+A
+18 25
+A
+19 25
+A
+17 -50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30000
+soul blade~
+a soul blade~
+A soul blade lies here.~
+~
+5 16451 8193
+0 0 0
+0 10 20 11
+3 60 0
+A
+12 5
+A
+13 5
+A
+14 5
+A
+17 -10
+A
+18 5
+A
+19 5
+Q
+$p pulses with energy.~
+$p pulses with energy.~
+You twist the pommel of your soul blade.~
+$p stops pulsing with energy.~
+$p stops pulsing with energy.~
+$n twists the pommel of $s soul blade.~
+50 86
+#30001
+shimmering portal~
+a shimmering portal~
+A shimmering portal floats in the air.~
+~
+27 0 0
+0 0 0
+102 0 0 0
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30002
+egg~
+a small egg~
+A small egg has been left here.~
+~
+28 0 1
+0 0 0
+0 0 0 0
+5 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30003
+egg shell~
+a broken egg shell~
+A broken egg shell is lying here.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+5 100 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30004
+entrails %s~
+the spilled entrails of %s~
+The spilled entrails of %s lie in a pool here.~
+~
+19 0 16385
+0 0 0
+30 0 30004 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30005
+brain %s~
+the quivering brain of %s~
+The quivering brain of %s wobbles on the floor.~
+~
+19 0 16385
+0 0 0
+16 0 30005 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30006
+eye eyeball %s~
+the squidgy eyeball of %s~
+The squidgy eyeball of %s rolls around on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30006 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30007
+pool blood %s~
+a pool of #rblood#n~
+A pool of #rblood#n lies here.~
+~
+25 64 0
+0 0 0
+10 10 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30008
+egg~
+a large green egg~
+A large green egg lies here in a pool of goo.~
+~
+28 0 1
+0 0 0
+0 0 0 0
+5 100 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30009
+egg~
+a small green egg~
+A small green egg lies crystalized on the floor.~
+~
+26 1 1
+0 0 0
+50 ' ' ' ' ' '
+2 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30010
+voodoo doll~
+a voodoo doll~
+A voodoo doll lies here.~
+~
+29 0 16385
+0 0 0
+0 0 0 0
+5 100 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30011
+wooden stake~
+a wooden stake~
+A wooden stake lies here.~
+~
+30 0 16385
+0 0 0
+0 0 0 0
+5 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30012
+face %s~
+the ripped off face of %s~
+The ripped off face of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+10 0 30012 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30013
+windpipe %s~
+the torn-out windpipe of %s~
+The torn-out windpipe of %s lies broken on the floor.~
+~
+19 0 16385
+0 0 0
+5 0 30013 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30014
+cracked head %s~
+the cracked-open head of %s~
+The cracked-open head of %s lies on the floor.~
+~
+13 0 16385
+0 0 0
+1 0 30014 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30015
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+0 0 0
+30004 0 0 30003
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30016
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+0 0 0
+30003 0 0 30004
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30017
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+0 0 0
+30003 0 3 30005
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30018
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+0 0 0
+30003 0 3 30006
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30019
+elevator door~
+the elevator door~
+A small door stands against the wall.~
+~
+27 0 0
+0 0 0
+30003 0 3 30007
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30020
+blood fountain~
+a fountain of dark twisted metal~
+A fountain of dark twisted metal spews blood around the room.~
+~
+25 64 0
+0 0 0
+0 0 0 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30021
+crossbow~
+a heavy crossbow~
+A heavy crossbow lies here.~
+~
+31 0 16385
+0 0 0
+30022 1 1 1
+5 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30022
+crossbow bolt~
+a crossbow bolt~
+A crossbow bolt lies here.~
+~
+32 0 16385
+0 0 0
+75 10 20 1
+1 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30023
+revolver~
+a revolver~
+A revolver lies here in the dirt.~
+~
+31 0 16385
+0 0 0
+0 0 6 2
+5 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30024
+bullet~
+a bullet~
+A small bullet lies on the ground.~
+~
+32 0 16385
+0 0 0
+100 30100 31000 2
+1 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30025
+ear %s~
+the sliced off ear of %s~
+The sliced off ear of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30025 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30026
+nose %s~
+the sliced off nose of %s~
+The sliced off nose of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30026 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30027
+tooth %s~
+the knocked-out tooth of %s~
+The knocked-out tooth of %s lies on the floor.~
+~
+13 0 16385
+0 0 0
+1 0 30027 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30028
+tongue %s~
+the torn-out tongue of %s~
+The torn-out tongue of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+2 0 30028 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30029
+hand %s~
+the severed hand of %s~
+The severed hand of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+10 0 30029 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30030
+foot %s~
+the severed foot of %s~
+The severed foot of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+10 0 30030 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30031
+thumb %s~
+the severed thumb of %s~
+The severed thumb of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30031 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30032
+index finger %s~
+the severed index finger of %s~
+The severed index finger of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30032 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30033
+middle finger %s~
+the severed middle finger of %s~
+The severed middle finger of %s lies on the floor.~
+~
+19 0 16387
+0 0 0
+1 0 30033 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30034
+ring finger %s~
+the severed ring finger of %s~
+The severed ring finger of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30034 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30035
+little finger %s~
+the severed little finger of %s~
+The severed little finger of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30035 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30036
+toe %s~
+the severed toe of %s~
+The severed toe of %s lies on the floor.~
+~
+19 0 16385
+0 0 0
+1 0 30036 0
+2 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30037
+protoplasm plasm ball~
+a ball of protoplasm~
+A ball of protoplasm floats in the air.~
+~
+15 0 65537
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30038
+sword blade darkblade deathkiss~
+the DarkBlade 'Deathkiss'~
+A legendary DarkBlade hovers in the air.~
+~
+5 16451 8193
+0 0 0
+34 10 20 11
+3 60 0
+A
+12 20
+A
+13 20
+A
+14 20
+A
+17 -10
+A
+18 5
+A
+19 5
+Q
+You feel a dark energy pulsing through your veins.~
+~
+~
+~
+~
+~
+0 0
+#30039
+quest card~
+a quest card~
+A small silvery card lies on the floor.~
+~
+34 0 1
+0 0 0
+0 0 0 0
+5 5 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30040
+quest machine~
+the quest-making machine~
+A small machine sits on the floor.~
+~
+35 0 0
+0 0 0
+0 0 0 0
+5 5 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30041
+claymore~
+the Claymore's claymore~
+A huge sword sits on the floor.~
+~
+5 64 8193
+0 0 0
+0 4 4 1
+16 1000 0
+A
+18 -2
+A
+19 5
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30042
+demonic gate~
+a demonic gate~
+A demonic gate is here humming in the air.~
+~
+27 0 0
+0 0 0
+102 0 0 0
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30043
+walln~
+a wall of flowing water~
+A wall of flowing water blocks your way north.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30044
+walls~
+a wall of flowing water~
+A wall of flowing water blocks your way south.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30045
+walle~
+a wall of flowing water~
+A wall of flowing water blocks your way east.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30046
+wallw~
+a wall of flowing water~
+A wall of flowing water blocks your way west.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30047
+walld~
+a wall of flowing water~
+A wall of flowing water blocks your way down.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30048
+wallu~
+a wall of flowing water~
+A wall of flowing water blocks your way up.~
+~
+25 64 0
+0 0 0
+100000 100000 13 0
+5000 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30049
+copper slab~
+a Slab of Copper Strength~
+A slab of copper lies here.~
+~
+41 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30050
+slab iron~
+a Slab of Iron STrengTH~
+A slab of iron lies here.~
+~
+42 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30051
+slab steel~
+a Slab of Steel STRenGTH~
+A slab of steel lies here.~
+~
+43 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30052
+slab adamantite~
+a Slab of Adamantite STRENGTH~
+A slab of adamantite lies here.~
+~
+44 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30053
+gem diamond~
+a Diamond Gem of Sanctuary~
+A diamond lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30054
+gem emerald~
+an Emerald Gem of Acid Shield~
+An emerald lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30055
+gem sapphire~
+a Sapphire Gem of Ice Shield~
+A sapphire lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30056
+gem ruby~
+a Ruby Gem of Fire Shield~
+A ruby lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30057
+gem jade~
+a Jade Gem of Protection~
+Some jade lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30058
+gem pearl~
+a Pearl Gem of Invis~
+A pearl lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30059
+gem topaz~
+a Topaz Gem of Lightning Shield~
+A topaz lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30060
+gem amethyst~
+an Amethyst Gem of Flight~
+An amethyst lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30061
+gem onyx~
+an Onyx Gem of Sneak~
+An onyx lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30062
+gem opal~
+an Opal Gem of Pass Door~
+An opal lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30063
+hilt ivory~
+an Ivory Hilt of Curse~
+An ivory hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30064
+hilt ebony~
+an Ebony Hilt of Blindness~
+An ebony hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30065
+gem lazuli~
+a Lazuli Gem of Detect Invis~
+A lazuli gem lies here.~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30066
+hilt crystal~
+a Crystal Hilt of Dispel Evil~
+A crystal hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30067
+hilt marble~
+a Marble Hilt of Drain~
+A marble hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30068
+hilt gold~
+a Gold Hilt of Lightning~
+A gold hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30069
+hilt bronze~
+a Bronze Hilt of Acid~
+A bronze hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30070
+hilt sandstone~
+a Sandstone Hilt of Fire~
+A sandstone hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30071
+hilt limestone~
+a Limestone Hilt of Poison~
+A limestone hilt lies here.~
+~
+46 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30072
+moon gate moongate~
+a Moongate~
+A shimmering gate is here, radiating beams of light.~
+~
+27 0 0
+0 0 0
+102 0 0 0
+1000 300 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#30073
+blood rod~
+a twisted Rod of Blood~
+A small rod lies here, filled with blood.~
+~
+25 64 1
+0 0 0
+100000 100000 13 0
+0 10 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#3
+The Disconnection Room~
+This is the room where everyone goes just before they quit.  If you are a 
+mortal you should *NOT* be here, so please get out...NOW.
+~
+0 1073166 1
+D5
+~
+~
+0 0 3001
+S
+#4
+#0Dog #rHouse#n~
+#GWelcome to Jail.  Have a seat and make yourself comfortable.
+ #GYou will need to talk with an IMM or IMP over your behavior before 
+being released, and trying anything to get out of jail without an IMM's 
+approval will result in a more severe punishment. #n   
+#0Dog #rHouse#n
+Seems someone bitched enough to get it removed so boo your ass is still in it.
+~
+0 164651014 0
+S
+#5
+ZIM ZUM Conference room~
+BELL OUT OF ORDER
+PLEASE KNOCK!
+~
+0 135290880 0
+D4
+~
+~
+1 0 11
+D5
+~
+~
+0 0 4
+S
+#6
+Chrono's Room of Fun~
+~
+0 1343250462 1
+S
+#7
+#7A Quiet Bedroom#n~
+You are standing in Alesyira's private quarters.   As you look around the #n
+room, you see a surreal window to the south that is sparkling with strange #n
+lights.   The walls are adorned with several paintings.   The fuzzy carpet #n
+feels very soft and is extremely cushioned,  probably enough to take a nap #n
+on!#n
+~
+0 160456718 0
+E
+carpet~
+What, what's this?  This looks, and feels, like it's made from raw silk.  
+Wow...  maybe it would be nice to just curl up and nap on the floor.   Mmm.
+~
+E
+room~
+Well, you already see the room's description when you type look, 
+so you don't really need to add the 'room' part to your command.  
+Nice try.  I commend you for your effort.   By the way, your fly 
+is unzipped.
+~
+E
+plaque~
+Ok, so you've taken the time to look at this plaque!  How about to look at each of 
+the NOUNS in my room desc?  I made a special description for each major noun, like 
+desk or window, or even lights.  I'd like it if you could REALLY LOOK at the WHOLE 
+room instead of just glancing around once.
+~
+E
+window~
+As you draw nearer to the 'window', you notice it's not really a window, but 
+a glass pane with very small moving lights.  In the center of the window, you 
+can see one of the lights has your name.  This must be how Alesyira keeps tabs 
+on where everyone is... 
+~
+S
+#8
+Ghant base for messing up other peoples rooms~
+This room has been been messed up by Ghant thank you for coming and
+never come again.  NOW LEAVE!  
+~
+0 1074806798 0
+S
+#9
+Kabal's boring place of nothing at all.~
+happy house of evil diabolical person thingy kabal
+lol im bored damn it like the room and my inspired boredom???!!
+~
+0 1064964 0
+S
+#10
+#0Room of Shadows#n~
+~
+0 1224753158 0
+S
+#11
+ZimZum's Office~
+BU2N!
+~
+0 135282692 0
+D5
+~
+~
+1 0 5
+S
+#12
+#sQ#su#se#ss#st #sM#sa#sc#sh#si#sn#se#n~
+Before you stands the great quest machine. Enjoy and beware the gods are watching.
+~
+0 65548 1
+D3
+~
+~
+0 0 3001
+S
+#13
+A Void of Darkness~
+A Utterly black Room, you are floating in a abyess of nothingness.  Is it
+Punishment?  Is it a Mistake?  A form begins to form and a voice can be
+heard but no one can be seen for miles around, can it be you are loosing
+your mind in this room of nothingness.  Or is there a true person in this
+abyess with you?  
+~
+0 16900 0
+S
+#14
+Silvarus' Study~
+~
+0 697328644 0
+S
+#15
+Waiting Room~
+The Room contains a Couch a Table and a water fountain
+Enjoy!
+ 
+-Admins of AL
+~
+0 4 0
+S
+#25
+Malice's Private Room~
+As you enter the room the first thing that catches your eye is a Giant
+King Size Waterbed sitting in the corner looking nice and comfy.  The next
+things you notice is a desktop and 2 laptops networked together making the
+room look like its straight from the martix.  With shelving built into the
+wall to hold the latops and other misc.  Items.  
+~
+0 1066510 0
+S
+#75
+#yA#0ncien#yt D#0oj#yo#n~
+~
+0 134243342 0
+D5
+~
+~
+0 0 3001
+S
+#100
+Your new time out area~
+#oYour in here for a reason relax,#n
+#otake a breath,#n
+#oand STFU#n
+~
+0 1597446 0
+D1
+~
+~
+1 0 101
+S
+#101
+#LThe hallway of my creation#n~
+#RM#ru#RA#rw#RA#rh#RA#rh#RA#rh#RA#n
+~
+0 1073156 0
+D2
+~
+~
+0 0 102
+D3
+~
+~
+1 0 100
+S
+#102
+#LSilks Bedroom where all his prize possession be#n~
+#CSilk#n #cfor#n #lSilk#n
+How quaint
+~
+0 1073156 0
+D0
+~
+~
+0 0 101
+D5
+~
+~
+0 0 103
+S
+#103
+#RT#rh#RE #ri#RN#rs#RA#rn#RE#n#r'#RS#n~
+#lSeCrEt HiDeOuT#n
+~
+0 1073156 0
+D4
+~
+~
+0 0 102
+S
+#151
+Forbidden Fortress~
+~
+0 135290886 0
+D0
+~
+~
+0 0 152
+S
+#152
+Forbidden Fortress~
+~
+0 135290886 0
+D0
+~
+~
+0 0 155
+D1
+~
+~
+0 0 153
+D2
+~
+~
+0 0 151
+D3
+~
+~
+0 0 154
+S
+#153
+Forbidden Fortress~
+~
+0 135290886 0
+D3
+~
+~
+0 0 152
+S
+#154
+Forbidden Fortress~
+~
+0 135290886 0
+D1
+~
+~
+0 0 152
+S
+#155
+Forbidden Fortress~
+~
+0 135290886 0
+D0
+~
+~
+0 0 156
+D2
+~
+~
+0 0 152
+S
+#156
+Forbidden Fortress~
+~
+0 135290886 0
+D0
+~
+~
+0 0 157
+D2
+~
+~
+0 0 155
+S
+#157
+Forbidden Fortress~
+~
+0 135290886 0
+D0
+~
+~
+0 0 160
+D2
+~
+~
+0 0 156
+D4
+~
+~
+0 0 158
+D5
+~
+~
+0 0 159
+S
+#158
+Forbidden Fortress~
+~
+0 135274502 0
+D5
+~
+~
+0 0 157
+S
+#159
+Forbidden Fortress~
+~
+0 135274502 0
+D4
+~
+~
+0 0 157
+S
+#160
+Forbidden Fortress~
+~
+0 135290886 0
+D2
+~
+~
+0 0 157
+S
+#420
+Hughes Get High Room~
+~
+0 4 0
+S
+#500
+Vladd's mean Decapper's room~
+~
+0 135290884 0
+S
+#990
+~
+~
+0 1048576 0
+D1
+~
+~
+0 0 991
+S
+#991
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 992
+S
+#992
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 993
+D3
+~
+~
+0 0 991
+S
+#993
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 994
+D3
+~
+~
+0 0 992
+S
+#994
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 995
+D3
+~
+~
+0 0 993
+S
+#995
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 996
+D3
+~
+~
+0 0 994
+S
+#996
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 997
+D3
+~
+~
+0 0 995
+S
+#997
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 998
+D3
+~
+~
+0 0 996
+S
+#998
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D1
+~
+~
+0 0 999
+D3
+~
+~
+0 0 997
+S
+#999
+Orcs!  What the...  Where am I?~
+~
+0 135282688 0
+D3
+~
+~
+0 0 998
+S
+#1200
+Immortal Waiting Lobby~
+~
+0 1611678740 0
+S
+#3098
+Heal room~
+Your hp/mana/move goes up by 1/10th of your total hp/mana/move
+respectively.  And another thing, if you get full after, you get recalled,
+and get subtracted 10 qp.  
+~
+0 537935876 0
+S
+#3099
+SPARRING FACILITY~
+~
+0 402669572 0
+S
+#4023
+~
+#RT#rh#RE #ri#RN#rs#RA#rn#RE#n
+~
+0 1073158 0
+S
+#7510
+#RU#rn#Rd#re#Rr#rg#Rr#ro#Ru#rn#Rd#n~
+~
+0 1073158 0
+S
+#7511
+#RU#rn#Rd#re#Rr#rg#Rr#ro#Ru#rn#Rd#n~
+~
+0 1073158 0
+S
+#9000
+#gservant of God#n~
+~
+0 0 0
+D0
+~
+~
+0 0 3715
+S
+#10003
+~
+~
+0 16388 0
+S
+#10098
+~
+~
+0 134234116 0
+S
+#10231
+~
+~
+0 1064964 0
+S
+#10232
+(No Name - inform an immy if you get stuck.)~
+~
+0 1073158 0
+S
+#10610
+#RW#7inner's #RC#7ircle#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 10613
+D1
+~
+~
+0 0 10611
+D3
+~
+~
+0 0 10612
+S
+#10611
+#RD#0ead #RE#0nd#n~
+~
+0 1064960 0
+D3
+~
+~
+0 0 10610
+S
+#10612
+#RD#0ead #RE#0nd#n~
+~
+0 1064960 0
+D1
+~
+~
+0 0 10610
+S
+#10613
+#0Exiting the Winner's Circle#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 10614
+D2
+~
+~
+0 0 10610
+S
+#10614
+#0Exiting the Winner's Circle#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 10615
+D2
+~
+~
+0 0 10613
+S
+#10615
+#0Exiting the Winner's Circle#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 10616
+D2
+~
+~
+0 0 10614
+S
+#10616
+#0Exiting the Winner's Circle#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 3054
+D2
+~
+~
+0 0 10615
+S
+#10617
+~
+~
+0 1476411396 0
+S
+#18000
+Slaughter room~
+~
+0 152068100 0
+S
+#18100
+slut~
+~
+0 164743175 0
+S
+#30043
+~
+~
+0 135282694 0
+S
+#30044
+The Ultimate Horny Bastard Hideout~
+~
+0 4 0
+D2
+~
+~
+0 0 30045
+S
+#30045
+Land of the Horny Bastards~
+~
+0 0 0
+D0
+~
+~
+0 0 30044
+D3
+~
+~
+0 0 30046
+S
+#30046
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30045
+D3
+~
+~
+0 0 30047
+S
+#30047
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30046
+D3
+~
+~
+0 0 30048
+S
+#30048
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30047
+D3
+~
+~
+0 0 30049
+S
+#30049
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30048
+D3
+~
+~
+0 0 30050
+S
+#30050
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30049
+D3
+~
+~
+0 0 30051
+S
+#30051
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30050
+D3
+~
+~
+0 0 30052
+S
+#30052
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30051
+D3
+~
+~
+0 0 30053
+S
+#30053
+Land of the Horny Bastards~
+~
+0 0 0
+D1
+~
+~
+0 0 30052
+S
+#30054
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30073
+D3
+~
+~
+0 0 30055
+S
+#30055
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30054
+D3
+~
+~
+0 0 30056
+S
+#30056
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30055
+D3
+~
+~
+0 0 30057
+S
+#30057
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30056
+D3
+~
+~
+0 0 30058
+S
+#30058
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30057
+D2
+~
+~
+0 0 55057
+S
+#30059
+Marine Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30058
+D3
+~
+~
+0 0 30060
+S
+#30060
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30059
+S
+#30061
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30060
+D3
+~
+~
+0 0 30062
+S
+#30062
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30061
+D3
+~
+~
+0 0 30063
+S
+#30063
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30062
+D3
+~
+~
+0 0 30064
+S
+#30064
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30063
+D3
+~
+~
+0 0 30065
+S
+#30065
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30064
+D3
+~
+~
+0 0 30066
+S
+#30066
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30065
+D3
+~
+~
+0 0 30067
+S
+#30067
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30066
+D3
+~
+~
+0 0 30068
+S
+#30068
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30067
+D3
+~
+~
+0 0 30069
+S
+#30069
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30068
+D3
+~
+~
+0 0 30070
+S
+#30070
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30069
+D3
+~
+~
+0 0 30071
+S
+#30071
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30070
+D3
+~
+~
+0 0 30072
+S
+#30072
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30071
+D3
+~
+~
+0 0 30073
+S
+#30073
+Zergling Battlegrounds~
+~
+0 0 0
+D1
+~
+~
+0 0 30072
+D3
+~
+~
+0 0 30054
+S
+#0
+
+
+
+#SPECIALS
+M 5 spec_gremlin_original
+M 24 spec_vladd_decap
+M 40 spec_wall_force
+M 60 spec_thief
+M 67 spec_thief
+M 68 spec_darkzap
+S
+
+
+
+#RESETS
+O 0 30007 0 4
+O 0 9 0 4
+M 0 5 1 5
+O 0 7 0 7
+M 0 990 6 991
+M 0 990 6 991
+M 0 990 6 991
+M 0 990 6 991
+M 0 990 6 991
+M 0 990 6 991
+M 0 990 6 992
+M 0 990 6 992
+M 0 990 6 992
+M 0 990 6 992
+M 0 990 6 992
+M 0 990 6 992
+M 0 990 6 993
+M 0 990 6 993
+M 0 990 6 993
+M 0 990 6 993
+M 0 990 6 993
+M 0 990 6 993
+M 0 990 6 994
+M 0 990 6 994
+M 0 990 6 994
+M 0 990 6 994
+M 0 990 6 994
+M 0 990 6 994
+M 0 990 6 995
+M 0 990 6 995
+M 0 990 6 995
+M 0 990 6 995
+M 0 990 6 995
+M 0 990 6 995
+M 0 990 6 996
+M 0 990 6 996
+M 0 990 6 996
+M 0 990 6 996
+M 0 990 6 996
+M 0 990 6 996
+M 0 990 6 997
+M 0 990 6 997
+M 0 990 6 997
+M 0 990 6 997
+M 0 990 6 997
+M 0 990 6 997
+M 0 990 6 998
+M 0 990 6 998
+M 0 990 6 998
+M 0 990 6 998
+M 0 990 6 998
+M 0 990 6 998
+M 0 990 6 999
+M 0 990 6 999
+M 0 990 6 999
+M 0 990 6 999
+M 0 990 6 999
+M 0 990 6 999
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 22 10 30044
+M 0 21 1 30045
+M 0 18 2 30045
+M 0 19 2 30045
+M 0 20 2 30045
+M 0 21 2 30045
+M 0 18 2 30046
+M 0 19 2 30046
+M 0 20 2 30046
+M 0 21 2 30046
+M 0 18 2 30047
+M 0 19 2 30047
+M 0 20 2 30047
+M 0 21 2 30047
+M 0 18 2 30048
+M 0 19 2 30048
+M 0 20 2 30048
+M 0 21 2 30048
+M 0 18 2 30049
+M 0 19 2 30049
+M 0 20 2 30049
+M 0 21 2 30049
+M 0 18 2 30050
+M 0 19 2 30050
+M 0 20 2 30050
+M 0 21 2 30050
+M 0 18 2 30051
+M 0 19 2 30051
+M 0 20 2 30051
+M 0 21 2 30051
+M 0 18 2 30052
+M 0 19 2 30052
+M 0 20 2 30052
+M 0 21 2 30052
+M 0 18 2 30053
+M 0 19 2 30053
+M 0 20 2 30053
+M 0 21 2 30053
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

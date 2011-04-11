@@ -1,0 +1,1382 @@
+#AREADATA
+Name        Ghant   House of Cards~
+Builders    Ghant Marisella~
+VNUMs       105000 105999
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#105001
+two of spades~
+The Two of #0Spades#n~
+The #0Two #nof #0Spades #nis here.
+~
+~
+3 0 0 S
+18 0 0 20d2+2 0d0+0
+0 0
+0 0 1
+#105002
+three of spades~
+The Three of #0Spades#n~
+The Three of #0Spades#n is standing here
+~
+~
+3 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105003
+four of spades~
+The Four of #0Spades#n~
+The Four of #0Spades#n is standing here
+~
+~
+1 0 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105004
+five of spades~
+The Five of #0Spades#n~
+The five of #0Spades#n is standing here
+~
+~
+1 0 0 S
+11 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105005
+six of spades~
+The Six of #0Spades#n~
+The Sixe of #0Spades#n is standing here
+~
+~
+3 0 0 S
+31 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105006
+seven of spades~
+The Seven of #0Spades#n~
+The Seven of #0Spades#n is standing here
+~
+~
+3 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105007
+Eight of spades~
+The Eight of #0Spades#n~
+The Eight of #0Spades#n is standing here
+~
+~
+3 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105008
+nine of spades~
+The Nine of #0Spades#n~
+The Nine of #0Spades#n is standing here
+~
+~
+3 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105009
+Ten of spades~
+The Ten of #0Spades#n~
+The Ten of #0Spades#n is standing here
+~
+~
+3 0 0 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105010
+jack of spades~
+The Jack of #0Spades#n~
+The Jack of #0Spades#n is standing here
+~
+~
+3 0 0 S
+23 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105011
+queen of spades~
+The Queen of #0Spades#n~
+The Queen of #0Spades#n is standing here
+~
+~
+3 0 0 S
+46 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105012
+king of spades~
+The King of #0Spades#n~
+The King of #0Spades#n is standing here
+~
+~
+3 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105013
+ace spades card~
+the Ace of #0Spades#n~
+The Ace of #0Spades#n is standing here.
+~
+~
+3 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105015
+two of hearts~
+Two of #RHearts#N~
+Two of #Hearts#n
+~
+~
+3 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105016
+three of hearts~
+Three of #RHearts#N~
+Tree of #Hearts#n
+~
+~
+3 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105017
+four of hearts~
+Four of #RHearts#N~
+Four of #Hearts#n
+~
+~
+3 0 0 S
+14 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105018
+five of hearts~
+Five of #RHearts#N~
+Five of #Hearts#n
+~
+~
+3 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105019
+six of hearts~
+Six of #RHearts#N~
+Six of #Hearts#n
+~
+~
+3 0 0 S
+13 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105020
+seven of hearts~
+Seven of #RHearts#N~
+Seven of #Hearts#n
+~
+~
+3 0 0 S
+21 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105021
+eight of hearts~
+Eight of #RHearts#N~
+Eight of #Hearts#n
+~
+~
+3 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105022
+nine of hearts~
+Nine of #RHearts#N~
+Nine of #Hearts#n
+~
+~
+3 0 0 S
+27 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105023
+ten of hearts~
+Ten of #RHearts#N~
+Ten of #Hearts#n
+~
+~
+3 0 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105024
+jack of hearts~
+Jack of #RHearts#N~
+Jack of #Hearts#n
+~
+~
+3 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105025
+queen of hearts~
+Queen of #RHearts#n~
+Queen of #Hearts#n
+~
+~
+3 0 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105026
+king of hearts~
+King of #RHearts#n~
+King of #Hearts#n is standing here
+~
+~
+3 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105027
+Joker~
+#sJoker#n~
+#sJoker#n is standing here
+~
+~
+3 0 0 S
+24 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105028
+joker~
+#sJoker#n~
+#sJoker#n
+~
+~
+1 0 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105030
+two of clubs~
+two of #0clubs#n~
+Two of #0clubs#n is standing here
+~
+~
+3 0 0 S
+6 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105031
+three of clubs~
+Three of #0clubs#n~
+Three of #0clubs#n is standing here
+~
+~
+3 0 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105032
+four of clubs~
+Four of #0clubs#n~
+Four of #0clubs#n is standing here
+~
+~
+3 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105033
+five of clubs~
+Five of #0clubs#n~
+Five of #0clubs#n is standing here
+~
+~
+3 0 0 S
+16 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105034
+six of clubs~
+Six of #0clubs#n~
+Six of #0clubs#n is standing here
+~
+~
+3 0 0 S
+44 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105035
+seven of clubs~
+Seven of #0clubs#n~
+Seven of #0clubs#n is standing here
+~
+~
+3 0 0 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105036
+eight of clubs~
+Eight of #0clubs#n~
+Eight of #0clubs#n is standing here
+~
+~
+3 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105037
+nine of clubs~
+Nine of #0clubs#n~
+Nine of #0clubs#n is standing here
+~
+~
+3 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105038
+ten of clubs~
+Tenof #0clubs#n~
+Ten of #0clubs#n is standing here
+~
+~
+3 0 0 S
+5 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105039
+jack of clubs~
+Jack of #0clubs#n~
+Jack of #0clubs#n is standing here
+~
+~
+3 0 0 S
+16 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105040
+no name~
+Queen of #0clubs#n~
+Queen of #0clubs#n is standing here
+~
+~
+3 0 0 S
+4 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105041
+king of clubs~
+King of #0clubs#n~
+King of #0clubs#n is standing here
+~
+~
+3 0 0 S
+13 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105042
+ace of clubs~
+Ace of #0clubs#n~
+Ace of #0clubs#n is standing here
+~
+~
+3 0 0 S
+32 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105044
+two diamonds~
+Two of #rDiamonds#n~
+Two of #RDiamonds#n
+~
+~
+1 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105045
+three diamonds~
+Three of #rDiamonds#n~
+Three of #RDiamonds#n
+~
+~
+1 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105046
+four diamonds~
+Four of #rDiamonds#n~
+Four of #RDiamonds#n
+~
+~
+1 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105047
+five diamonds~
+Five of #rDiamonds#n~
+Five of #RDiamonds#n
+~
+~
+1 0 0 S
+14 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105048
+six diamonds~
+Six of #rDiamonds#n~
+Six of #RDiamonds#n
+~
+~
+1 0 0 S
+8 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105049
+sevenm diamonds~
+Seven of #rDiamonds#n~
+Seven of #RDiamonds#n
+~
+~
+1 0 0 S
+13 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105050
+eight diamonds~
+Eight of #rDiamonds#n~
+Eight of #RDiamonds#n
+~
+~
+1 0 0 S
+22 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105051
+nine diamonds~
+Nine of #rDiamonds#n~
+Nine of #RDiamonds#n
+~
+~
+1 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105052
+ten diamonds~
+Ten of #rDiamonds#n~
+Ten of #RDiamonds#n
+~
+~
+1 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105053
+jack diamonds~
+Jack of #rDiamonds#n~
+Jack of #RDiamonds#n
+~
+~
+1 0 0 S
+10 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105054
+queen diamonds~
+Queen of #rDiamonds#n~
+Queen of #RDiamonds#n
+~
+~
+1 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105055
+King diamonds~
+King of #rDiamonds#n~
+King of #RDiamonds#n
+~
+~
+1 0 0 S
+3 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#105056
+ace diamonds~
+Ace of #rDiamonds#n~
+Ace of #RDiamonds#n
+~
+~
+1 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#105000
+Enterance to the House of Cards#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105001
+D2
+~
+~
+0 0 105056
+S
+#105001
+The Two of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105002
+D3
+~
+~
+0 0 105000
+S
+#105002
+The Three of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105003
+D3
+~
+~
+0 0 105001
+S
+#105003
+The Four of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105004
+D3
+~
+~
+0 0 105002
+S
+#105004
+The Five of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105005
+D3
+~
+~
+0 0 105003
+S
+#105005
+The Six of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105006
+D3
+~
+~
+0 0 105004
+S
+#105006
+The Seven of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105007
+D3
+~
+~
+0 0 105005
+S
+#105007
+The Eight of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105008
+D3
+~
+~
+0 0 105006
+S
+#105008
+The Nine of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105009
+D3
+~
+~
+0 0 105007
+S
+#105009
+The Ten of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105010
+D3
+~
+~
+0 0 105008
+S
+#105010
+The Jack of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105011
+D3
+~
+~
+0 0 105009
+S
+#105011
+The Queen of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105012
+D3
+~
+~
+0 0 105010
+S
+#105012
+The King of #0Spades#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105013
+D3
+~
+~
+0 0 105011
+S
+#105013
+The Ace of #0Spades#n~
+~
+0 1048576 0
+D0
+~
+~
+0 0 105014
+D3
+~
+~
+0 0 105012
+S
+#105014
+Rest Spot~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105015
+D2
+~
+~
+0 0 105013
+S
+#105015
+The Two of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105016
+D3
+~
+~
+0 0 105014
+S
+#105016
+The Three of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105017
+D3
+~
+~
+0 0 105015
+S
+#105017
+The Four of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105018
+D3
+~
+~
+0 0 105016
+S
+#105018
+The Five of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105019
+D3
+~
+~
+0 0 105017
+S
+#105019
+The Six of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105020
+D3
+~
+~
+0 0 105018
+S
+#105020
+The Seven of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105021
+D3
+~
+~
+0 0 105019
+S
+#105021
+The Eight of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105022
+D3
+~
+~
+0 0 105020
+S
+#105022
+The Nine of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105023
+D3
+~
+~
+0 0 105021
+S
+#105023
+The Ten of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105024
+D3
+~
+~
+0 0 105022
+S
+#105024
+The Jack of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105025
+D3
+~
+~
+0 0 105023
+S
+#105025
+The Queen of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105026
+D3
+~
+~
+0 0 105024
+S
+#105026
+The King of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105027
+D3
+~
+~
+0 0 105025
+S
+#105027
+The Ace of #RHearts#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105028
+D3
+~
+~
+0 0 105026
+S
+#105028
+The #sJokers#n House.~
+Uh oh The big bad joker boss guy is coming to get you!  
+~
+0 1048576 0
+D0
+~
+~
+0 0 105029
+D3
+~
+~
+0 0 105027
+S
+#105029
+Rest Spot~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105030
+D2
+~
+~
+0 0 105028
+S
+#105030
+The Two of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105031
+D3
+~
+~
+0 0 105029
+S
+#105031
+The Three of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105032
+D3
+~
+~
+0 0 105030
+S
+#105032
+The Four of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105033
+D3
+~
+~
+0 0 105031
+S
+#105033
+The Five of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105034
+D3
+~
+~
+0 0 105032
+S
+#105034
+The Six of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105035
+D3
+~
+~
+0 0 105033
+S
+#105035
+The Seven of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105036
+D3
+~
+~
+0 0 105034
+S
+#105036
+The Eight of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105037
+D3
+~
+~
+0 0 105035
+S
+#105037
+The Nine of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105038
+D3
+~
+~
+0 0 105036
+S
+#105038
+The Ten of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105039
+D3
+~
+~
+0 0 105037
+S
+#105039
+The Jack of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105040
+D3
+~
+~
+0 0 105038
+S
+#105040
+The Queen of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105041
+D3
+~
+~
+0 0 105039
+S
+#105041
+The King of #0Clubs#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105042
+D3
+~
+~
+0 0 105040
+S
+#105042
+The Ace of #0Clubs#n~
+~
+0 1048576 0
+D0
+~
+~
+0 0 105043
+D3
+~
+~
+0 0 105041
+S
+#105043
+Rest Spot~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105044
+D2
+~
+~
+0 0 105042
+S
+#105044
+The Two of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105045
+D3
+~
+~
+0 0 105043
+S
+#105045
+The Three of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105046
+D3
+~
+~
+0 0 105044
+S
+#105046
+The Four of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105047
+D3
+~
+~
+0 0 105045
+S
+#105047
+The Five of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105048
+D3
+~
+~
+0 0 105046
+S
+#105048
+The Six of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105049
+D3
+~
+~
+0 0 105047
+S
+#105049
+The Seven of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105050
+D3
+~
+~
+0 0 105048
+S
+#105050
+The Eight of #RDiamonds#n~
+~
+0 1048580 0
+D1
+~
+~
+0 0 105051
+D3
+~
+~
+0 0 105049
+S
+#105051
+The Nine of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105052
+D3
+~
+~
+0 0 105050
+S
+#105052
+The Ten of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105053
+D3
+~
+~
+0 0 105051
+S
+#105053
+The Jack of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105054
+D3
+~
+~
+0 0 105052
+S
+#105054
+The Queen of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105055
+D3
+~
+~
+0 0 105053
+S
+#105055
+The King of #RDiamonds#n~
+~
+0 1048576 0
+D1
+~
+~
+0 0 105056
+D3
+~
+~
+0 0 105054
+S
+#105056
+The Ace of #RDiamonds#n~
+~
+0 1048576 0
+D0
+~
+~
+0 0 105000
+D3
+~
+~
+0 0 105055
+S
+#105057
+The #sJokers#n House.~
+~
+0 4 0
+S
+#105157
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 105001 1 105001
+M 0 105002 1 105002
+M 0 105003 1 105003
+M 0 105004 1 105004
+M 0 105005 1 105005
+M 0 105006 1 105006
+M 0 105007 1 105007
+M 0 105008 1 105008
+M 0 105009 1 105009
+M 0 105010 1 105010
+M 0 105011 1 105011
+M 0 105012 1 105012
+M 0 105013 1 105013
+M 0 105015 1 105015
+M 0 105016 1 105016
+M 0 105017 1 105017
+M 0 105018 1 105018
+M 0 105019 1 105019
+M 0 105020 1 105020
+M 0 105021 1 105021
+M 0 105022 1 105022
+M 0 105023 1 105023
+M 0 105024 1 105024
+M 0 105025 1 105025
+M 0 105026 1 105026
+M 0 105027 1 105027
+M 0 105028 1 105028
+M 0 105030 1 105030
+M 0 105030 1 105030
+M 0 105031 1 105031
+M 0 105032 1 105032
+M 0 105033 1 105033
+M 0 105034 1 105034
+M 0 105035 1 105035
+M 0 105036 1 105036
+M 0 105037 1 105037
+M 0 105038 1 105038
+M 0 105039 1 105039
+M 0 105040 1 105040
+M 0 105041 1 105041
+M 0 105042 1 105042
+M 0 105044 1 105044
+M 0 105044 1 105044
+M 0 105045 1 105045
+M 0 105045 1 105045
+M 0 105046 1 105046
+M 0 105046 1 105046
+M 0 105047 1 105047
+M 0 105047 1 105047
+M 0 105048 1 105048
+M 0 105049 1 105049
+M 0 105050 1 105050
+M 0 105051 1 105051
+M 0 105052 1 105052
+M 0 105053 1 105053
+M 0 105054 1 105054
+M 0 105055 1 105055
+M 0 105056 1 105056
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

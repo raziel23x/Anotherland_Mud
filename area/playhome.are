@@ -1,0 +1,268 @@
+#AREADATA
+Name        Mari    Player Homes~
+Builders    Marisella Ghant~
+VNUMs       40800 40899
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40800
+bruce lee dummy ~
+#GT#grainer~
+The #Gt#grainer #nof #RM#rarisella#n and #CJ#coshua#n is here
+~
+~
+68999 0 0 S
+11 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40800
+marisella sex swing~
+#RMa#rr#Ris#re#Rll#ra#R's sex swing#n~
+#RMa#rr#Ris#re#Rll#ra#R's sex swing#0 is here, it looks as if it has been used recently.#n~
+~
+12 323 0
+0 0 0
+1 2 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40801
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40803
+none~
+.~
+.~
+~
+12 0 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40806
+A silk covered bed~
+a #7silk#n covered bed~
+A #7silk#n covered bed~
+~
+12 2 16384
+0 0 524288
+1 10 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40807
+Prison Sex~
+#RM#rarisella's prison#n~
+#RM#rarisella's prison#n~
+~
+12 0 0
+0 0 0
+2 3 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40899
+Test Weapon~
+test Weapon~
+Test weapon~
+~
+5 0 16385
+0 0 0
+238 100 100 4
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40800
+#CS#7a#Cn#7c#Ct#7u#Ca#7r#Cy #7of the #CS#7k#Ci#7e#Cs#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 40801
+S
+#40801
+Livingroom~
+~
+0 152060422 0
+D0
+~
+~
+0 0 40802
+D1
+~
+~
+0 0 40803
+D2
+~
+~
+0 0 40800
+D3
+~
+~
+0 0 0
+D4
+~
+~
+0 0 40804
+S
+#40802
+Kitchen~
+Your standing in my kitchen so make it quick, then be so kind as to get
+the hell out.  If you choose to stay however, rest assured I will visit
+you soon.  Regards, the Owners.
+~
+0 135282694 0
+D2
+~
+~
+0 0 40801
+S
+#40803
+#0Tr#Ra#0in#Ri#0ng #RR#0oo#Rm#n~
+~
+0 16796166 0
+D3
+~
+~
+0 0 40801
+S
+#40804
+Upper Level Hallway~
+~
+0 12 0
+D0
+~
+~
+0 0 40805
+D1
+~
+~
+8384615 0 40806
+D2
+~
+~
+0 0 3054
+D3
+~
+~
+524291 0 0
+D5
+~
+~
+0 0 40801
+S
+#40805
+...Where your worst dreams sleep, while the good ones run rampant...~
+~
+0 135291402 0
+D2
+~
+~
+0 0 40804
+D5
+~
+~
+0 0 0
+S
+#40806
+#b#RC#l#b#R#lh#b#Rr#lo#b#Rn#lo#b#R'#ls #b#RP#ll#b#Ra#ly #b#RR#lo#b#Ro#lm#n~
+Welcome to my get away, you notice the walls are painted with gold. 
+Looking around you notice a silk covered bed with roses in a vase to the
+side on a table.  
+~
+0 1073178 0
+D3
+~
+~
+8384615 0 40804
+S
+#40890
+#CReal#Ra#0tron#n~
+This room is controlled by your thoughts. It brings anything you can imagine to life. If you cant work this room that must mean your I.Q. is not very high. You must be neerly retarted for it not to work.
+~
+0 135290884 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 40800 1 40803
+O 0 40806 0 40805
+O 0 40806 0 40806
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

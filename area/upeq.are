@@ -1,0 +1,974 @@
+#AREADATA
+Name        upgrade equipment~
+Builders    Beorn~
+VNUMs       200501 210000
+Security    9
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#200501
+chaos ring~
+#R[#0*#R] #rA #bChaos #rRing #R[#0*#R]#n~
+A shimmering piece of chaos lies here.~
+~
+9 786755 3
+0 0 16777216
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+18 750
+A
+19 750
+A
+13 3000
+A
+12 3000
+A
+14 3000
+A
+5 7
+A
+2 7
+A
+1 7
+A
+3 7
+A
+4 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200502
+Chaos Collar~
+#R[#0*#R] #rA #bChaos #rCollar #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 5
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200503
+Chaos Plate~
+#R[#0*#R] #rA #bChaos #rPlate #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 9
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200504
+Anotherland another land realm dagger~
+#L{*}#R{#LAnother #RLand Dagger#L}#R{*}#n~
+One of the best Daggers in the world.~
+~
+5 803139 16385
+0 24 0
+0 200 300 11
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200505
+Chaos Helm~
+#R[#0*#R] #rA #bChaos #rHelm #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 17
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200506
+Chaos Leggings~
+#R[#0*#R] #rSome #bChaos #rLeggings #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 33
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200507
+Chaos Boots~
+#R[#0*#R] #rSome #bChaos #rBoots #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 65
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200508
+Chaos Gauntlets~
+#R[#0*#R] #rSome #bChaos #rGauntlets #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 129
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200509
+Chaos Sleeves~
+#R[#0*#R] #rSome #bChaos #rSleeves #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 257
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200510
+Chaos Cape~
+#R[#0*#R] #rA #bChaos #rCape #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 1025
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200511
+Chaos Belt~
+#R[#0*#R] #rA #bChaos #rBelt #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 2049
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200512
+Chaos Bracer~
+#R[#0*#R] #rA #bChaos #rBracer #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 4097
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200513
+Chaos Visor~
+#R[#0*#R] #rA #bChaos #rVisor #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 262467 32769
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200514
+Chaos Katana~
+#R[#0*#R] #rA #bChaos #rKatana #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+5 786755 8193
+0 8 0
+0 300 400 1
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200515
+Chaos Longsword~
+#R[#0*#R] #rA #bChaos #rLongsword #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+5 786755 8193
+0 24 0
+0 300 400 3
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200516
+Chaos Sphere~
+#R[#0*#R] #rA #bChaos #rSphere #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 786755 524289
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200517
+Chaos Satchel~
+#R[#0*#R] #rA #bChaos #rSatchel #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+9 786755 65537
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200518
+Chaos Dagger~
+#R[#0*#R] #rA #bChaos #rDagger #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+5 786755 8193
+0 24 0
+0 300 400 11
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200519
+Chaos Tattoo~
+#R[#0*#R] #rA #bChaos #rTattoo #R[#0*#R]#n~
+A chunk of chaos lies here.~
+~
+15 786755 131073
+0 0 0
+250 0 0 0
+0 0 0
+A
+17 -750
+A
+19 750
+A
+18 750
+A
+12 3000
+A
+14 3000
+A
+13 3000
+A
+3 7
+A
+5 7
+A
+2 7
+A
+4 7
+A
+1 7
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200520
+Mithril Ring~
+#r[#l*#r] #0A #0Mithril #0Ring #r[#l*#r]#n~
+A mithril item.~
+~
+9 786755 3
+0 0 0
+300 0 0 0
+0 0 0
+A
+17 -1000
+A
+19 1000
+A
+18 1000
+A
+12 4000
+A
+14 4000
+A
+13 4000
+A
+3 9
+A
+5 9
+A
+2 9
+A
+4 9
+A
+1 9
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200521
+Mithril Collar~
+#r[#l*#r] #0A #0Mithril #0Collar #r[#l*#r]#n~
+A mithril item.~
+~
+9 786755 5
+0 0 0
+300 0 0 0
+0 0 0
+A
+17 -1000
+A
+19 1000
+A
+18 1000
+A
+12 4000
+A
+14 4000
+A
+13 4000
+A
+3 9
+A
+5 9
+A
+2 9
+A
+4 9
+A
+1 9
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200522
+Mithril Plate~
+#r[#l*#r] #0A #0Mithril #0Plate #r[#l*#r]#n~
+A mithril item.~
+~
+9 786755 9
+0 0 0
+300 0 0 0
+0 0 0
+A
+17 -1000
+A
+19 1000
+A
+18 1000
+A
+12 4000
+A
+14 4000
+A
+13 4000
+A
+3 9
+A
+5 9
+A
+2 9
+A
+4 9
+A
+1 9
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200523
+Mithril Helm~
+#r[#l*#r] #0A #0Mithril #0Helm #r[#l*#r]#n~
+A mithril item.~
+~
+9 786755 17
+0 0 0
+300 0 0 0
+0 0 0
+A
+17 -1000
+A
+19 1000
+A
+18 1000
+A
+12 4000
+A
+14 4000
+A
+13 4000
+A
+3 9
+A
+5 9
+A
+2 9
+A
+4 9
+A
+1 9
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#200524
+Mithril Leggings~
+#r[#l*#r] #0A #0Mithril #0Leggings #r[#l*#r]#n~
+A mithril item.~
+~
+9 786755 33
+0 0 0
+300 0 0 0
+0 0 0
+A
+17 -1000
+A
+19 1000
+A
+18 1000
+A
+12 4000
+A
+14 4000
+A
+13 4000
+A
+3 9
+A
+5 9
+A
+2 9
+A
+4 9
+A
+1 9
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

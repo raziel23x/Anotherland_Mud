@@ -1,0 +1,2689 @@
+#AREADATA
+Name        New area~
+Builders    Mavrick~
+VNUMs       5000000 6000000
+Security    1
+Recall      3001
+Flags	      16
+End
+
+
+
+#MOBILES
+#5000000
+fucktard~
+Fucktard~
+Pisses on your leg
+~
+~
+1 128 0 S
+40000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#5000005
+Siamese Twin~
+short~
+Long
+~
+~
+1 0 0 S
+687 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#5000000
+socket test~
+derts socket test~
+Derts socket test~
+~
+70 0 1
+0 0 0
+250000 250000 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5000001
+grepper~
+grepper~
+Grepper~
+~
+5 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5000002
+ghant bed~
+#GGhant's king sized bed.#n~
+#GGhant's king sized bed.#n lies here~
+~
+12 0 1
+0 0 0
+1 20 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5000005
+sword~
+a singing sword~
+A long blade admitting a long, beautiful song.~
+~
+5 0 8193
+0 0 0
+0 100 400 3
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5000007
+test key~
+key~
+(no description)~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#5000020
+CowsBane~
+cowsbane~
+Cowsbane Legendary Sword Of The Cow Hunter~
+~
+5 0 129
+0 0 0
+0 1000 5000 3
+10 19 0
+A
+17 -10000
+A
+-99 10000
+A
+19 10000
+A
+18 10000
+A
+17 -10000
+A
+18 10000
+A
+19 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#5000000
+~
+_.  :*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:. 
+_.  :*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.
+:*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _. 
+:*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __. 
+:*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _. 
+:*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __. 
+:*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _. 
+:*-*:.  _.  :*-*:.  __.  :*-*:.  _.  :*-*:.  _.  :*-*:.  _.  :*-*:.  __.  
+~
+0 4 0
+D0
+~
+~
+0 0 5000001
+S
+#5000001
+~
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+.,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,..,/**/,..,/*^*/,..,/*^*/,..,/*^*/,..,/*^*/,.
+~
+0 0 0
+D0
+~
+~
+0 0 5000002
+D2
+~
+~
+0 0 5000000
+S
+#5000002
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000003
+D2
+~
+~
+0 0 5000001
+S
+#5000003
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000004
+D2
+~
+~
+0 0 5000002
+S
+#5000004
+this is the way it should b~
+~
+0 0 0
+D0
+~
+~
+0 0 5000005
+D1
+~
+~
+0 0 5000020
+D2
+~
+~
+0 0 5000003
+S
+#5000005
+Hidden within the mists of tall trees~
+~
+0 0 0
+D1
+~
+~
+0 0 5000006
+D2
+~
+~
+0 0 5000004
+D3
+~
+~
+0 0 5000008
+S
+#5000006
+~
+~
+0 0 0
+D0
+~
+~
+103 5000007 5000007
+D1
+~
+~
+0 0 5000005
+D3
+~
+~
+0 0 5000005
+S
+#5000007
+~
+~
+0 0 0
+D2
+~
+~
+103 5000007 5000006
+S
+#5000008
+A path within mist~
+A long winding path leads through the trees as the mists gives way. Looking around, some wildlife can be seen as the blink of their eyes give to thir location.
+~
+0 0 0
+D0
+~
+~
+0 0 5000009
+D1
+~
+~
+0 0 5000005
+S
+#5000009
+Hidden Cavern through the Mists~
+~
+0 0 0
+D0
+~
+~
+0 0 5000010
+D2
+~
+~
+0 0 5000008
+S
+#5000010
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5000009
+S
+#5000020
+Mav's room of boredom~
+Ohhhhh You have really done it NOW! Mavrick is on to you
+Move and your in the Dog House!!!! and if it's mom Happy Mothers Day!
+~
+0 20997124 0
+D3
+~
+~
+0 0 5000004
+D4
+~
+~
+0 0 5000021
+S
+#5000021
+~
+~
+0 0 0
+D5
+~
+~
+0 0 5000020
+S
+#5000100
+blah~
+~
+0 0 0
+D0
+~
+~
+0 0 5000101
+S
+#5000101
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000101
+D2
+~
+~
+0 0 5000100
+D3
+~
+~
+0 0 5000102
+D4
+~
+~
+0 0 5000101
+D5
+~
+~
+0 0 5000101
+S
+#5000102
+dig 5000104~
+~
+0 0 0
+D0
+~
+~
+0 0 5000102
+D1
+~
+~
+0 0 5000102
+D2
+~
+~
+0 0 5000103
+D3
+~
+~
+0 0 5000102
+D4
+~
+~
+0 0 5000102
+D5
+~
+~
+0 0 5000102
+S
+#5000103
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000103
+D1
+~
+~
+0 0 5000104
+D2
+~
+~
+0 0 5000103
+D3
+~
+~
+0 0 5000103
+D4
+~
+~
+0 0 5000103
+D5
+~
+~
+0 0 5000103
+S
+#5000104
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000104
+D2
+~
+~
+0 0 5000104
+D3
+~
+~
+0 0 5000103
+D4
+~
+~
+0 0 5000105
+S
+#5000105
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000106
+D5
+~
+~
+0 0 5000104
+S
+#5000106
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5000105
+D5
+~
+~
+0 0 5000107
+S
+#5000107
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5000108
+D4
+~
+~
+0 0 5000106
+S
+#5000108
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000107
+D2
+~
+~
+0 0 5000109
+S
+#5000109
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000110
+S
+#5000110
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000111
+D2
+~
+~
+0 0 5000109
+S
+#5000111
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5000110
+D5
+~
+~
+0 0 5000112
+S
+#5000112
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5000113
+D4
+~
+~
+0 0 5000111
+S
+#5000113
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000114
+S
+#5000114
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000115
+D3
+~
+~
+0 0 5000113
+S
+#5000115
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5000116
+S
+#5000116
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000115
+D2
+~
+~
+0 0 5000117
+S
+#5000117
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000116
+D3
+~
+~
+0 0 5000118
+S
+#5000118
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000117
+D3
+~
+~
+0 0 5000119
+S
+#5000119
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000118
+D2
+~
+~
+0 0 5000120
+S
+#5000120
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000119
+D4
+~
+~
+0 0 5000121
+S
+#5000121
+~
+~
+0 0 0
+D4
+~
+~
+0 0 5000122
+D5
+~
+~
+0 0 5000120
+S
+#5000122
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000123
+D5
+~
+~
+0 0 5000121
+S
+#5000123
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5000122
+S
+#5000124
+dark forest~
+~
+0 0 10
+D0
+~
+~
+0 0 5000125
+D1
+~
+~
+0 0 5000125
+D2
+~
+~
+0 0 5000125
+D5
+~
+~
+0 0 5000125
+S
+#5000125
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000124
+D2
+~
+~
+0 0 5000124
+D3
+~
+~
+0 0 5000124
+D4
+~
+~
+0 0 5000124
+S
+#5000126
+~
+~
+0 4 0
+S
+#5000128
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000129
+D1
+~
+~
+0 0 5000129
+D2
+~
+~
+0 0 5000129
+D4
+~
+~
+0 0 5000129
+S
+#5000129
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000128
+D1
+~
+~
+0 0 5000130
+D2
+~
+~
+0 0 5000131
+D3
+~
+~
+0 0 5000131
+D5
+~
+~
+0 0 5000131
+S
+#5000130
+The Wasteland~
+~
+0 0 10
+D1
+~
+~
+0 0 5000131
+D3
+~
+~
+0 0 5000129
+D4
+~
+~
+0 0 5000131
+S
+#5000131
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000129
+D1
+~
+~
+0 0 5000129
+D3
+~
+~
+0 0 5000130
+D4
+~
+~
+0 0 5000129
+D5
+~
+~
+0 0 5000130
+S
+#5000135
+The Wasteland~
+~
+0 0 10
+D1
+~
+~
+0 0 5000136
+D2
+~
+~
+0 0 5000136
+D3
+~
+~
+0 0 5000136
+D5
+~
+~
+0 0 5000136
+S
+#5000136
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000135
+D1
+~
+~
+0 0 5000135
+D3
+~
+~
+0 0 5000135
+D4
+~
+~
+0 0 5000135
+S
+#5000140
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000141
+D3
+~
+~
+0 0 5000141
+D5
+~
+~
+0 0 5000141
+S
+#5000141
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000142
+D1
+~
+~
+0 0 5000140
+D2
+~
+~
+0 0 5000140
+D4
+~
+~
+0 0 5000140
+D5
+~
+~
+0 0 5000142
+S
+#5000142
+The Wasteland~
+~
+0 0 10
+D2
+~
+~
+0 0 5000141
+D4
+~
+~
+0 0 5000141
+S
+#5000150
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000151
+D1
+~
+~
+0 0 5000151
+D3
+~
+~
+0 0 5000151
+D5
+~
+~
+0 0 5000151
+S
+#5000151
+The Wasteland~
+~
+0 0 10
+D1
+~
+~
+0 0 5000150
+D2
+~
+~
+0 0 5000150
+D3
+~
+~
+0 0 5000150
+D4
+~
+~
+0 0 5000150
+S
+#5000152
+The Wasteland~
+~
+0 0 10
+D2
+~
+~
+0 0 5000153
+D5
+~
+~
+0 0 5000153
+S
+#5000153
+The Wasteland~
+~
+0 0 10
+D0
+~
+~
+0 0 5000152
+D4
+~
+~
+0 0 5000152
+S
+#5000155
+#yThe Wasteland#n~
+~
+0 4 10
+S
+#5000160
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. You feel completely lost...
+~
+0 4 10
+S
+#5000200
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000200
+D1
+~
+~
+0 0 5000200
+D2
+~
+~
+0 0 5000200
+D3
+~
+~
+0 0 5000200
+D4
+~
+~
+0 0 5000200
+D5
+~
+~
+0 0 5000201
+S
+#5000201
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000201
+D1
+~
+~
+0 0 5000201
+D2
+~
+~
+0 0 5000201
+D3
+~
+~
+0 0 5000202
+D4
+~
+~
+0 0 5000200
+S
+#5000202
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000202
+D1
+~
+~
+0 0 5000202
+D2
+~
+~
+0 0 5000202
+D3
+~
+~
+0 0 5000202
+D4
+~
+~
+0 0 5000202
+D5
+~
+~
+0 0 5000203
+S
+#5000203
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000203
+D1
+~
+~
+0 0 5000203
+D2
+~
+~
+0 0 5000203
+D3
+~
+~
+0 0 5000203
+D4
+~
+~
+0 0 5000204
+S
+#5000204
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D1
+~
+~
+0 0 5000204
+D3
+~
+~
+0 0 5000204
+D4
+~
+~
+0 0 5000204
+D5
+~
+~
+0 0 5000205
+S
+#5000205
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000205
+D1
+~
+~
+0 0 5000206
+D2
+~
+~
+0 0 5000205
+D3
+~
+~
+0 0 5000205
+D4
+~
+~
+0 0 5000204
+S
+#5000206
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000206
+D1
+~
+~
+0 0 5000206
+D2
+~
+~
+0 0 5000207
+D3
+~
+~
+0 0 5000206
+D4
+~
+~
+0 0 5000206
+D5
+~
+~
+0 0 5000206
+S
+#5000207
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000207
+D1
+~
+~
+0 0 5000208
+D2
+~
+~
+0 0 5000207
+D3
+~
+~
+0 0 5000207
+D4
+~
+~
+0 0 5000207
+D5
+~
+~
+0 0 5000207
+S
+#5000208
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000208
+D2
+~
+~
+0 0 5000208
+D3
+~
+~
+0 0 5000207
+D5
+~
+~
+0 0 5000209
+S
+#5000209
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000210
+D2
+~
+~
+0 0 5000209
+D4
+~
+~
+0 0 5000209
+D5
+~
+~
+0 0 5000209
+S
+#5000210
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000211
+D1
+~
+~
+0 0 5000210
+D2
+~
+~
+0 0 5000210
+D3
+~
+~
+0 0 5000210
+D4
+~
+~
+0 0 5000210
+D5
+~
+~
+0 0 5000210
+S
+#5000211
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000211
+D1
+~
+~
+0 0 5000211
+D2
+~
+~
+0 0 5000211
+D3
+~
+~
+0 0 5000211
+D4
+~
+~
+0 0 5000211
+D5
+~
+~
+0 0 5000212
+S
+#5000212
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000212
+D1
+~
+~
+0 0 5000212
+D2
+~
+~
+0 0 5000212
+D3
+~
+~
+0 0 5000213
+D4
+~
+~
+0 0 5000211
+S
+#5000213
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000213
+D1
+~
+~
+0 0 5000213
+D2
+~
+~
+0 0 5000213
+D3
+~
+~
+0 0 5000214
+D4
+~
+~
+0 0 5000213
+D5
+~
+~
+0 0 5000213
+S
+#5000214
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000214
+D1
+~
+~
+0 0 5000213
+D2
+~
+~
+0 0 5000215
+D4
+~
+~
+0 0 5000214
+D5
+~
+~
+0 0 5000214
+S
+#5000215
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000215
+D1
+~
+~
+0 0 5000216
+D2
+~
+~
+0 0 5000215
+D3
+~
+~
+0 0 5000215
+D4
+~
+~
+0 0 5000215
+D5
+~
+~
+0 0 5000215
+S
+#5000216
+~
+~
+0 0 0
+D3
+~
+~
+0 0 5000215
+D4
+~
+~
+0 0 5000217
+S
+#5000217
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000218
+D5
+~
+~
+0 0 5000216
+S
+#5000218
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000219
+D3
+~
+~
+0 0 5000217
+S
+#5000219
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000219
+D2
+~
+~
+0 0 5000219
+S
+#5000250
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D1
+~
+~
+0 0 5000250
+D3
+~
+~
+0 0 5000250
+D4
+~
+~
+0 0 5000251
+D5
+~
+~
+0 0 5000250
+S
+#5000251
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000251
+D1
+~
+~
+0 0 5000251
+D2
+~
+~
+0 0 5000251
+D3
+~
+~
+0 0 5000251
+D4
+~
+~
+0 0 5000251
+D5
+~
+~
+0 0 5000252
+S
+#5000252
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000252
+D1
+~
+~
+0 0 5000252
+D2
+~
+~
+0 0 5000252
+D3
+~
+~
+0 0 5000252
+D4
+~
+~
+0 0 5000252
+D5
+~
+~
+0 0 5000252
+S
+#5000255
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000255
+D1
+~
+~
+0 0 5000255
+D2
+~
+~
+0 0 5000255
+D3
+~
+~
+0 0 5000256
+D4
+~
+~
+0 0 5000255
+D5
+~
+~
+0 0 5000255
+S
+#5000256
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000256
+D1
+~
+~
+0 0 5000257
+D2
+~
+~
+0 0 5000256
+D3
+~
+~
+0 0 5000256
+D4
+~
+~
+0 0 5000256
+D5
+~
+~
+0 0 5000256
+S
+#5000257
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000258
+D1
+~
+~
+0 0 5000257
+D2
+~
+~
+0 0 5000257
+D3
+~
+~
+0 0 5000257
+D4
+~
+~
+0 0 5000257
+D5
+~
+~
+0 0 5000257
+S
+#5000258
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D2
+~
+~
+0 0 5000257
+D4
+~
+~
+0 0 5000258
+D5
+~
+~
+0 0 5000259
+S
+#5000259
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000259
+D2
+~
+~
+0 0 5000259
+D4
+~
+~
+0 0 5000259
+D5
+~
+~
+0 0 5000259
+S
+#5000260
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000260
+D1
+~
+~
+0 0 5000260
+D2
+~
+~
+0 0 5000261
+D3
+~
+~
+0 0 5000260
+S
+#5000261
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000260
+D1
+~
+~
+0 0 5000261
+D3
+~
+~
+0 0 5000261
+D4
+~
+~
+0 0 5000262
+D5
+~
+~
+0 0 5000261
+S
+#5000262
+~
+~
+0 0 0
+D1
+~
+~
+0 0 5000262
+D3
+~
+~
+0 0 5000262
+D4
+~
+~
+0 0 5000262
+D5
+~
+~
+0 0 5000262
+S
+#5000265
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000265
+D1
+~
+~
+0 0 5000265
+D2
+~
+~
+0 0 5000265
+D3
+~
+~
+0 0 5000265
+D4
+~
+~
+0 0 5000265
+D5
+~
+~
+0 0 5000266
+S
+#5000266
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000266
+D1
+~
+~
+0 0 5000266
+D2
+~
+~
+0 0 5000266
+D3
+~
+~
+0 0 5000267
+D4
+~
+~
+0 0 5000265
+S
+#5000267
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000267
+D1
+~
+~
+0 0 5000266
+D2
+~
+~
+0 0 5000267
+D4
+~
+~
+0 0 5000267
+D5
+~
+~
+0 0 5000267
+S
+#5000270
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000270
+D1
+~
+~
+0 0 5000270
+D2
+~
+~
+0 0 5000271
+D3
+~
+~
+0 0 5000270
+D4
+~
+~
+0 0 5000270
+D5
+~
+~
+0 0 5000270
+S
+#5000271
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000271
+D1
+~
+~
+0 0 5000271
+D2
+~
+~
+0 0 5000272
+D3
+~
+~
+0 0 5000271
+S
+#5000272
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000271
+D1
+~
+~
+0 0 5000272
+D3
+~
+~
+0 0 5000272
+S
+#5000275
+#yThe Wasteland#n~
+~
+0 4 0
+S
+#5000280
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000280
+D1
+~
+~
+0 0 5000280
+D2
+~
+~
+0 0 5000280
+D3
+~
+~
+0 0 5000280
+D4
+~
+~
+0 0 5000281
+D5
+~
+~
+0 0 5000280
+S
+#5000281
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000281
+D1
+~
+~
+0 0 5000281
+D2
+~
+~
+0 0 5000281
+D3
+~
+~
+0 0 5000281
+D4
+~
+~
+0 0 5000282
+D5
+~
+~
+0 0 5000280
+S
+#5000282
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000282
+D1
+~
+~
+0 0 5000282
+D2
+~
+~
+0 0 5000282
+D3
+~
+~
+0 0 5000282
+D5
+~
+~
+0 0 5000283
+S
+#5000283
+~
+~
+0 0 0
+D4
+~
+~
+0 0 5000282
+S
+#5000285
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D1
+~
+~
+0 0 5000286
+D3
+~
+~
+0 0 5000285
+D4
+~
+~
+0 0 5000285
+D5
+~
+~
+0 0 5000285
+S
+#5000286
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000286
+D1
+~
+~
+0 0 5000287
+D2
+~
+~
+0 0 5000286
+D3
+~
+~
+0 0 5000286
+D4
+~
+~
+0 0 5000286
+D5
+~
+~
+0 0 5000286
+S
+#5000287
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000287
+D2
+~
+~
+0 0 5000287
+D3
+~
+~
+0 0 5000286
+D4
+~
+~
+0 0 5000287
+D5
+~
+~
+0 0 5000287
+S
+#5000290
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000291
+D2
+~
+~
+0 0 5000290
+D4
+~
+~
+0 0 5000290
+D5
+~
+~
+0 0 5000290
+S
+#5000291
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000291
+D2
+~
+~
+0 0 5000291
+D4
+~
+~
+0 0 5000292
+D5
+~
+~
+0 0 5000291
+S
+#5000292
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5000292
+D1
+~
+~
+0 0 5000292
+D2
+~
+~
+0 0 5000292
+D3
+~
+~
+0 0 5000292
+D4
+~
+~
+0 0 5000292
+D5
+~
+~
+0 0 5000292
+S
+#5000295
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D1
+~
+~
+0 0 5000295
+D3
+~
+~
+0 0 5000295
+D4
+~
+~
+0 0 5000296
+D5
+~
+~
+0 0 5000295
+S
+#5000296
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000296
+D1
+~
+~
+0 0 5000296
+D2
+~
+~
+0 0 5000297
+D3
+~
+~
+0 0 5000296
+D4
+~
+~
+0 0 5000296
+D5
+~
+~
+0 0 5000296
+S
+#5000297
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000297
+D1
+~
+~
+0 0 5000297
+D2
+~
+~
+0 0 5000297
+D3
+~
+~
+0 0 5000297
+D4
+~
+~
+0 0 5000297
+D5
+~
+~
+0 0 5000297
+S
+#5000300
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000300
+D1
+~
+~
+0 0 5000301
+D2
+~
+~
+0 0 5000300
+D3
+~
+~
+0 0 5000300
+S
+#5000301
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000302
+D1
+~
+~
+0 0 5000301
+D2
+~
+~
+0 0 5000301
+D3
+~
+~
+0 0 5000301
+D4
+~
+~
+0 0 5000301
+D5
+~
+~
+0 0 5000301
+S
+#5000302
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5000301
+S
+#5000305
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000305
+D1
+~
+~
+0 0 5000306
+D2
+~
+~
+0 0 5000305
+D4
+~
+~
+0 0 5000305
+D5
+~
+~
+0 0 5000305
+S
+#5000306
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000307
+D1
+~
+~
+0 0 5000306
+D2
+~
+~
+0 0 5000306
+D3
+~
+~
+0 0 5000306
+S
+#5000307
+#yThe Wasteland#n~
+The vast expanse of the wasteland extends in to
+the horizon. As the sun beats down about the sand
+and dirt it causes the heat to rise and play
+tricks with your mind. Sandy dunes rise and fall
+throughout the landscape. You feel completely lost...
+~
+0 0 10
+D0
+~
+~
+0 0 5000307
+D1
+~
+~
+0 0 5000307
+D2
+~
+~
+0 0 5000307
+D3
+~
+~
+0 0 5000307
+S
+#5000400
+#yThe Wasteland#n~
+~
+0 4 10
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 5000005 1 5000005
+O 0 5000005 0 5000005
+M 0 5000000 5 5000020
+M 0 5000000 5 5000020
+M 0 5000000 5 5000020
+M 0 5000000 5 5000020
+M 0 5000000 5 5000020
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

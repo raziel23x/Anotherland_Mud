@@ -1,0 +1,2419 @@
+#AREADATA
+Name        Seppuku Hellz Cavern~
+Builders    Kandahar~
+VNUMs       100100 100399
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#100100
+war trooper~
+#0War Trooper#n~
+A war trooper stands here.
+~
+~
+17 0 0 S
+1916 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#100233
+aztech~
+#yA#7ztec#yh#n~
+A legend of the Aztechian Empire stands here.
+~
+~
+17 128 1000 S
+3961 0 0 1d11+2 0d0+0
+0 0
+0 0 0
+#100300
+Storm Raiders~
+Storm Raider~
+A Storm Raider stands here.
+~
+~
+131097 0 0 S
+3451 0 0 1d5+3 0d0+0
+0 0
+0 0 1
+#100370
+android~
+An Android~
+An Android walks around here
+~
+~
+17 532608 0 S
+1008 0 0 0d4+2 0d0+0
+0 0
+0 0 0
+#100375
+boromir~
+#GBo#grom#Gir#n~
+The ancient druid stands here.
+~
+~
+65539 8320 0 S
+4976 0 0 0d8+1 0d0+0
+0 0
+0 0 0
+#100380
+darouu~
+Darouu~
+The Ice Lord stands here.
+~
+~
+1 0 0 S
+6923 0 0 0d12+2 0d0+0
+0 0
+0 0 0
+#100382
+darouu~
+Darouu~
+Darouu stands here.
+~
+~
+3 0 0 S
+6923 0 0 0d13+3 0d0+0
+0 0
+0 0 0
+#100383
+rex~
+#b#0Rex#n~
+Rex stands here.
+~
+~
+3 128 0 S
+7546 0 0 0d16+3 0d0+0
+0 0
+0 0 0
+#100390
+nightcrawler~
+#0Nightcrawler#n~
+A nightcrawler lurks around.
+~
+~
+17 128 -1000 S
+1968 0 0 1d8+3 0d0+0
+0 0
+0 0 0
+#100391
+hydra head~
+#RH#yy#0d#yr#Ra #nHead~
+A hydra head circles around the great Hydra Dragon.
+~
+~
+65547 33554472 0 S
+1440 0 0 0d7+1 0d0+0
+0 0
+0 0 0
+#100397
+hydra~
+#RH#yy#0d#yr#Ra#n~
+The Eternal Dragon of Fire flies here.
+~
+~
+3 128 0 S
+16963 0 0 2d14+3 0d0+0
+0 0
+0 0 0
+#100398
+zephir~
+#CZephir#n~
+Zephir stands here.
+~
+~
+1 8320 0 S
+9998 0 0 10d20+2 0d0+0
+0 0
+0 0 0
+#100399
+Headless Demon~
+#RHea#rdle#Rss #0Demon#n~
+One of satans henchmen stand here.
+~
+~
+17 41943712 -1000 S
+4478 0 0 2d12+2 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#100100
+nullifier~
+#0N#7u#yl#0l#Ci#cf#Ci#ce#Cr#n~
+A Photon Beamer lies here.~
+~
+5 1 8193
+0 0 0
+0 20 16 6
+2 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100233
+Aztechian Sword~
+#yA#7ztec#yh #0S#7wor#0d#n~
+An Aztechian Sword lies here.~
+~
+5 0 8193
+0 0 0
+1078 12 10 3
+4 400 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100241
+noble sword~
+#gNoble #7Sword#n~
+A Nobleman's sword lies here.~
+~
+5 2 8193
+0 0 0
+1001 1 3 3
+0 0 0
+A
+18 78
+A
+19 75
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100300
+dragon tattoo~
+#g<#o-#g>#LD#Crago#Ln #cT#0at#Gt#0o#co#n#g<#o-#g>#n~
+A scalpel lies here ready to tattoo someone.~
+~
+9 1 131073
+0 0 0
+0 0 0 0
+1 0 0
+A
+5 3
+A
+4 2
+A
+19 89
+A
+18 90
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100381
+gloves of destruction~
+#c<#p--#c>#0Gl#7ove#0s #nof #pDe#cstr#Cu#ctio#pn#c<#p--#c>#n~
+Nothing lies here.~
+~
+9 1 129
+0 0 0
+0 0 0 0
+2 0 0
+A
+19 100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100384
+metal gear~
+#R=#7*#R=#0Metal Gear#R=#7*#R=#n~
+A large metal claw lies here.~
+~
+5 3 8193
+0 0 0
+1000 30 21 3
+5 0 0
+A
+17 75
+A
+19 100
+A
+18 100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100396
+flaming skin~
+#RF#yl#0am#yi#Rng #7Skin#n~
+A set of skin roasts on the floor.~
+~
+9 0 131073
+0 0 0
+0 0 0 0
+1 0 0
+A
+19 75
+A
+18 75
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100398
+flaming skull~
+#RFla#rmi#Rng #0S#7k#0u#7l#0l#n~
+A Skulls emits fire here.~
+~
+9 1 17
+0 0 0
+0 0 0 0
+1 0 0
+A
+19 30
+A
+18 25
+A
+17 -50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100100
+#RHellz #0Cavern#n~
+~
+0 8 0
+D2
+~
+~
+0 0 100101
+S
+#100101
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100100
+D2
+~
+~
+0 0 100102
+D3
+~
+~
+0 0 100226
+S
+#100102
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100101
+D2
+~
+~
+0 0 100103
+S
+#100103
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100102
+D2
+~
+~
+0 0 100104
+S
+#100104
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100103
+D1
+~
+~
+0 0 100105
+S
+#100105
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100106
+D3
+~
+~
+0 0 100104
+S
+#100106
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100107
+D2
+~
+~
+0 0 100181
+D3
+~
+~
+0 0 100105
+S
+#100107
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100108
+D3
+~
+~
+0 0 100106
+S
+#100108
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100109
+D3
+~
+~
+0 0 100107
+S
+#100109
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100110
+D3
+~
+~
+0 0 100108
+S
+#100110
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100111
+D3
+~
+~
+0 0 100109
+S
+#100111
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100112
+D2
+~
+~
+0 0 100110
+S
+#100112
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100113
+D2
+~
+~
+0 0 100111
+S
+#100113
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100114
+D2
+~
+~
+0 0 100112
+S
+#100114
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100115
+D2
+~
+~
+0 0 100113
+S
+#100115
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100116
+D2
+~
+~
+0 0 100114
+S
+#100116
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100117
+D3
+~
+~
+0 0 100115
+S
+#100117
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100118
+D3
+~
+~
+0 0 100116
+S
+#100118
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100119
+D3
+~
+~
+0 0 100117
+S
+#100119
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100120
+D3
+~
+~
+0 0 100118
+S
+#100120
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100121
+D3
+~
+~
+0 0 100119
+S
+#100121
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100120
+D2
+~
+~
+0 0 100122
+S
+#100122
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100121
+D2
+~
+~
+0 0 100123
+S
+#100123
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100122
+D2
+~
+~
+0 0 100124
+S
+#100124
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100123
+D2
+~
+~
+0 0 100125
+S
+#100125
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100124
+D2
+~
+~
+0 0 100126
+S
+#100126
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100125
+D2
+~
+~
+0 0 100127
+S
+#100127
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100126
+D2
+~
+~
+0 0 100128
+S
+#100128
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100127
+D2
+~
+~
+0 0 100129
+S
+#100129
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100128
+D2
+~
+~
+0 0 100130
+S
+#100130
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100129
+D1
+~
+~
+0 0 100131
+S
+#100131
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100132
+D3
+~
+~
+0 0 100130
+S
+#100132
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100133
+D3
+~
+~
+0 0 100131
+S
+#100133
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100134
+D3
+~
+~
+0 0 100132
+S
+#100134
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100135
+D3
+~
+~
+0 0 100133
+S
+#100135
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100136
+D3
+~
+~
+0 0 100134
+S
+#100136
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100137
+D2
+~
+~
+0 0 100135
+S
+#100137
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100138
+D2
+~
+~
+0 0 100136
+S
+#100138
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100137
+D3
+~
+~
+0 0 100139
+S
+#100139
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100138
+D3
+~
+~
+0 0 100140
+S
+#100140
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100141
+D1
+~
+~
+0 0 100139
+S
+#100141
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100142
+D2
+~
+~
+0 0 100140
+S
+#100142
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100143
+D2
+~
+~
+0 0 100141
+S
+#100143
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100144
+D3
+~
+~
+0 0 100142
+S
+#100144
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100145
+D3
+~
+~
+0 0 100143
+S
+#100145
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100146
+D3
+~
+~
+0 0 100144
+S
+#100146
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100147
+D3
+~
+~
+0 0 100145
+S
+#100147
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100148
+D3
+~
+~
+0 0 100146
+S
+#100148
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100149
+D3
+~
+~
+0 0 100147
+S
+#100149
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100150
+D3
+~
+~
+0 0 100148
+S
+#100150
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100151
+D3
+~
+~
+0 0 100149
+S
+#100151
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100152
+D3
+~
+~
+0 0 100150
+S
+#100152
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100153
+D3
+~
+~
+0 0 100151
+S
+#100153
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100154
+D3
+~
+~
+0 0 100152
+S
+#100154
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100153
+D2
+~
+~
+0 0 100155
+S
+#100155
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100154
+D1
+~
+~
+0 0 100171
+D2
+~
+~
+0 0 100156
+D3
+~
+~
+0 0 100161
+S
+#100156
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100155
+D2
+~
+~
+0 0 100157
+S
+#100157
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100156
+D2
+~
+~
+0 0 100158
+S
+#100158
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100157
+D2
+~
+~
+0 0 100159
+S
+#100159
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100158
+D2
+~
+~
+0 0 100160
+S
+#100160
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100159
+S
+#100161
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100155
+D3
+~
+~
+0 0 100162
+S
+#100162
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100161
+D3
+~
+~
+0 0 100163
+S
+#100163
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100162
+D3
+~
+~
+0 0 100164
+S
+#100164
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100163
+D3
+~
+~
+0 0 100165
+S
+#100165
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100164
+D2
+~
+~
+0 0 100166
+S
+#100166
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100165
+D2
+~
+~
+0 0 100167
+S
+#100167
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100166
+D2
+~
+~
+0 0 100168
+S
+#100168
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100167
+D1
+~
+~
+0 0 100169
+S
+#100169
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100170
+D3
+~
+~
+0 0 100168
+S
+#100170
+#RHellz #0Cavern#n~
+~
+0 0 0
+D3
+~
+~
+0 0 100169
+S
+#100171
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100172
+D3
+~
+~
+0 0 100155
+S
+#100172
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100173
+D3
+~
+~
+0 0 100171
+S
+#100173
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100174
+D3
+~
+~
+0 0 100172
+S
+#100174
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100175
+D3
+~
+~
+0 0 100173
+S
+#100175
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100176
+D3
+~
+~
+0 0 100174
+S
+#100176
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100175
+D2
+~
+~
+0 0 100177
+S
+#100177
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100176
+D2
+~
+~
+0 0 100178
+S
+#100178
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100177
+D3
+~
+~
+0 0 100179
+S
+#100179
+#RH#yy#0d#yr#Ra #7Lair#n~
+This is the room of the great fire dragon Hydra.  His body is made of flames and lava.  One touch from this dragon can melt solid steel. He also has 10 wicked heads that shoot flames at every moving thing in sight. This truly is no dragon to take lightly.  If a victim stumbles in on accident he very well could end up turning into grilled BBQ with a single blast of flame.
+~
+0 1 0
+D1
+~
+~
+0 0 100178
+D3
+~
+~
+0 0 100180
+S
+#100180
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100179
+S
+#100181
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100106
+D2
+~
+~
+0 0 100182
+S
+#100182
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100181
+D2
+~
+~
+0 0 100183
+S
+#100183
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100182
+D2
+~
+~
+0 0 100184
+S
+#100184
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100183
+D2
+~
+~
+0 0 100185
+S
+#100185
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100184
+D1
+~
+~
+0 0 100204
+D2
+~
+~
+0 0 100186
+S
+#100186
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100185
+D2
+~
+~
+0 0 100187
+S
+#100187
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100186
+D2
+~
+~
+0 0 100188
+S
+#100188
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100187
+D2
+~
+~
+0 0 100189
+S
+#100189
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100188
+D2
+~
+~
+0 0 100190
+S
+#100190
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100189
+D1
+~
+~
+0 0 100191
+S
+#100191
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100192
+D3
+~
+~
+0 0 100190
+S
+#100192
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100193
+D3
+~
+~
+0 0 100191
+S
+#100193
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100300
+D1
+~
+~
+0 0 100194
+D3
+~
+~
+0 0 100192
+S
+#100194
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100195
+D3
+~
+~
+0 0 100193
+S
+#100195
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100196
+D3
+~
+~
+0 0 100194
+S
+#100196
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100197
+D2
+~
+~
+0 0 100195
+S
+#100197
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100198
+D1
+~
+~
+0 0 100205
+D2
+~
+~
+0 0 100196
+S
+#100198
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100199
+D2
+~
+~
+0 0 100197
+S
+#100199
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100200
+D2
+~
+~
+0 0 100198
+S
+#100200
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100199
+D3
+~
+~
+0 0 100201
+S
+#100201
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100200
+D3
+~
+~
+0 0 100202
+S
+#100202
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100201
+D3
+~
+~
+0 0 100203
+S
+#100203
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100202
+D3
+~
+~
+0 0 100204
+S
+#100204
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100203
+D3
+~
+~
+0 0 100185
+S
+#100205
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100206
+D3
+~
+~
+0 0 100197
+S
+#100206
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100207
+D3
+~
+~
+0 0 100205
+S
+#100207
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100208
+D3
+~
+~
+0 0 100206
+S
+#100208
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100209
+D3
+~
+~
+0 0 100207
+S
+#100209
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100210
+D3
+~
+~
+0 0 100208
+S
+#100210
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100211
+D1
+~
+~
+0 0 100222
+D2
+~
+~
+0 0 100213
+D3
+~
+~
+0 0 100209
+S
+#100211
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100212
+D2
+~
+~
+0 0 100210
+S
+#100212
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100215
+D2
+~
+~
+0 0 100211
+S
+#100213
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100210
+D2
+~
+~
+0 0 100214
+S
+#100214
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100213
+S
+#100215
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100216
+D3
+~
+~
+0 0 100212
+S
+#100216
+#RHellz #0Cavern#n~
+~
+0 0 0
+D2
+~
+~
+0 0 100218
+D3
+~
+~
+0 0 100215
+S
+#100217
+~
+~
+0 1477533700 0
+S
+#100218
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100216
+D2
+~
+~
+0 0 100219
+S
+#100219
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100218
+D1
+~
+~
+0 0 100223
+D2
+~
+~
+0 0 100220
+S
+#100220
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100219
+D2
+~
+~
+0 0 100221
+S
+#100221
+#RHellz #0Cavern#n~
+~
+0 0 0
+D0
+~
+~
+0 0 100220
+D3
+~
+~
+0 0 100222
+S
+#100222
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100221
+D2
+~
+~
+0 0 100229
+D3
+~
+~
+0 0 100210
+S
+#100223
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100224
+D3
+~
+~
+0 0 100219
+S
+#100224
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100225
+D3
+~
+~
+0 0 100223
+S
+#100225
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100227
+D3
+~
+~
+0 0 100224
+S
+#100226
+#0Me#7ta#0l #nFactory~
+A large metal machine called "rex" stands here.  He is surronded by androids that look harmless enough.  Noises of people pounding things on metal and screaming can be heard all around.  Suddenly the androids and Rex's eyes light up and begin to move.  Now is a good time to run.  One slash from Rex's Metal Gear can easily chop a victim into pieces. 
+~
+0 0 0
+D1
+~
+~
+0 0 100101
+D3
+~
+~
+0 0 100228
+S
+#100227
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100228
+D3
+~
+~
+0 0 100225
+S
+#100228
+#RHellz #0Cavern#n~
+~
+0 0 0
+D1
+~
+~
+0 0 100226
+D3
+~
+~
+0 0 100227
+S
+#100229
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 100222
+D2
+~
+~
+0 0 100230
+S
+#100230
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 100229
+D1
+~
+~
+0 0 100231
+S
+#100231
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100232
+D3
+~
+~
+0 0 100230
+S
+#100232
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100233
+D3
+~
+~
+0 0 100231
+S
+#100233
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100234
+D3
+~
+~
+0 0 100232
+S
+#100234
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100235
+D3
+~
+~
+0 0 100233
+S
+#100235
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D2
+~
+~
+0 0 100237
+D3
+~
+~
+0 0 100234
+S
+#100237
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 100235
+D1
+~
+~
+0 0 100238
+S
+#100238
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100239
+D3
+~
+~
+0 0 100237
+S
+#100239
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 100240
+D3
+~
+~
+0 0 100238
+S
+#100240
+#RHellz #0Cavern#n~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D3
+~
+~
+0 0 100239
+D4
+~
+~
+0 0 100241
+S
+#100241
+#GBo#gromi#Gr's #nLookout~
+This is where the great druid of the Wysio Hills rests.  He looks like a very strong and powerful man.  He carries a large #0double-bladed#n axe with him.  With a single call to the wild he can get all the animals of the jungle to come to his aid.  This is definatly not a man you want to fight with.
+~
+0 0 3
+D5
+~
+~
+0 0 100240
+S
+#100300
+#RHellz #0Cavern~
+This is definatly a place where evil lurks.  It seems like the perfect working grounds for Satan and his Henchmen.  The cave is so hot that it has a faint red glow throughout it.  The humidity and moisture inside the cave are so great that the cave walls cracked.  Every once in a while a skull can be seen lying on the ground. Echoes of wicked laughter can be heard thoughout these narrow caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 100301
+D2
+~
+~
+0 0 100193
+S
+#100301
+#CIce #7Dome#n~
+This is the supreme warrior of the ice age.  He has been resurrected by several powerful mages and clerics.  He looks like a human but the only diffrence is he is about the size of a skyscraper and has large blue wings.  Be careful for he does not give anyone mercy who fights him.  
+~
+0 0 0
+D2
+~
+~
+0 0 100300
+S
+#100357
+~
+~
+0 0 0
+D3
+~
+~
+0 0 100436
+S
+#100383
+Rex's Stomach~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 100100 spec_zombie_lord
+M 100233 spec_cast_undead
+M 100300 spec_breath_any
+M 100370 spec_executioner
+M 100375 spec_guard_cyborg
+M 100380 spec_breath_frost
+M 100382 spec_cast_mage
+M 100383 spec_breath_fire
+M 100390 spec_assassin
+M 100391 spec_cast_undead
+M 100397 spec_cast_adept
+M 100398 spec_breath_any
+M 100399 spec_cast_undead
+S
+
+
+
+#RESETS
+M 0 100100 5 100100
+E 0 100100 0 16
+M 0 100100 5 100100
+E 0 100100 0 16
+M 0 100100 5 100100
+E 0 100100 0 16
+M 0 100100 5 100100
+E 0 100100 0 16
+M 0 100100 5 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 20 100100
+E 0 100100 0 16
+M 0 100100 10 100112
+E 0 100100 0 16
+M 0 100100 10 100112
+E 0 100100 0 16
+M 0 100100 10 100112
+E 0 100100 0 16
+P 0 100398 0 1
+P 0 100398 0 1
+P 0 100398 0 1
+P 0 100398 0 1
+P 0 100398 0 1
+M 0 100399 5 100117
+M 0 100399 5 100117
+M 0 100399 5 100117
+M 0 100399 5 100117
+M 0 100399 5 100117
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100390 6 100122
+M 0 100397 1 100179
+E 0 100396 0 13
+M 0 100391 5 100179
+M 0 100391 5 100179
+M 0 100391 5 100179
+M 0 100391 5 100179
+M 0 100391 5 100179
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100399 15 100179
+E 0 100398 0 6
+M 0 100100 5 100200
+E 0 100100 0 16
+M 0 100399 5 100200
+E 0 100398 0 6
+M 0 100399 5 100200
+E 0 100398 0 6
+M 0 100399 5 100200
+E 0 100398 0 6
+M 0 100399 5 100200
+E 0 100398 0 6
+M 0 100399 5 100200
+E 0 100398 0 6
+M 0 100383 1 100226
+E 0 100384 0 16
+M 0 100370 5 100226
+M 0 100370 5 100226
+M 0 100370 5 100226
+M 0 100370 5 100226
+M 0 100370 5 100226
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100399 10 100226
+E 0 100398 0 6
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100233 15 100233
+E 0 100233 0 16
+M 0 100100 5 100240
+E 0 100100 0 16
+M 0 100100 5 100240
+E 0 100100 0 16
+M 0 100100 5 100240
+E 0 100100 0 16
+M 0 100375 1 100241
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100300 10 100300
+E 0 100300 0 26
+M 0 100382 1 100301
+E 0 100381 0 9
+M 0 100382 1 100301
+E 0 100381 0 9
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

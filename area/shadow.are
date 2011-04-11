@@ -1,0 +1,1308 @@
+#AREADATA
+Name        Silk    Shadowlands~
+Builders    Silk~
+VNUMs       76000 76099
+Security    5
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#76000
+white moo cow~
+a white moo cow~
+A white moo cow grazes along the field
+~
+~
+17 0 0 S
+128 0 0 -100d1+1 0d0+0
+0 0
+0 0 0
+#76001
+chocolate moo cow~
+a chocolate moo cow~
+A chocolate moo cow's udders are exploding.
+~
+~
+17 0 0 S
+159 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#76002
+chicken~
+a chicken~
+A small chicken is here pecking for food.
+~
+~
+5 0 0 S
+83 0 0 0d1+1 0d0+0
+0 0
+0 0 2
+#76003
+easter bunny~
+The Easter Bunny~
+The Easter Bunny is here screwing the brains out of a hen.
+~
+~
+3 128 0 S
+676 0 0 5d5+3 0d0+0
+0 0
+0 0 1
+#76004
+hen~
+a hen~
+A hen is here getting its brains screwed out by the Easter Bunny.
+~
+~
+3 0 0 S
+152 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#76005
+hen~
+a hen~
+A hen is here roosting.
+~
+~
+1 0 0 S
+111 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#76096
+shadow master~
+#0Shadow Master#n~
+#0Shadow Master#n yells "DESTROY THE LIVING!!!"
+~
+~
+65547 128 -1000 S
+50052 0 0 8d20+3 0d0+0
+0 0
+0 0 1
+#76097
+male slave~
+Male slave~
+A man servant is here to serve you.
+~
+~
+11 128 0 S
+108 0 0 1d1+3 0d0+0
+0 0
+0 0 0
+#76098
+shadow priest~
+#0Shadow Priest#n~
+#0Shadow Priest#n stands over his cauldren.
+~
+~
+65547 192 0 S
+30029 0 0 50d15+3 0d0+0
+0 0
+0 0 1
+#76099
+shadow cleric~
+#0Shadow Cleric#n~
+#0Shadow Cleric#n stands before you.
+~
+~
+65547 128 0 S
+1015 0 0 3d7+3 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#76000
+mushroom shroom~
+a half-eatten shroom~
+A large mushroom, with teeth marks in it, rotts on the ground.~
+~
+19 64 129
+0 0 0
+0 0 0 1
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76001
+bong graffix glass~
+#7a 4 #oFoot #LBlue #cGlass #GGraffix#0(#rR#0)#n~
+A Beutiful Blue Glass Bong has a full bowl of weed.~
+~
+15 0 129
+0 0 0
+5 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76002
+doggy dog treat~
+a doggy treat~
+A delicious treat of meat and cheese catches your eyes.~
+~
+26 0 1
+0 0 0
+1000 'Godbless' ' ' ' '
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76003
+letter~
+letter~
+Letter~
+~
+10 0 1
+0 0 0
+10 'Godbless' 'bless' 'shield'
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76004
+letter e~
+e~
+E~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76005
+letter f~
+f~
+F~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76006
+letter g~
+g~
+G~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76007
+letter h~
+h~
+H~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76008
+letter i~
+i~
+I~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76009
+letter j~
+j~
+J~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76010
+letter k~
+k~
+K~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76011
+letter l~
+l~
+L~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76012
+letter m~
+m~
+M~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76013
+letter n~
+n~
+N~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76014
+letter o~
+o~
+O~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76015
+letter p~
+p~
+P~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76016
+letter q~
+q~
+Q~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76017
+letter r~
+r~
+R~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76018
+letter s~
+s~
+S~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76019
+letter t~
+t~
+T~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76020
+letter u~
+u~
+U~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76021
+letter v~
+v~
+V~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76022
+letter w~
+w~
+W~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76023
+letter x~
+x~
+X~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76024
+letter y~
+y~
+Y~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76025
+letter z~
+z~
+Z~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#76026
+hand takresh~
+the #oHand#n of #RTakresh#n~
+A large hand floats above the ground.~
+~
+5 0 8193
+0 0 0
+0 5 15 9
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#76000
+#0Entrance to the Shadowlands#n~
+#cA carpet of mist covers the floor#n
+~
+0 4 2
+D0
+~
+~
+0 0 76001
+S
+#76001
+#0Fork in the road#n~
+#cGnarled trees block your way north#n
+~
+0 0 2
+D1
+~
+~
+0 0 76006
+D2
+~
+~
+0 0 76000
+D3
+~
+~
+0 0 76002
+S
+#76002
+#0The road to safety?#n~
+#cThe woods seem to be moving#n
+~
+0 0 2
+D1
+~
+~
+0 0 76001
+D3
+~
+~
+0 0 76003
+S
+#76003
+#0Shadow lane#n~
+#cSeems this trail is used quite frequently#n
+~
+0 0 2
+D0
+~
+~
+0 0 76014
+D1
+~
+~
+0 0 76002
+D3
+~
+~
+0 0 76004
+S
+#76004
+#0Shadow Altar of pestilence#n~
+#cYou see rats swarming around the altar#n
+~
+0 0 2
+D1
+~
+~
+0 0 76003
+S
+#76005
+#0Shadow lane#n~
+~
+0 0 2
+D0
+~
+~
+0 0 76015
+D1
+~
+~
+0 0 76014
+S
+#76006
+#0Road to safety?#n~
+#cThe woods some to be breathing#n
+~
+0 0 2
+D1
+~
+~
+0 0 76007
+D3
+~
+~
+0 0 76001
+S
+#76007
+#0Amongst the darkness#n~
+#cIt seems light never touchs this forest#n
+~
+0 0 2
+D0
+~
+~
+0 0 76010
+D1
+~
+~
+0 0 76008
+D3
+~
+~
+0 0 76006
+S
+#76008
+#0Shadow altar of Power#n~
+~
+0 1048576 2
+D3
+~
+~
+0 0 76007
+S
+#76009
+#0Leaving the park#n~
+#cThe fog does not seem as bad along this trail#n
+~
+0 0 2
+D0
+~
+~
+0 0 76021
+D3
+~
+~
+0 0 76010
+S
+#76010
+#0A walk through the park#n~
+~
+0 0 2
+D1
+~
+~
+0 0 76009
+D2
+~
+~
+0 0 76007
+D3
+~
+~
+0 0 76011
+S
+#76011
+#0Strolling through the Shadowlands#n~
+~
+0 0 2
+D1
+~
+~
+0 0 76010
+D3
+~
+~
+0 0 76012
+S
+#76012
+#0Wheres the path?#n~
+#cOh there it is#n
+~
+0 0 2
+D0
+~
+~
+0 0 76018
+D1
+~
+~
+0 0 76011
+S
+#76013
+#0Shadow Grove#n~
+#cThe darkness seems to be overwhelming#n
+~
+0 8192 2
+D0
+~
+~
+0 0 76017
+D5
+~
+~
+0 0 76028
+S
+#76014
+#0Shadow lane#n~
+~
+0 0 2
+D2
+~
+~
+0 0 76003
+D3
+~
+~
+0 0 76005
+S
+#76015
+#0Shadow lane#n~
+~
+0 0 2
+D1
+~
+~
+0 0 76016
+D2
+~
+~
+0 0 76005
+S
+#76016
+#0Shadow drive#n~
+~
+0 0 2
+D0
+~
+~
+0 0 76027
+D3
+~
+~
+0 0 76015
+S
+#76017
+#0A warning#n~
+#cA long path into the light?#n
+~
+0 0 2
+D1
+~
+~
+0 0 76018
+D2
+~
+~
+0 0 76013
+S
+#76018
+#0Following the beaten path...#n~
+#cYou see eyes glow in the woods#n
+~
+0 0 2
+D2
+~
+~
+0 0 76012
+D3
+~
+~
+0 0 76017
+S
+#76019
+#0Backdoor to the Chruch#n~
+~
+0 0 2
+D0
+~
+~
+0 0 76024
+D1
+~
+~
+0 0 76020
+S
+#76020
+#0Sudden fear#n~
+~
+0 0 2
+D1
+~
+~
+0 0 76021
+D3
+~
+~
+0 0 76019
+S
+#76021
+#0Backway in#n~
+~
+0 0 2
+D2
+~
+~
+0 0 76009
+D3
+~
+~
+0 0 76020
+S
+#76022
+#0Bath house#n~
+~
+0 8 2
+D3
+~
+~
+0 0 76023
+S
+#76023
+#0To the Bath house#n~
+#cYou see towels on the ground#n
+~
+0 0 2
+D1
+~
+~
+0 0 76022
+D3
+~
+~
+0 0 76024
+S
+#76024
+#0Kitchen#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76033
+D1
+~
+~
+0 0 76023
+D2
+~
+~
+0 0 76019
+D3
+~
+~
+0 0 76025
+S
+#76025
+#0Storage room#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76024
+S
+#76026
+#0Storage room#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76031
+S
+#76027
+#0Entrance to the Chruch of Shadows#n~
+#cThe gloomy presence of this building sends#n
+#cshivers running up and down your spine#n
+~
+0 0 2
+D0
+~
+~
+0 0 76030
+D2
+~
+~
+0 0 76016
+S
+#76028
+#0Below the Grove#n~
+#cThe mosquitoes are driving you BONKERS#n
+~
+0 1056776 2
+D4
+~
+~
+0 0 76013
+S
+#76029
+#0Aisle of Darkness#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76042
+D1
+~
+~
+0 0 76030
+S
+#76030
+#0Foyer#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76041
+D1
+~
+~
+0 0 76031
+D2
+~
+~
+0 0 76027
+D3
+~
+~
+0 0 76029
+S
+#76031
+#0Hallway of Shadows#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76032
+D2
+~
+~
+0 0 76026
+D3
+~
+~
+0 0 76030
+S
+#76032
+#0Hallway of Shadows#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76039
+D1
+~
+~
+0 0 76033
+D3
+~
+~
+0 0 76031
+S
+#76033
+#0Hallway of Shadows#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76034
+D2
+~
+~
+0 0 76024
+D3
+~
+~
+0 0 76032
+S
+#76034
+#0Hallway of Shadows#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76037
+D1
+~
+~
+0 0 76035
+D3
+~
+~
+0 0 76033
+S
+#76035
+#0Dining room#n~
+#cYou see slop all over the place#n
+~
+0 8 2
+D3
+~
+~
+0 0 76034
+S
+#76036
+#0Slave Quarters#n~
+~
+0 8 2
+D3
+~
+~
+0 0 76037
+S
+#76037
+#0Hallway of Shadows#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76036
+D2
+~
+~
+0 0 76034
+D3
+~
+~
+0 0 76038
+S
+#76038
+#0Slave Quarters#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76037
+S
+#76039
+#0Hallway of Darkness#n~
+~
+0 8 2
+D0
+~
+~
+0 0 76043
+D2
+~
+~
+0 0 76032
+S
+#76040
+#0Priests Quarters#n~
+~
+0 8 2
+D3
+~
+~
+0 0 76041
+S
+#76041
+#0Altar of Shadows#n~
+~
+0 8 2
+D1
+~
+~
+0 0 76040
+D2
+~
+~
+0 0 76030
+S
+#76042
+#0The darkest of closets#n~
+~
+0 8 2
+D2
+~
+~
+0 0 76029
+S
+#76043
+#0Entrance to the Shadow Realms#n~
+#cYou see a dark vortex#n
+~
+0 8 2
+D0
+~
+~
+0 0 76044
+D2
+~
+~
+0 0 76039
+S
+#76044
+#0Realm of Shadows#n~
+~
+0 1048576 0
+D5
+~
+~
+0 0 3001
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76099 8 76030
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76097 8 76031
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76032
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76033
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76034
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76099 80 76035
+M 0 76097 8 76036
+M 0 76097 8 76036
+M 0 76097 8 76036
+M 0 76097 8 76036
+M 0 76097 8 76036
+M 0 76097 8 76036
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76099 80 76037
+M 0 76097 8 76038
+M 0 76097 8 76038
+M 0 76097 8 76038
+M 0 76097 8 76038
+M 0 76097 8 76038
+M 0 76097 8 76038
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76099 80 76039
+M 0 76098 1 76040
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76098 8 76041
+M 0 76096 1 76044
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

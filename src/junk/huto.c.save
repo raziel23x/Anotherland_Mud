@@ -1,0 +1,149 @@
+/****************************************
+ * Code designed by Hutoshi             *
+ * only for use by Anotherland.  Any    *
+ * duplication or use of this class     *
+ * without consent from Hutoshi aka     *
+ * Anthony Davis is strictly prohibited.*
+ * Copyrighted (C) 2003, Anthony Davis  *
+ ****************************************/
+
+
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "merc.h"
+
+
+/*
+ * should always be called with a size that's 0 mod 4
+ */
+char *get_anotherland_banner(char *title, int size)
+{
+  int tSize = strlen(title);
+  int patternsize, bufferspaces = 2, i, blcks;
+  static char buf[200];
+
+  /* just so we can use strcat */
+  buf[0] = '\0';
+
+  /* if we dont want a title, let's fix that quick */
+  if (tSize == 0)
+  {
+    blcks = size / 10;
+
+    strcat(buf, "#0");
+    for (i = 0; i < blcks/2; i++)
+      strcat(buf, ".-=+()+=-.");
+    if (blcks % 2)
+      strcat(buf, "-=+=-");
+    for (i = 0; i < blcks/2; i++)
+      strcat(buf, ".-=+()+=-.");
+    strcat(buf, "#n");
+
+    return buf;
+  }
+
+  /* how much do we spend on patterns, and how much on spaces */
+  patternsize = size - (tSize + 2);
+  bufferspaces += patternsize % 20;
+  patternsize -= patternsize % 20;
+  blcks = patternsize / 10;
+
+  if (blcks < 1)
+  {
+    strcat(buf, "#0.-=+()+=-. #G");
+    strcat(buf, title);
+    strcat(buf, " #0.-=+()+=-.#n");  
+  }
+  else
+  {
+    /* first add patterns */
+    strcat(buf, "#0");
+    for (i = 0; i < blcks/2; i++)
+      strcat(buf, ".-=+()+=-.");
+
+    /* add spaces, title, spaces */
+    for (i = 0; i < bufferspaces/2; i++)
+      strcat(buf, " ");
+    strcat(buf, "#G");
+    strcat(buf, title);
+    strcat(buf, "#0");
+    if (bufferspaces % 2)
+      strcat(buf, " ");
+    for (i = 0; i < bufferspaces/2; i++)
+      strcat(buf, " ");
+
+    /* then add the rest of the pattern */
+    for (i = 0; i < blcks/2; i++)
+      strcat(buf, ".-=+()+=-.");
+    strcat(buf, "#n");
+  }
+
+  return buf;
+}
+
+
+static char * const weapons[] =
+{
+     "unarmed","slice",  "stab",  "slash", "whip", "claw",
+     "blast",  "pound", "crush", "grep", "bite","pierce", "suck"
+};
+
+void do_weaponbuy( CHAR_DATA *ch, char *argument )
+{
+      char buf[MAX_STRING_LENGTH];
+      char arg[MAX_STRING_LENGTH];
+      int x = 0; 
+      buf[0] = '\0';
+      if (IS_NPC(ch)) return;
+
+      if (ch->in_room->vnum != 75)
+      {
+	send_to_char("You are not in the Ancient Dojo!\n\r",ch);
+	return;
+      }
+
+      if (arg[0] == '\0')
+	{
+         for (x=0;x<13;x++)
+           sprintf(buf,"%s#C%-2d#0.#G %-9s#0. #LLevel %-2d#0. #C%-4d#0quest #7 points#0.\r\n",buf,
+           (x+1),weapons[x],ch->wpn_lvl[x],(ch->wpn_lvl[x]+5)*10000);
+         stc(buf,ch);
+         return;
+      }
+     else
+     x = atoi(arg);
+     {
+      x -= 1;
+      if (x<0 || x > 12)
+      {
+       stc("Invalid Number.\r\n",ch);
+       return;
+      }
+      if (ch->wpn[x] < 2000)
+        {
+          stc("You have not reached 2000 in that weapon.\r\n",ch);
+          return;
+        }
+      if (ch->pcdata->quest < ((ch->wpn_lvl[x]+5)*10000))
+        {
+          stc("Not enough quest points.\r\n",ch);
+          return;
+        }
+      ch->pcdata->quest -= ((ch->wpn_lvl[x]+5)*10000);
+      ch->wpn_lvl[x] += 1;
+      ch->wpn[x] = 0;
+      sprintf(buf,"You have improved your mastery of #R%s#n.\r\n",weapons[x]);
+      stc(buf,ch);
+      return;
+     }
+    stc("There is a bug in this command, please report to Hutoshi.\r\n",ch);
+    return;
+   }
+

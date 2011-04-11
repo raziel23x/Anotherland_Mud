@@ -1,0 +1,792 @@
+#AREADATA
+Name        Twilight Zone~
+Builders    Mavrick~
+VNUMs       210001 210100
+Security    1
+Recall      3001
+Flags	      64
+End
+
+
+
+#MOBILES
+#210001
+William Shatner~
+William Shatner~
+#oWilliam Shatner is here being annoying as always
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210002
+Rod serling~
+Rod Serling~
+#0Rod Serling is here narrating a story.
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210003
+Time Element~
+A Time Element~
+#lA Time Element transports you through time.
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210004
+Piano~
+A Piano~
+#CA Piano hypnotizies you with its wretched music.
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210005
+The Grim Reaper~
+The Grim Reaper~
+#RThe Grim Reaper awaits to take you away.
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210006
+William Shatner~
+William Shatner~
+William Shatner
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#210007
+Rod Serling~
+Rod Serling~
+Rod Serling
+~
+~
+3 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#210001
+Twilight portal~
+#7Portal To#n #LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+#7Portal To#n #LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+27 0 0
+0 0 0
+210001 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#210001
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+Life twists you as you revist yesterday.
+~
+0 0 0
+D0
+~
+~
+0 0 210002
+D1
+~
+~
+0 0 210041
+S
+#210002
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210003
+D2
+~
+~
+0 0 210001
+S
+#210003
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210004
+D2
+~
+~
+0 0 210002
+S
+#210004
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210005
+D2
+~
+~
+0 0 210003
+S
+#210005
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210006
+D2
+~
+~
+0 0 210004
+S
+#210006
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210007
+D2
+~
+~
+0 0 210005
+S
+#210007
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210008
+D2
+~
+~
+0 0 210006
+S
+#210008
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210009
+D2
+~
+~
+0 0 210007
+S
+#210009
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210010
+D2
+~
+~
+0 0 210008
+S
+#210010
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210011
+D2
+~
+~
+0 0 210009
+S
+#210011
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210012
+D3
+~
+~
+0 0 210010
+S
+#210012
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210013
+D3
+~
+~
+0 0 210011
+S
+#210013
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210014
+D3
+~
+~
+0 0 210012
+S
+#210014
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210015
+D3
+~
+~
+0 0 210013
+S
+#210015
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210016
+D3
+~
+~
+0 0 210014
+S
+#210016
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210017
+D3
+~
+~
+0 0 210015
+S
+#210017
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210018
+D3
+~
+~
+0 0 210016
+S
+#210018
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210019
+D3
+~
+~
+0 0 210017
+S
+#210019
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210020
+D3
+~
+~
+0 0 210018
+S
+#210020
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D2
+~
+~
+0 0 210021
+D3
+~
+~
+0 0 210019
+S
+#210021
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210020
+D2
+~
+~
+0 0 210022
+S
+#210022
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210021
+D2
+~
+~
+0 0 210023
+S
+#210023
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210022
+D2
+~
+~
+0 0 210024
+S
+#210024
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210023
+D2
+~
+~
+0 0 210025
+S
+#210025
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210024
+D2
+~
+~
+0 0 210026
+S
+#210026
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210025
+D2
+~
+~
+0 0 210027
+S
+#210027
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210026
+D2
+~
+~
+0 0 210028
+S
+#210028
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210027
+D2
+~
+~
+0 0 210029
+S
+#210029
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210028
+D2
+~
+~
+0 0 210030
+S
+#210030
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D0
+~
+~
+0 0 210029
+D3
+~
+~
+0 0 210031
+S
+#210031
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210030
+D3
+~
+~
+0 0 210032
+S
+#210032
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210031
+D3
+~
+~
+0 0 210033
+S
+#210033
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210032
+D3
+~
+~
+0 0 210034
+S
+#210034
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210033
+D3
+~
+~
+0 0 210035
+S
+#210035
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210034
+D3
+~
+~
+0 0 210036
+S
+#210036
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210035
+D3
+~
+~
+0 0 210037
+S
+#210037
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210036
+D3
+~
+~
+0 0 210038
+S
+#210038
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210037
+D3
+~
+~
+0 0 210039
+S
+#210039
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210038
+D3
+~
+~
+0 0 210040
+S
+#210040
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+You have survived The Twilight Zone only to return again!
+~
+0 0 0
+D1
+~
+~
+0 0 210039
+S
+#210041
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210042
+D3
+~
+~
+0 0 210001
+S
+#210042
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210043
+D3
+~
+~
+0 0 210041
+S
+#210043
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210044
+D3
+~
+~
+0 0 210042
+S
+#210044
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210045
+D3
+~
+~
+0 0 210043
+S
+#210045
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210046
+D3
+~
+~
+0 0 210044
+S
+#210046
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210047
+D3
+~
+~
+0 0 210045
+S
+#210047
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210048
+D3
+~
+~
+0 0 210046
+S
+#210048
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210049
+D3
+~
+~
+0 0 210047
+S
+#210049
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D1
+~
+~
+0 0 210050
+D3
+~
+~
+0 0 210048
+S
+#210050
+#LT#n#yw#n#Li#n#yl#n#Li#n#yg#n#Lh#n#yt#n #LZ#n#yo#n#Ln#n#ye~
+~
+0 0 0
+D3
+~
+~
+0 0 210049
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+M 0 210003 1 210043
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

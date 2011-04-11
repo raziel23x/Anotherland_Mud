@@ -1,0 +1,7541 @@
+#AREADATA
+Name        Joshua  EQ by Joshua~
+Builders    Joshua~
+VNUMs       110000 111000
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#110070
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#110000
+upgraded kahn claw~
+#C<#c-) #yA #yU#opgrade#yd R#oazo#yr S#ohar#yp C#ola#yw #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+5 16388 8193
+0 0 0
+17000 90 125 5
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110001
+upgraded kahn ring~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn R#oin#yg #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110002
+upgraded kahn collar~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn C#oolla#yr #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110003
+upgraded kahn bracer~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn B#orace#yr #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110004
+upgraded kahn plate~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn P#olat#ye #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110005
+upgraded kahn helmet~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn H#oelme#yt #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110006
+upgraded kahn leggings~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn L#oegging#ys #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110007
+upgraded kahn boots~
+#C<#c-) #yA #yU#opgrade#yd P#oai#yr Of K#oah#yn B#ooot#ys #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110008
+upgraded kahn gloves~
+#C<#c-) #yA #yU#opgrade#yd P#oai#yr Of K#oah#yn G#olove#ys #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110009
+upgraded kahn sleeves~
+#C<#c-) #yA #yU#opgrade#yd S#oe#yt Of K#oah#yn S#oleeve#ys #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110010
+upgraded kahn cloak~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn C#oloa#yk #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110011
+upgraded kahn belt~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn B#oel#yt #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110012
+upgraded kahn mask~
+#C<#c-) #yA #yU#opgrade#yd K#oah#yn M#oas#yk #c(-#C>#n~
+A piece of upgraded Kahn eq lies here~
+~
+9 0 32769
+0 0 0
+50 0 0 8
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110049
+pill cynide~
+pill of #0C#7y#0a#7n#0i#7d#0e#n~
+A Pill of #0C#7y#0a#7n#0i#7d#0e#n~
+~
+26 0 1
+0 0 0
+0 'reserved' 'reserved' 'reserved'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110050
+upgraded dragon claws~
+#G<#yO#G) #RU#pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Pl#Ra#Pw#Rs#G (#yO#G>#n~
+A #G<#yO#G) #RU#pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Pl#Ra#Pw#Rs#G (#yO#G>#n lies here.~
+~
+5 16384 8193
+0 0 0
+18001 150 185 5
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110051
+upgraded dragon ring~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RR#Pi#Rn#Pg#G (#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RR#Pi#Rn#Pg#G (#yO#G>#n lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110052
+upgraded dragon collar~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Po#Rl#Pl#Ra#Pr#G (#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Po#Rl#Pl#Ra#Pr#G (#yO#G>#n lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110053
+upgraded dragon bracer~
+#G<#y0#G] #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Pr#Ra#Pc#Re#Pr #G[#y0#G>#n~
+A #G<#y0#G] #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Pr#Ra#Pc#Re#Pr #G[#y0#G>#n lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110054
+upgraded dragon platemail~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RP#Pl#Ra#Pt#Re#Pm#Ra#Pi#Rl #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RP#Pl#Ra#Pt#Re#Pm#Ra#Pi#Rl #G(#yO#G>#n lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110055
+upgraded dragon helmet~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RH#Pe#Rl#Pm#Re#Pt#G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RH#Pe#Rl#Pm#Re#Pt#G(#yO#G>#n lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110056
+upgraded dragon leggings~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RL#Pe#Rg#Pg#Ri#Pn#Rg#Ps#G (#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RL#Pe#Rg#Pg#Ri#Pn#Rg#Ps#G (#yO#G>#n lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110057
+upgraded dragon boots~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Po#Ro#Pt#Rs #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Po#Ro#Pt#Rs #G(#yO#G>#n lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110058
+upgraded dragon gauntlets~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RG#Pa#Ru#Pn#Rt#Pl#Re#Pt#Rs #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RG#Pa#Ru#Pn#Rt#Pl#Re#Pt#Rs #G(#yO#G>#n lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110059
+upgraded dragon sleeves~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RS#Pl#Re#Pe#Rv#Pe#Rs #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RS#Pl#Re#Pe#Rv#Pe#Rs #G(#yO#G>#n lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110060
+upgraded dragon cape~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Pa#Rp#Pe #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RC#Pa#Rp#Pe #G(#yO#G>#n lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110061
+upgraded dragon belt~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Pe#Rl#Pt #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RB#Pe#Rl#Pt #G(#yO#G>#n lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110062
+upgraded dragon visor~
+#G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RV#Pi#Rs#Po#Rr #G(#yO#G>#n;~
+A #G<#yO#G) #RU#Pp#Rg#Pr#Ra#Pd#Re#Pd #RD#Pr#Ra#Pg#Ro#Pn #RV#Pi#Rs#Po#Rr #G(#yO#G>#n lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110070
+upgraded wraith scythe jagged~
+#l/#0x#l\ #0Upgraded Jagged Scythe #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+5 0 8193
+0 0 0
+18000 120 210 1
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110071
+ring darkness wraith upgraded~
+#l/#0x#l\ #0Upgraded Ring of Darkness #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 25
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110072
+upgraded amulet doom wraith~
+#l/#0x#l\ #0Upgraded Amulet of Doom #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110073
+upgraded wraith cracked bracer~
+#l/#0x#l\ #0Upgraded Cracked Bracer #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110074
+upgraded battered breastplate~
+#l/#0x#l\ #0Upgraded Battered Breastplate #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110075
+upgraded wraith unholy mask~
+#l/#0x#l\ #0Upgraded Mask of the Unholy #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110076
+upgraded wraith greaves ancient~
+#l/#0x#l\ #0Upgraded Ancient Greaves #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110077
+wraith upgraded blood stained blood-stained boots~
+#l/#0x#l\ #0Upgraded Blood-stained Boots #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110078
+upgraded wraith rusted gauntlets~
+#l/#0x#l\ #0Upgraded Rusted Gauntlets #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 18
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110079
+upgraded chain mail wraith~
+#l/#0x#l\ #0Upgraded Chain Mail #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110080
+upgraded tattered cloak wraith~
+#l/#0x#l\ #0Upgraded Tattered Black Cloak #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 16
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110081
+Rotting Sash wraith upgraded~
+#l/#0x#l\ #0Upgraded Rotting Sash #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 8
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110082
+upgraded wraith hood dark~
+#l/#0x#l\ #0Upgraded Dark Hood #l/#0x#l\#n~
+An item of ghostly aspect lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110100
+upgraded elf sword~
+#0<=#y{#0Upgraded Elven Sword#y}#0=>#n~
+A upgraded sword with a small blade lies here.~
+~
+5 0 8193
+0 0 0
+17000 90 160 1
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110101
+upgraded elf ring~
+#0<=#y{#0Upgraded Elven Ring#y}#0=>#n~
+A upgraded small ring made of elfstone lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110102
+upgraded elf collar~
+#0<=#y{#0Upgraded Elven Collar#y}#0=>#n~
+An upgraded elven collar made of the finest jewels lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110103
+upgraded elf wristbands~
+#0<=#y{#0Upgraded Elven Wristbands#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110104
+upgraded elf plate~
+#0<=#y{#0Upgraded Elven Plate#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 8
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110105
+upgraded elf helmet~
+#0<=#y{#0Upgraded Elven Helmet#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110106
+upgraded elf leggings~
+#0<=#y{#0Upgraded Elven Leggings#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110107
+upgraded elf boots~
+#0<=#y{#0Upgraded Elven Boots#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110108
+upgraded elf gauntlets~
+#0<=#y{#0Upgraded Elven Gauntlets#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110109
+upgraded elf paddings~
+#0<=#y{#0Upgraded Elven Paddings#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110110
+upgraded elf cape~
+#0<=#y{#0Upgraded Elven Cape#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 15
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110111
+upgraded elf girdle~
+#0<=#y{#0Upgraded Elven Girdle#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110112
+upgraded elf visor~
+#0<=#y{#0Upgraded Elven Visor#y}#0=>#n~
+A upgraded piece of elven equipment lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110150
+upgraded lich scythe~
+#c<#C*#pL#C*#c>#GU#Pp#Gg#Pr#Ga#Pd#Ge#Pd#n #gW#Gi#gc#Gk#ge#Gd #PSc#pyt#Phe#c<#C*#pL#C*#c>#n~
+A upgraded wicked looking scythe stands against the wall, waiting to be used.~
+~
+5 0 8193
+0 0 0
+18000 80 600 1
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110151
+upgraded lich ring~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GR#gi#Gn#gg#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110152
+upgraded lich amulet~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GA#gm#Gu#gl#Ge#gt#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110153
+upgraded lich bracer~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GB#gr#Ga#gc#Ge#gr#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110154
+upgraded lich plate~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GP#gl#Ga#gt#Ge#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110155
+upgraded lich helmet~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GH#ge#Gl#gm#Ge#gt#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110156
+upgraded lich leggings~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GL#ge#Gg#gg#Gi#gn#Gg#gs#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110157
+upgraded lich boots~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GB#go#Go#gt#Gs#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110158
+upgraded lich gauntlets~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GG#ga#Gu#gn#Gt#gl#Ge#gt#Gs#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110159
+upgraded lich sleeves~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GS#gl#Ge#ge#Gv#ge#Gs#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110160
+upgraded lich cloak~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #7D#0u#7s#0t#7y #GC#gl#Go#ga#Gk#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110161
+upgraded lich belt~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GB#ge#Gl#gt#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110162
+upgraded lich mask~
+#c<#C*#pL#C*#c>#GU#gp#Gg#gr#Ga#gd#Ge#gd#n #GB#go#Gn#ge #GM#ga#Gs#gk#c<#C*#pL#C*#c>#n~
+A piece of upgraded lich eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110200
+upgraded angel sword flaming~
+#LThe Upgraded #RFlaming #LSword to #RBANISH #Lall Evil#n~
+A upgraded flaming swords rests in the air, wating for an angel to wield it.~
+~
+5 16387 8193
+0 0 0
+17005 120 160 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110201
+upgraded angel ring~
+#y<<#LA #Gupgraded heavenly #Lring#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110202
+upgraded angel necklace~
+#y<<#LA #Gupgraded heavenly#L necklace#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110203
+upgraded angel bracer~
+#y<<#LA #Gupgraded heavenly#L bracer#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110204
+upgraded angel plate~
+#y<<#LA #Gupgraded heavenly#L plate#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110205
+upgraded angel helmet~
+#y<<#LA #Gupgraded heavenly#L helmet#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110206
+upgraded angel leggings~
+#y<<#LA #Gupgraded heavenly#L leggings#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110207
+upgraded angel boots~
+#y<<#LA pair of #Gupgraded heavenly#L boots#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110208
+upgraded angel gauntlets~
+#y<<#LA pair of #Gupgraded heavenly#L gauntlets#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110209
+upgraded angel sleeves~
+#y<<#LA pair of #Gupgraded heavenly#L sleeves#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110210
+upgraded angel cloak~
+#y<<#LA #Gupgraded heavenly#L cloak#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110211
+upgraded angel belt~
+#y<<#LA #Gupgraded heavenly#L belt#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110212
+upgraded angel visor~
+#y<<#LA #Gupgraded heavenly#L visor#y>>#n~
+A piece of upgraded heavenly eq lies here~
+~
+9 3 32769
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110250
+upgraded knight longsword~
+#rupgraded #0ancient #rblackended #0longsword#n~
+An upgraded ancient weapon of great power lies on the ground, radiating evil.~
+~
+5 16384 8193
+0 0 0
+18001 110 180 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110251
+upgraded knight ring~
+#0^\ a upgraded #yrusty #0old ring /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110252
+upgraded knight collar~
+#0^\ a upgraded #yrusty #0old collar /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110253
+upgraded knight bracer~
+#0^\ a upgraded #yrusty #0old bracer /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110254
+upgraded knight breastplate plate~
+#0^\ a upgraded #yrusty #0old breastplate /^#n~
+An old upgraded rusty plate with old enscription of times long past lies on the floor.~
+~
+9 0 9
+0 0 0
+50 0 0 8
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110255
+upgraded knight helmet~
+#0^\ a upgraded #yrusty #0old helmet/^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110256
+upgraded knight leggings~
+#0^\ a pair of upgraded #yrusty #0old leggings /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110257
+upgraded knight boots~
+#0^\ a pair of upgraded #yrusty #0old boots /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110258
+upgraded knight gauntlets~
+#0^\ a pair of upgraded #yrusty #0old gauntlets /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110259
+upgraded knight chain sleeves~
+#0^\ a set of upgraded #yrusty #0old chains /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110260
+upgraded knight cloak~
+#0^\ a upgraded #yrusty #0old cloak /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110261
+upgraded knight belt~
+#0^\ a upgraded #yrusty #0old belt /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110262
+upgraded knight visor~
+#0^\ a upgraded #yrusty #0old visor /^#n~
+A piece of upgraded ancient armor lies on the floor.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110263
+upgraded knight shortsword~
+#rupgraded  #0ancient #rblackended #0shortsword#n~
+An ancient upgraded weapon of great power lies on the ground, radiating evil.~
+~
+5 16384 8193
+0 0 0
+17012 120 184 1
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110264
+upgraded demonic ring~
+#0Upgraded #rDemonic #0Ring#n~
+#0Upgraded #rDemonic #0Ring#n~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110265
+upgraded demonic collar~
+#0Upgraded #rDemonic #0Collar#n~
+#0Upgraded #rDemonic #0Collar#n~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110266
+upgraded demonic bracer~
+#0Upgraded #rDemonic #0Bracer#n~
+#0Upgraded #rDemonic #0Bracer#n~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110267
+upgraded demonic plate~
+#0Upgraded #rDemonic #0Plate#n~
+#0Upgraded #rDemonic #0Plate#n~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110268
+upgraded demonic helmet~
+#0Upgraded #rDemonic #0Helmet#n~
+#0Upgraded #rDemonic #0Helmet#n~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+17 -200
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110269
+upgraded demonic leggings~
+#0Upgraded #rDemonic #0Leggings#n~
+#0Upgraded #rDemonic #0Leggings#n~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110270
+upgraded demonic boots~
+#0Upgraded #rDemonic #0Boots#n~
+#0Upgraded #rDemonic #0Boots#n~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110271
+upgraded demonic gauntlets~
+#0Upgraded #rDemonic #0Gauntlets#n~
+#0Upgraded #rDemonic #0Gauntlets#n~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110272
+upgraded demonic sleeves~
+#0Upgraded #rDemonic #0Sleeves#n~
+#0Upgraded #rDemonic #0Sleeves#n~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110273
+upgraded demonic cape~
+#0Upgraded #rDemonic #0Cape#n~
+#0Upgraded #rDemonic #0Cape#n~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110274
+upgraded demonic belt~
+#0Upgraded #rDemonic #0Belt#n~
+#0Upgraded #rDemonic #0Belt#n~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110275
+upgraded demonic visor~
+#0Upgraded #rDemonic #0Visor#n~
+#0Upgraded #rDemonic #0Visor#n~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110276
+upgraded demonic shortsword~
+#0Upgraded #rDemonic #0Shortsword~
+#0Upgraded #rDemonic #0Shortsword~
+~
+5 0 8193
+0 0 0
+17000 90 120 11
+0 0 0
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110277
+upgraded demonic longsword~
+#0Upgraded #rDemonic #0Longsword#n~
+#0Upgraded #rDemonic #0Longsword#n~
+~
+5 0 8193
+0 0 0
+18000 100 180 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+12 800
+A
+14 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110278
+upgraded military sleeves~
+#l<#R*#l> #0Upgraded #gMilitary #0Sleeves #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Sleeves #l<#R*#l>#n lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110279
+upgraded military jacket~
+#l<#R*#l> #0Upgraded #gMilitary #0Jacket #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Jacket #l<#R*#l>#n lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110280
+upgraded military belt~
+#l<#R*#l> #0Upgraded #gMilitary #0Belt #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Belt #l<#R*#l>#n lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110281
+upgraded military backpack~
+#l<#R*#l> #0Upgraded #gMilitary #0Backpack #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Backpack #l<#R*#l>#n lies here.~
+~
+9 0 524289
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110282
+upgraded military weapons~
+#l<#R*#l> #0Upgraded #gMilitary #0Weapons #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Weapons #l<#R*#l>#n lies here.~
+~
+5 16384 8193
+0 1024 0
+165 90 600 11
+0 0 0
+A
+18 200
+A
+19 200
+A
+17 100
+A
+1 10
+A
+5 10
+A
+2 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110300
+upgraded drider whip~
+#p{#0-#p}#0Upgraded Drider Whip#p{#0-#p}#n~
+A long #0black#n whip lies here, waiting to be used.~
+~
+5 0 8193
+0 0 0
+28154 90 180 4
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110301
+upgraded drider ring~
+#p{#0-#p}#0Upgraded Drider Ring#p{#0-#p}#n~
+A upgraded short metal ring lies here, it is emitting an evil aura.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110302
+upgraded drider collar~
+#p{#0-#p}#0Upgraded Drider Collar#p{#0-#p}#n~
+A upgraded necklace made of gold elf teeth lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110303
+upgraded drider bracer~
+#p{#0-#p}#0Upgraded Drider Bracer#p{#0-#p}#n~
+A upgraded bracer lies here~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110304
+upgraded drider armor~
+#p{#0-#p}#0Upgraded Drider Armor#p{#0-#p}#n~
+Some musky upgraded body armor lies on the ground.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110305
+upgraded drider helmet~
+#p{#0-#p}#0Upgraded Drider Helmet#p{#0-#p}#n~
+The upgraded crushed skull of a titan lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110306
+upgraded drider leggings~
+#p{#0-#p}#0Upgraded Drider Leggings#p{#0-#p}#n~
+The upgraded crushed skull of a titan lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 17
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110307
+upgraded drider boots~
+#p{#0-#p}#0Upgraded Drider Boots#p{#0-#p}#n~
+Some upgraded dusty boots lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 39
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110308
+upgraded drider gloves~
+#p{#0-#p}#0Upgraded Drider Gloves#p{#0-#p}#n~
+Some upgraded gloves emitting an aura of #0evilness#n lies here~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110309
+upgraded drider sleeves~
+#p{#0-#p}#0Upgraded Drider Sleeves#p{#0-#p}#n~
+Some rotten upgraded cloth lies on the floor.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110310
+upgraded drider cloak~
+#p{#0-#p}#0Upgraded Drider Cloak#p{#0-#p}#n~
+A upgraded #0black#n cloak hangs floating in the air~
+~
+9 0 1025
+0 0 0
+50 0 0 57
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110311
+upgraded drider belt~
+#p{#0-#p}#0Upgraded Drider Belt#p{#0-#p}#n~
+A thin upgraded belt made from the hearts of faeries lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 21
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110312
+upgraded drider mask~
+#p{#0-#p}#0Upgraded Drider Mask#p{#0-#p}#n~
+A deathmask of #P.o0#0Lloth#P0o.#n lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110350
+upgraded shapeshifter butterfly knife ~
+a upgraded butterfly knife~
+A strange looking device that has been upgraded lies on the ground.~
+~
+5 0 8193
+0 0 0
+0 80 160 11
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110351
+upgraded shapeshifter ring~
+a upgraded ring made from glass~
+A plain glass ring that has been upgraded lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110352
+upgraded shapeshifter necklace~
+a upgraded necklace of invisibility~
+A upgraded glinting necklace of pure silver lies on the ground..~
+~
+9 0 5
+0 0 0
+50 0 0 5
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110353
+upgraded shapeshifter bands~
+#GS#go#Gm#ge #Gu#gp#Gg#gr#Ga#gd#Ge#gd #Gc#ga#Gm#go#Gu#gf#Gl#ga#Gg#ge #Gb#ga#Gn#gd#Gs#n~
+Some upgraded wrist bands blends in with the ground.~
+~
+9 0 4097
+0 0 0
+50 0 0 24
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110354
+upgraded shapeshifter jacket~
+#GS#go#Gm#ge #Gu#gp#Gg#gr#Ga#gd#Ge#gd #Gc#ga#Gm#go#Gu#gf#Gl#ga#Gg#ge #Gj#ga#Gc#gk#Ge#gt#n~
+A upgraded jacket made for blending with the forest lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110355
+upgraded shapeshifter helmet~
+a upgraded helmet of many shapes~
+A upgraded non-descript helmet lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110356
+upgraded shapeshifter pants~
+a pair of upgraded camouflage pants~
+A pair of upgraded pants with grey and white stripes lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110357
+upgraded shapeshifter boots~
+a pair of upgraded Elven boots~
+A pair of upgraded leather boots stands here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110358
+upgraded shapeshifter gloves~
+a pair of upgraded thin leather gloves~
+A pair of upgraded gloves lies here in the sun.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110359
+upgraded shapeshifter shirt~
+a upgraded net t-shirt~
+A upgraded bundle of strings lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110360
+upgraded shapeshifter cloak~
+a upgraded #0Displacer#n cloak~
+A upgraded shimmering cloak lies on the ground.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110361
+upgraded shapeshifter belt~
+a upgraded thin leather belt~
+A upgraded thin leather belt lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110362
+upgraded shapeshifter visor~
+a visor of many faces~
+Some upgraded human skin lies on the ground.~
+~
+9 0 32769
+0 0 0
+50 0 0 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110363
+upgrade shapeshifter kane~
+an ungraded kane with a hidden springblade~
+A strange looking device that has been upgraded lies on the ground.~
+~
+5 0 8193
+0 0 0
+0 100 145 1
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110400
+upgraded tanarri claymore~
+#0A upgraded #RFlaming Red #0Claymore#n~
+A upgraded #RFlaming Red#0 Claymore#n is here.~
+~
+5 16385 8193
+0 0 0
+18000 80 150 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110401
+upgraded tanarri ring~
+#y{{ #RA upgraded  #0Tanar'ri #RRing #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110402
+upgraded tanarri collar~
+#y{{ #RA upgraded  #0Tanar'ri #RCollar #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110403
+upgraded tanarri bracer~
+#y{{ #RA upgraded  #0Tanar'ri #RBracer #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110404
+upgraded tanarri plate~
+#y{{ #RA upgraded  #0Tanar'ri #RPlate #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110405
+upgraded tanarri helmet~
+#y{{ #RA upgraded  #0Tanar'ri #RHelmet #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 8
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110406
+upgraded tanarri leggings~
+#y{{ #RA pair of upgraded  #0Tanar'ri #RLeggings #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110407
+upgraded tanarri boots~
+#y{{ #RA pair of upgraded  #0Tanar'ri #RBoots #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110408
+upgraded tanarri gauntlets~
+#y{{ #RA pair of upgraded  #0Tanar'ri #RGauntlets #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110409
+upgraded tanarri sleeves~
+#y{{ #RA pair of upgraded  #0Tanar'ri #RSleeves #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110410
+upgraded tanarri cloak~
+#y{{ #RA upgraded  #0Tanar'ri #RCloak #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110411
+upgraded tanarri belt~
+#y{{ #RA upgraded  #0Tanar'ri #RBelt #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110412
+upgraded tanarri visor~
+#y{{ #RA upgraded  #0Tanar'ri #RVisor #y}}#n~
+A piece of upgraded tanarri eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110450
+upgraded mage staff~
+#p=#P*:  #CUpgraded #cMage #CStaff  #P:*#p=#n~
+A#p=#P*:  #CUpgraded #cMage #CStaff  #P:*#p=#n lies here.~
+~
+5 0 8193
+0 0 0
+0 55 110 7
+0 0 0
+A
+3 5
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110451
+upgraded mage dagger~
+#p=#P*:  #CUpgraded #cMage #CDagger #P:*#p=#n~
+A #p=#P*:  #CUpgraded #cMage #CDagger #P:*#p=#n lies here.~
+~
+5 0 8193
+0 0 0
+0 60 120 1
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110452
+upgraded mage ring~
+#p=#P*: #CUpgraded #cMage #CRing #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CRing #P:*#p=#n lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110453
+upgraded mage collar~
+#p=#P*: #CUpgraded #cMage #CCollar #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CCollar #P:*#p=#n lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110454
+upgraded mage robe~
+#p=#P*: #CUpgraded #cMage #CRobes #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CRobes #P:*#p=#N lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110455
+upgraded mage skullcap~
+#p=#P*: #CUpgraded #cMage #CSkullcap #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CSkullcap #P:*#p=#n lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110456
+upgraded mage leggings~
+#p=#P*: #CUpgraded #cMage #CLeggings #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CLeggings #P:*#p=#n lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110457
+upgraded mage boots~
+#p=#P*: #CUpgraded #cMage #CBoots #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CBoots #P:*#p=#n lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110458
+upgraded mage gloves~
+#p=#P*: #CUpgraded #cMage #CGloves #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CGloves #P:*#p=#n lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110459
+upgraded mage sleeves~
+#p=#P*: #CUpgraded #cMage #CSleeves #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CSleeves #P:*#p=#n lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110460
+upgraded mage cape~
+#p=#P*: #CUpgraded #cMage #CCape #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CCape #P:*#p=#n lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110461
+upgraded mage belt~
+#p=#P*: #CUpgraded #cMage #CBelt #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CBelt #P:*#p=#n lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110462
+upgraded mage bracer~
+#p=#P*: #CUpgraded #cMage #CBracer #P:*#p=#n~
+A #p=#P*: #CUpgraded #cMage #CBracer #P:*#p=#n lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110463
+upgraded mage mask~
+#p#P*: #CUpgraded #cMage #CMask #P:*#p=#n~
+A #p#P*: #CUpgraded #cMage #CMask #P:*#p=#n lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110501
+upgraded monk ring~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GRing #C]#0--#7*#CM#7*#0--#C[ ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110502
+upgraded monk collar~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GCollar #C]#0--#7*#CM#7*#0--#C[ ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110503
+upgraded monk bracer~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GBracer #C]#0--#7*#CM#7*#0--#C[ ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 17
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110504
+upgraded monk robe~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GRobe #C]#0--#7*#CM#7*#0--#C[ ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 21
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110505
+upgraded monk helmet~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GHelmet #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 8
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110506
+upgraded monk shorts~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GShorts #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110507
+upgraded monk boots~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GBoots #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 23
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110508
+upgraded monk gloves~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GGloves #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110509
+upgraded monk sleeves~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GSleeves #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110510
+upgraded monk cloak~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GCloak #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110511
+upgraded monk belt~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GBelt #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110512
+upgraded monk mask~
+#C]#0--#7*#CM#7*#0--#C[ #PUpgraded #pGodly #GMask #C]#0--#7*#CM#7*#0--#C[#n ~
+A piece of upgraded monk eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110550
+upgraded vampire longsword~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Long#Psword#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+5 0 8193
+0 0 0
+18000 120 210 3
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110551
+upgraded vampire ring~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric R#Ping#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 25
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110552
+upgraded vampire collar~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Col#Plar#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 21
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110553
+upgraded vampire bracer~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Bra#Pcer#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110554
+upgraded vampire plate~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Pl#Pate#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110555
+upgraded vampire helmet~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Hel#Pmet#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110556
+upgraded vampire leggings~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Leg#Pgings#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110557
+upgraded vampire boots~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Bo#Pots#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110558
+upgraded vampire gloves~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Gl#Poves#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 15
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110559
+upgraded vampire sleeves~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Slee#Pves#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110560
+upgraded vampire cape~
+#R]#r-#CV#r-#R[#PUpgraded Vampiric Cape#R]#r-#CV#r-#R[#n~
+An item of ghostly aspect lies here.~
+~
+9 0 1024
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110561
+upgraded vampire belt~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Be#Plt#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 8
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110562
+upgraded vampire visor~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Vis#Por#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110563
+upgraded vampire dagger~
+#R]#r-#cV#r-#R[#PUpgr#paded Vampiric Da#Pgger#R]#r-#cV#r-#R[#n~
+A piece of upgraded vampire eq lies here.~
+~
+5 0 8193
+0 0 0
+37 110 180 11
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110600
+upgraded sword ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Sw#7or#0d#c--#pN#c--#n~
+A upgraded ninjitsu sword lies here.~
+~
+5 0 8193
+0 0 0
+18053 50 100 1
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110601
+upgraded ring ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su R#7in#0g#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110602
+upgraded collar ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Co#7lla#0r#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110603
+upgraded bracer ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Br#7ac#0er#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110604
+upgraded robe ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su R#7ob#0e#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110605
+upgraded cap ninjitsu ninja~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su C#7a#0p#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 8
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110606
+upgraded ninjitsu ninja leggings~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Leg#7ging#0s#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110607
+upgraded ninjitsu ninja boots~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Bo#7ot#0s#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110608
+upgraded ninjitsu ninja gloves~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Gl#7ove#0s#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110609
+upgraded ninjitsu ninja sleeves~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Sl#7ee#0ves#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110610
+upgraded ninjitsu ninja cloak~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Cl#7oa#0k#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110611
+upgraded ninjitsu ninja belt~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su B#7el#0t#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110612
+upgraded ninjitsu ninja mask~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su M#7as#0k#c--#pN#c--#n~
+A piece of upgraded ninjitsu eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110613
+upgraded ninjitsu ninja dagger~
+#c--#pN#c--#0Upg#7rad#0ed #0Nin#7jit#0su Dag#7ge#0r#c--#pN#c--#n~
+A upgraded ninjitsu dagger lies here.~
+~
+5 0 8193
+0 0 0
+0 50 100 11
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110650
+upgraded drow whip~
+#pA #0Upgraded #pDrow #0Whip#n~
+A piece of upgraded Drow eq lies here.~
+~
+5 0 8193
+0 0 0
+18004 80 120 4
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110651
+upgraded drow ring~
+#pA #0Upgraded #pDrow #0Ring#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110652
+upgraded drow amulet~
+#pA #0Upgraded #pDrow #0Amulet#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110653
+upgraded drow bracer~
+#pA #0Upgraded #pDrow #0Bracer#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110654
+upgraded drow armor~
+#pA #0Upgraded #pDrow #0Armor#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110655
+upgraded drow helmet~
+#pA #0Upgraded #pDrow #0Helmet#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110656
+upgraded drow leggings~
+#pA #0Upgraded #pDrow #0Leggings#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 15
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110657
+upgraded drow boots~
+#pA #0Upgraded #pDrow #0Boots#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110658
+upgraded drow gauntlets~
+#pA #0Upgraded #pDrow #0Gauntlets#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110659
+upgraded drow sleeves~
+#pA #0Upgraded #pDrow #0Sleeves#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110660
+upgraded drow cloak~
+#pA #0Upgraded #pDrow #0Cloak#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110661
+upgraded drow belt~
+#pA #0Upgraded #pDrow #0Belt#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 8
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110662
+upgraded drow mask~
+#pA #0Upgraded #pDrow #0Mask#n~
+A piece of upgraded Drow eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110663
+upgraded drow dagger~
+#pA #0Upgraded #pDrow #0dagger#n~
+A piece of upgraded Drow eq lies here.~
+~
+5 0 8193
+0 0 0
+18024 80 120 11
+0 0 0
+A
+17 -200
+A
+13 800
+A
+14 800
+A
+12 800
+A
+18 200
+A
+19 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110700
+name upgraded moon werewolf mask~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CMa#csk  #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110701
+upgraded moon werewolf ring~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CRi#cng  #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110702
+upgraded moon werewolf collar~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CCol#clar  #y{#R=#L_#p/\#L_#R=#y}#n;~
+A piece of upgraded moon eq lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110703
+upgraded moon werewolf bracer~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CBra#ccer #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110704
+upgraded moon werewolf plate~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CPl#cate #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110705
+upgraded moon werewolf helmet~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CHel#cmet #y{#R=#L_#p/\#L_#R=#y}#n;~
+A piece of upgraded moon eq lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110706
+upgraded moon werewolf leggings~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CLegg#cings #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110707
+upgraded moon werewolf boots~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CBo#cots #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110708
+upgraded moon werewolf gloves~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CGlo#cves #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110709
+upgraded moon werewolf sleeves~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CSle#ceves #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 257
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110710
+upgraded moon werewolf cape~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CCa#cpe #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 1025
+0 0 0
+50 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110711
+upgraded moon werewolf belt~
+#y{#R=#L_#p/\#L_#R=#y} #GUpgr#gaded #PMoon#pbeam #CBe#clt #y{#R=#L_#p/\#L_#R=#y}#n~
+A piece of upgraded moon eq lies here.~
+~
+9 0 2049
+0 0 0
+50 0 0 17
+0 0 0
+A
+19 200
+A
+18 200
+A
+12 800
+A
+14 800
+A
+13 800
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110969
+pill magical heal~
+a Supreme Pill of #LHealing#n~
+A Supreme Pill of #LHealing#n~
+~
+26 0 1
+0 1024 0
+25000 'imp heal' 'imp heal' 'imp heal'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110970
+Joshuas Neverending Love~
+joshua's Neverending #RLove#n~
+Joshua's Neverending #RLove#n~
+~
+13 0 1025
+0 0 0
+0 0 0 0
+0 0 0
+A
+17 -16960
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110971
+candle~
+a #CC#nandle#n  with a small #RF#rlam#Re#n~
+A #CC#nandle#n  with a small #RF#rlam#Re#n sits here in the middle of the table.~
+~
+8 1 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110972
+daisy~
+a freshly picked #yD#oais#yy#n~
+A freshly picked #yD#oais#yy#n~
+~
+8 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110973
+wooden table~
+a fancy #rw#oo#ro#od#re#on#n table~
+A fancy #rw#oo#ro#od#re#on#n table sits in the middle of the room~
+~
+8 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110974
+flame~
+a #CC#nandle  with a small #RF#rlam#Re#n~
+A #CC#nandle  with a small #RF#rlam#Re#n sits here in the middle of the table.~
+~
+8 1 1025
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110975
+military issue m16 M-16 assault rifle~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #GI#gs#Gs#gu#Ge #GM#g-#G1#g6#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy#n firearm lies here.~
+~
+5 0 8193
+0 0 0
+160 75 175 6
+0 0 0
+A
+18 80
+A
+19 80
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110976
+military ring~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Ring#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Ring#n lies here balanced perfectly.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+18 70
+A
+19 70
+A
+17 -100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110977
+military bracer~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Bracer#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Bracer#n lies here.~
+~
+9 0 4097
+0 0 0
+10 0 0 0
+0 0 0
+A
+18 50
+A
+19 50
+A
+17 -50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110978
+military dogtags~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Dogtags#n~
+A set of #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Dogtags#n lie here in a tangled mess.~
+~
+9 0 5
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110979
+military vest~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Vest#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Vest#n sits here.~
+~
+9 0 9
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110980
+military helmet~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Helmet#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Helmet#n sits here.~
+~
+9 0 17
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110981
+military leggings~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Leggings#n~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Leggings#n lie crumpled in a ball.~
+~
+15 0 33
+0 0 0
+0 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110982
+military combat boots~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Combat Boots#n~
+Dirty #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Boots#n rest here.~
+~
+9 0 65
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110983
+military gloves~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Gloves#n~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Gloves#n lie here.~
+~
+9 0 129
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110984
+Military sunglasses~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Nightvision Goggles#n~
+Some #GM#gi#Gl#gi#Gt#ga#Gr#gy#n #0Goggles#n sit here.~
+~
+9 0 32769
+0 0 0
+10 0 0 0
+0 0 0
+A
+17 -50
+A
+18 50
+A
+19 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110985
+military sleeves~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Sleeves#n~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0Sleeves#n sit here.~
+~
+9 0 257
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110986
+military jacket~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #GM#g-#G6#g5 #0Field Jacket#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Jacket#n rests here.~
+~
+9 0 1025
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110987
+military belt~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Belt#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Belt#n lies here.~
+~
+9 0 2049
+0 0 0
+15 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110988
+military mastery camoflauge~
+#GM#gi#Gl#gi#Gt#ga#Gr#gy #0ID Sequence#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0ID Sequence#n.~
+~
+9 4224 131073
+0 0 0
+0 0 0 17
+0 0 0
+A
+13 12000
+A
+17 -500
+A
+19 500
+A
+18 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110989
+military backpack~
+a #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Backpack#n~
+A #GM#gi#Gl#gi#Gt#ga#Gr#gy #0Backpack#n sits here.~
+~
+15 0 524289
+0 0 0
+2147483647 0 0 0
+0 0 0
+A
+17 -50
+A
+19 50
+A
+18 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110990
+upgraded military ring~
+#l<#R*#l> #0Upgraded #gMilitary #0Ring #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Ring #l<#R*#l>#n lies here.~
+~
+9 0 3
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110991
+upgraded military bracer~
+#l<#R*#l> #0Upgraded #gMilitary #0Bracer #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Bracer #l<#R*#l>#n lies here.~
+~
+9 0 4097
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110992
+upgraded military dogtags~
+#l<#R*#l> #0Upgraded #gMilitary #0Dogtags #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Dogtags #l<#R*#l>#n lies here.~
+~
+9 0 5
+0 0 0
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110993
+upgraded military vest~
+#l<#R*#l> #0Upgraded #gMilitary #0Vest #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Vest #l<#R*#l>#n lies here.~
+~
+9 0 9
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110994
+upgraded military helmet~
+#l<#R*#l> #0Upgraded #gMilitary #0Helmet #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Helmet #l<#R*#l>#n lies here.~
+~
+9 0 17
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110995
+upgraded military leggings~
+#l<#R*#l> #0Upgraded #gMilitary #0Leggings #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Leggings #l<#R*#l>#n lies here.~
+~
+9 32 33
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110996
+upgraded military combat boots~
+#l<#R*#l> #0Upgraded #gMilitary #0Combat Boots #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Combat Boots #l<#R*#l>#n lies here.~
+~
+9 0 65
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110997
+upgraded military gloves~
+#l<#R*#l> #0Upgraded #gMilitary #0Gloves #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Gloves #l<#R*#l>#n lies here.~
+~
+9 0 129
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110998
+upgraded military sunglasses~
+#l<#R*#l> #0Upgraded #gMilitary #0Sunglasses #l<#R*#l>#n~
+A #l<#R*#l> #0Upgraded #gMilitary #0Sunglasses #l<#R*#l>#n lies here.~
+~
+9 0 32769
+0 0 0
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+14 800
+A
+12 800
+A
+13 800
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#110999
+Medkit~
+#RM#ne#Rd#nk#Ri#nt~
+#RM#ne#Rd#nk#Ri#nt~
+~
+54 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111000
+mastery phoenix tattoo~
+#RF#rl#ya#rm#Re#rS #lof the #RP#rh#yo#re#yn#ri#RX#n~
+#RF#rl#ya#rm#Re#rS #lof the #RP#rh#yo#re#yn#ri#RX#n~
+~
+9 0 131073
+0 0 1048576
+25 0 0 25
+1 0 0
+A
+14 10000
+A
+12 10000
+A
+13 10000
+A
+19 500
+A
+18 500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#110049
+Joshua's room of #0Hiding#n and #lDepression#n~
+~
+0 20 0
+S
+#110050
+#yU#op#yg#or#ya#od#ye#od #RE#rQ #CC#cr#Ce#ca#Ct#ci#Co#cn #PC#pe#Pn#pt#Pe#pr#n~
+~
+0 1225878030 0
+S
+#110069
+Tropical Paradise~
+~
+0 156262426 0
+D1
+~
+~
+0 0 3054
+S
+#110070
+No exit.~
+~
+0 4 0
+S
+#110976
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

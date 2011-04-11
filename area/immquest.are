@@ -1,0 +1,122 @@
+#AREADATA
+Name        Raziels area of Imm quest stuff~
+Builders    Raziel~
+VNUMs       102700 102799
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#102700
+quest destruction chaos~
+#RR#0a#Rz#0ie#Rl's #ysp#gi#yr#gi#yt#n of #0D#re#0str#ru#0ct#rio#0n#n~
+#RR#0a#Rz#0ie#Rl's #ysp#gi#yr#gi#yt#n of #0D#re#0str#ru#0ct#rio#0n#n standing here to destroy you
+~
+~
+270339 128 -1000 S
+20017 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#102700
+Room one quest area~
+~
+0 974143490 0
+D1
+~
+~
+67 0 102701
+S
+#102701
+Room two quest area~
+~
+0 838877186 0
+D1
+~
+~
+67 0 102702
+D3
+~
+~
+67 0 102700
+S
+#102702
+Room three quest area~
+~
+0 838877186 0
+D1
+~
+~
+67 0 102703
+D3
+~
+~
+67 0 102701
+S
+#102703
+Room four quest area~
+~
+0 838877186 0
+D1
+~
+~
+67 0 102704
+D3
+~
+~
+67 0 102702
+S
+#102704
+Room five quest area~
+~
+0 838877186 0
+D1
+~
+~
+67 0 102705
+D3
+~
+~
+67 0 102703
+S
+#102705
+Room six quest area~
+~
+0 0 0
+D3
+~
+~
+64 0 102704
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,26 @@
+#define MECHA_LAB        1
+#define MECHA_DEFENSE    2
+#define MECHA_OFFENSE    4
+#define MECHA_BACKUP     8
+#define MCONVT          16
+
+#define CONVERT_TITANIUM       1
+#define CONVERT_DIAMOND        2
+#define CONVERT_EMERALD        3
+#define CONVERT_SAPPHIRE       4
+#define CONVERT_RUBY           5
+#define CONVERT_JADE           6
+#define CONVERT_PEARL          7
+#define CONVERT_TOPAZ          8
+#define CONVERT_AMETHYST       9
+#define CONVERT_ONYX          10
+#define CONVERT_OPAL          11
+#define CONVERT_LAZULI        12
+#define CONVERT_IVORY         13
+#define CONVERT_EBONY         14
+#define CONVERT_CRYSTAL       15
+#define CONVERT_MARBLE        16
+#define CONVERT_GOLD          17
+#define CONVERT_BRONZE        18
+#define CONVERT_SANDSTONE     19
+#define CONVERT_LIMESTONE     20

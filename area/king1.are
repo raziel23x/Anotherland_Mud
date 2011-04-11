@@ -1,0 +1,449 @@
+#AREADATA
+Name        kingdom one~
+Builders    None~
+VNUMs       40000 40099
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40000
+kingdom one guard legionex~
+Legionx Executioner~
+Legionex Executioner
+~
+~
+65553 128 0 S
+1961 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#40001
+Satisfied Whore~
+A Well Satisfied Whore~
+A Well Satisfied Whore lies here with a content look on her face.
+~
+~
+65555 0 0 S
+10018 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40002
+Little Bitch~
+#RA #little #Rbitch#n~
+#RA #llittle #Rbitch#n is screaming for his mommy
+~
+~
+101779 0 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40003
+A Giant Diseased Rat~
+A giant diseased rat.~
+A giant diseased rat is wandering around here stinking up the place.
+~
+This disgusting creature looks as though its flesh is getting ready to
+fall off its bare bones.  The creature seems to be bleeding from the eyes
+and ears and has a very pungent odor to it.  
+ 
+~
+65557 0 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40004
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40096
+solus training~
+#rTraining #0Robot#n~
+#rA #R(-#ySOLUS#R-)#r Training #0Robot#n
+~
+~
+101763 128 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40097
+solus guardian~
+#rThe #R(-#ySOLUS#R-)#n #rGuardian#n~
+#rPheer the #R(-#ySOLUS#R-) #rGuardian#n
+~
+~
+65553 4194328 0 S
+10048 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40098
+solus training robot~
+#rTraining #0Robot#n~
+#rA #R(-#ySOLUS#R-)#r Training #0Robot#n
+~
+~
+101763 128 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40099
+solus training robot~
+#rTraining #0Robot#n~
+#rA #R(-#ySOLUS#R-)#r Training #0Robot#n
+~
+~
+101763 128 0 S
+49 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40002
+key~
+key to the Throne~
+Key to the Throne~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40008
+graffix six foot 6 ft bong~
+#PGRAFFIX #L6ft BONG#n~
+#LA huge blue god of toke rests against the wall with a nice fresh #Gb#go#Gw#gl #Lwaiting...#n~
+~
+1 2097153 1
+0 0 0
+0 0 0 0
+30 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40009
+A table sits here with a " Red " and a " Blue " pill on it.~
+a table sits here with a " #RRed#n " and a " #LBlue#n " pill on it.~
+A table sits here with a " #RRed#n " and a " #LBlue#n " pill on it.~
+~
+15 1 0
+0 0 0
+100000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40010
+Red Pill~
+a #RRed#n Pill~
+A #RRed#n Pill lies here.~
+~
+26 3 1
+0 0 0
+15 ' ' 'food frenzy' 'reserved'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40011
+Blue Pill~
+a #LBlue#n Pill~
+A #LBlue#n Pill lies here.~
+~
+26 3 1
+0 0 0
+10000 'sleep' 'sleep' 'sleep'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40027
+Throne~
+#RDrizzt's #LThrone#n~
+#lThe Throne Of #ySolus#n~
+~
+12 331 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40000
+Legionex War Room~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40001
+D2
+~
+~
+0 0 40003
+D3
+~
+~
+0 0 40004
+D4
+~
+~
+0 0 40005
+D5
+~
+~
+0 0 40006
+S
+#40001
+Legionex Healing Room~
+~
+0 1073156 0
+D2
+~
+~
+0 0 40000
+S
+#40002
+Legionex Training Room~
+~
+0 1073156 0
+D3
+~
+~
+0 0 40000
+S
+#40003
+kingdom one~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40000
+S
+#40004
+Jay's Throne Room~
+~
+0 1073156 0
+D1
+~
+~
+0 0 40000
+S
+#40005
+kingdom one~
+~
+0 1073156 0
+D5
+~
+~
+0 0 40000
+S
+#40006
+kingdom one~
+~
+0 1073156 0
+D4
+~
+~
+0 0 40000
+D5
+~
+~
+0 0 3054
+S
+#40007
+kingdom one~
+~
+0 1073156 0
+S
+#40008
+kingdom one~
+~
+0 1073156 0
+S
+#40009
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40010
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40011
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40012
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40013
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40014
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40015
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40016
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40017
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40018
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40020
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40021
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40022
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40023
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40024
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40025
+(Kingdom One)~
+~
+0 1105924 0
+S
+#40026
+(Kingdom One)~
+~
+0 134242308 0
+D5
+~
+~
+0 0 3001
+S
+#40027
+(Kingdom One)~
+~
+0 1097734 0
+S
+#40028
+(Kingdom One)~
+~
+0 1097732 0
+S
+#40029
+(Kingdom One)~
+~
+0 1097732 0
+S
+#40030
+(Kingdom One)~
+~
+0 1097732 0
+S
+#40031
+(Kingdom One)~
+~
+0 143704068 0
+S
+#0
+
+
+
+#SPECIALS
+M 40000 spec_guard_kingdom1
+M 40001 spec_healer
+M 40097 spec_guard_kingdom1
+S
+
+
+
+#RESETS
+M 0 40000 1 40000
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

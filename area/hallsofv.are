@@ -1,0 +1,144 @@
+#AREADATA
+Name        Zheul   Halls of the Virindi~
+Builders    Zheul~
+VNUMs       85000 85099
+Security    5
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#85000
+Virindi Puppet~
+The Virindi Puppet~
+A Virindi Puppet stands here
+~
+Wrapped in a dark blue cloak and with a
+ white virindi mask on its head, this creature carries a rusty scythe which he 
+carved from adamanite
+-
+ 
+l
+~
+1 0 0 S
+374 0 0 -1d20+3 0d0+0
+0 0
+0 0 1
+#85001
+Virindi Servant~
+The Virindi Servant~
+A Virindi Servant stands here.
+~
+~
+1 0 0 S
+427 0 0 13d14+2 0d0+0
+0 0
+0 0 1
+#85090
+A white rabbit~
+A white rabbit~
+A white rabbit crawls around here.
+~
+~
+1 0 0 S
+2986 0 0 -100d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#85000
+A Virindi Mask~
+a Virindi Mask~
+A virindi mask lays on the ground here.~
+~
+9 0 32768
+0 0 0
+0 0 0 0
+4 2 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#85001
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#85098
+A small twig~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#85000
+Halls of the Virindi~
+~
+0 4 0
+S
+#85001
+Halls of the Virindi~
+~
+0 4 0
+S
+#85099
+#RS#7t#Ra#7r#Rl#7o#Rc#7k#Re#7'#Rs #7O#Rf#7f#Ri#7c#Re#n~
+~
+0 1048580 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

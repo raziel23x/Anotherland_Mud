@@ -1,0 +1,242 @@
+Installation for Rom
+--------------------
+
+1. In your Makefile, above the list of O_FILES,
+   include the following:
+
+#IMC2 - Comment out to disable IMC2 support
+IMC = 1
+
+   Then directly below the list of O_FILES, add the following:
+   [Note: BSD users - put a period in front of the word ifdef, and in front of the word endif]
+
+ifdef IMC
+   O_FILES := imc.o sha256.o $(O_FILES)
+   C_FLAGS := $(C_FLAGS) -DIMC -DIMCROM
+endif
+
+2. Open merc.h and locate the following code:
+
+#define IMPLEMENTOR		MAX_LEVEL
+#define	CREATOR			(MAX_LEVEL - 1)
+#define SUPREME			(MAX_LEVEL - 2)
+#define DEITY			(MAX_LEVEL - 3)
+#define GOD			(MAX_LEVEL - 4)
+#define IMMORTAL		(MAX_LEVEL - 5)
+#define DEMI			(MAX_LEVEL - 6)
+#define ANGEL			(MAX_LEVEL - 7)
+#define AVATAR			(MAX_LEVEL - 8)
+#define HERO			LEVEL_HERO
+
+   Directly below that, add the following:
+
+#ifdef IMC
+   #include "imc.h"
+#endif
+
+3. Locate your pc_data struct, which should be in one of your main *.h files.
+
+   Add the following to the end of it:
+
+#ifdef IMC
+    IMC_CHARDATA *imcchardata;
+#endif
+
+4. Open interp.c and locate the following section:
+
+if ( !check_social( ch, command, argument )
+
+   Add the following condition to whatever series of ifchecks exist there:
+
+#ifdef IMC
+	&&   !imc_command_hook( ch, command, argument )
+#endif
+
+5. Open comm.c and locate the following in main() :
+
+   If your mud uses copyover, at the top of main(), below:
+
+   struct timeval now_time;
+   bool fCopyOver = !TRUE;
+
+   Add:
+
+#ifdef IMC
+   int imcsocket = -1;
+#endif
+
+   A. If your mud uses copyover/hotboot, find this section( it may not look EXACTLY like this, adjust as needed ):
+	If your mud does NOT use copyover/hotboot, move to B.
+
+      if( argv[2] && argv[2][0] )
+      {
+         fCopyOver = TRUE;
+         control = atoi( argv[3] );
+      }
+      else
+         fCopyOver = FALSE;
+
+   Change it to read as( while adjusting as needed ):
+
+      if( argv[2] && argv[2][0] )
+      {
+         fCopyOver = TRUE;
+         control = atoi( argv[3] );
+#ifdef IMC
+	   imcsocket = atoi( argv[4] );
+#endif
+      }
+      else
+         fCopyOver = FALSE;
+
+   This next part is somewhat tricky. If copyover_recover is called in db.c as is the usual case in
+   most default installs, you need to place the following BEFORE the boot_db call. If it is listed
+   somewhere here in comm.c, the following needs to be placed ABOVE it. Either way, imc_startup needs
+   to be called BEFORE copyover_recover or your mud WILL crash every time you do a copyover.
+
+#ifdef IMC
+   /* Initialize and connect to IMC2 */
+   imc_startup( FALSE, imcsocket, fCopyOver );
+#endif
+
+   B. If your mud is NOT using copyover/hotboot:
+
+      Locate the following:
+
+#if defined(unix)
+    control = init_socket( port );
+    boot_db( );
+    sprintf( log_buf, "ROM is ready to rock on port %d.", port );
+    log_string( log_buf );
+
+   Add the following beneath that:
+
+#ifdef IMC
+    imc_startup( FALSE, -1, FALSE );
+#endif
+
+   C. ALL MUDS CONTINUE HERE:
+
+   Then further down in main(), locate the following:
+
+   close( control );
+
+   Add the following beneath that:
+
+#ifdef IMC
+   imc_shutdown( FALSE );
+#endif
+
+   Then in game_loop_unix(), locate the following:
+
+	/*
+	 * Autonomous game motion.
+	 */
+	update_handler( );
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+	imc_loop();
+#endif
+
+6. Open save.c and locate fread_char:
+
+   In the case 'I': section, and right before the final break; add the follwing:
+
+#ifdef IMC
+           if( ( fMatch = imc_loadchar( ch, fp, word ) ) )
+                break;
+#endif
+
+   Then in fwrite_char, locate:
+
+    fprintf( fp, "End\n\n" );
+
+   Directly ABOVE that, add:
+
+#ifdef IMC
+    imc_savechar( ch, fp );
+#endif
+
+   Then in load_char_obj(), locate the following:
+
+    found = FALSE;
+    fclose( fpReserve );
+    
+    #if defined(unix)
+    /* decompress if .gz file exists */
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+    imc_initchar( ch );
+#endif
+
+7. Open recycle.c
+
+   Locate free_char:
+
+   After this block of code:
+
+    free_string(ch->name);
+    free_string(ch->short_descr);
+    free_string(ch->long_descr);
+    free_string(ch->description);
+    free_string(ch->prompt);
+    free_string(ch->prefix);
+    free_note  (ch->pnote);
+
+   Add:
+
+#ifdef IMC
+    imc_freechardata( ch );
+#endif
+
+8. For users of copyover/hotboot ONLY:
+
+   Locate do_copyover.
+
+   In the variable declarations, add another bufX[100], where X is the next number in line.
+
+   Then just before the buffers for the execl call are
+   allocated, add the following:
+
+#ifdef IMC
+   imc_hotboot();
+#endif
+
+   Then right before the execl call, add the following, where X is the same number in the
+   new declaration you just made:
+
+#ifdef IMC
+   if( this_imcmud )
+      snprintf( bufX, 100, "%d", this_imcmud->desc );
+   else
+      strncpy( bufX, "-1", 100 );
+#else
+   strncpy( bufX, "-1", 100 );
+#endif
+
+   Then you need to add your new buffer to the execl call. So if you have this:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, (char *)NULL );
+
+   It needs to become:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, bufX, (char *)NULL );
+
+   Again being sure to change "X" to the right number.
+   Keep in mind copyover implementations vary widely among muds and you may need to
+   make some additional adjustments.
+
+8b: Ember 0.99.4a ONLY:
+
+In imc.c, remove the #include segment for tables.h
+
+8c: Sunder 1.0 ONLY:
+
+In imc.c, remove the #include statement for tables.h from the #ifdef IMCROM section,
+this file is not in the Sundermud distro.
+
+Return to the main IMC.txt file and continue where you left off.

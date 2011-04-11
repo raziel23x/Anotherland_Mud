@@ -1,0 +1,57 @@
+#AREADATA
+Name        Kingdom One~
+Builders    None~
+VNUMs       100000 100099
+Security    1
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#100000
+kingdom guardian~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#100000
+Kingdom One Recall~
+~
+0 16388 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

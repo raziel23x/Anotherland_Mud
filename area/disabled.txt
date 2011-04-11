@@ -1,0 +1,20 @@
+pray 12 Talyn
+leaderclear 12 Talyn
+kicetouch 14 Dertaherup
+activequest 14 Chrono
+muutspecial 14 Dertaherup
+complete 14 Marisella
+newbie 14 Marisella
+switch 14 Marisella
+discard 14 Chrono
+detox 14 Marisella
+autoclass 14 Nibbles
+camouflage 14 Marisella
+glamour 14 Marisella
+reshape 14 Marisella
+staredown 14 Marisella
+deforge 14 Raziel
+buystatus 14 Dertaherup
+summon 14 Chrono
+miscbag 14 Chrono
+END

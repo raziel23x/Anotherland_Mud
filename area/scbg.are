@@ -1,0 +1,3434 @@
+#AREADATA
+Name        Starcraft Battle Grounds~
+Builders    Entreri~
+VNUMs       55000 55099
+Security    1
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#55000
+terran marine class 1~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #71 is loading his grenade launcher#n
+~
+~
+3 0 1000 S
+126 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55001
+terran marine class 2~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #72 is sniping off the zerg#n
+~
+~
+3 0 1000 S
+106 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55002
+terran marine class 3~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #73 is practicing his melee#n
+~
+~
+3 0 1000 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55003
+terran marine class 3~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #73 is practicing his melee#n
+~
+~
+3 0 1000 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55004
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+101 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55005
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+95 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55006
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+82 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55007
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+85 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55008
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+88 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55009
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+105 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55010
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+129 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55011
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+78 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55012
+terran marine class 4~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #74 is cleaning his white armor#n
+~
+~
+3 0 1000 S
+105 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55013
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+115 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55014
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+104 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55015
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+64 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55016
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+83 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55017
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+121 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55018
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+98 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55019
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55020
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55021
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+120 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55022
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+163 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55023
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+110 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55024
+terran marine class 5~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #75 is launching rockets at the zerg
+~
+~
+3 0 1000 S
+94 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55025
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55026
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+108 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55027
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+106 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55028
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+116 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55029
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+112 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55030
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+139 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55031
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+112 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55032
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+104 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55033
+terran marine class 6~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#nss #76 is getting ready to fight
+~
+~
+3 0 1000 S
+104 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55034
+terran marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 2 is sniping off the zerg#n
+~
+~
+3 0 1000 S
+144 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55035
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 2 is sniping off the zerg#n
+~
+~
+3 0 1000 S
+91 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55036
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 2 is sniping off the zerg#n
+~
+~
+3 0 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55037
+Terran Marine Larva~
+#PL#pa#7r#nv#0a#n~
+#7A #Pl#pa#7r#nv#0a #li#Ls #Rh#re#7r#ne #7squishing back and forth, waiting to mutate#n
+~
+~
+3 0 1000 S
+106 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55038
+Terran Marine Larva~
+#PL#pa#7r#nv#0a#n~
+#7A #Pl#pa#7r#nv#0a #li#Ls #Rh#re#7r#ne #7squishing back and forth, waiting to mutate#n
+~
+~
+3 0 1000 S
+73 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55039
+Terran Marine Larva~
+#PL#pa#7r#nv#0a#n~
+#7A #Pl#pa#7r#nv#0a #li#Ls #Rh#re#7r#ne #7squishing back and forth, waiting to mutate#n
+~
+~
+3 0 1000 S
+74 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55040
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+129 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55041
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+112 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55042
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55043
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+84 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55044
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+96 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55045
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+137 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55046
+Terran Marine~
+#LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne~
+#7A #LT#le#7r#nr#0a#nn #GM#ga#7r#ni#0n#ne #RC#rl#7a#ns#7s 7 is smokin a cigar and playin poker#n
+~
+~
+3 0 1000 S
+122 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55047
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+62 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55048
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+84 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55049
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+96 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55050
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+138 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55051
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55052
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+90 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55053
+Terran Marine Overlord~
+#PO#pv#7e#nr#0l#no#7r#nd~
+#LA#ln #PO#pv#7e#nr#0l#no#7r#nd #li#Ls #Rh#re#7r#ne #7detecting things and being a pimp#n
+~
+~
+3 0 1000 S
+85 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55054
+zergling~
+#PZ#pe#7r#ng#0l#ni#7n#ng~
+#7A #PZ#pe#7r#ng#0l#ni#7n#ng #li#Ls #7here scampering back and forth#n
+~
+~
+3 0 -1000 S
+65 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55055
+Terran Marine Zergling~
+#PZ#pe#7r#ng#0l#ni#7n#ng~
+#7A #PZ#pe#7r#ng#0l#ni#7n#ng #li#Ls #7here scampering back and forth#n
+~
+~
+3 0 -1000 S
+139 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55056
+Terran Marine Zergling~
+#PZ#pe#7r#ng#0l#ni#7n#ng~
+#7A #PZ#pe#7r#ng#0l#ni#7n#ng #li#Ls #7here scampering back and forth#n
+~
+~
+3 0 -1000 S
+102 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55057
+Terran Marine Zergling~
+#PZ#pe#7r#ng#0l#ni#7n#ng~
+#7A #PZ#pe#7r#ng#0l#ni#7n#ng #li#Ls #7here scampering back and forth#n
+~
+~
+3 0 -1000 S
+96 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55058
+zergling~
+#PZ#pe#7r#ng#0l#ni#7n#ng~
+#7A #PZ#pe#7r#ng#0l#ni#7n#ng #li#Ls #7here scampering back and forth#n
+~
+~
+3 0 -1000 S
+92 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55062
+ultralisk~
+#GU#gl#7t#nr#0a#nl#7i#ns#0k#n~
+#PA#pn #GU#gl#7t#nr#0a#nl#7i#ns#0k #li#Ls #7here sharpening it's tusks#n
+~
+~
+3 0 -1000 S
+147 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55063
+ultralisk~
+#GU#gl#7t#nr#0a#nl#7i#ns#0k#n~
+#PA#pn #GU#gl#7t#nr#0a#nl#7i#ns#0k #li#Ls #7here sharpening it's tusks#n
+~
+~
+3 0 -1000 S
+70 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55064
+ultralisk~
+#GU#gl#7t#nr#0a#nl#7i#ns#0k#n~
+#PA#pn #GU#gl#7t#nr#0a#nl#7i#ns#0k #li#Ls #7here sharpening it's tusks#n
+~
+~
+3 0 -1000 S
+135 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55065
+ultralisk~
+#GU#gl#7t#nr#0a#nl#7i#ns#0k#n~
+#PA#pn #GU#gl#7t#nr#0a#nl#7i#ns#0k #li#Ls #7here sharpening it's tusks#n
+~
+~
+3 0 -1000 S
+106 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55066
+ultralisk~
+#GU#gl#7t#nr#0a#nl#7i#ns#0k#n~
+#PA#pn #GU#gl#7t#nr#0a#nl#7i#ns#0k #li#Ls #7here sharpening it's tusks#n
+~
+~
+3 0 -1000 S
+92 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55067
+hydralisk~
+#LH#ly#7d#nr#0a#nl#7i#ns#0k~
+#7A #LH#ly#7d#nr#0a#nl#7i#ns#0k #li#Ls #7here spitting acid along the hives wall, coating it more#n
+~
+~
+3 0 -1000 S
+52 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55068
+hydralisk~
+#LH#ly#7d#nr#0a#nl#7i#ns#0k~
+#7A #LH#ly#7d#nr#0a#nl#7i#ns#0k #li#Ls #7here spitting acid along the hives wall, coating it more#n
+~
+~
+3 0 -1000 S
+75 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55069
+hydralisk~
+#LH#ly#7d#nr#0a#nl#7i#ns#0k~
+#7A #LH#ly#7d#nr#0a#nl#7i#ns#0k #li#Ls #7here spitting acid along the hives wall, coating it more#n
+~
+~
+3 0 -1000 S
+119 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55070
+hydralisk~
+#LH#ly#7d#nr#0a#nl#7i#ns#0k~
+#7A #LH#ly#7d#nr#0a#nl#7i#ns#0k #li#Ls #7here spitting acid along the hives wall, coating it more#n
+~
+~
+3 0 -1000 S
+88 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55071
+hydralisk~
+#LH#ly#7d#nr#0a#nl#7i#ns#0k~
+#7A #LH#ly#7d#nr#0a#nl#7i#ns#0k #li#Ls #7here spitting acid along the hives wall, coating it more#n
+~
+~
+3 0 -1000 S
+133 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55072
+mutalisk~
+#RM#ru#7t#na#0l#ni#7s#nk~
+#7A #RM#ru#7t#na#0l#ni#7s#nk #li#Ls #7here, getting upgrades on it's glaive attack#n
+~
+~
+3 0 -1000 S
+87 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55073
+mutalisk~
+#RM#ru#7t#na#0l#ni#7s#nk~
+#7A #RM#ru#7t#na#0l#ni#7s#nk #li#Ls #7here, getting upgrades on it's glaive attack#n
+~
+~
+3 0 -1000 S
+95 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55074
+mutalisk~
+#RM#ru#7t#na#0l#ni#7s#nk~
+#7A #RM#ru#7t#na#0l#ni#7s#nk #li#Ls #7here, getting upgrades on it's glaive attack#n
+~
+~
+3 0 -1000 S
+89 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55075
+mutalisk~
+#RM#ru#7t#na#0l#ni#7s#nk~
+#7A #RM#ru#7t#na#0l#ni#7s#nk #li#Ls #7here, getting upgrades on it's glaive attack#n
+~
+~
+3 0 -1000 S
+109 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#55076
+mutalisk~
+#RM#ru#7t#na#0l#ni#7s#nk~
+#7A #RM#ru#7t#na#0l#ni#7s#nk #li#Ls #7here, getting upgrades on it's glaive attack#n
+~
+~
+3 0 -1000 S
+126 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#55000
+Portal to Starcraft Battle Grounds~
+..~
+#7Portal to Starcraft Battle Grounds#n~
+~
+27 0 0
+0 0 0
+55000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#55057
+ball~
+ball~
+Ball~
+~
+9 393216 2049
+0 0 0
+0 0 0 0
+1 0 0
+A
+1 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#55000
+#GC#ga#7n#ny#0o#nn #Li#ln#7t#no #rt#Rh#re #PZ#pe#7r#ng #RH#ri#7v#ne~
+~
+0 0 5
+D0
+~
+~
+0 0 55001
+S
+#55001
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55002
+D2
+~
+~
+0 0 55000
+D3
+~
+~
+0 0 55034
+S
+#55002
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55003
+D3
+~
+~
+0 0 55001
+S
+#55003
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55004
+D3
+~
+~
+0 0 55002
+S
+#55004
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55008
+D1
+~
+~
+0 0 55006
+D2
+~
+~
+0 0 55003
+D3
+~
+~
+0 0 55005
+S
+#55005
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55009
+D1
+~
+~
+0 0 55004
+S
+#55006
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55007
+D3
+~
+~
+0 0 55004
+S
+#55007
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55012
+D2
+~
+~
+0 0 55006
+D3
+~
+~
+0 0 55008
+S
+#55008
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55011
+D1
+~
+~
+0 0 55007
+D2
+~
+~
+0 0 55004
+D3
+~
+~
+0 0 55009
+S
+#55009
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55010
+D1
+~
+~
+0 0 55008
+D2
+~
+~
+0 0 55005
+S
+#55010
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55013
+D1
+~
+~
+0 0 55011
+D2
+~
+~
+0 0 55009
+S
+#55011
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55012
+D2
+~
+~
+0 0 55008
+D3
+~
+~
+0 0 55010
+S
+#55012
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D2
+~
+~
+0 0 55007
+D3
+~
+~
+0 0 55011
+S
+#55013
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55017
+D1
+~
+~
+0 0 55015
+D2
+~
+~
+0 0 55010
+D3
+~
+~
+0 0 55014
+S
+#55014
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55018
+D1
+~
+~
+0 0 55013
+S
+#55015
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55016
+D3
+~
+~
+0 0 55013
+S
+#55016
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55021
+D2
+~
+~
+0 0 55015
+D3
+~
+~
+0 0 55017
+S
+#55017
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55020
+D1
+~
+~
+0 0 55016
+D2
+~
+~
+0 0 55013
+D3
+~
+~
+0 0 55018
+S
+#55018
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55019
+D1
+~
+~
+0 0 55017
+D2
+~
+~
+0 0 55014
+S
+#55019
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55022
+D1
+~
+~
+0 0 55020
+D2
+~
+~
+0 0 55018
+S
+#55020
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55023
+D1
+~
+~
+0 0 55021
+D2
+~
+~
+0 0 55017
+D3
+~
+~
+0 0 55019
+S
+#55021
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55024
+D1
+~
+~
+0 0 55026
+D2
+~
+~
+0 0 55016
+D3
+~
+~
+0 0 55020
+S
+#55022
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55023
+D2
+~
+~
+0 0 55019
+S
+#55023
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55024
+D2
+~
+~
+0 0 55020
+D3
+~
+~
+0 0 55022
+S
+#55024
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55025
+D2
+~
+~
+0 0 55021
+D3
+~
+~
+0 0 55023
+S
+#55025
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55030
+D2
+~
+~
+0 0 55026
+D3
+~
+~
+0 0 55024
+S
+#55026
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55025
+D1
+~
+~
+0 0 55027
+D3
+~
+~
+0 0 55021
+S
+#55027
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55030
+D1
+~
+~
+0 0 55028
+D3
+~
+~
+0 0 55026
+S
+#55028
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55029
+D3
+~
+~
+0 0 55027
+S
+#55029
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55031
+D2
+~
+~
+0 0 55028
+D3
+~
+~
+0 0 55030
+S
+#55030
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55032
+D1
+~
+~
+0 0 55029
+D2
+~
+~
+0 0 55027
+D3
+~
+~
+0 0 55025
+S
+#55031
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D2
+~
+~
+0 0 55029
+D3
+~
+~
+0 0 55032
+S
+#55032
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55033
+D1
+~
+~
+0 0 55031
+D2
+~
+~
+0 0 55030
+S
+#55033
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55054
+D2
+~
+~
+0 0 55032
+S
+#55034
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55035
+S
+#55035
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55036
+D1
+~
+~
+0 0 55034
+S
+#55036
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55040
+D2
+~
+~
+0 0 55035
+D3
+~
+~
+0 0 55037
+S
+#55037
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D1
+~
+~
+0 0 55036
+D2
+~
+~
+0 0 55038
+S
+#55038
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55037
+D2
+~
+~
+0 0 55039
+S
+#55039
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55038
+S
+#55040
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55041
+D3
+~
+~
+0 0 55036
+S
+#55041
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D0
+~
+~
+0 0 55042
+D2
+~
+~
+0 0 55040
+D3
+~
+~
+0 0 55053
+S
+#55042
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D2
+~
+~
+0 0 55041
+D3
+~
+~
+0 0 55043
+S
+#55043
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55042
+D3
+~
+~
+0 0 55044
+S
+#55044
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55043
+D3
+~
+~
+0 0 55045
+S
+#55045
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55044
+D3
+~
+~
+0 0 55046
+S
+#55046
+#GD#ge#7e#np#0e#nr #Li#ln#7t#no #rt#Rh#re #RC#ra#7n#ny#0o#nn~
+~
+0 0 0
+D1
+~
+~
+0 0 55045
+D2
+~
+~
+0 0 55047
+S
+#55047
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55046
+D2
+~
+~
+0 0 55048
+S
+#55048
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55047
+S
+#55049
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55050
+S
+#55050
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D0
+~
+~
+0 0 55051
+D2
+~
+~
+0 0 55049
+S
+#55051
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D1
+~
+~
+0 0 55052
+D2
+~
+~
+0 0 55050
+S
+#55052
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D1
+~
+~
+0 0 55053
+D3
+~
+~
+0 0 55051
+S
+#55053
+#GC#go#7v#ne#0r#ne#7d #li#Ln #PP#pu#7r#np#0l#ni#7s#nh #RC#rr#7e#ne#0p~
+~
+0 0 0
+D1
+~
+~
+0 0 55041
+D3
+~
+~
+0 0 55052
+S
+#55054
+#RI#rn #Lf#lr#7o#nn#0t #ro#Rf #7a #PH#pu#7g#ne #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55055
+D2
+~
+~
+0 0 55033
+S
+#55055
+#GO#gp#7e#nn#0i#nn#7g #li#Ln #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55057
+D1
+~
+~
+0 0 55056
+D2
+~
+~
+0 0 55054
+D3
+~
+~
+0 0 55058
+D5
+~
+~
+0 0 55061
+S
+#55056
+#GI#gn#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D3
+~
+~
+0 0 55055
+D5
+~
+~
+0 0 55072
+S
+#55057
+#GI#gn#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 30058
+D2
+~
+~
+0 0 55055
+D5
+~
+~
+0 0 55062
+S
+#55058
+#GI#gn#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D1
+~
+~
+0 0 55055
+D5
+~
+~
+0 0 55067
+S
+#55061
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D2
+~
+~
+0 0 55077
+D4
+~
+~
+0 0 55055
+S
+#55062
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D2
+~
+~
+0 0 55063
+D4
+~
+~
+0 0 55057
+S
+#55063
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55062
+D1
+~
+~
+0 0 55064
+D2
+~
+~
+0 0 55066
+D3
+~
+~
+0 0 55065
+S
+#55064
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D3
+~
+~
+0 0 55063
+S
+#55065
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D1
+~
+~
+0 0 55063
+S
+#55066
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55063
+S
+#55067
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D2
+~
+~
+0 0 55068
+D4
+~
+~
+0 0 55058
+S
+#55068
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55067
+D1
+~
+~
+0 0 55069
+D2
+~
+~
+0 0 55071
+D3
+~
+~
+0 0 55070
+S
+#55069
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D3
+~
+~
+0 0 55068
+S
+#55070
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D1
+~
+~
+0 0 55068
+S
+#55071
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55068
+S
+#55072
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D2
+~
+~
+0 0 55073
+D4
+~
+~
+0 0 55056
+S
+#55073
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55072
+D1
+~
+~
+0 0 55074
+D2
+~
+~
+0 0 55076
+D3
+~
+~
+0 0 55075
+S
+#55074
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D3
+~
+~
+0 0 55073
+S
+#55075
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D1
+~
+~
+0 0 55073
+S
+#55076
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55073
+S
+#55077
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55061
+D1
+~
+~
+0 0 55079
+D2
+~
+~
+0 0 55080
+D3
+~
+~
+0 0 55078
+S
+#55078
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D1
+~
+~
+0 0 55077
+S
+#55079
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D3
+~
+~
+0 0 55077
+S
+#55080
+#GD#ge#7e#np #LI#ln#7t#no #rt#Rh#re #PH#pi#7v#ne~
+~
+0 0 0
+D0
+~
+~
+0 0 55077
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55000 20 55000
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55001 20 55001
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55002 20 55002
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55003 20 55003
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55004 20 55004
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55005 20 55005
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55006 20 55006
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55007 20 55007
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55008 20 55008
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55009 20 55009
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55010 20 55010
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55011 20 55011
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55012 20 55012
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55013 20 55013
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55014 20 55014
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55015 20 55015
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55016 20 55016
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55017 20 55017
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55018 20 55018
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55019 20 55019
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55020 20 55020
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55021 20 55021
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55022 20 55022
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55023 20 55023
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55024 20 55024
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55025 20 55025
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55026 20 55026
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55027 20 55027
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55028 20 55028
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55029 20 55029
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55030 20 55030
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55031 20 55031
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55032 20 55032
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55033 20 55033
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55034 20 55034
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55035 20 55035
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55036 20 55036
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55037 20 55037
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55038 20 55038
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55039 20 55039
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55040 20 55040
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55041 20 55041
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55042 20 55042
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55043 20 55043
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55044 20 55044
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55045 20 55045
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55046 20 55046
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55047 20 55047
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55048 20 55048
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55049 20 55049
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55050 20 55050
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55051 20 55051
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55052 20 55052
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55053 20 55053
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55054 20 55054
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55055 20 55055
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55056 20 55056
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55057 20 55057
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55058 20 55058
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55062 20 55062
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55063 20 55063
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55064 20 55064
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55065 20 55065
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55066 20 55066
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55067 20 55067
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55068 20 55068
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55069 20 55069
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55070 20 55070
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55071 20 55071
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55072 20 55072
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55073 20 55073
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55074 20 55074
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55075 20 55075
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+M 0 55076 20 55076
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

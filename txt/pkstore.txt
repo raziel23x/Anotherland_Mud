@@ -1,0 +1,31 @@
+#RSeth's Almighty Store#n~
+Excavier Slab 48 hit/dam~
+The most rarest slabs on the earth. This is one of the only places where you can buy these slabs. The slabs are mined 100 miles south of Caradoon. The slabs, are once said to contain the souls of the mighty warriors, hence their incredible abilities. Each slab takes 1 year to mine and process. The history of these slabs are still unknown, but are desired everywhere.~
+101019 75 75000 20 452
+A Supreme Pill of Heal~
+A new medical product brought to you from #RM#gercenarys #GI#rncorperated.~
+110969 0 20000 0 212
+Slab of Liquid Shadow Mithril~
+Not much is known about this slab, but from old folk lore. It was used by the strongest and fiercest of warriors.~
+101024 80 80000 40 177
+Zirconium Slabs 36 hit/dam~
+Zirconium Slabs, although usually weak in substance, has been refined into a very strong slab indeed. These slabs, have the properties of 3 adamantite put together. Manufactured at Berkeley, These slabs will not dissapoint.~
+101018 55 50000 5 10
+Titanium Slabs 24 hit/dam~
+Titanium Slabs have so many useful properties, it would take pages to describe what they can do. These slabs have also been remanufactured by Berkeley and contain some new elements that make this a very strong slab indeed.~
+101017 35 25000 5 35
+Adamantite Slabs ( 12 hit/dam )~
+These slabs were gathered by miners who saw the last of daylight after a mafia raid stole the rest of the remaining adamantite. Most of the adamantite you see popping around are from these mafia people running around dropping them.~
+30052 15 15000 2 121
+500 Quest Points~
+You get 500 qps for every pkpoint.~
+0 1 -500 1 29564
+Scroll of Death ( Pkill usage )~
+Wow, how interesting, a level 10k spells of WEB, CURSE, AND IMP FIREBALL! Now that's some damage right there, lets see someone go against you. An Indisposable scroll to those who don't have curse, and want a surefire way to kick some ASS! Thats right ppl, ASS!!~
+101023 5 5000 1 3158
+Almighty Quest Card ( Complete 500, Happy 1k )~
+A new and modified Quest Card, It gives 2x the amount of qps, a rarity!~
+101022 10 10000 2 40
+DEFUNCT~
+The most expensive item currently on the pkbuy list. Why? Because it shows that you're one of the best pkillers on the mud to hold this item in your hands. It's improved, has +350 hitroll/damroll, and 30k across.~
+0 250 0 0 10

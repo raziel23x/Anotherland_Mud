@@ -1,0 +1,1042 @@
+#AREADATA
+Name        "       Vacations~
+Builders    Marisella Joshua~
+VNUMs       113000 115000
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#113000
+A Vacation Dealer~
+A Vacations Dealer trys to sell you some tickets.~
+A Vacations Dealer trys to sell you some tickets.
+~
+~
+65539 0 0 S
+25 0 0 100d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#113000
+A ticket for a vacation.~
+a ticket to go on a vacation#n~
+A ticket to go on a vacation sits here.#n~
+~
+8 147584 1
+0 0 0
+0 0 0 0
+0 10000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113001
+warm blanket~
+a warm #Rblanket#n~
+A warm #Rblanket#n lays here~
+~
+12 0 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113002
+picnic basket~
+a #ypicnic #obasket#n~
+A #ypicnic #obasket#n sits here.~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113026
+A tent~
+a tent~
+(no description)~
+~
+12 0 0
+0 0 524288
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113027
+marisella sex swing~
+#RMa#rr#Ris#re#Rll#ra#R's sex swing#n~
+#RMa#rr#Ris#re#Rll#ra#R's sex swing#0 is here, it looks as if it's been used recently.#n~
+~
+12 323 0
+0 0 0
+1 2 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113028
+tigereye gem~
+a Tiger #yEye#n gem~
+A Tiger #yEye#n gem~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#113029
+quartz gem~
+a #CQuartz#n Gem~
+A #CQuartz#n Gem~
+~
+45 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114987
+upgraded wizard pouch~
+#P(#g=* Upgraded #7s#0i#7l#0k #Ppouch#g *=#P)#n~
+A #P(#g=* Upgraded #7s#0i#7l#0k #Ppouch#g *=#P)#n lies here.~
+~
+15 0 2049
+0 0 1048576
+5000 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114988
+upgraded rod of the magi wizard~
+#p(#C=#c* #pRod of the #sM#sa#sg#si #c*#C=#p)#n~
+A #p(#C=#c* #pRod of the #sM#sa#sg#si #c*#C=#p)#n lies here.~
+~
+5 0 8193
+0 0 1048576
+66 100 200 6
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114989
+upgraded staff of the magi wizard~
+#p(#C=#c* #pStaff of the #sM#sa#sg#si #c*#C=#p)#n~
+A #p(#C=#c* #pStaff of the #sM#sa#sg#si #c*#C=#p)#n lies here.~
+~
+5 0 8193
+0 0 1048576
+90 100 200 7
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114990
+upgraded wizard cloak~
+#p(#g=* Upgraded #pWizard Cloak #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Cloak #g*=#p)#n lies here.~
+~
+9 0 1025
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114991
+upgraded wizard leggings~
+#p(#g=* Upgraded #pWizard Leggings #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Leggings #g*=#p)#n lies here.~
+~
+9 0 33
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114992
+upgraded wizard boots~
+#p(#g=* Upgraded #pWizard Boots #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Boots #g*=#p)#n lies here.~
+~
+9 0 65
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+12 800
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114993
+upgraded wizard sleeves~
+#p(#g=* Upgraded #pWizard Sleeves #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Sleeves #g*=#p)#n lies here.~
+~
+9 0 257
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+19 200
+A
+18 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114994
+upgraded wizard gloves~
+#p(#g=* Upgraded #pWizard Gloves #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Gloves #g*=#p)#n lies here.~
+~
+9 0 129
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114995
+upgraded wizard mask~
+#p(#g=* Upgraded #pWizard Mask #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Mask #g*=#p)#n lies here.~
+~
+9 0 32769
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114996
+upgraded wizard helmet~
+#p(#g=* Upgraded #pWizard Helmet #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Helmet #g*=#p)#n lies here.~
+~
+9 0 17
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114997
+upgraded wizard plate~
+#p(#g=* Upgraded #pWizard Plate #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Plate #g*=#p)#n lies here.~
+~
+9 0 9
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114998
+upgraded wizard pendant~
+#p(#g=* Upgraded #pWizard Pendant #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Pendant #g*=#p)#n lies here.~
+~
+9 0 5
+0 0 1048576
+50 0 0 16
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#114999
+upgraded wizard bracer~
+#p(#g=* Upgraded #pWizard Bracer#g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Bracer#g*=#p)#n lies here.~
+~
+9 0 4097
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#115000
+upgraded wizard ring~
+#p(#g=* Upgraded #pWizard Ring #g*=#p)#n~
+A #p(#g=* Upgraded #pWizard Ring #g*=#p)#n lies here.~
+~
+9 0 3
+0 0 1048576
+50 0 0 0
+0 0 0
+A
+17 -200
+A
+18 200
+A
+19 200
+A
+13 800
+A
+12 800
+A
+14 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#113000
+The #yVacation #LBooking #yAgency#n~
+~
+0 1343234048 0
+D0
+~
+~
+0 0 113001
+S
+#113001
+The Giant #CP#cortal#n of Vacations~
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113003
+D1
+~
+~
+0 0 113004
+D2
+~
+~
+0 0 113000
+D3
+~
+~
+0 0 113002
+D4
+~
+~
+0 0 113005
+S
+#113002
+The #CP#cortal#n of Lesser Vacations~
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113001
+S
+#113003
+The #CP#cortal#n of Moderate Vacations~
+~
+0 1074798592 0
+D2
+~
+~
+0 0 113001
+S
+#113004
+The #CP#cortal#n of Greater Vacations~
+~
+0 1074798592 0
+D3
+~
+~
+0 0 113001
+S
+#113005
+The #CP#cortal#n of Things Joshua Does Souly For Christine~
+This is the #CP#cortal#n Joshua will throw all his #RL#rove#n
+into for the one person he loves, Christine.  I love you hunnie.
+~
+0 1074790400 0
+D3
+~
+~
+0 0 113006
+D5
+~
+~
+0 0 113001
+S
+#113006
+The Begining of Joshua and Christine's Personal Picnic Area~
+This is an area with nice large fields of grass and different flowers made
+so Joshua and Christine can do there best to have the picnics together that
+they imagine having with eachother.
+I love you sweetie.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113005
+D3
+~
+~
+0 0 113007
+S
+#113007
+A Field of #GGrass#n~
+A bunch of #GG#green#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113014
+D1
+~
+~
+0 0 113006
+D3
+~
+~
+0 0 113008
+S
+#113008
+A Field of #GGrass#n~
+A bunch of #GGr#geen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113013
+D1
+~
+~
+0 0 113007
+D3
+~
+~
+0 0 113009
+S
+#113009
+A Field of #GGrass#n~
+A bunch of #GGre#gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113012
+D1
+~
+~
+0 0 113008
+D3
+~
+~
+0 0 113010
+S
+#113010
+A Field of #GGrass#n~
+A bunch of #GGree#gn#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113011
+D1
+~
+~
+0 0 113009
+S
+#113011
+A Field of #GGrass#n~
+A bunch of #GG#gre#Gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113018
+D1
+~
+~
+0 0 113012
+D2
+~
+~
+0 0 113010
+S
+#113012
+A Field of #GGrass#n~
+A bunch of #GGr#gee#Gn#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113017
+D1
+~
+~
+0 0 113013
+D2
+~
+~
+0 0 113009
+D3
+~
+~
+0 0 113011
+S
+#113013
+A Field of #GGrass#n~
+A bunch of #GG#gr#Ge#gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113016
+D1
+~
+~
+0 0 113014
+D2
+~
+~
+0 0 113008
+D3
+~
+~
+0 0 113012
+S
+#113014
+A Field of #GGrass#n~
+A bunch of #GGr#ge#Ge#gn#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113015
+D2
+~
+~
+0 0 113007
+D3
+~
+~
+0 0 113013
+S
+#113015
+A Field of #GGrass#n~
+A bunch of #GG#gre#Gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113022
+D2
+~
+~
+0 0 113014
+D3
+~
+~
+0 0 113016
+S
+#113016
+A Field of #GGrass#n~
+A bunch of #GGr#ge#Gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113021
+D1
+~
+~
+0 0 113015
+D2
+~
+~
+0 0 113013
+D3
+~
+~
+0 0 113017
+S
+#113017
+A Field of #GGrass#n~
+A bunch of #GG#gr#Ge#ge#Gn#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113020
+D1
+~
+~
+0 0 113016
+D2
+~
+~
+0 0 113012
+D3
+~
+~
+0 0 113018
+S
+#113018
+A Field of #GGrass#n~
+A bunch of #gG#Green#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113019
+D1
+~
+~
+0 0 113017
+D2
+~
+~
+0 0 113011
+S
+#113019
+A Field of #GGrass#n~
+A bunch of #gGr#Geen#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113020
+D2
+~
+~
+0 0 113018
+S
+#113020
+A Field of #GGrass#n~
+A bunch of #gGre#Gen#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113021
+D2
+~
+~
+0 0 113017
+D3
+~
+~
+0 0 113019
+S
+#113021
+A Field of #GGrass#n~
+A bunch of #gGree#Gn#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113022
+D2
+~
+~
+0 0 113016
+D3
+~
+~
+0 0 113020
+S
+#113022
+A Field of #GGrass#n~
+A bunch of #gG#Gre#gen#n Grass is here.
+~
+0 1074798592 0
+D0
+~
+~
+0 0 113023
+D2
+~
+~
+0 0 113015
+D3
+~
+~
+0 0 113021
+S
+#113023
+A Field of #GGrass#n~
+A bunch of #gGr#Gee#gn#n Grass is here.
+~
+0 1074798592 0
+D2
+~
+~
+0 0 113022
+D3
+~
+~
+0 0 113024
+S
+#113024
+A Field of #GGrass#n~
+A bunch of #gG#Gr#ge#Gen#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113023
+D3
+~
+~
+0 0 113025
+S
+#113025
+A Field of #GGrass#n~
+A bunch of #gGr#Ge#ge#Gn#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113024
+D3
+~
+~
+0 0 113026
+S
+#113026
+A Field of #GGrass#n~
+A bunch of #gG#Gre#gen#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113025
+D3
+~
+~
+0 0 113027
+S
+#113027
+A Field of #GGrass#n~
+A bunch of #gGr#Ge#gen#n Grass is here.
+~
+0 1074798592 0
+D1
+~
+~
+0 0 113026
+S
+#113028
+Mari's Room of Stuff~
+Your in a room full of stuff.  There is a huge bed, while suspended from
+the ceiling a swing gently rocks back and forth.  
+~
+0 1073668 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 113000 1 113000
+O 0 113027 0 113028
+S
+
+
+
+#SHOPS
+113000 8 8 8 8 8 100 100 1 0
+0
+
+
+
+#$

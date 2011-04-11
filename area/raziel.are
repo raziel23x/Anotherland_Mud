@@ -1,0 +1,919 @@
+#AREADATA
+Name        Raziel  House of Pain~
+Builders    Raziel~
+VNUMs       40900 40950
+Security    9
+Recall      40902
+Flags	      0
+End
+
+
+
+#MOBILES
+#40900
+baby~
+Dustin~
+Dustin lies in his crib.
+~
+Baby son of Marisella and Joshua
+~
+32787 0 0 S
+199999923 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40901
+zellar~
+Zellar~
+Zellar lies in a crib
+~
+Kabal and Serena's child
+~
+32787 0 0 S
+199999945 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40902
+pleth~
+Pleth~
+Pleth lies in a crib
+~
+Kabal and Marisellas baby
+~
+32787 0 0 S
+199999886 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40903
+blink~
+Blink~
+Blink lies in her crib.
+~
+Baby girl of Kagome and Inuyasha
+~
+32787 0 0 S
+199999981 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#40904
+kieran~
+Kieran~
+Kieran lies in a crib
+~
+Marisella and Raziels child
+~
+32787 0 0 S
+200000017 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#40926
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40947
+some dumb mob~
+#7S#0ome #7D#0umb #7M#0ob#n~
+#7S#0ome #7D#0umb #7M#0ob#n stands here. Drool is dribbling down it's chin
+~
+~
+1 0 0 S
+22 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40948
+nothing~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+19 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40949
+Simple~
+Simple~
+Simple is here being a asshole as usuall
+~
+~
+1 0 0 S
+43 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#40950
+Cirin~
+Cirin~
+Cirin is here being a asshole as usuall
+~
+~
+1 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40900
+Wardrobe cabinet~
+#PW#pa#Pr#pd#Pr#po#Pb#pe #PC#pa#Pb#pi#Pn#pe#Pt#n~
+#PW#pa#Pr#pd#Pr#po#Pb#pe #PC#pa#Pb#pi#Pn#pe#Pt#n placed against the west wall.~
+~
+15 0 0
+0 0 0
+2000000000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40901
+loveseat seat~
+loveseat~
+A loveseat is against the north wall.~
+~
+12 0 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40902
+bed~
+a nicely made bed.~
+A nicely made bed up against the south wall~
+~
+12 0 0
+0 0 0
+1 2000000000 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40903
+rusted nails wall~
+#0r#ru#0s#rt#0e#rd #0n#ra#0i#rl#0s#n sticking out of the walls~
+#0r#ru#0s#rt#0e#rd #0n#ra#0i#rl#0s#n sticking out of the walls~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40904
+hottub tub~
+built in hot tub~
+A hot tub is built into the northeast section of the room~
+~
+12 0 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40905
+red white roses~
+#RR#re#Rd#n and #7White#n #RR#7o#Rs#7e#Rs#n~
+A room full of #RR#re#Rd#n and #7White#n #RR#7o#Rs#7e#Rs#n with a card stuck in one of the piles to Marisella~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40906
+mud slut crown~
+#b#RM#n#rU#b#RD S#rL#b#RU#n#rT#n #b#RC#n#rR#b#RO#n#rW#b#RN#n~
+A #b#RM#n#rU#b#RD S#rL#b#RU#n#rT#n #b#RC#n#rR#b#RO#n#rW#b#RN#n lies here.~
+~
+8 0 17
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40907
+orgy portal~
+orgy Portal~
+Orgy Portal~
+~
+27 0 1
+0 0 0
+101799 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40908
+destructive socket~
+#RD#0e#Rstr#0u#Rct#oi#Rv#oe #GS#yo#Gck#ye#Gt#n~
+A #RD#0e#Rstr#0u#Rct#oi#Rv#oe #GS#yo#Gck#ye#Gt#n lies here~
+~
+70 128 1
+0 0 67108864
+500 500 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40909
+raziel bot botter token~
+raziel's botters qp token~
+Raziel's botters qp token~
+~
+33 0 1
+0 0 0
+-2000000000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40914
+marble table~
+a #CS#7mall #CR#7ound #CM#7arble #CT#7able#n~
+A #CS#7mall #CR#7ound #CM#7arble #CT#7able#n sits between the two chairs.~
+~
+15 0 1
+0 0 0
+50000 0 0 0
+5000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40915
+small black marble chair~
+a #7S#0mall #7B#0lack #7M#0arble #7C#0hair#n~
+A #7S#0mall #7B#0lack #7M#0arble #7C#0hair#n sits near the edge overlooking the sea.~
+~
+12 0 0
+0 0 0
+1 1 0 0
+6000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40916
+small white marble chair~
+a #0S#7mall #0W#7hite #0M#7arble #0C#7hair#n~
+A #0S#7mall #0W#7hite #0M#7arble #0C#7hair#n sits near the edge overlooking the sea.~
+~
+12 0 0
+0 0 0
+1 1 0 0
+6000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40917
+fountain coffee~
+a fountain of fresh french vanilla #oc#7o#of#7f#oe#7e#n.~
+A fountain of fresh french vanilla #oc#7o#of#7f#oe#7e#n gushes up from the ground.~
+~
+17 0 0
+0 0 0
+20000 20000 12 0
+5000 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40918
+hammock skin~
+#RA B#rl#Ro#ro#Rd#ry #RS#rk#Ri#rn #Rh#ra#Rm#rm#Ro#rk#n~
+#RA s#rk#Ri#rn #Rh#ra#Rm#rm#Ro#rk #Rd#rr#Ri#rp#Rp#ri#Rn#rg #Rw#ri#Rt#rh #Rb#rl#Ro#ro#Rd#n hangs from the ceiling.~
+~
+12 32768 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40919
+leather chair recliner~
+#0A l#oe#0a#ot#0h#oe#0r r#oe#0c#ol#0i#on#0e#or#n~
+#0A l#oe#0a#ot#0h#oe#0r r#oe#0c#ol#0i#on#0e#or#n custom made by the #7spirit#n of #RM#rr#n. #RE#rd #RG#re#Ri#rn#n.~
+~
+12 32768 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40920
+note~
+#sA #sN#sO#sT#sE #sF#sR#sO#sM #sD#sE#sR#sT#n~
+A letter sits in the dirt.~
+~
+13 0 16385
+0 0 0
+0 0 0 0
+19264 0 0
+E
+note~
+multiplaying is illegal here and as a result all offending
+characters are in jail until you speak with me. send me a note on
+the personal board.
+ 
+#0dertaherup#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40921
+skeleton key~
+a Skeleton Key~
+A muddy key carved from a femur sits in the corner.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40922
+pot cannabis sativa~
+#GA L#garge #GR#gow #GO#gf #GC#gannabis #GS#gativa#n~
+#GA L#garge #GR#gow #GO#gf #GC#gannabis #GS#gativa#n~
+~
+15 0 0
+0 0 0
+1 5 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40923
+triple perc bong~
+#RA #RT#0r#Li#0p#Ll#0e #RP#0e#Lr#0c #RB#0o#Ln#0g#n~
+#RA #RB#0l#La#0c#Lk #RA#0n#Ld #RR#0e#Ld #RT#0r#Li#0p#Ll#0e #RP#0e#Lr#0c #RB#0o#Ln#0g#n emits a feeling power.~
+~
+1 131395 16385
+0 0 0
+0 0 5 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40924
+fern~
+#GA G#gigantic #GF#gern#n~
+#GA #GG#gigantic #GF#gern #GG#grows #GO#gf #GT#ghe #GE#garth#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40925
+fern~
+#GA G#gigantic #GF#gern#n~
+#GA #GG#gigantic #GF#gern #GG#grows #GO#gf #GT#ghe #GE#garth#n#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40926
+fern~
+#GA G#gigantic #GF#gern#n~
+#GA #GG#gigantic #GF#gern #GG#grows #GO#gf #GT#ghe #GE#garth#n#n#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40927
+fern~
+#GA G#gigantic #GF#gern#n~
+#GA G#gigantic #GF#gern #GG#grows #GO#gf #GT#ghe #GE#garth#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40928
+warm coffee mug~
+#7A #7M#ou#0g #7O#of #7W#oa#0r#om #7C#oo#0f#of#0e#oe#n~
+#7A #7M#ou#0g #7O#of #7W#oa#0r#om #7C#oo#0f#of#0e#oe#n calls to you!~
+~
+17 0 16385
+0 0 0
+100 100 12 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40900
+#RT#rh#Re #RE#rn#Rt#rr#Ra#rn#Rc#re #RT#ro #RT#rh#Re #RH#ro#Ru#rs#Re #RO#Rf #RP#ra#Ri#rn#R.#n~
+~
+0 134234118 0
+D0
+~
+~
+0 0 40901
+S
+#40901
+#RT#rh#Re #RB#rl#Ro#ro#Rd#ry #RH#ra#Rl#rl#Rw#ra#Ry#r.#n~
+~
+0 403719174 0
+D0
+~
+~
+0 0 40904
+D1
+~
+~
+0 0 40903
+D2
+~
+~
+0 0 40900
+S
+#40902
+#7Inu#0ya#7sha#0's #GT#gr#Ge#ge#n~
+You look up to see a tall, beautiful tree.  The wind blows gently through
+its branches, and you can notice an oval indention in it's bark.  Legend has
+it, fifty years ago an evil being named Naraku tricked the young lovers into
+hating each other.  The woman, Kikyo, sealed the hanyou, Inuyasha, to the
+tree with a single purifying arrow through his heart, where he would sleep
+for all eternity.  Soon after, Kikyo dies from a fatal wound given to her by
+Naraku disguised as Inuyasha.  Five hundred years later she reincarnates as
+Kagome.  On her fifteenth birthday, Kagome gets dragged down the
+Bone-Eater's well by a centipede youkai.  The well sends her back in time to
+fifty years after the tragedy, and she happens upon the sleeping hanyou. 
+The centipede youkai tries to kill her, and as Kagome runs, she calls out
+for anyone to help her.  Inuyasha is released from his seal and comes to her
+rescue, never to leave her side again.  Together Inuyasha and Kagome search
+out the evil youkai Naraku to destroy him and bring peace back to the world.
+~
+0 672154120 0
+D2
+~
+~
+0 0 40919
+S
+#40903
+#RR#Gu#Rs#Gt#Re#Gd #RN#Ga#Ri#Gl#Rs #RR#Go#Ro#Gm#R.#n~
+~
+0 135282694 0
+D3
+~
+~
+0 0 40901
+S
+#40904
+#RT#rh#Re #RB#rl#Ro#ro#Rd#ry #RH#ra#Rl#rl#Rw#ra#Ry#r.#n~
+~
+0 135282694 0
+D0
+~
+~
+0 0 40907
+D1
+~
+~
+0 0 40905
+D2
+~
+~
+0 0 40901
+D3
+~
+~
+0 0 40906
+S
+#40905
+#GT#yh#Ge #GR#ya#Gc#yk #GR#yo#Go#ym#G.#n~
+~
+0 135282694 0
+D3
+~
+~
+0 0 40904
+S
+#40906
+#RT#yh#Re #RW#yh#Ri#yp#Rs #RA#yn#Rd #RC#yh#Ra#yi#Rn#ys #RR#yo#Ro#ym#R.#n~
+~
+0 135282694 0
+D1
+~
+~
+0 0 40904
+S
+#40907
+#RT#rh#Re #RB#rl#Ro#ro#Rd#ry #RH#ra#Rl#rl#Rw#ra#Ry#r.#n~
+~
+0 135282694 0
+D0
+~
+~
+0 0 40910
+D1
+~
+~
+0 0 40909
+D2
+~
+~
+0 0 40904
+D3
+~
+~
+0 0 40908
+S
+#40908
+#RT#Gh#Re #RG#Gu#Ri#Gl#Rl#Go#Rt#Gi#Rn#Ge #RR#Go#Ro#Gm#R.#n~
+~
+0 135282694 0
+D1
+~
+~
+0 0 40907
+S
+#40909
+#RR#0a#Rz#0ie#Rl#0'#Rs B#0e#RdR#0oo#Rm#n~
+~
+0 135282700 0
+D1
+~
+~
+0 0 40920
+D3
+~
+~
+0 0 40907
+S
+#40910
+#RT#rh#Re #RB#rl#Ro#ro#Rd#ry #RH#ra#Rl#rl#Rw#ra#Ry#r.#n~
+~
+0 135282694 0
+D0
+~
+~
+0 0 40913
+D1
+~
+~
+0 0 40912
+D2
+~
+~
+0 0 40907
+D3
+~
+~
+0 0 40911
+S
+#40911
+#RT#Ch#Re #RW#Ca#Rt#Ce#Rr #RT#Co#Rr#Ct#Ru#Cr#Re #RR#Co#Ro#Cm#R.#n~
+~
+0 135282694 0
+D1
+~
+~
+0 0 40910
+S
+#40912
+#LP#Pi#Ln#Ps #LA#Pn#Ld #LN#Pe#Le#Pd#Ll#Pe#Ls #LR#Po#Lo#Pm#L.#n~
+~
+0 135282694 0
+D3
+~
+~
+0 0 40910
+S
+#40913
+#RT#rh#Re #RB#rl#Ro#ro#Rd#ry #RK#ri#Rt#rc#Rh#re#Rn#r.#n~
+~
+0 135282694 0
+D2
+~
+~
+0 0 40910
+S
+#40914
+#CL#n#gower#n #CL#n#ganding#n~
+You are in the lower half of a gigantic chamber
+hollowed out of the earth. Curving along the
+wall a staircase has been carved out of the rock
+leading upward. Light and the smell of salt wafts
+in from the south along with a cool breeze. Fire
+shimmers on the floor of the cave from a passageway
+to the east. And heavy steel doors block your view
+of the east and west.
+~
+0 135282690 0
+D0
+~
+~
+0 0 40915
+D1
+~
+~
+103 40921 40918
+D2
+~
+~
+0 0 40916
+D3
+~
+~
+3 0 40917
+D4
+~
+~
+0 0 40921
+S
+#40915
+#GT#ghe #GG#green #GR#goom~
+The walls and ceiling of this room are solid rock and the 
+floor is nutrient rich earth. A large hole is in the center of 
+the ceiling going straight up to the surface. Light comes in 
+through this hole and is spread around the room by a large 
+rotating crystal just underneath it. Water drips down the walls 
+of this chamber and a small underground stream flows past 
+through the northern part. Except for a few small paths the 
+room is overgrown with luscious ferns bamboo and African 
+violets.
+~
+0 135282698 0
+D2
+~
+~
+0 0 40914
+S
+#40916
+#7T#Lh#0e #7B#Ca#Ll#0c#Lo#Cn#7y~
+A small distance south of the lower landing the cave opens 
+up to a marble balcony. The balcony itself is about 40 square 
+feet. Jutting out of the cliff it overhangs the ocean, which 
+lies several hundred feet below. At the farthest edge of the 
+balcony there is a pair of chairs and a small table.
+~
+0 135282690 0
+D0
+~
+~
+0 0 40914
+S
+#40917
+#7T#rhe #7H#rub#n~
+Computers line the walls of this smaller room.
+All of them are powered on and have some kind
+of game running. The death cries of those playing
+on the servers can barely be heard over the whir
+of fans racing to keep their systems cool and
+running fine. Cables cover the tile floor, and
+run from computer to computer connecting them
+on a network. At the center of this frag fest
+is a lone terminal whose wires all come up from
+the ground except one which leads to a router
+against the wall.
+~
+0 135282690 0
+D1
+~
+~
+3 0 40914
+S
+#40918
+#7S#Ca#cn#0c#ct#7u#Ca#cr#0y #7o#Cf #0P#Rure #0H#Ratred#n~
+You are standing in a dark room lit only by a pair of torches
+near the entrance. The walls are mainly covered with the flesh
+of Dertaherup's victims. Where they are not however you can
+see that this room was carved into the earth as the walls are
+made of dirt and have various insects crawling throughout.
+
+~
+0 135290882 0
+D3
+~
+~
+103 40921 40914
+S
+#40919
+The Bone-Eater's Well~
+An old wooden well sits in the middle of a clearing.  The sound of birds 
+chirping fills the air, and a single white butterfly lazily lands on your 
+shoulder.   The wind blows ever so softly, and the smell of flowers drifts
+past your nose.  Quite a beautiful place, indeed.  Legend has it that this
+is the well that the reincarnated Miko, Kagome, came out of.  You look 
+inside the well, only to find it dry and empty, and you wonder where 
+Kagome could have come from... What could be on the other side?
+~
+0 940590596 0
+D0
+~
+~
+0 0 40902
+S
+#40920
+#RR#0a#Rz#0ie#Rl#0'#Rs B#0a#Rthr#0oo#Rm#n~
+~
+0 1064970 0
+D3
+~
+~
+0 0 40909
+S
+#40921
+#CU#gpper #CF#goyer#n~
+~
+0 135282690 0
+D5
+~
+~
+0 0 40914
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 40903 0 40903
+O 0 40902 0 40909
+O 0 40901 0 40909
+O 0 40917 0 40914
+O 0 40924 0 40915
+O 0 40925 0 40915
+O 0 40922 0 40915
+O 0 40926 0 40915
+O 0 40927 0 40915
+P 0 40923 0 40922
+P 0 40921 0 40922
+O 0 40916 0 40916
+O 0 40914 0 40916
+O 0 40915 0 40916
+O 0 40918 0 40918
+O 0 40919 0 40918
+O 0 40904 0 40920
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,860 @@
+#AREADATA
+Name        Seth    More odds and ends~
+Builders    Jinnai Seth Buffy Jackal Kandahar~
+VNUMs       101000 101099
+Security    5
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#101000
+Ring anotherland another land realm~
+#L{*}#R{#LAnother #RLand Ring#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 3
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101001
+Collar anotherland another land realm~
+#L{*}#R{#LAnother #RLand Collar#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 5
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101002
+Plate anotherland another land realm~
+#L{*}#R{#LAnother #RLand Plate#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 9
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101003
+Helmet anotherland another land realm~
+#L{*}#R{#LAnother #RLand Helmet#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 17
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101004
+Leggings anotherland another land realm~
+#L{*}#R{#LAnother #RLand Leggings#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 33
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101005
+Boots anotherland another land realm~
+#L{*}#R{#LAnother #RLand Boots#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 65
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101006
+gauntlets anotherland another land realm~
+#L{*}#R{#LAnother #RLand gauntlets#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 129
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101007
+Sleeves anotherland another land realm~
+#L{*}#R{#LAnother #RLand Sleeves#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 257
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101008
+Cape anotherland another land realm~
+#L{*}#R{#LAnother #RLand Cape#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 1025
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101009
+Belt anotherland another land realm~
+#L{*}#R{#LAnother #RLand Belt#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 2049
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101010
+bracer anotherland another land realm~
+#L{*}#R{#LAnother #RLand bracer#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 4097
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101011
+Visor anotherland another land realm~
+#L{*}#R{#LAnother #RLand Visor#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 32769
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101012
+Sphere anotherland another land realm~
+#L{*}#R{#LAnother #RLand Sphere#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 524289
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101013
+Longsword anotherland another land realm~
+#L{*}#R{#LAnother #RLand Longsword#L}#R{*}#n~
+One of the best swords in the world.~
+~
+5 803139 16385
+0 24 0
+0 200 300 3
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101014
+Satchel anotherland another land realm~
+#L{*}#R{#LAnother #RLand Satchel#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+15 786755 65537
+0 0 0
+100000 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101015
+Katana anotherland another land realm~
+#L{*}#1{#LAnother #1Land Katana#L}#1{*}#n~
+One of the best Katanas in the world.~
+~
+5 803139 16385
+0 24 0
+0 200 300 1
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101016
+Tattoo anotherland another land realm~
+#L{*}#R{#LAnother #RLand Tattoo#L}#R{*}#n~
+One of the greatest relics shines on the ground.~
+~
+9 786755 131073
+0 0 0
+200 0 0 0
+0 0 0
+A
+2 5
+A
+4 5
+A
+1 5
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 500
+A
+18 500
+A
+17 -500
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101017
+Titanium Slab~
+a Titanium Slab~
+A Titanium Slab~
+~
+60 131072 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101018
+Zirconium Slab~
+a Zirconium Slab~
+A Zirconium Slab~
+~
+61 524416 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101019
+Excavier Slab~
+a Excavier Slab~
+A Excavier Slab~
+~
+62 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101020
+health armor~
+a piece of health armor~
+A piece of health armor~
+~
+9 393216 786431
+0 0 262144
+0 0 0 0
+0 0 0
+A
+14 10000
+A
+12 10000
+A
+13 10000
+A
+17 -200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101021
+world pkiller sign~
+#Ra Sign of the worlds finest pkiller#n~
+#Ra Sign of the worlds finest pkiller#n~
+~
+9 266368 262145
+0 0 393216
+0 0 0 0
+0 0 0
+A
+13 30000
+A
+12 30000
+A
+14 30000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101022
+almighty quest card~
+a Almighty Quest Card~
+A Almighty Quest Card~
+~
+34 131072 16385
+0 0 0
+-1 -1 -1 -1
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101023
+scroll death~
+#Ra Scroll of Death#n~
+#Ra Scroll of Death#n~
+~
+2 0 16385
+0 0 0
+10000 'desanct' 'imp fireball' 'web'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101024
+liquid shadow mithril slab~
+slab of #LL#Ci#Lq#Cui#Ld #7S#0h#7a#0d#7o#0w #7M#0i#Lt#7h#0r#Li#7l#n~
+A slab of #LL#Ci#Lq#Cu#Li#Cd #0S#7h#0a#7d#0o#7w #0M#7i#Lt#0h#7r#Li#0l#n lays on the ground, grab it quickly.~
+~
+69 131072 16385
+0 0 0
+0 0 0 0
+1 80000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#101026
+Cyborg Ring~
+#p--#0C#p--#CCy#cbo#Crg R#cin#Cg#p--#0C#p--#n~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101027
+Cyborg sleeves~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101032
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#101000
+Dragons Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 101001
+D2
+~
+~
+0 0 93341
+S
+#101001
+Dragons Nest~
+~
+0 0 0
+D2
+~
+~
+0 0 101000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

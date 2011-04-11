@@ -1,0 +1,974 @@
+/* Stuff added in from my code */
+/* 	Chrono		       */
+
+#include <sys/types.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <time.h>
+#include "merc.h"
+
+int     ccenter[CCENTER_MAX];
+
+void do_ccenter(CHAR_DATA * ch, char *argument)
+{
+  char arg1[MAX_INPUT_LENGTH];
+  char arg2[MAX_INPUT_LENGTH];
+  char buf[MAX_STRING_LENGTH];
+
+  argument = one_argument(argument, arg1);
+  one_argument(argument, arg2);
+
+  if (arg1[0] == '\0')
+  {
+    sprintf(buf, "  #0[#G***#0]   #YAL Control Center   #0[#G***#0]#n\n\r\n\r");
+    send_to_char(buf, ch);
+    sprintf(buf, "  #R(#0lexp#R) #YMinimum Experience        #G%7d#n\n\r", ccenter[CCENTER_MIN_EXP]);
+    send_to_char(buf, ch);
+    sprintf(buf, "  #R(#0uexp#R) #YMaximum Experience        #G%7d#n\n\r", ccenter[CCENTER_MAX_EXP]);
+    send_to_char(buf, ch);
+    sprintf(buf, "  #R(#0elvl#R) #YExperience Level              #G%3d#n\n\r", ccenter[CCENTER_EXP_LEVEL]);
+    send_to_char(buf, ch);
+    sprintf(buf, "  #R(#0qlvl#R) #YQuestpoint Level              #G%3d#n\n\r", ccenter[CCENTER_QPS_LEVEL]);
+    send_to_char(buf, ch);
+    send_to_char("\n\r\n\r'ccenter reset' to restore default values.\n\r", ch);
+    return;
+  }
+  if (!str_cmp(arg1, "lexp"))
+  {
+    ccenter[CCENTER_MIN_EXP] = atoi(arg2);
+    send_to_char("Ok. Value Changed.\n\r", ch);
+    save_ccenter();
+    do_ccenter(ch, "");
+    return;
+  }
+  else if (!str_cmp(arg1, "uexp"))
+  {
+    ccenter[CCENTER_MAX_EXP] = atoi(arg2);
+    send_to_char("Ok. Value Changed.\n\r", ch);
+    save_ccenter();
+    do_ccenter(ch, "");
+    return;
+  }
+  else if (!str_cmp(arg1, "elvl"))
+  {
+    ccenter[CCENTER_EXP_LEVEL] = atoi(arg2);
+    send_to_char("Ok. Value Changed.\n\r", ch);
+    save_ccenter();
+    do_ccenter(ch, "");
+    return;
+  }
+  else if (!str_cmp(arg1, "qlvl"))
+  {
+    ccenter[CCENTER_QPS_LEVEL] = atoi(arg2);
+    send_to_char("Ok. Value Changed.\n\r", ch);
+    save_ccenter();
+    do_ccenter(ch, "");
+    return;
+  }
+  else if (!str_cmp(arg1, "reset"))
+  {
+    ccenter[CCENTER_MIN_EXP] = 4000;
+    ccenter[CCENTER_MAX_EXP] = 3000000;
+    ccenter[CCENTER_EXP_LEVEL] = 100;
+    ccenter[CCENTER_QPS_LEVEL] = 100;
+    send_to_char("Ok. Values Reset.\n\r", ch);
+    save_ccenter();
+    do_ccenter(ch, "");
+    return;
+  }
+  else
+  {
+    send_to_char("Nope.\n\r", ch);
+    return;
+  }
+}
+
+void load_ccenter()
+{
+  FILE *fp;
+  int i;
+
+  if ((fp = fopen("../txt/ccenter.txt", "r")) == NULL)
+  {
+    log_string("Error: ccenter.txt not found!");
+    exit(1);
+  }
+  for (i = 0; i < CCENTER_MAX; i++)
+  {
+    ccenter[i] = fread_number(fp);
+  }
+  fclose(fp);
+}
+
+void save_ccenter()
+{
+  FILE *fp;
+  int i;
+
+  if ((fp = fopen("../txt/ccenter.txt", "w")) == NULL)
+  {
+    bug("could not write to ccenter.txt!", 0);
+    return;
+  }
+  for (i = 0; i < CCENTER_MAX; i++)
+  {
+    fprintf(fp, "%d\n", ccenter[i]);
+  }
+  fclose(fp);
+}
+
+const char *eqname1[15] = { "Splendid", "Ancient", "Dusty", "Scratched",
+   "Flawed", "Burnt", "Heavy", "Gilded", "Spooky", "Flaming", "Plain",
+   "Ornate", "Inscrutable", "Obscene", "Wrinkled" };
+const char *eqname2[12] = { "Diamond", "Emerald", "Topaz", "Kryptonite", "Jade",
+   "White Gold", "Onyx", "Tin", "Glass", "Marble", "Ruby", "Granite" };
+const char *eqname3[7] = { "pebble", "bauble", "stone", "charm", "fetish",
+   "bone", "trinket" };
+const char *eqname4[6] = { "Leather", "Studded Leather", "Bronze",
+   "Chain", "Silver", "Mithral" };
+
+void random_eq(CHAR_DATA *ch, char *argument)
+{
+   char buf[MSL];
+   char buffer[MSL];
+   char buffer2[MSL];
+   OBJ_INDEX_DATA *pObjIndex;
+   OBJ_DATA *obj;
+   char *name = "[random]";
+   char *name2 = "[random]";
+   int hpran = number_range(100,1400);
+   int mvran = number_range(100,1400);
+   int manran = number_range(100,1400);
+   int loc = number_range(1,12);
+   int ran1 = number_range(0,14);
+   int ran2 = number_range(0,11);
+   int ran3 = number_range(0,6);
+   int ran4 = number_range(0,5);
+   int value;
+   int level;
+    if ( ( pObjIndex = get_obj_index( OBJ_VNUM_PROTOPLASM ) ) == NULL )
+    {
+        send_to_char( "Error...missing object, please inform Chrono.\n\r", ch );
+        return;
+    }
+    level = number_range(3,14);
+    obj = create_object( pObjIndex, level );
+    obj->item_type = ITEM_ARMOR;
+    oset_affect(ch,obj,hpran,APPLY_HIT,FALSE);
+    oset_affect(ch,obj,manran,APPLY_MANA,FALSE);
+    oset_affect(ch,obj,mvran,APPLY_MOVE,FALSE);
+    obj->value[0] = number_range(20,100);
+    obj->value[3] = number_range(1,31);
+    obj->level = level;
+        if      ( loc==1) value = ITEM_WEAR_FINGER;
+        else if ( loc==2) value = ITEM_WEAR_NECK;
+        else if ( loc==3) value = ITEM_WEAR_BODY;
+        else if ( loc==4) value = ITEM_WEAR_HEAD;
+        else if ( loc==5) value = ITEM_WEAR_LEGS;
+        else if ( loc==6) value = ITEM_WEAR_FEET;
+        else if ( loc==7) value = ITEM_WEAR_HANDS;
+        else if ( loc==8) value = ITEM_WEAR_ARMS;
+        else if ( loc==9) value = ITEM_WEAR_ABOUT;
+        else if ( loc==10) value = ITEM_WEAR_WAIST;
+        else if ( loc==11) value = ITEM_WEAR_WRIST;
+        else if ( loc==12) value = ITEM_WEAR_FACE;
+        value += 1;
+        obj->wear_flags = value;
+    obj->weight = number_range(1,4);
+    obj->cost = number_range(10,1000);
+        if      ( loc==1) sprintf(buffer2, "%s %s Ring encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==2) sprintf(buffer2, "%s %s Necklace encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==3) sprintf(buffer2, "%s %s Armor encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==4) sprintf(buffer2, "%s %s Helmet encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==5) sprintf(buffer2, "%s %s Leggings encrusted with %s",eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==6) sprintf(buffer2, "%s %s Boots encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==7) sprintf(buffer2, "%s %s Gloves encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==8) sprintf(buffer2, "%s %s Sleeves encrusted with %s",eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==9) sprintf(buffer2, "%s %s Cloak encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==10) sprintf(buffer2, "%s %s Belt encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==11) sprintf(buffer2, "%s %s Bracer encrusted with %s",eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==12) sprintf(buffer2, "%s %s Mask encrusted with %s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+    name2 = buffer2;
+        if      ( loc==1) sprintf(buffer, "#R%s #G%s #0Ring #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==2) sprintf(buffer, "#R%s #G%s #0Necklace #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==3) sprintf(buffer, "#R%s #G%s #0Armor #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==4) sprintf(buffer, "#R%s #G%s #0Helmet #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==5) sprintf(buffer, "#R%s #G%s #0Leggings #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==6) sprintf(buffer, "#R%s #G%s #0Boots #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==7) sprintf(buffer, "#R%s #G%s #0Gloves #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==8) sprintf(buffer, "#R%s #G%s #0Sleeves #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==9) sprintf(buffer, "#R%s #G%s #0Cloak #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==10) sprintf(buffer, "#R%s #G%s #0Belt #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==11) sprintf(buffer, "#R%s #G%s #0Bracer #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+        else if ( loc==12) sprintf(buffer, "#R%s #G%s #0Mask #yencrusted with #C%s", eqname1[ran1],eqname4[ran4],eqname2[ran2]);
+    name = buffer;
+    sprintf( buf, name );
+    free_string( obj->short_descr );
+    obj->short_descr = str_dup( buf );
+    sprintf( buf, name2 );
+    free_string( obj->name );
+    obj->name = str_dup( buf );
+    if (obj->questmaker != NULL) free_string(obj->questmaker);
+    obj->questmaker = NULL;
+    obj->points = 0;
+    obj_to_char(obj,ch);
+    return;
+}
+
+char * CHAR2               args( ( long iNum ) );
+
+void do_oscatter( CHAR_DATA *ch, char *argument )
+{
+    char arg [ MIL ];
+    OBJ_DATA *obj;
+    CHAR_DATA *victim;
+    bool found;
+
+    argument = one_argument( argument, arg );
+
+    if( arg[0] == '\0' )
+    {
+        send_to_char("Syntax: scatter <item>\n\r", ch );
+        send_to_char("   Will loop until you have no more in inventory.\n\r", ch );
+        return;
+    }
+
+    found = FALSE;
+
+    for( obj = get_obj_carry(ch,arg); obj; obj = get_obj_carry(ch,arg) )
+    {
+        if( !obj )
+        {
+                send_to_char("There are no more objects in your inventory.\n\r",ch);
+                return;
+        }
+        for ( victim = char_list; victim; victim = victim->next )
+        {
+                if( number_range(1,1000) == 1 )
+                {
+                        found = TRUE;
+                        obj_from_char(obj);
+                        obj_to_char( obj, victim);
+                }
+        }
+    }
+    if( found )
+        send_to_char( "Done\n\r",ch);
+    return;
+}
+
+void do_cforce( CHAR_DATA *ch, char *argument )
+{
+    char arg[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+
+    argument = one_argument( argument, arg );
+
+    if ( arg[0] == '\0' || argument[0] == '\0' )
+    {
+        send_to_char( "Cloak Force whom to do what?\n\r", ch );
+        send_to_char( "Valid syntax: cforce <players/gods/ <command>\n\r", ch );
+        return;
+    }
+
+    one_argument(argument,arg2);
+
+    if (!str_cmp(arg2,"delete") || !str_cmp(arg2,"commit") || !str_cmp(arg2,"quit confirm"))
+    {
+        send_to_char("That will NOT be done.\n\r",ch);
+        return;
+    }
+
+
+    if ( !str_cmp( arg, "all" ) )
+    {
+        CHAR_DATA *vch;
+        CHAR_DATA *vch_next;
+
+        if (get_trust(ch) < MAX_LEVEL - 2)
+        {
+            send_to_char("Not at your level!\n\r",ch);
+            return;
+        }
+
+        for ( vch = char_list; vch != NULL; vch = vch_next )
+        {
+            vch_next = vch->next;
+            if ( !IS_NPC(vch) && get_trust( vch ) < get_trust( ch ) )
+            {
+                interpret( vch, argument );
+            }
+        }
+    }
+    else if (!str_cmp(arg,"players"))
+    {
+        CHAR_DATA *vch;
+        CHAR_DATA *vch_next;
+
+        if (get_trust(ch) < MAX_LEVEL - 4)
+        {
+            send_to_char("Not at your level!\n\r",ch);
+            return;
+        }
+
+        for ( vch = char_list; vch != NULL; vch = vch_next )
+        {
+            vch_next = vch->next;
+
+            if ( !IS_NPC(vch) && get_trust( vch ) < get_trust( ch )
+            &&   vch->level < LEVEL_HERO)
+            {
+                interpret( vch, argument );
+            }
+        }
+    }
+    else if (!str_cmp(arg,"gods"))
+    {
+        CHAR_DATA *vch;
+        CHAR_DATA *vch_next;
+
+        if (get_trust(ch) < MAX_LEVEL - 3)
+        {
+            send_to_char("Not at your level!\n\r",ch);
+            return;
+        }
+
+        for ( vch = char_list; vch != NULL; vch = vch_next )
+        {
+            vch_next = vch->next;
+
+            if ( !IS_NPC(vch) && get_trust( vch ) < get_trust( ch )
+            &&   vch->level >= LEVEL_HERO)
+            {
+                interpret( vch, argument );
+            }
+        }
+    }
+    else
+    {
+        CHAR_DATA *victim;
+        if ( ( victim = get_char_world( ch, arg ) ) == NULL )
+        {
+            send_to_char( "They aren't here.\n\r", ch );
+            return;
+        }
+
+        if ( victim == ch )
+        {
+            send_to_char( "Aye aye, right away!\n\r", ch );
+            return;
+        }
+
+        if ( get_trust( victim ) >= get_trust( ch ) )
+        {
+            send_to_char( "Do it yourself!\n\r", ch );
+            return;
+        }
+
+        if ( !IS_NPC(victim) && get_trust(ch) < MAX_LEVEL -4)
+        {
+            send_to_char("Not at your level!\n\r",ch);
+            return;
+        }
+
+        interpret( victim, argument );
+    }
+
+    send_to_char( "Ok.\n\r", ch );
+    return;
+}
+
+void do_donate( CHAR_DATA *ch, char *argument)
+{
+   OBJ_DATA *pit;
+   OBJ_DATA *obj;
+   ROOM_INDEX_DATA *original;
+   char arg[MAX_INPUT_LENGTH];
+   char buf[MAX_STRING_LENGTH];
+   int amount;
+   
+   argument = one_argument(argument, arg);
+
+
+   if (arg[0] == '\0' )
+   {
+      send_to_char("Donate what?\n\r",ch);
+      return;
+   }
+
+   original = ch->in_room;
+   if (ch->position == POS_FIGHTING)
+   {
+      send_to_char(" You're #yfighting!#n\n\r",ch);
+      return;
+   }
+   if ( (obj = get_obj_carry (ch, arg)) == NULL)
+   {
+      send_to_char("You do not have that!\n\r",ch);
+      return;
+   }
+   else
+   {
+      if (!can_drop_obj(ch, obj) && ch->level < 7)
+      {
+         send_to_char("Its stuck to you.\n\r",ch);
+         return;
+      }
+      if (IS_SET(obj->extra_flags, ITEM_DONATED))
+      {
+	 send_to_char("This object has already been donated try another item.\n\r",ch);
+	 return;
+      }
+      if (IS_SET(obj->item_type, ITEM_CORPSE_NPC) && IS_SET(obj->item_type, ITEM_CORPSE_PC) && IS_SET(obj->quest, QUEST_ANLA) && IS_SET(obj->item_type, ITEM_PIECE) && IS_SET(obj->quest, QUEST_RELIC) && IS_SET(obj->quest, QUEST_ARTIFACT))
+      {
+         send_to_char("You cannot donate that!\n\r",ch);
+         return;
+      }
+      if (obj->timer > 0)
+      {
+         send_to_char("You cannot donate that.\n\r",ch);
+         return;
+      }
+      if (ch->in_room != get_room_index(ROOM_VNUM_ALTAR))
+      act("$n donates $p.",ch,obj,NULL,TO_ROOM);
+      act("You donate $p.",ch,obj,NULL,TO_CHAR);
+      if ((!IS_OBJ_STAT(obj ,ITEM_ANTI_EVIL) && IS_EVIL(ch)) ||
+         (!IS_OBJ_STAT(obj ,ITEM_ANTI_GOOD) && IS_GOOD(ch)) ||
+         IS_NEUTRAL(ch)) 
+/*         if (obj->cost > 0 && obj->level > 0)
+         {
+            amount = number_range(1,100);
+            sprintf( buf, "You receive #C%d#n #0qps#n for your donation.",amount);
+            send_to_char(buf,ch);
+            ch->pcdata->quest += amount;
+         }*/
+     
+         char_from_room(ch);
+         char_to_room(ch,get_room_index(ROOM_VNUM_ALTAR));
+         obj->questowner = NULL;
+         SET_BIT(obj->extra_flags, ITEM_DONATED);
+         pit = get_obj_list(ch, "pit", ch->in_room->contents);
+         obj_from_char(obj);
+         obj_to_obj(obj, pit);
+         char_from_room(ch);
+         char_to_room(ch,original);
+         return;
+ }
+}
+
+void do_challenge(CHAR_DATA *ch, char *argument)
+{
+  CHAR_DATA *victim;
+  char arg[MAX_INPUT_LENGTH];
+  char arg2[MAX_INPUT_LENGTH];
+  char buf[MAX_STRING_LENGTH];
+
+  argument = one_argument(argument, arg);
+  one_argument(argument, arg2);
+
+  if (IS_NPC(ch)) return;
+  if (arg[0] == '\0' || arg2[0] == '\0')
+  {
+    send_to_char("Syntax : Challenge <person> <death/spar>\n\r", ch);
+    return;
+  }
+  if ((victim = get_char_world(ch, arg)) == NULL)
+  {
+    send_to_char("They aren't here.\n\r", ch);
+    return;
+  }
+  if (IS_NPC(victim))
+  {
+    send_to_char("You can't challenge monsters.\n\r", ch);
+    return;
+  }
+  if (victim == ch)
+  {
+    send_to_char("Ehm, no.\n\r", ch);
+    return;
+  }
+  if (victim->level != 3)
+  {
+    send_to_char("You can only challenge avatars.\n\r", ch);
+    return;
+  }
+  if (victim == ch->challenger)
+  {
+    send_to_char("You have already challenged them.\n\r", ch);
+    return;
+  }
+  if (!str_cmp(arg2, "death")) ch->deathmatch = TRUE;
+  else if (!str_cmp(arg2, "spar")) ch->deathmatch = FALSE;
+  else
+  {
+    do_challenge(ch, "");
+    return;
+  }
+
+  if (ch->deathmatch)
+  {
+    bool canDecap, canKillYou;
+
+    if (!str_cmp(ch->pcdata->last_decap[0], victim->name)) canDecap = FALSE;
+    else canDecap = fair_fight(ch, victim);
+    if (!str_cmp(victim->pcdata->last_decap[0], ch->name)) canKillYou = FALSE;
+    else canKillYou = fair_fight(victim, ch);
+
+    if (!canKillYou || !canDecap)
+    {
+      send_to_char("You cannot challenge someone in a deathmatch if you cannot kill eachother.\n\r", ch);
+      return;
+    }
+  }
+
+  ch->challenger = victim;
+  send_to_char("You challenge them.\n\r", ch);
+  if (ch->deathmatch) sprintf(buf, "You have been challenged to a #Gdeathmatch#n by %s. Type agree %s to start the fight.\n\r", ch->name, ch->name);
+  else sprintf(buf, "You have been challenged to a #Gspar#n by %s. Type agree %s to start the fight.\n\r", ch->name, ch->name);
+  send_to_char(buf, victim);
+  WAIT_STATE(ch, 8);
+  return;
+}
+
+bool in_fortress(CHAR_DATA *ch)
+{
+  if (ch->in_room == NULL) return FALSE;
+  
+  if ((ch->in_room->vnum >= 151) && (ch->in_room->vnum <= 160))
+  {
+    return TRUE;
+  }
+  else
+  {
+    return FALSE;
+  }
+}
+
+void fortresskill(CHAR_DATA *ch, CHAR_DATA *victim)
+{
+  char buf[MAX_STRING_LENGTH];
+  ROOM_INDEX_DATA *location;
+
+  if (IS_NPC(ch) || IS_NPC(victim))
+  {
+    bug("Fortress failure", 0);
+    return;
+  }
+
+  /*
+   * cleanup
+   */
+  ch->fight_timer = 0;
+  victim->fight_timer = 0;
+  free_string(victim->morph);
+  victim->morph = str_dup("");
+  do_restore(ch, ch->name);
+  do_restore(ch, victim->name);
+  REMOVE_BIT(victim->extra, TIED_UP);
+  REMOVE_BIT(victim->extra, GAGGED);
+  REMOVE_BIT(victim->extra, BLINDFOLDED);
+
+  /*
+   * Tally the score
+   */
+  ch->pcdata->awins++;
+  victim->pcdata->alosses++;
+
+  /*
+   * Information
+   */
+  sprintf(buf, "%s was beaten in The Forbidden Fortress by %s.", victim->name, ch->name);
+  do_info(ch, buf);
+
+  /*
+   * Out they go.
+   */
+  if ((location = get_room_index(ROOM_VNUM_ALTAR)) == NULL) return;
+  char_from_room(ch);
+  char_to_room(ch, location);
+  char_from_room(victim);
+  char_to_room(victim, location);
+  do_call(ch, "all");
+  do_call(victim, "all");
+  do_clearstats(victim, "");
+  victim->level = 3;
+
+  /*
+   * Open the Fortress
+   */
+  arena2 = TRUE;
+  return;
+}
+
+void do_decline(CHAR_DATA *ch, char *argument)
+{
+  CHAR_DATA *victim;
+  char arg[MAX_INPUT_LENGTH];
+
+  one_argument(argument, arg);
+
+  if (IS_NPC(ch)) return;
+  if (arg[0] == '\0')
+  {
+    send_to_char("Decline whom?\n\r", ch);
+    return;
+  }
+  if ((victim = get_char_world(ch, arg)) == NULL)
+  {
+    send_to_char("They aren't here.\n\r", ch);
+    return;
+  }
+  if (IS_NPC(victim))
+  {
+    send_to_char("You can't decline a monster, since it can't challenge you.\n\r", ch);
+    return;
+  }
+  if (victim->challenger != ch)
+  {
+    send_to_char("They aren't challenging you. (they may have cancelled the challenge)\n\r", ch);
+    return;
+  }
+  victim->challenger = NULL;
+  send_to_char("You decline their challenge.\n\r", ch);
+  send_to_char("Your challenge has been declined.\n\r", victim);
+  return;
+}
+
+void do_accept2(CHAR_DATA *ch, char *argument)
+{
+  CHAR_DATA *victim;
+  char arg[MAX_INPUT_LENGTH];
+  char buf[MAX_STRING_LENGTH];
+  bool canDecap, canKillYou;
+  ROOM_INDEX_DATA *location;
+
+  one_argument(argument, arg);
+
+  if (IS_NPC(ch)) return;
+  if (!arena2)
+  {
+    send_to_char("The Forbidden Fortress is currently being used by someone else.\n\r", ch);
+    return;
+  }
+  if (arg[0] == '\0')
+  {
+    send_to_char("Accept who's challenge?\n\r", ch);
+    return;
+  }
+  if ((victim = get_char_world(ch, arg)) == NULL)
+  {
+    send_to_char("They aren't here.\n\r", ch);
+    return;
+  }
+  if (IS_NPC(victim))
+  {
+    send_to_char("You cannot accept a challenge from a monster.\n\r", ch);
+    return;
+  }
+  if (victim->challenger != ch)
+  {
+    send_to_char("You haven't been challenged by them.\n\r", ch);
+    return;
+  }
+  if (victim->level != 3)
+  {
+    send_to_char("They have to be avatar.\n\r", ch);
+    return;
+  }
+  if (victim->fight_timer > 0)
+  {
+    send_to_char("They have a fighttimer currently, you'll have to wait.\n\r", ch);
+    return;
+  }
+  if (ch->fight_timer > 0)
+  {
+    send_to_char("Not with a fight timer.\n\r", ch);
+    return;
+  }
+  if (IS_SET(victim->extra,EXTRA_AFK))
+  {
+    send_to_char("They are AFK!\n\r", ch);
+    return;
+  }
+  if (victim->position != POS_STANDING)
+  {
+    send_to_char("They are not standing, you'll have to wait.\n\r", ch);
+    return;
+  }
+  if (ch->in_room != NULL)
+  {
+    if (IS_SET(ch->in_room->room_flags, ROOM_ARENA) || IS_SET(ch->in_room->room_flags, ROOM_ASTRAL))
+    {
+      send_to_char("This room is not connected to the astral sphere.\n\r",ch);
+      return;
+    }
+  }
+  if (victim->in_room != NULL)
+  {
+    if (IS_SET (victim->in_room->room_flags, ROOM_ARENA) || IS_SET(victim->in_room->room_flags, ROOM_ASTRAL))
+    {
+      send_to_char("Their room is not connected to the astral sphere.\n\r",ch);
+      return;
+    }
+  }
+
+  if (victim->deathmatch)
+  {
+    if (!str_cmp(ch->pcdata->last_decap[0], victim->name)) canDecap = FALSE;
+    else canDecap = fair_fight(ch, victim);
+    if (!str_cmp(victim->pcdata->last_decap[0], ch->name)) canKillYou = FALSE;
+    else canKillYou = fair_fight(victim, ch);
+
+    if (!canKillYou || !canDecap)
+    {
+      send_to_char("You cannot accept a deathmatch if you cannot kill eachother.\n\r", ch);
+      return;
+    }
+  }
+
+  if ((location = get_room_index(ROOM_VNUM_FORTRESS1)) == NULL)
+  {
+    bug("Fortress Missing.", 0);
+    return;
+
+  }
+  char_from_room(ch);
+  char_to_room(ch, location);
+
+  if ((location = get_room_index(ROOM_VNUM_FORTRESS2)) == NULL)
+  {
+    bug("Fortress Missing.", 0);
+    return;
+  }
+  char_from_room(victim);
+  char_to_room(victim, location);
+
+  do_restore(victim, victim->name);
+  do_restore(ch, ch->name);
+
+  if (!victim->deathmatch)
+    sprintf(buf, "%s and %s enter #CThe Forbidden Fortress#n to test their skills", ch->name, victim->name);
+  else
+    sprintf(buf, "%s and %s enter #CThe Forbidden Fortress#n to duel for their lives", ch->name, victim->name);
+  do_info(ch, buf);
+
+  arena2 = FALSE;
+  if (victim->deathmatch) arena2death = TRUE;
+  else arena2death = FALSE;
+  victim->challenger = NULL;
+  return;
+}
+
+void do_checkpk(CHAR_DATA *ch, char *argument)
+{
+    DESCRIPTOR_DATA *d;
+    CHAR_DATA *check1;
+    CHAR_DATA *check2;
+    char buf[MAX_STRING_LENGTH];
+
+for (d = descriptor_list;d != NULL; d = d->next)
+{
+ if ((check1 = d->character) == NULL) continue;
+if (d->connected > CON_PLAYING) continue;
+
+    if (ch->fight_timer > 0)
+    {
+        sprintf(buf," %s (#C%dFT)#n\n\r", check1->name,check1->fight_timer);
+        send_to_char(buf, ch);
+    }
+
+ if ((check2 = d->character->fighting) == NULL) continue;
+
+ if (IS_NPC(check2)) continue;
+        sprintf(buf, "#y%s #0(#R%d#0/#C%d#0) #nis fighting #y%s #0(#R%d#0/#C%d#0) in %d#n\n\r", check1->name,check1->hit, check1->max_hit,check2->name,check2->hit,check2->max_hit,check1->in_room->vnum);
+        send_to_char(buf, ch);
+        sprintf(buf," %s (#C%dFT)#n\n\r", check1->name,check1->fight_timer);
+        send_to_char(buf,ch);
+}
+for (d = descriptor_list; d; d = d->next)
+{if ((check1 = d->character) == NULL) continue;
+if (d->connected > CON_PLAYING) continue;
+
+ if (check1->hit <10000)
+    {
+        sprintf(buf, "#y%s's #Chp #nis at #0(#R%d#0/#C%d#0) #0(#RFT#0:#C%d#0)#n\n\r", check1->name,check1->hit, check1->max_hit,check1->fight_timer);
+        send_to_char(buf,ch);
+    }
+}
+send_to_char("Done.\n\r", ch);
+return;
+}
+char * CHAR2 ( long iNum )
+{
+        static char csdf [ 256 ];
+        sprintf( csdf, "%ld", iNum );
+        return csdf;
+}
+
+void do_beep(CHAR_DATA *ch, char *argument)
+{
+ char arg1[MIL];
+ CHAR_DATA *vict;
+
+ argument = one_argument(argument, arg1);
+
+ if((vict = get_char_world(ch, arg1)) == NULL)
+ {
+    stc("They're not here!\n\r", ch);
+    return;
+ }
+
+
+ sprintf(log_buf, "\a%s\a", argument);
+ stc(log_buf, vict);
+
+ return;
+}
+
+void randomize_object(int vnum)
+{
+ OBJ_DATA *obj;
+ ROOM_INDEX_DATA        *rm = NULL;
+ int count = 0;
+ int a;
+
+ for (a = 500; a <= 90000; a++)
+ {
+    if (get_room_index(a) != NULL) count++;
+ }
+
+ for (a = 500; a <= 90000; a++)
+ {
+    if ((rm = get_room_index(a)) != NULL && number_range(1, count * 2) == 1)
+        break;
+    rm = NULL;
+ }
+
+if (rm)
+{
+obj = create_object(get_obj_index(vnum),0);
+if (!obj) return;
+obj_to_room(obj, rm);
+}
+else randomize_object(vnum);
+return;
+}
+
+void do_randomload(CHAR_DATA *ch, char *argument)
+{
+ if (!get_obj_index(atoi(argument)))
+ {
+    stc("That object doesn't exist!\n\r", ch);
+    return;
+ }
+ stc(get_obj_index((atoi(argument)))->short_descr, ch);
+ if(ch->level > 6)
+ {
+ stc(" randomly loaded to a room on the mud.\n\r", ch);
+}
+
+ randomize_object(atoi(argument));
+
+ return;
+}
+
+
+void do_sfind( CHAR_DATA *ch, char *argument )
+{
+    extern int top_obj_index;
+    extern int top_mob_index;
+    extern int top_room;
+    char buf[MAX_STRING_LENGTH];
+    char arg[MAX_INPUT_LENGTH];
+    OBJ_INDEX_DATA *pObjIndex;
+    MOB_INDEX_DATA *pMobIndex;
+    ROOM_INDEX_DATA *pRoom;
+    int vnum;
+    int nMatch;
+    int count=0;
+    bool fAll;
+    bool found;
+
+    one_argument( argument, arg );
+    if ( arg[0] == '\0' )
+    {
+        send_to_char( "sfind what?\n\r", ch );
+        return;
+    }
+
+    fAll        = FALSE;
+    found       = FALSE;
+    nMatch      = 0;
+    count = atoi(argument);
+
+        send_to_char("Objects: \n\r",ch);
+    for ( vnum = 0; nMatch < top_obj_index; vnum++ )
+    {
+        if ( ( pObjIndex = get_obj_index( vnum ) ) != NULL )
+        {
+            nMatch++;
+            if ( fAll || is_name( arg, pObjIndex->name ) )
+            {
+                found = TRUE;
+                sprintf( buf, "[%5d] %s\n\r",
+                    pObjIndex->vnum, capitalize( pObjIndex->short_descr ) );
+                send_to_char( buf, ch );
+                        if (count > 10 )
+                                break;
+                        else
+                                count++;
+            }
+        }
+    }
+        send_to_char("\n\r",ch);
+
+        send_to_char("Mobiles: \n\r",ch);
+    for ( vnum = 0; nMatch < top_mob_index; vnum++ )
+    {
+        if ( ( pMobIndex = get_mob_index( vnum ) ) != NULL )
+        {
+            nMatch++;
+            if ( fAll || is_name( arg, pMobIndex->player_name ) )
+            {
+                found = TRUE;
+                sprintf( buf, "[%5d] %s\n\r",
+                    pMobIndex->vnum, capitalize( pMobIndex->short_descr ) );
+                send_to_char( buf, ch );
+                        if (count > 10 )
+                                break;
+                        else
+                                count++;
+            }
+        }
+    }
+        send_to_char("\n\r",ch);
+
+        send_to_char("Rooms: \n\r",ch);
+    for ( vnum = 0; nMatch < top_room; vnum++ )
+    {
+        if ( ( pRoom = get_room_index( vnum ) ) != NULL )
+        {
+            nMatch++;
+            if ( fAll || is_name( arg, pRoom->name ) )
+            {
+                found = TRUE;
+                sprintf( buf, "[%5d] %s\n\r",
+                    pRoom->vnum, pRoom->name );
+                send_to_char( buf, ch );
+                        if (count > 10 )
+                                break;
+                        else
+                                count++;
+            }
+        }
+    }
+        send_to_char("\n\r",ch);
+
+    if ( !found )
+        send_to_char( "Nothing like that in hell, earth, or heaven.\n\r", ch );
+
+    return;
+}
+

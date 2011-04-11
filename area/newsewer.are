@@ -1,0 +1,47 @@
+#AREADATA
+Name        Dert    Sewer Level One~
+Builders    Dertaherup~
+VNUMs       210101 210199
+Security    1
+Recall      3001
+Flags	      1
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#210101
+#GF#ge#0t#Gi#0d #GS#ge#0w#Ge#0r#n~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

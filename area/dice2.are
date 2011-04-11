@@ -1,0 +1,251 @@
+#AREADATA
+Name        '       More Dice~
+Builders    Josh Joshua Saaid~
+VNUMs       111001 112000
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#111001
+WeaponDice Claws~
+#r<WeaponDice> #yClaws #C<+1d4(1d2*2claws)To Base Attack>#n~
+#r<WeaponDice> #yClaws #C<+1d4(1d2*2claws)To Base Attack>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111002
+WeaponDice Whip~
+#r<WeaponDice> #yWhip #C<Attack 2d6>#n~
+#r<WeaponDice> #yWhip #C<Attack 2d6>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111003
+WeaponDice Shield~
+#r<WeaponDice> #yShield #C<+25Life>#n~
+#r<WeaponDice> #yShield #C<+25Life>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111004
+WeaponDice Sword~
+#r<WeaponDice> #ySword #C<Attack 1d12>#n~
+#r<WeaponDice> #ySword #C<Attack 1d12>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111005
+WeaponDice Torch~
+#r<WeaponDice> #yTorch #C<Attack 1d6>#n~
+#r<WeaponDice> #yTorch #C<Attack 1d6>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111006
+WeaponDice Flame~
+#r<WeaponDice> #yFlame #C<Attack 1d8>#n~
+#r<WeaponDice> #yFlame #C<Attack 1d8>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111007
+WeaponDice Bat~
+#r<WeaponDice> #yBat #C<Attack 1d6>#n~
+#r<WeaponDice> #yBat #C<Attack 1d6>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111008
+WeaponDice Spikes~
+#r<WeaponDice> #ySpikes #C<+1d2 To Base Attack>#n~
+#r<WeaponDice> #ySpikes #C<+1d2 To Base Attack>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111009
+WeaponDice Helm~
+#r<WeaponDice> #yHelm #C<+30 Life>#n~
+#r<WeaponDice> #yHelm #C<+30 Life>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111010
+WeaponDice Power~
+#r<WeaponDice> #yPower #C<+50 Life>#n~
+#r<WeaponDice> #yPower #C<+50 Life>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111011
+WeaponDice Power2~
+#r<WeaponDice> #yPower2 #C<+1d6 To Base Attack>#n~
+#r<WeaponDice> #yPower2 #C<+1d6 To Base Attack>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#111012
+WeaponDice Power3~
+#r<WeaponDice> #yPower3 #C<+100 Life>#n~
+#r<WeaponDice> #yPower3 #C<+100 Life>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#112000
+#CGhants#RBEDROOM#G!#n~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

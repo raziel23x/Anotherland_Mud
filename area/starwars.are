@@ -1,0 +1,1176 @@
+#AREADATA
+Name        dertah  Star Wars~
+Builders    None~
+VNUMs       154000 154999
+Security    1
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#154001
+reactor beam~
+#RT#yhe #RR#yeactor #RB#yeam#n~
+#RT#yhe #RR#yeactor #RB#yeam#n
+~
+~
+134155 4721292 0 S
+70000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#154009
+secnet guard~
+#7S#Gec#7N#Get #7G#Guard#n~
+A #7S#Gec#7N#Get #7G#Guard#n asks you for your identification.
+~
+~
+65539 128 0 S
+6000 0 0 10d20+3 0d0+0
+0 0
+0 0 1
+#154016
+colonel jackson~
+#GC#go#0l#Go#gn#0e#Gl #GJ#ga#0c#Gk#gs#0o#Gn#n~
+#GC#go#0l#Go#gn#0e#Gl #GJ#ga#0c#Gk#gs#0o#Gn#n nods approvingly at one of the radar monitors.
+~
+~
+27 4194472 0 S
+14000 0 0 10d20+3 0d0+0
+0 0
+0 0 1
+#154037
+pilot~
+A #rP#oilot#n~
+A #rP#oilot#n struts down the walkway.
+~
+~
+1 0 0 S
+4000 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#154000
+lightsaber black~
+#0{#0Pitch Black Light#n#7[]saber#n ~
+Dert's Lightsaber hums on the ground. #RDONT FUCKIN TOUCH IT!#n~
+~
+5 12734592 8193
+0 14299 1245184
+18000 2000000 2000000 1
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#154009
+identification badge id 154009~
+#nSecNet identification badge 154009~
+A small badge sits on the floor here.~
+~
+18 2097152 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#154037
+blaster pistol~
+#RB#ylaster #RP#yistol#n~
+A small pistol rests on the ground.~
+~
+5 0 8193
+0 0 0
+0 0 0 6
+4 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#154046
+ID identification badge 154046~
+#nSecNet identification badge 154046~
+A small badge sits on the floor.~
+~
+18 2097152 262145
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#154047
+hole~
+a hole~
+#~
+~
+27 0 0
+0 0 0
+154050 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#154000
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154009
+D1
+~
+~
+0 0 154002
+D2
+~
+~
+67 0 154001
+D3
+~
+~
+0 0 154008
+S
+#154001
+Inside Turbolift 7-A~
+The  clear glass turbolift hums quietly 700 stories
+above the surface. You can no longer see the ground
+clearly, but you can see ships as they arrive and
+depart the planet from the overhead docks. The glass
+capsules doors are on all sides leading in to a large
+room.
+~
+0 1048581 0
+D0
+~
+~
+67 0 154000
+D1
+~
+~
+67 0 154003
+D2
+~
+~
+67 0 154005
+D3
+~
+~
+67 0 154007
+S
+#154002
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D2
+~
+~
+0 0 154003
+D3
+~
+~
+0 0 154000
+S
+#154003
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154002
+D1
+~
+~
+0 0 154017
+D2
+~
+~
+0 0 154004
+D3
+~
+~
+67 0 154001
+S
+#154004
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154003
+D3
+~
+~
+0 0 154005
+S
+#154005
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+67 0 154001
+D1
+~
+~
+0 0 154004
+D2
+~
+~
+0 0 154027
+D3
+~
+~
+0 0 154006
+S
+#154006
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154007
+D1
+~
+~
+0 0 154005
+S
+#154007
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154008
+D1
+~
+~
+67 0 154001
+D2
+~
+~
+0 0 154006
+D3
+~
+~
+0 0 154036
+S
+#154008
+Turbolift Antechamber - Primary Dock~
+In the center of this large room stands a turbolift to
+the lower floors. Long halls branch off chamber in all
+the cardinal directions except for the north which ends
+nearby at a security checkpoint to the control center.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154000
+D2
+~
+~
+0 0 154007
+S
+#154009
+Security Checkpoint~
+A large holographic sign on each wall displays the words
+"SECURITY CHECKPOINT 7-A" in three dimensional block
+letters. The blast doors to the north unlike the rest of
+this facility have not been cleaned and bear the marking
+of many stray laser blasts. Chances are this is used to
+illustrate how many unsuccesful attempts have been made.
+~
+0 1048576 0
+D0
+~
+~
+103 154009 154010
+D2
+~
+~
+0 0 154000
+S
+#154010
+Entrance to the Command Center~
+This is a small hallway before the main control center
+of the docking station. A bulletin board on the north
+wall informs the personel of important information.
+Maybe you should take a look at it and see whats up with
+this place.
+~
+0 1048576 0
+E
+board~
+A notice on the board reads:
+Lord Nedog will be visiting our planet and will be
+landing at this docking station at port 9-B. Because of
+this security will be especially heavier than usual.
+Imperial forces will be in command of all floors above
+700 and all SecNet troops will be expected to comply
+with their orders disobeying a direct imperial order is
+considered treason and punishable by death.
+~
+E
+bulletin~
+A notice on the board reads:
+Lord Nedog will be visiting our planet and will be
+landing at this docking station at port 9-B. Because of
+this security will be especially heavier than usual.
+Imperial forces will be in command of all floors above
+700 and all SecNet troops will be expected to comply
+with their orders disobeying a direct imperial order is
+considered treason and punishable by death.
+~
+D1
+~
+~
+0 0 154011
+D2
+~
+~
+103 154009 154009
+D3
+~
+~
+0 0 154015
+S
+#154011
+Entrance to the Command Center~
+The control center hallway makes a 90 degree turn, and
+you can hear the faint sound of computer systems coming
+from the north. Emergency Panic buttons are placed every
+10 meters along the walls. If something comes up the
+entire station can be alerted almost immediately.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154012
+D3
+~
+~
+0 0 154010
+S
+#154012
+Entrance to the Command Center~
+The control center hallway makes a 90 degree turn, and
+you can hear the faint sound of computer systems coming
+from the west. Emergency Panic buttons are placed every
+10 meters along the walls. If something comes up the
+entire station can be alerted almost immediately.
+~
+0 1048576 0
+D2
+~
+~
+0 0 154011
+D3
+~
+~
+0 0 154013
+S
+#154013
+Commications Hub~
+The southern wall is dominated by a row of systems
+dedicated to monitoring the radio frequencies. Nobody
+seems to be monitoring them very closely at the moment
+and you can hear a voice comeing from one of the radios.
+~
+0 1048576 0
+E
+radio~
+You step up to the system and place the headphones on
+your head and you hear a voice through the static:
+#RMayd--! Th-s ---tain F--d-l of t-- Sk--per. W- hav-#n
+#Rc--sh l----ed in --- ---e-ts  ne-r Mou-- ---ge--.#n
+#nA few seconds afterwards the msg begins to repeat
+itself, it must be a recording.
+~
+E
+voice~
+You step up to the system and place the headphones on
+your head and you hear a voice through the static:
+#RMayd--! Th-s ---tain F--d-l of t-- Sk--per. W- hav-#n
+#Rc--sh l----ed in --- ---e-ts  ne-r Mou-- ---ge--.#n
+#nA few seconds afterwards the msg begins to repeat
+itself, it must be a recording.
+~
+D0
+~
+~
+0 0 154016
+D1
+~
+~
+0 0 154012
+D3
+~
+~
+0 0 154014
+S
+#154014
+Entrance to the Command Center~
+The control center hallway makes a 90 degree turn, and
+you can hear the faint sound of computer systems coming
+from the east. Emergency Panic buttons are placed every
+10 meters along the walls. If something comes up the
+entire station can be alerted almost immediately.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154013
+D2
+~
+~
+0 0 154015
+S
+#154015
+Entrance to the Command Center~
+The control center hallway makes a 90 degree turn, and
+you can hear the faint sound of computer systems coming
+from the north. Emergency Panic buttons are placed every
+10 meters along the walls. If something comes up the
+entire station can be alerted almost immediately.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154014
+D1
+~
+~
+0 0 154010
+S
+#154016
+Station Control~
+You are on a small platform that goes out in to room
+made entirely of transparisteel. From here you can see
+every ship in the area. Directly above you in the
+distance are several Imperial Star Destroyers. As you
+watch them a small ship flies by and gets decimated by a
+blast of laser fire from the ISD...apparently he came
+too close.
+~
+0 1048576 0
+D2
+~
+~
+0 0 154013
+S
+#154017
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154018
+D3
+~
+~
+0 0 154003
+S
+#154018
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154019
+D3
+~
+~
+0 0 154017
+S
+#154019
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D2
+~
+~
+0 0 154020
+D3
+~
+~
+0 0 154018
+S
+#154020
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154019
+D2
+~
+~
+0 0 154021
+S
+#154021
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154020
+D2
+~
+~
+0 0 154022
+S
+#154022
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154021
+D3
+~
+~
+0 0 154023
+S
+#154023
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154022
+D3
+~
+~
+0 0 154024
+S
+#154024
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154023
+D2
+~
+~
+0 0 154037
+D3
+~
+~
+0 0 154025
+S
+#154025
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154024
+D3
+~
+~
+0 0 154026
+S
+#154026
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154027
+D1
+~
+~
+0 0 154025
+D3
+~
+~
+0 0 154028
+S
+#154027
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154005
+D2
+~
+~
+0 0 154026
+S
+#154028
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154026
+D3
+~
+~
+0 0 154029
+S
+#154029
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154028
+D2
+~
+~
+0 0 154045
+D3
+~
+~
+0 0 154030
+S
+#154030
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154029
+D3
+~
+~
+0 0 154031
+S
+#154031
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154032
+D1
+~
+~
+0 0 154030
+S
+#154032
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154033
+D2
+~
+~
+0 0 154031
+S
+#154033
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154034
+D2
+~
+~
+0 0 154032
+S
+#154034
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154035
+D2
+~
+~
+0 0 154033
+S
+#154035
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154036
+D3
+~
+~
+0 0 154034
+S
+#154036
+Lower halls - Primary Dock~
+This long corridor contains many patrolling personel. Large pieces of the wall are open allowing you to see
+outside of the building. The only thing preventing the
+vacuum of the difference in pressure from ripping you
+outside is a thin shield.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154007
+D3
+~
+~
+0 0 154035
+S
+#154037
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154024
+D2
+~
+~
+0 0 154038
+S
+#154038
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154037
+D2
+~
+~
+0 0 154039
+S
+#154039
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154038
+D3
+~
+~
+0 0 154040
+S
+#154040
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154039
+D3
+~
+~
+0 0 154041
+S
+#154041
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor. There is a large blast door to the north with a small sign next
+to it.
+~
+0 1048576 0
+E
+sign~
+RESTRICTED ACCESS
+AUTHORIZED PERSONEL ONLY
+VIOLATORS WILL BE SHOT
+please show identification card at the door.
+~
+D0
+~
+~
+103 154046 154046
+D1
+~
+~
+0 0 154040
+D3
+~
+~
+0 0 154042
+S
+#154042
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D1
+~
+~
+0 0 154041
+D3
+~
+~
+0 0 154043
+S
+#154043
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154044
+D1
+~
+~
+0 0 154042
+S
+#154044
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154045
+D2
+~
+~
+0 0 154043
+S
+#154045
+Lower halls - Primary Dock~
+This long hallway is formed out of polished plexisteel
+and has a strip of red lights running down the sides of
+the floor. There are no windows along this corridor and
+the only lighting is a red glow from the floor.
+~
+0 1048576 0
+D0
+~
+~
+0 0 154029
+D2
+~
+~
+0 0 154044
+S
+#154046
+Inside Turbolift 7-B~
+You are within the confines of an enormous turbolift.
+Big enough to comfortably fit two hutts. as the 
+turbolift moves you look around at the regal decorations
+in preperation for the lords visit and notice the light 
+fixture is loose.
+~
+0 1048580 0
+E
+light~
+You go to adjust the light fixture in to place, and it
+comes crashing to the ground! After making sure no
+cameras are in the capsule that could assess you for
+damage costs you calm down a bit. Then you notice that
+the hole created is just big enough for you to fit
+through maybe you shoudl enter it...
+~
+E
+fixture~
+You go to adjust the light fixture in to place, and it
+comes crashing to the ground! After making sure no
+cameras are in the capsule that could assess you for
+damage costs you calm down a bit. Then you notice that
+the hole created is just big enough for you to fit
+through maybe you shoudl enter it...
+~
+D2
+~
+~
+103 154046 154041
+D4
+~
+~
+0 0 154047
+S
+#154047
+Inside Turbolift 8-B~
+The turbolift glides to a smooth halt at floor 800 and
+the doors open revealing a hall with several corridors
+breaking off in to diferent directions.
+~
+0 1048576 0
+D2
+~
+~
+0 0 154049
+D4
+~
+~
+0 0 154048
+D5
+~
+~
+0 0 154046
+S
+#154048
+Inside Turbolift 9-B~
+The turbolift glides to a smooth halt at floor 900 and
+the doors open. the first thign you notice is that
+Imperial Stormtroopers crawl all over this level. Every
+single one has their blaster rifles drawn and armed to
+full power....not stun.
+~
+0 1048576 0
+D5
+~
+~
+0 0 154047
+S
+#154049
+~
+~
+0 1048576 0
+D0
+~
+~
+0 0 154047
+S
+#154050
+Turbolift 7-B - Maintenence Shaft~
+~
+0 1048580 0
+S
+#0
+
+
+
+#SPECIALS
+M 154001 spec_executioner
+M 154009 spec_vladd_decap
+M 154016 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 154009 1 154009
+M 0 154009 1 154009
+G 0 154009 0
+M 0 154016 1 154016
+G 0 154046 0
+M 0 154037 3 154027
+E 0 154037 0 16
+M 0 154037 3 154029
+E 0 154037 0 16
+M 0 154037 5 154037
+E 0 154037 0 16
+M 0 154037 3 154038
+E 0 154037 0 16
+M 0 154037 3 154040
+E 0 154037 0 16
+M 0 154037 3 154042
+E 0 154037 0 16
+M 0 154037 3 154044
+E 0 154037 0 16
+O 0 154047 0 154046
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

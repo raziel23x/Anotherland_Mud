@@ -1,0 +1,51 @@
+#AREADATA
+Name        Imm quest stuff~
+Builders    Raziel~
+VNUMs       102700 102799
+Security    9
+Recall      3005
+End
+
+
+
+#MOBILES
+#102700
+quest destruction chaos~
+#RR#0a#Rz#0ie#Rl's #ysp#gi#yr#gi#yt#n of #0D#re#0str#ru#0ct#rio#0n#n~
+#RR#0a#Rz#0ie#Rl's #ysp#gi#yr#gi#yt#n of #0D#re#0str#ru#0ct#rio#0n#n standing here to destroy you
+~
+~
+270339 128 -1000 S
+20000 0 0 100d20+3 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

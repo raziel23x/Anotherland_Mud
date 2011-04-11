@@ -1,0 +1,463 @@
+#AREADATA
+Name        Dragons Dragon Eq~
+Builders    Raziel~
+VNUMs       40951 40964
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#40951
+jerk~
+Sether~
+Sether stands here being a FUCKED UP ASSHOLE.
+~
+~
+1 0 0 S
+39 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40951
+dragon ring~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RR#Pi#Rn#Pg#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RR#Pi#Rn#Pg#G(#yO#G>#n lies here.~
+~
+9 0 3
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40952
+dragon collar~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Po#Rl#Pl#Ra#Pr#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Po#Rl#Pl#Ra#Pr#G(#yO#G>#n lies here.~
+~
+9 0 5
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40953
+dragon platemail~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RP#Pl#Ra#Pt#Re#Pm#Ra#Pi#Rl#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RP#Pl#Ra#Pt#Re#Pm#Ra#Pi#Rl#G(#yO#G>#n lies here.~
+~
+9 0 9
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40954
+dragon helmet~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RH#Pe#Rl#Pm#Re#Pt#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RH#Pe#Rl#Pm#Re#Pt#G(#yO#G>#n lies here.~
+~
+9 0 17
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40955
+dragon leggings~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RL#Pe#Rg#Pg#Ri#Pn#Rg#Ps#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RL#Pe#Rg#Pg#Ri#Pn#Rg#Ps#G(#yO#G>#n lies here.~
+~
+9 0 33
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40956
+dragon boots~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Po#Ro#Pt#Rs#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Po#Ro#Pt#Rs#G(#yO#G>#n lies here.~
+~
+9 0 65
+0 0 1048576
+0 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40957
+dragon gauntlets~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RG#Pa#Ru#Pn#Rt#Pl#Re#Pt#Rs#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RG#Pa#Ru#Pn#Rt#Pl#Re#Pt#Rs#G(#yO#G>#n lies here.~
+~
+9 0 129
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40958
+dragon sleeves~
+#G<#yO#G) #RD#Pr#Ra#Pg#Ro#Pn #RS#Pl#Re#Pe#Rv#Pe#Rs #G(#yO#G>#n;~
+A #G<#yO#G) #RD#Pr#Ra#Pg#Ro#Pn #RS#Pl#Re#Pe#Rv#Pe#Rs #G(#yO#G>#n lies here.~
+~
+9 0 257
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40959
+dragon cape~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Pa#Rp#Pe#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Pa#Rp#Pe#G(#yO#G>#n lies here.~
+~
+9 0 1025
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40960
+dragon belt~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Pe#Rl#Pt#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Pe#Rl#Pt#G(#yO#G>#n lies here.~
+~
+9 0 2049
+0 0 1048576
+25 0 0 16
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40961
+dragon bracer~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Pr#Ra#Pc#Re#Pr#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RB#Pr#Ra#Pc#Re#Pr#G(#yO#G>#n lies here.~
+~
+9 0 4097
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40962
+dragon visor~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RV#Pi#Rs#Po#Rr#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RV#Pi#Rs#Po#Rr#G(#yO#G>#n lies here.~
+~
+9 0 32769
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40963
+dragon claws~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Pl#Ra#Pw#Rs#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RC#Pl#Ra#Pw#Rs#G(#yO#G>#n lies here.~
+~
+5 0 8193
+0 0 1048576
+18001 100 175 5
+0 0 0
+A
+18 65
+A
+19 65
+A
+17 -75
+A
+13 120
+A
+12 120
+A
+14 120
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40964
+mastery dragon scales tattoo~
+#G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RS#Pc#Ra#Pl#Re#Ps#G(#yO#G>#n~
+A #G<#yO#G)#RD#Pr#Ra#Pg#Ro#Pn #RS#Pc#Ra#Pl#Re#Ps#G(#yO#G>#n lies here.~
+~
+9 0 131073
+0 0 1048576
+100 0 0 20
+0 0 0
+A
+18 500
+A
+19 500
+A
+17 -1000
+A
+13 10000
+A
+12 10000
+A
+14 10000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40951
+Small Chamber~
+~
+0 168845326 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

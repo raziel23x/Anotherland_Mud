@@ -1,0 +1,1678 @@
+#AREADATA
+Name        Tanaka  Magic The Gathering~
+Builders    Tanaka~
+VNUMs       102200 102499
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#102201
+magic master game~
+magic master heals you~
+#0The #CMa#cgi#Cc #GMa#gste#gr #0of the #yGame#n is here healing.
+~
+~
+98451 128 1000 S
+12024 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#102202
+white knight~
+A Powerful White knight is here defending justice~
+#0a #CPowerful #nWhite Knight #0is here defending #yJustice#n
+~
+Gains Protection from black, first strike, is the penical of everything that is good
+~
+65555 128 1000 S
+243 0 0 2d0+0 0d0+0
+0 0
+0 0 0
+#102203
+arch angel~
+a #yHeavenly #CAr#cc#Ch An#cge#Cl #7flys though the air.~
+#7a #yHea#oven#yly #CAr#cc#Ch An#cge#Cl #7fly though the air.
+~
+Counter nemesis of the pit fiend, this mighty angel defends the realms agaist evil.
+~
+65555 0 1000 S
+956 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102204
+mox pearl~
+a Mox pearl glows with a magical aura of mana~
+#0a #GMox #nPearl #yglows #7with a #CMa#cgica#Cl Au#cr#Ca #7of #oMa#gn#oa#n
+~
+Cost nothing to cast and adds one white mana to your mana pool, all 
+powerful white artifact for mana. Power of 9 card.
+~
+65555 0 1000 S
+284 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102205
+selfless exorcist~
+a selfless exorcist chants to remove evil from the region~
+#7a Selfless #nExorcist #PCh#pant#Ps #0to remove all #revil #0from the realms#n
+~
+Remove target creature card in a graveyard from the game if tapped.
+That card deals damage equal to its power to selfless exorcist.
+~
+65555 0 1000 S
+233 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102206
+commander Eesha~
+The commander is bashing in your head.~
+The #oComander #gE#yesh#ga #0stand guard over the room.
+~
+War glides on the simplest upgrafts while peace struggles agaist hurricane winds. It is the way of the world. It must change.
+Flying, protection from creatures.
+~
+65555 0 1000 S
+320 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102207
+valor~
+Valor is a powerful force agaist evil~
+#PVa#plo#Pr #0stands here ready to give his lift from goodness
+~
+The cracks widened, The shell crumbled, and Valor spread thoughtout the land.
+~
+65555 0 1000 S
+252 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102208
+Wall of swords~
+The wall of Swords block all but flyers.~
+A #oWall #7of #nSwords, #0Blocks all but flying creatures.
+~
+An 0/7 wall of swords stands here blocking all but flying creatures, great defencive move for a white player
+~
+65555 0 1000 S
+196 0 0 3d0+0 0d0+0
+0 0
+0 0 0
+#102209
+pegasus~
+a beautiful pegasus soars though the air~
+#0a #LB#neau#Lt#nifu#Ll #CPe#ngas#Cus #0soars through the air.
+~
+Like the wings of a dove few sights can compare to a pegasus.
+~
+65555 524288 1000 S
+150 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102210
+Militant monk~
+a Militant monk rams a fist in your face~
+#0The #yMi#clitan#yt #GM#yon#Gk #7practices for the upcoming battle.
+~
+Attacking does not cause militant monk to tap.
+~
+65555 0 1000 S
+163 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102211
+suntail hawk~
+a Suntail Hawk screachs as you come in the room~
+#0a #ySu#nntai#yl #oHawk #7screaches at you.
+~
+Souring above the mountains can only bring envy to those who can not see it.
+~
+65555 524288 1000 S
+163 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102212
+unicorn~
+A magestic unicorn seems to smile at you~
+#0The #GMa#ggest#Gic #nUn#7icor#nn #0seems to be smiling at you
+~
+Only a person of the purest geart and verginitie can ride the Unicorn.
+~
+65555 0 1000 S
+236 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102213
+Vardent Samurai~
+a Vardent Samurai slash his swords at you~
+#0a #7Va#nrden#7t #0Sa#7m#nu#7r#0ai #rmeditates in harmony
+~
+None can conquer the spirit of the Samurai, Evil no's only death when within his reach.
+~
+65555 0 1000 S
+246 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102214
+Merchant marine~
+a merchant marine aims his rifle at the target~
+#a #gMe#Lrchan#gt #CMa#crin#Ce #0cleans his sword
+~
+Though few they maybe, it only takes one good shot to end evil
+~
+65555 0 1000 S
+149 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102215
+Serra Angel~
+A Serra Angel looks over the realms~
+#0a #&Se#nrr#7a #CAn#cge#Cl #0looks over the realms
+~
+~
+65555 0 1000 S
+232 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102216
+Lancers en-Kor~
+The Lancers en-Kor guard the plains~
+A #gfierce #7Lancers #yen-Kor #7protects this section of the realm
+~
+~
+65555 0 1000 S
+262 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102217
+Samite Healer~
+a Samite Healer heals your wounds~
+#7a #RSa#rmi#Rte #nHealer #0is here healing your wounds
+~
+~
+65555 0 1000 S
+236 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102218
+#0The #nWhite #Car#ce#Ca#n~
+The Honor guard is protecting you from evil~
+#7The #GHo#gno#Gr #yGu#gar#yd #0is here protecting you from #revil#n
+~
+~
+65555 0 1000 S
+81 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102219
+Solitary Champion~
+A Solitary Champion fades in and out of the shadows~
+#0a S#7ol#ni#7ta#0ri #cCh#nampi#con #0fades in and out of the Shadows
+~
+~
+65555 0 1000 S
+133 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102220
+Ivory Guardians~
+is he moving or not, the ivory guardian seems motionless~
+#0There isnt a sign of life coming from, The #nIvory #LGuardian#n
+~
+~
+65555 0 1000 S
+232 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102221
+soul warden~
+a soul warden sits here meditating~
+#0a #RS#nou#Rl W#narde#Rn #7sits here quitely meditating#n
+~
+~
+65555 0 1000 S
+240 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102222
+Moth of Rune~
+The mother of Rune, concentrats on her spell weaving~
+#0The #CMo#yth#Cer #7of #RR#run#Re, #0concentrats on her spell weaving
+~
+~
+65555 128 1000 S
+206 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#102223
+Opal Arcolich~
+an Opal Arcolich stand proudly here~
+#0Cast in #oIron, #0an #CO#cp#Ca#Cl #yA#or#yc#oo#yl#oi#yc#oh#n #0is guardian here
+~
+~
+65555 0 1000 S
+212 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102224
+Lotus petal~
+a Magical Lotus petal floats in the air~
+#0a #GMa#Cg#ni#Cc#Gal #pL#Potu#Ps #gPetal #0floats in the #Ca#ci#Cr#n
+~
+~
+65555 0 1000 S
+190 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102225
+reveille squad~
+The Reveille Squad marchs in rythem~
+#0The #LRe#lveil#Lle #RSq#rua#Rd#7 marchs in rythem
+~
+~
+65555 0 1000 S
+293 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102226
+barrier~
+a Shimmering Barrier block your path~
+A #CSh#ci#nmmer#Cing #PW#ga#Pll #0blocks yout path
+~
+~
+65555 0 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102227
+Ramosian Commander~
+The Ramosian Commander is checking his troops~
+#7The #rRamo#osian #RComm#yander#n #0is here checking out his troops
+~
+"Cho-Manno guides your spirit, I guild your sword.@
+ 
+~
+65555 0 1000 S
+299 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102228
+order~
+The Silkenfist order protects the realm in times of trouble~
+#0The #CSi#clkenfi#Cst #)Or#7de#0r #7scan the lands for #revil
+~
+~
+65555 0 1000 S
+310 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102229
+orim prince~
+Orim, The Eternal Prince prays for peaceful times~
+#PO#pri#Pm#7, Et#nern#7al Pr#nin#7ce #0prays for peaceful times#n
+~
+~
+65555 0 1000 S
+340 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#102230
+silent Stalker~
+The Silent Stalker creeps up behind you~
+#0The #7Silent #PS#pt#Pa#pl#Pk#pe#Pr #0creeps up behind #yYou#R!!#n
+~
+~
+65555 0 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102231
+peaceful Bishop~
+#0a #CPe#ca#7c#ne#cf#Cul #LB#li#Psh#li#Lp#7 stand here meditating#n~
+#0a #CPe#cac#7e#f#Cul #LB#li#Psh#li#Lp#0 quietly meditates.#n
+~
+~
+19 0 1000 S
+317 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102232
+guardian dragon~
+#7a #0Gu#nardi#0an #GDr#gago#Gn #ohovers in the #Cair#n~
+#7a #0Gu#7ardi#0an #GDr#gago#Gn #ohovers here in the #Cair#n
+~
+~
+3 0 1000 S
+325 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102233
+master ranger~
+#pa #oMaster #GRa#ong#Ger #0scouts the lands under his care#n~
+#pa #oMaster #GRa#ong#Ger #0scouts the lands under his care#n
+~
+~
+3 0 1000 S
+366 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102234
+alabaster potion~
+an #PA#pl#ca#Cbas#ct#pe#Pr #0potion#n floats here~
+An #PA#pl#cb#Cast#pe#Pr #0potion #n floats here#n
+~
+~
+3 0 1000 S
+320 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102235
+retired palace guard~
+#0 retired place guard stands here~
+#0a Retired #rPa#plac#re #oG#guar#od#n keeps his eyes on you
+~
+~
+3 0 1000 S
+356 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102236
+blessed spirit~
+a blessed spirit~
+#0the #CBl#Ges#Csed #PS#np#Pi#nr#Pi#nt #0flouts here 
+~
+~
+3 0 1000 S
+361 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102237
+servants realm~
+a servant of the realm is here~
+#7The #yS#Ce#yr#Cv#ya#Cn#yts #7of the #PR#Ge#Pa#Gl#Pm #7looks confused
+~
+~
+3 0 1000 S
+459 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102238
+holy bishop~
+a holy bishop guides you~
+#7Before you stands the almighty #GH#yol#Gy #LBi#Csho#Lp#n
+~
+~
+3 0 1000 S
+361 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#102239
+minister of peace~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+11 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#102201
+no name~
+(no short description)~
+(no description)~
+~
+9 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102229
+mark of the beast~
+#yM#Ca#yr#Ck #7of the #rBe#0as#rt~
+#yM#oa#yr#ok #7of the #rBe#0as#rt#n~
+~
+9 4096 65541
+0 0 1048576
+0 0 0 0
+10 20000 0
+A
+18 250
+A
+19 250
+A
+17 -250
+A
+2 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102234
+junk~
+#0(#rA#lL#0) #y(#rGlow#y) (#rHum#y) #CMy#cs#7t#cc#Cal #0Sc#7i#nm#7it#0ar#n~
+#0(#rA#lL#0) #y(#rGlow#y) (#rHum#y) #CMy#cs#7t#cic#Cal #0Sc#7i#nm#7it#0ar#n~
+~
+5 147456 8193
+0 0 0
+18000 300 300 3
+10 10000000 0
+A
+18 500
+A
+19 500
+A
+17 -250
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#102200
+#CWe#clco#Cme #7to the #GGa#gtheri#Gng#n~
+Youll find alot of the best magic creatures and spells here.
+Enjoy yourself, your in for a fun ride back to the past.
+n
+~
+0 1048580 0
+D5
+~
+~
+0 0 102201
+S
+#102201
+#CMa#cgi#Cc #7The #GGa#gtheri#Gng#n~
+In all 4 directions youll find 4 of the major colors.
+North-White
+South-Red
+East-Black
+West-Blue
+Artifacts-will be in each zone as well, greatures that is:P
+Down-Green
+And a 5th color going down.
+~
+0 536870912 0
+D0
+~
+~
+0 0 102202
+D4
+~
+~
+0 0 102200
+S
+#102202
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102203
+D2
+~
+~
+0 0 102201
+S
+#102203
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102204
+D2
+~
+~
+0 0 102202
+S
+#102204
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102205
+D2
+~
+~
+0 0 102203
+S
+#102205
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102246
+D1
+~
+~
+0 0 102206
+D2
+~
+~
+0 0 102204
+D3
+~
+~
+0 0 102245
+S
+#102206
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102207
+D3
+~
+~
+0 0 102205
+S
+#102207
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102208
+D3
+~
+~
+0 0 102206
+S
+#102208
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102209
+D3
+~
+~
+0 0 102207
+S
+#102209
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102210
+D3
+~
+~
+0 0 102208
+S
+#102210
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102211
+D3
+~
+~
+0 0 102209
+S
+#102211
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102212
+D2
+~
+~
+0 0 102210
+S
+#102212
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102213
+D2
+~
+~
+0 0 102211
+S
+#102213
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102214
+D2
+~
+~
+0 0 102212
+S
+#102214
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102215
+D2
+~
+~
+0 0 102213
+S
+#102215
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102216
+D2
+~
+~
+0 0 102214
+S
+#102216
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102217
+D2
+~
+~
+0 0 102215
+S
+#102217
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102218
+D2
+~
+~
+0 0 102216
+S
+#102218
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102219
+D2
+~
+~
+0 0 102217
+S
+#102219
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D0
+~
+~
+0 0 102220
+D2
+~
+~
+0 0 102218
+S
+#102220
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D2
+~
+~
+0 0 102219
+D3
+~
+~
+0 0 102221
+S
+#102221
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102220
+D3
+~
+~
+0 0 102222
+S
+#102222
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102221
+D3
+~
+~
+0 0 102223
+S
+#102223
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102222
+D3
+~
+~
+0 0 102224
+S
+#102224
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102223
+D3
+~
+~
+0 0 102225
+S
+#102225
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102224
+D2
+~
+~
+0 0 102251
+D3
+~
+~
+0 0 102226
+S
+#102226
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102225
+D3
+~
+~
+0 0 102227
+S
+#102227
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102226
+D3
+~
+~
+0 0 102228
+S
+#102228
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102227
+D3
+~
+~
+0 0 102229
+S
+#102229
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102228
+D3
+~
+~
+0 0 102230
+S
+#102230
+#0The #nWhite #Car#ce#Ca#n~
+Here you see nothing but plains in every direction. Where White creatures of goodness defend thier realm.
+~
+0 0 0
+D1
+~
+~
+0 0 102229
+D2
+~
+~
+0 0 102231
+S
+#102231
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102230
+D2
+~
+~
+0 0 102232
+S
+#102232
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102231
+D2
+~
+~
+0 0 102233
+S
+#102233
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102232
+D2
+~
+~
+0 0 102234
+S
+#102234
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102233
+D2
+~
+~
+0 0 102235
+S
+#102235
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102234
+D2
+~
+~
+0 0 102236
+S
+#102236
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102235
+D2
+~
+~
+0 0 102237
+S
+#102237
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102236
+D2
+~
+~
+0 0 102238
+S
+#102238
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102237
+D2
+~
+~
+0 0 102239
+S
+#102239
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102238
+D2
+~
+~
+0 0 102240
+S
+#102240
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102239
+D1
+~
+~
+0 0 102241
+S
+#102241
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D1
+~
+~
+0 0 102242
+D3
+~
+~
+0 0 102240
+S
+#102242
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D1
+~
+~
+0 0 102243
+D3
+~
+~
+0 0 102241
+S
+#102243
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D1
+~
+~
+0 0 102244
+D3
+~
+~
+0 0 102242
+S
+#102244
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D1
+~
+~
+0 0 102245
+D3
+~
+~
+0 0 102243
+S
+#102245
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D1
+~
+~
+0 0 102205
+D3
+~
+~
+0 0 102244
+S
+#102246
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102247
+D2
+~
+~
+0 0 102205
+S
+#102247
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102248
+D2
+~
+~
+0 0 102246
+S
+#102248
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102249
+D2
+~
+~
+0 0 102247
+S
+#102249
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102250
+D2
+~
+~
+0 0 102248
+S
+#102250
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102251
+D2
+~
+~
+0 0 102249
+S
+#102251
+#0The #nWhite #Car#ce#Ca#n~
+~
+0 0 0
+D0
+~
+~
+0 0 102225
+D2
+~
+~
+0 0 102250
+S
+#0
+
+
+
+#SPECIALS
+M 102201 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102202 12 102202
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102203 12 102203
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102204 12 102204
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102205 12 102205
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102206 12 102206
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102207 12 102207
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102208 12 102208
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102209 12 102209
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102210 12 102210
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102211 12 102211
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102212 12 102212
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102213 12 102213
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102214 12 102214
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102215 12 102215
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102216 12 102216
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102217 12 102217
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102218 12 102218
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102219 12 102219
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102220 12 102220
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102221 12 102221
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102222 12 102222
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102223 12 102223
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102224 12 102224
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102225 12 102225
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102226 12 102226
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102227 12 102227
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102228 12 102228
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102229 12 102229
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102230 12 102230
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102231 10 102231
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102232 10 102232
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102233 12 102233
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102234 12 102234
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102235 12 102235
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102236 12 102236
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102237 12 102237
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+M 0 102238 12 102238
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

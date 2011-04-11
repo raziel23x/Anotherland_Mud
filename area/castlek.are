@@ -1,0 +1,1207 @@
+#AREADATA
+Name        Devik   Castle Kyrn~
+Builders    Devik~
+VNUMs       83000 83099
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#83000
+guard castle kyrn~
+#La Castle Guard#n~
+#LA guard in bright blue livery stands at attention.#n
+~
+~
+134147 8320 0 S
+2002 0 0 0d20+3 0d0+0
+0 0
+0 0 0
+#83001
+guard royal ranoth~
+#0Ranoth#n~
+#LRanoth, the Guardian of the Chamber, stares menacingly at you.#n
+~
+~
+207891 4203196 0 S
+10008 0 0 -100d20+3 0d0+0
+0 0
+0 0 1
+#83004
+zeke lab rat~
+#yZeke#n~
+A Lab Rat sits here.
+~
+He has huge bulging muscles but also looks like a beast who is from hell.
+~
+11 33587328 1000 S
+9970 0 0 0d17+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#83000
+cyborg titanium ring~
+#0-#p%#0] #CTit#canium #CRi#cn#Cg #0]#p%#0-~
+#c-%] #LTitanium Ring #c[%-#n~
+~
+9 2 3
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83001
+bur burning fla flame dag dagg dagger~
+#R*#r*#CB#curnin#Cg #cFl#Ca#cme#r*#R*#n~
+The eternal flame lies here.~
+~
+5 1 8193
+0 0 0
+5 3000 8000 2
+1 10000000 0
+A
+13 200
+A
+12 200
+A
+14 200
+A
+2 10
+A
+4 10
+A
+13 3000
+A
+12 3000
+A
+14 3000
+A
+18 300
+A
+19 240
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83002
+cyborg titanium collar~
+#0-#p%#0] #CTit#canium #CCo#cll#Car #0]#p%#0-#n~
+#c-%] #LTitanium Collar #c[%-#n~
+~
+9 2 5
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83003
+cyborg titanium plate breastplate~
+#0-#p%#0] #CTit#canium #CBre#cast#Cplate #0]#p%#0-#n~
+#c-%] #LTitanium Breastplate #c[%-#n~
+~
+9 2 9
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83004
+cyborg titanium helmet~
+#0-#p%#0] #CTit#canium #CHel#cme#Ct #0]#p%#0-#n~
+#c-%] #LTitanium Helmet #c[%-#n~
+~
+9 2 17
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83005
+cyborg titanium leggings~
+#0-#p%#0] #CTit#canium #CLeg#cgin#Cgs #0]#p%#0-#n~
+#c-%] #LTitanium Leggings #c[%-#n~
+~
+9 2 33
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83006
+cyborg titanium boots~
+#0-#p%#0] #CTit#canium #CB#coo#Cts #0]#p%#0-#n~
+#c-%] #LTitanium Boots #c[%-#n~
+~
+9 2 65
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83007
+so soul po poti potion~
+#R*#r*#PS#Go#pu#Gl #0P#Ro#Gt#Pi#Ro#0n#r*#R*#n~
+A Soul Potion lays in the dust.~
+~
+10 64 3
+0 0 0
+200 'stone skin' 'armor' 'shield'
+2 1000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83008
+st sta staf staff v vol volf volfra volframe~
+#o**#LStaff #Gof #PV#Colfr#ca#Cm#Pe#o**#n~
+(no description)~
+~
+4 64 8193
+0 0 0
+10 50 50 'dispel magic'
+3 10000 0
+A
+2 10
+A
+14 300
+A
+12 300
+A
+13 300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83009
+cyborg titanium gauntlets~
+#0-#p%#0] #CTit#canium #CGau#cntl#Cets #0]#p%#0-#n~
+#c-%] #LTitanium Gauntlets #c[%-#n~
+~
+9 2 129
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83010
+fo fou foun fountain~
+#RMagical #CFountain#n~
+A Magical Fountain spurts out lemonade.~
+~
+17 0 0
+0 0 0
+1000 1000 6 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83011
+inc incred incredible dris driscan do doll~
+#RI#rn#Rc#rr#Re#rd#Ri#rb#Rl#re #CD#crisca#Cn #GD#go#Gll#n~
+The #RI#rn#Rc#rr#Re#rd#Ri#rb#Rl#re #CD#crisca#Cn #GD#go#Gll#n lies here.~
+~
+8 131073 16385
+0 0 0
+0 0 0 0
+1 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83012
+zer zero sp sph sphere~
+#CZ#ce#Cr#co #ySphere#n~
+Nothing floats here~
+~
+9 0 524289
+0 0 0
+0 0 0 0
+0 0 0
+A
+2 4
+A
+1 4
+A
+14 600
+A
+12 600
+A
+13 600
+A
+13 2000
+A
+12 2000
+A
+14 2000
+A
+18 200
+A
+19 200
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83013
+dip bag~
+#GLucky #RD#ri#Rp #yBag#n~
+A lucky bag sits here.~
+~
+15 128 16385
+0 0 0
+10000000 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83014
+cyborg titanium sleeves~
+#0-#p%#0] #CTit#canium #CSl#cee#Cves #0]#p%#0-#n~
+#c-%] #LTitanium Sleeves #c[%-#n~
+~
+9 2 257
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83015
+cyborg titanium belt~
+#0-#p%#0] #CTit#canium #CB#cel#Ct #0]#p%#0-#n~
+#c-%] #LTitanium Belt #c[%-#n~
+~
+9 2 2049
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83016
+cyborg titanium bracer~
+#0-#p%#0] #CTit#canium #CBr#cac#Cer #0]#p%#0-#n~
+#c-%] #LTitanium Bracer #c[%-#n~
+~
+9 2 4097
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83017
+cyborg titanium faceguard guard~
+#0-#p%#0] #CT#cita#Cnium #cF#Cac#cegu#Card#0 [#p%#0-#n~
+#0-#p%#0] #CT#cita#Cnium #cF#Cac#cegu#Card#0 [#p%#0-#n~
+~
+9 2 32769
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83018
+cyborg titanium cloak~
+#0-#p%#0] #CTit#canium #CCl#coa#Ck #0]#p%#0-#n~
+#c-%] #LTitanium Cloak #c[%-#n~
+~
+9 2 1025
+0 0 1048576
+25 0 0 0
+0 0 0
+A
+17 -35
+A
+18 25
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83019
+chair cold steel~
+#LCold #cS#Lt#ce#Le#cl #LChair#n~
+#lA chair made of cold steel stands here.#n~
+~
+12 1 0
+0 0 0
+1 1 0 0
+16960 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83020
+rune %s~
+#7%s #LRune#n~
+#LA glowing rune lies here.#n~
+~
+58 1 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83021
+weapon mystic %s~
+#7-== #LMystic Weapon [#l%s#L] #7==-#n~
+#LA weapon made for %s lies here.#n~
+~
+5 1 8193
+0 0 1048576
+0 50 75 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83022
+robe mystic~
+#7-== #LMystic Robe #7==-#n~
+#LA mystic robe lies here.#n~
+~
+9 1 9
+0 0 1048576
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83023
+scroll rune~
+#7-== #LRune Scroll #7==-#n~
+#7A strange scroll lies here.#n~
+~
+59 1 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83024
+sword broadsword silver~
+#7a s#ni#7l#nv#7e#nr b#7r#no#7a#nd#7s#nw#7o#nr#7d#n~
+#7A gleaming silver broadsword, sharp enough to easily cut through bone.#n~
+~
+5 16449 8193
+0 1296 65536
+17000 50 150 1
+0 0 0
+A
+18 50
+A
+19 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83025
+plate breastplate silver~
+#7a g#nl#7e#na#7m#ni#7n#ng s#7i#nl#nv#7e#nr b#7r#ne#7a#ns#7t#np#7l#na#7t#ne~
+#7A gleaming breastplate made of silver.#n~
+~
+9 65 9
+2 0 65536
+-1000 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83026
+cloak blue~
+#La blue cloak#n~
+#LA flowing blue cloak with #7s#ni#7l#nv#7e#nr #Ltrim.#n~
+~
+9 262208 1025
+2 0 0
+-1000 0 0 0
+0 0 0
+A
+19 200
+A
+18 200
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83027
+sword broadsword obsidian~
+#0Obsidian Broadsword#n~
+#0A black obsidian longsword flickers with shadows.#n~
+~
+5 155650 24577
+2 1055 65536
+0 1000 5000 3
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83031
+que ques quest vo vou vouch voucher~
+<#PQ#pu#Pe#ps#Pt #GV#Po#yu#Cc#7h#Ge#Pr#n>~
+Redeem 250 qp when given to an immortal.~
+~
+8 131073 16385
+0 0 0
+0 0 0 0
+0 2000 0
+E
+description~
+#PRedeem 1000 qp when you give this voucher to an imm.
+~
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#83045
+th thu thun thund thunder sw swo swor sword~
+#y**#LT#Ch#Lu#Cn#Ld#Ce#Lr #RS#rw#Ro#rr#Rd#y**#n~
+A Long Electric sword lies here.~
+~
+5 3 8193
+0 0 0
+1000 7000 9500 3
+4 90000 0
+A
+13 5000
+A
+12 5000
+A
+14 3000
+A
+2 5
+A
+1 5
+A
+18 200
+A
+19 200
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#83000
+#7D#Le#lv#Li#7k#0'#Ls #lH#Lo#7u#Ls#le#n~
+~
+0 1221615628 0
+S
+#83001
+#0Approaching the Castle...#n~
+#GYou are in a grassy field.  To the south, you see a huge castle.  A
+#ldark blue banner#G sits atop the highest tower.  There is some sort of
+#7s#ni#7l#nv#7e#nr #Gsymbol adorning it, but you can't make it out from
+here.  #n 
+~
+0 0 2
+D0
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 83002
+S
+#83002
+#0Near the Castle...#n~
+#GThe Castle towers over your head.  The walls are so tall that you
+cannot see any of the towers over them.  There is a #0huge portcullis#G in
+the giant wall.  #n 
+~
+0 0 2
+D0
+~
+~
+0 0 83001
+D2
+~
+~
+0 0 83003
+S
+#83003
+#0In front of the Castle portcullis...#n~
+#GA #0huge iron portcullis#G is set into the stone wall.  It is raised,
+and it is obvious that you may pass through.  You can see the front of the
+keep from here.  #n 
+~
+0 0 2
+D0
+~
+~
+0 0 83002
+D2
+~
+~
+0 0 83004
+S
+#83004
+#GIn the courtyard#n~
+#gYou are in a large courtyard.  North of you, the #0iron portcullis#g
+opens onto the grassy fields outside the castle.  To the south you see the
+keep.  Standing within these huge stone walls, you feel more like a prisoner
+than a guest.  #n 
+~
+0 0 1
+D0
+~
+~
+0 0 83003
+D1
+~
+~
+0 0 83006
+D2
+~
+~
+0 0 83008
+D3
+~
+~
+0 0 83005
+S
+#83005
+#GIn the courtyard#n~
+#gYou are in a large courtyard.  To the south you see the keep.  Standing
+within these huge stone walls, you feel more like a prisoner than a guest.#n
+~
+0 0 1
+D1
+~
+~
+0 0 83004
+D2
+~
+~
+0 0 83009
+S
+#83006
+#GIn the courtyard#n~
+#gYou are in a large courtyard.  To the south you see the keep.  Standing
+within these huge stone walls, you feel more like a prisoner than a guest.#n
+~
+0 0 1
+D2
+~
+~
+0 0 83007
+D3
+~
+~
+0 0 83004
+S
+#83007
+#GIn the courtyard#n~
+#gYou are in a large courtyard.  You are just north of the keep.  Standing
+within these huge stone walls, you feel more like a prisoner than a guest.#n
+~
+0 0 1
+D0
+~
+~
+0 0 83006
+D3
+~
+~
+0 0 83008
+S
+#83008
+#GBefore the keep#n~
+#gYou are in a large courtyard.  The huge oaken doors of the keep are
+just south of you.  Standing within these huge stone walls, you feel more
+like a prisoner than a guest.  #n 
+~
+0 0 1
+D0
+~
+~
+0 0 83004
+D1
+~
+~
+0 0 83007
+D3
+~
+~
+0 0 83009
+S
+#83009
+#GIn the courtyard#n~
+#gYou are in a large courtyard.  You are just north of the keep.  Standing
+within these huge stone walls, you feel more like a prisoner than a guest.#n
+~
+0 0 1
+D0
+~
+~
+0 0 83005
+D1
+~
+~
+0 0 83008
+S
+#83014
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D2
+~
+~
+0 0 83015
+S
+#83015
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83014
+D2
+~
+~
+0 0 83016
+S
+#83016
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83015
+D2
+~
+~
+0 0 83017
+S
+#83017
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83016
+D2
+~
+~
+0 0 83018
+S
+#83018
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83017
+D2
+~
+~
+0 0 83019
+S
+#83019
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83018
+D2
+~
+~
+0 0 83020
+S
+#83020
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83019
+D2
+~
+~
+0 0 83021
+S
+#83021
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83020
+D2
+~
+~
+0 0 83022
+S
+#83022
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83021
+D1
+~
+~
+0 0 83023
+S
+#83023
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83024
+D3
+~
+~
+0 0 83022
+S
+#83024
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83025
+D2
+~
+~
+0 0 83023
+S
+#83025
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83026
+D2
+~
+~
+0 0 83024
+S
+#83026
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83027
+D2
+~
+~
+0 0 83025
+S
+#83027
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83028
+D2
+~
+~
+0 0 83026
+S
+#83028
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83029
+D2
+~
+~
+0 0 83027
+S
+#83029
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83030
+D2
+~
+~
+0 0 83028
+S
+#83030
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83032
+D2
+~
+~
+0 0 83029
+S
+#83032
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D0
+~
+~
+0 0 83033
+D2
+~
+~
+0 0 83030
+S
+#83033
+An Empty Hallway~
+What a plain hallway...
+~
+0 0 0
+D2
+~
+~
+0 0 83032
+D3
+~
+~
+0 0 83034
+S
+#83034
+~
+~
+0 0 0
+D1
+~
+~
+0 0 83033
+D2
+~
+~
+0 0 83035
+D3
+~
+~
+0 0 83036
+S
+#83035
+An empty room~
+What a bare room...
+~
+0 0 0
+D0
+~
+~
+0 0 83034
+S
+#83036
+~
+~
+0 0 0
+D1
+~
+~
+0 0 83034
+S
+#83037
+A quiet bedroom~
+You are standing in a quiet, well lit bedroom.  There is a soft
+recliner in the corner, begging for someone to sit on it.  
+A white futon is against the west wall, below a large window.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 83001 spec_vladd_decap
+M 83004 spec_breath_any
+S
+
+
+
+#RESETS
+O 0 83019 0 83000
+M 0 83001 1 83000
+E 0 83027 0 16
+E 0 83027 0 17
+M 0 83000 2 83003
+E 0 83024 0 16
+E 0 83025 0 5
+E 0 83026 0 12
+M 0 83000 2 83003
+E 0 83024 0 16
+E 0 83025 0 5
+E 0 83026 0 12
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

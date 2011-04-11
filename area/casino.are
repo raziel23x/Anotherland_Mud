@@ -1,0 +1,103 @@
+#AREADATA
+Name        New area~
+Builders    Magna~
+VNUMs       152000 152099
+Security    5
+Recall      3001
+Flags	      16
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#152000
+Casino Lobby~
+~
+0 0 0
+D2
+~
+~
+0 0 152004
+D3
+~
+~
+0 0 152001
+S
+#152001
+Slot Machine Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 152000
+D3
+~
+~
+0 0 152002
+S
+#152002
+Slot Machine Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 152001
+D3
+~
+~
+0 0 152003
+S
+#152003
+Slot Machine Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 152002
+S
+#152004
+Casino Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 152000
+D3
+~
+~
+0 0 72000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

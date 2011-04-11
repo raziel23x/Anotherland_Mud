@@ -1,0 +1,389 @@
+#AREADATA
+Name        Seppuku Kingdom Four~
+Builders    None~
+VNUMs       40300 40399
+Security    1
+Recall      3005
+Flags	      16
+End
+
+
+
+#MOBILES
+#40300
+warrior guard~
+#G-#R(#CWarrior#R)#G-#n guard ~
+#G-#R(#CWarrior#R)#G-#n guard stands here glareing at you intently.
+~
+~
+65553 4227224 0 S
+10002 0 0 0d1+1 0d0+0
+0 0
+0 0 1
+#40301
+Generic Kingdom Mobile~
+Generic Kingdom Mobile~
+Generic Kingdom Mobile
+~
+~
+109971 0 0 S
+32 0 0 50d0+0 0d0+0
+0 0
+0 0 1
+#40302
+Generic Kingdom Mobile~
+Generic Kingdom Mobile~
+Generic Kingdom Mobile
+~
+~
+99475 128 0 S
+32 0 0 50d0+0 0d0+0
+0 0
+0 0 1
+#40327
+mystik guardian~
+#0-#7=#CM#cy#7s#0t#ci#Ck#7=#0-#n Guardian~
+#0-#7=#CM#cy#7s#0t#ci#Ck#7=#0-#n Guardian
+~
+~
+65553 0 0 S
+10003 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40328
+mystic guardian~
+#0-#7=#CM#cy#7s#0t#ci#Ck#0=#7-#n Guardian~
+#0-#7=#CM#cy#7s#0t#ci#Ck#0=#7-#n Guardian
+~
+~
+65553 0 0 S
+10004 0 0 0d10+3 0d0+0
+0 0
+0 0 0
+#40329
+warrior healer~
+#G-#R(#CWarrior#R)#G-#n Healer~
+#G-#R(#CWarrior#R)#G-#n Healer
+~
+~
+101635 524416 0 S
+10000 0 0 50d1+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40300
+Silk Throne~
+#oT#rh#or#ro#on#re #oo#rf #oB#ro#on#re#os#n~
+#oT#rh#or#ro#on#re #oo#rf #oB#ro#on#re#os#n~
+~
+12 0 0
+0 0 0
+1 1 0 0
+10000 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40301
+little cat corner~
+a little cat~
+A little cat stands in the corner of the room.~
+~
+27 0 0
+0 0 0
+40311 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40302
+little dog hall~
+a little dog~
+A little dog wags his tail in the hall.~
+~
+27 0 0
+0 0 0
+40300 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40300
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D5
+~
+~
+0 0 40301
+S
+#40301
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D2
+~
+~
+0 0 40303
+D4
+~
+~
+0 0 40302
+S
+#40302
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40310
+D1
+~
+~
+0 0 40311
+D4
+~
+~
+0 0 40306
+D5
+~
+~
+0 0 40301
+S
+#40303
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D0
+~
+~
+0 0 40301
+S
+#40304
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073156 0
+S
+#40305
+#RR#ra#Rv#ru#R'#rs #0H#7o#0m#7e~
+#RMuaha#Lhaha#Rhaha#Lhahah#Rahah#Lahah#RahuaM#n
+ #7O_O  #RRRRR   #rAAA  #RV  V #rU   U  #7O_O#n
+ #0o.O  #RR   R #rA   A #RV  V #rU   U  #0O.o#n
+ #0O.O  #RRRRR  #rAAAAA #RV  V #rU   U  #0o.O#n
+ #7O_O  #RR   R #rA   A  #RVV   #rUUU   #7O_O#n
+ #RMuaha#Lhaha#Rhaha#Lhahah#Rahah#Lahah#RahuaM#n
+~
+0 1073152 0
+D1
+~
+~
+0 0 40306
+S
+#40306
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073156 0
+D0
+~
+~
+0 0 40308
+D1
+~
+~
+0 0 40309
+D2
+~
+~
+0 0 40307
+D3
+~
+~
+0 0 40305
+D5
+~
+~
+0 0 40302
+S
+#40307
+#G-#R(#CWarrior#R)#G-~
+~
+0 135290880 0
+D0
+~
+~
+0 0 40306
+D5
+~
+~
+0 0 3001
+S
+#40308
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D2
+~
+~
+0 0 40306
+S
+#40309
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D3
+~
+~
+0 0 40306
+S
+#40310
+#G-#R(#CWarrior#R)#G-#n~
+~
+0 1073152 0
+D2
+~
+~
+0 0 40302
+S
+#40311
+#G-#R(#CWarrior#R)#G-~
+~
+0 134242308 0
+D3
+~
+~
+0 0 40302
+S
+#40312
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40313
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40314
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40315
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40316
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40317
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40318
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40319
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40320
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40321
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40322
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40323
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40324
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40325
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#40326
+(Insert Kingdom Name Here)~
+~
+0 1073156 0
+S
+#0
+
+
+
+#SPECIALS
+M 40300 spec_guard_kingdom4
+M 40302 spec_healer
+M 40327 spec_guard_kingdom4
+M 40328 spec_guard_kingdom4
+M 40329 spec_healer
+S
+
+
+
+#RESETS
+M 0 40300 5 40300
+M 0 40300 5 40300
+M 0 40300 5 40300
+M 0 40300 5 40300
+M 0 40300 5 40300
+O 0 30007 0 40305
+O 0 30007 0 40305
+O 0 30007 0 40305
+O 0 30007 0 40305
+M 0 40329 1 40311
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

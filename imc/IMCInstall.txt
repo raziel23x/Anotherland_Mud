@@ -1,0 +1,254 @@
+IMC2 Freedom Client Code
+------------------------
+
+Copyrights available in source code.
+
+Terms of Use
+------------
+
+1. Read and comply with the terms specified in the imc2freedom.license.
+
+What this code does
+-------------------
+
+This code allows your mud to connect to an interlinked mud chat network.
+Decentralized servers then route traffic between the various muds which are
+connected to them. This version is a cleaned up and enhanced version of the
+code. Security problems and some general ugliness have been fixed and the
+code consolidated down to these 3 files for easier maintenance. It now
+also compiles cleanly on many different codebases with a few simple compiler
+flag changes.
+
+This code will peacefully coexist with the Intermud-3 code, and some of you
+may already be members of that network.
+
+No channels have been included with this package due to the ability to connect
+automatically with any appropriately configured network. Channel information
+will be delivered to your mud by the server you connect to. Some networks may also
+have a premade channel file you can download.
+
+This code has been tested and works on the following STOCK codebases:
+
+Smaug 1.02a + the following derivitives:
+  Smaug 1.4a
+  Star Wars Reality 1.0 and 2.0
+  CalareyMud 1.0
+  CalareyMud 2.0 and 3.0
+  ResortMud 4.0b, ResortMud 4.1
+
+Rom 2.4b6 + the following derivitives:
+  RoT 1.4
+  DoC ( RoT derivative )
+  Paradox
+  Rogue 2.1a
+  Wurm 2.8c
+  Tartarus 1.0
+  QuickMUD
+  Anatolia 2.1b2
+  Oblivion 1.2 Alpha
+  Sundermud 1.0
+  EmberMUD 0.9.44a
+
+AckMUD! 4.3.1 ( downloaded from silverbridge.org )
+
+Merc 2.2 + the following derivitives:
+  Mythran 3.1.6b
+  Envy 2.2
+  EOS2
+  Nimud 4
+  Godwars Dystopia
+  Godwars Deluxe
+
+UltraEnvy 0.87j + the following derivitives:
+  Greed 0.99.7
+
+CircleMud 3.x  ( Circle 2.x is not specifically supported )
+
+To begin installation, refer to the directory your codebase is derived from.
+You will find tailored instructions that should be specific enough to install
+the code.
+
+The first thing you need to do is check to see if your codebase has a version
+of IMC2 already included. Even though this is a violation of the GPL
+license, many codebases once included it. If you already have a version of IMC2
+included, you need to decide if you wish to remove it, or just use it.
+Freedom is licensed as Diku code, and thus legal, so this may help you to decide how to proceed.
+
+You should be able to find the version information out in one of the existing
+source files should you have it already included. Freedom routers are 100% compatible
+with all previous versions of IMC2 dating all the way back to V0.10.
+
+If you decide you want to keep an existing version of IMC2, then you can skip this
+installation and proceed directly to the website at www.imc2.org and follow
+the links to the IMC2 section, then pick "Join Network".
+
+If you have decided to upgrade, consider the following:
+
+*********************************************************************************
+If upgrading from AntiFreeze CL-2a and later:
+
+Put imc.c, imc.h, md5.c, and md5.h into your source directory.
+Verify that the Makefile for your setup has the md5.c file listed along with imc.c
+Recompile the mud, reboot.
+
+If you cannot reconnect, you wil need to have the server operator for your connection
+remove your information temporarily, and you will need to temporarily disable
+your MD5 authentication by typing 'imconfg md5pass'.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from AntiFreeze CL-1 through CL-2:
+
+Put imc.c, imc.h, sha256.c, and sha256.h into your source directory.
+Verify that the Makefile for your setup has the sha256.c file listed along with imc.c
+Recompile the mud, reboot.
+
+You will need to then disable your SHA256 by typing 'imcconfig sha256pass'. Then get ahold of
+a network administrator to have your connection profile removed so that you can reconnect.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from MUD-Net 3.20 through 4.30:
+
+Drop the 5 source files into your source directory.
+Adjust imccfg.h as needed.
+Drop imc.commands, and imc.help into your imc directory with your imc.config file.
+See step 3 for updating your color support.
+Recompile the mud.
+Once you reconnect, the code should adjust you automatically to use SHA256 authentication.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from one of the ICE-MAN releases:
+
+Drop the 5 source files into your source directory.
+Adjust imccfg.h as needed.
+Drop imc.commands, and imc.help into your imc directory with your imc.config file.
+See step 3 for updating your color support.
+Recompile the mud.
+Correct any config file problems you get after bootup.
+Once you reconnect, the code should adjust you automatically to use SHA256 authentication.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from 3.10:
+
+Drop the 5 source files into your source directory.
+Double check the installation instructions for your codebase pertaining to save.c.
+Adjust imccfg.h as needed.
+Drop imc.commands, and imc.help into your imc directory with your imc.config file.
+See step 3 for updating your color support.
+Recompile the mud.
+You should not need to mess with your config files.
+Once you reconnect, the code should adjust you automatically to use SHA256 authentication.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from 3.00:
+
+Drop the 5 source files into your source directory.
+Go over the install steps for your codebase one by one and adjust your installation as necessary.
+Adjust imccfg.h as needed.
+Drop imc.commands, and imc.help into your imc directory with your imc.config file.
+See step 3 for updating your color support.
+Recompile the mud.
+You should not need to mess with your config files.
+Once you reconnect, the code should adjust you automatically to use SHA256 authentication.
+*********************************************************************************
+
+*********************************************************************************
+If upgrading from any version below 3.00 ( IE: 2.00g or 1.03g etc ):
+
+Remove any and all referrence to existing IMC2 code within your codebase.
+This will no doubt be a very tedious process, but it really does need to be done.
+ALL of it, every last C and H file. Many Merc derived codebases have been
+packaged with some form of it over the years( in violation of the GPL ). Trust us here.
+GET RID OF THE OLD CODE - If you don't think it's there, check anyway.
+The incompatibilities and other problems will cause you no end of hurt if you don't.
+
+Keep your 'config' file in a safe place - you'll need the information in
+it to port over to this code when your done. DONT LOSE IT!
+
+You may safely delete the 'icec' file, current channel information will be updated
+to your mud when you reconnect.
+
+Also delete the following if they are present: 'lock' 'mail-ids' 'mail-list' and 'mail-queue'
+These files will no longer be required.
+Once you reconnect, the code should adjust you automatically to use SHA256 authentication.
+*********************************************************************************
+
+Begin Installation:
+
+1. In your main directory, create an 'imc' directory if it does not yet exist.
+   In that directory, place the imc.config, imc.channels, imc.ignores, imc.commands,
+   imc.who, and imc.help files. Transfer them as ASCII files.
+
+2. Place imc.c, imc.h, sha256.c, sha256.h, and imccfg.h files in your src directory.
+
+3. To choose a color file, you need to know what color system ( if any ) your mud has.
+   For those tags the mud's color system does not support, standard ANSI tags will be used.
+
+   We provide the following color files:
+
+   imc.color.ansi = Straight ANSI
+      - Will use only IMC2 tilde codes and convert one way to ANSI codes.
+      - Users can simply enter IMC2 tokens directly for color.
+      - Ideal if your mud has no color system of its own or if it has no user selectable tokens.
+
+   imc.color.samson = Samson's Color Snippet
+      - For those of you who are running Samson's Custom ANSI from www.afkmud.com
+      - This is the color file you'd also pick if you are running Smaug 1.4aFUSS.
+
+   imc.color.smaug = Stock Smaug
+      - For those of you using sotck Smaug and any of its derivatives listed.
+
+   imc.color.lope = Lope's Color V2
+      - Seems to be the dominant choice in Rom muds.
+
+   imc.color.ack = Color profile for ACK muds.
+
+   When you pick what you want, rename the file simply as imc.color so the code will be able to load it.
+   Be sure your file is uploaded as ASCII.
+
+4. Refer to the file your codebase is most closely derived from and follow the directions within.
+   Any commonly known derivatives which have also been tested will have specific steps to complete in the file.
+
+When done, return here to finish.
+
+---------------------------------
+---------------------------------
+
+Almost done!
+
+Make clean, recompile.
+
+If this is a NEW install, read step A and then stop.
+If this is an UPGRADE to an existing install for a client BELOW 3.00, skip to B.
+If this is an upgrade to a 3.x install, stop now. You are DONE.
+
+A: At this point, the code should have compiled.
+
+   Getting connected to a network depends on the policies in place at the one you've
+   chosen to join.
+
+   If they are running Liberty servers, you should be able to connect without an application
+   provided they have the information available and are not private or full.
+
+   If not, then there will be an application proceedure somewhere on their site.
+   Fill it out according to whatever they're asking for.
+
+B: After you reboot, using the 'imcconfig' command, set your configuration info up.
+    In your old config file ( you DID keep it, yes? ), find your 'Connection' line.
+
+    It will look something like this:
+
+Connection Hub8:hub8.imc2.org:9010:skunkboy:lives:0:0:reconnect
+
+    Under the imc config options, each of these needs to be entered separately.
+    ClientPwd is the 4th parameter in the line, ServerPwd is the 5th.
+    Ignore everything past the 5th parameter since those values are no longer used.
+
+    Once you have this information set, you should be able to turn the connection on.
+    Try it. If something fails, it may crash the mud, but you can always contact us
+    and ask for help. Send a copy of your OLD config and NEW config files and we can
+    sort out whatever the problem may be.

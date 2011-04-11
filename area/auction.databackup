@@ -1,0 +1,93 @@
+#AUCTION
+Owner     Seth~
+MinBid    1000
+CurBid    5000
+TotBid    0
+Last      ~
+AucEnd    10
+Status    0
+#OBJECT
+Nest         0
+Name         Training Proxy~
+ShortDescr   a Training Proxy~
+Description  A training proxy sits on the ground.~
+Questmaker   Seth~
+Vnum         72017
+ExtraFlags   0
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    1
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        13
+Timer        0
+Cost         1690
+Values       10 0 0 0
+End
+
+#AUCTION
+Owner     Ventrilo~
+MinBid    100
+CurBid    300
+TotBid    2
+Last      Musashi~
+AucEnd    4
+Status    0
+#OBJECT
+Nest         0
+Name         titanium halo~
+ShortDescr   the #CTitanium Halo#n~
+Description  A powerful archonic forcefield is buzzing here.~
+Vnum         71000
+ExtraFlags   3
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    524289
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    5
+Resistance   25
+Level        4
+Timer        0
+Cost         132
+Values       10 0 0 0
+End
+
+#AUCTION
+Owner     Entropy~
+MinBid    1000
+CurBid    34000
+TotBid    4
+Last      Vincent~
+AucEnd    0
+Status    2
+#OBJECT
+Nest         0
+Name         Plate anotherland another land realm~
+ShortDescr   #L{*}#R{#LAnother #RLand Plate#L}#R{*}#n~
+Description  One of the greatest relics shines on the ground.~
+Vnum         101002
+ExtraFlags   262467
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    9
+WearLoc      -1
+ItemType     9
+Weight       0
+Condition    100
+Toughness    100
+Resistance   1
+Quest        67108864
+Level        60
+Timer        0
+Cost         100000000
+Values       0 0 0 0
+End
+
+#END

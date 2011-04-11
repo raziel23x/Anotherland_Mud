@@ -1,0 +1,144 @@
+#AREADATA
+Name        Ezra    Haunted Forest~
+Builders    Ezra~
+VNUMs       81000 81099
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#81000
+Living Tree~
+A #yLiving #oT#gr#oe#ge#n~
+A #yLiving #oT#gr#oe#ge#n Stands here
+~
+~
+1 0 -1000 S
+591 0 0 0d1+1 0d0+0
+0 0
+0 0 1
+#81001
+golden Dragon~
+#yG#oolden #7D#Gr#7a#Gg#7o#Gn#n~
+A #yG#oolden #7D#Gr#7a#Gg#7o#Gn#n Hovers Here
+~
+~
+3 128 0 S
+963 0 0 1d2+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#81000
+Entrance To Haunted Forest~
+You Are on a windy path to the left and to the right are big trees.  This
+place looks as it was home to a mythos monster 
+~
+0 4 0
+D0
+~
+~
+0 0 81001
+S
+#81001
+Path In the Forest~
+You Are on a windy path to the left and to the right are big trees.  This
+place looks as it was home to a mythos monster
+~
+0 0 0
+D1
+~
+~
+0 0 81002
+D2
+~
+~
+0 0 81000
+S
+#81002
+Path In the Forest~
+[Exits: east south]
+You Are on a windy path to the left and to the right are big trees.  This
+place looks as it was home to a mythos monster
+~
+0 0 0
+D1
+~
+~
+0 0 81003
+D3
+~
+~
+0 0 81001
+S
+#81003
+Path In the Forest~
+[Exits: east south]
+You Are on a windy path to the left and to the right are big trees.  This
+place looks as it was home to a mythos monster
+~
+0 0 0
+D3
+~
+~
+0 0 81002
+S
+#81010
+Chamber of the #yG#oolden #7D#Gr#7a#Gg#7o#Gn#7s#n~
+The #yG#oolden #7D#Gr#7a#Gg#7o#Gn#7s#n Are Here They Are Ledgandry Creatures Of the Day
+~
+0 4 0
+D0
+~
+~
+0 0 81010
+D2
+~
+~
+0 0 81010
+S
+#81068
+#0JAIL#n~
+#0This is where all the Bad little players go#n
+~
+0 4202500 0
+S
+#81069
+Ezra's Throne Room~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 81000 spec_cast_mage
+M 81001 spec_breath_fire
+S
+
+
+
+#RESETS
+M 0 81000 5 81000
+M 0 81001 4 81010
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

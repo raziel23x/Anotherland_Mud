@@ -1,0 +1,3933 @@
+#AREADATA
+Name        Scum    Path of Fields~
+Builders    Scum~
+VNUMs       84000 84499
+Security    5
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#84000
+Bork's Office~
+#7Scums office is luxurious enough to impress visitors with
+the importance of the occupant but still has all the markings of a working
+office.  Despite the best efforts of secretaries and assistants, papers are
+stacked on every corner of the priceless hand-carved desk and half-read
+briefs litter the credenza.
+~
+0 12 0
+E
+a~
+a beautiful old desk is here.
+l
+done
+~
+D5
+~
+~
+7 0 84199
+S
+#84001
+#RYou must have done something foolish..~
+~
+0 160753678 0
+S
+#84002
+#RA Path Through The Field~
+#7You are standing on a road crossing a field. The air is sweet and refreshing. To the far north is the Temple of Gods. The fields continue east and west as far as the eye can see.
+~
+0 4 2
+D0
+~
+~
+0 0 84003
+D1
+~
+~
+0 0 84011
+D2
+~
+~
+0 0 84100
+D3
+~
+~
+0 0 84051
+S
+#84003
+#RA Path Through The Field~
+#7You are standing on a road crossing a field. The air is sweet and refreshing. To the far north is the Temple of Gods. The fields continue east and west as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84004
+D1
+~
+~
+0 0 84010
+D2
+~
+~
+0 0 84002
+D3
+~
+~
+0 0 84050
+S
+#84004
+#RA Path Through The Field~
+#7You are standing on a road crossing a field. The air is sweet and refreshing. To the north is the Temple of Gods. The fields continue east and west as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84005
+D1
+~
+~
+0 0 84009
+D2
+~
+~
+0 0 84003
+D3
+~
+~
+0 0 84049
+S
+#84005
+#RA Path Through The Field~
+#7You are standing on a road crossing a field. The air is sweet and refreshing. To the north is the Temple of Gods. The fields continue east and west as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84006
+D1
+~
+~
+0 0 84008
+D2
+~
+~
+0 0 84004
+D3
+~
+~
+0 0 84048
+S
+#84006
+#RApproaching The Temple~
+#7You stare at the huge structure. Its massive towers bloting out the sun. You wonder what treasures the gods have hidden away, waiting for an intrepid adventurer like yourself to find.
+~
+0 0 2
+D0
+~
+~
+0 0 84052
+D1
+~
+~
+0 0 84007
+D2
+~
+~
+0 0 84005
+D3
+~
+~
+0 0 84047
+S
+#84007
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84011
+D1
+~
+~
+0 0 84016
+D2
+~
+~
+0 0 84008
+D3
+~
+~
+0 0 84006
+S
+#84008
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84007
+D1
+~
+~
+0 0 84015
+D2
+~
+~
+0 0 84009
+D3
+~
+~
+0 0 84005
+S
+#84009
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84008
+D1
+~
+~
+0 0 84014
+D2
+~
+~
+0 0 84010
+D3
+~
+~
+0 0 84004
+S
+#84010
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84009
+D1
+~
+~
+0 0 84013
+D2
+~
+~
+0 0 84011
+D3
+~
+~
+0 0 84003
+S
+#84011
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84010
+D1
+~
+~
+0 0 84012
+D2
+~
+~
+0 0 84007
+D3
+~
+~
+0 0 84002
+S
+#84012
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84013
+D1
+~
+~
+0 0 84021
+D2
+~
+~
+0 0 84016
+D3
+~
+~
+0 0 84011
+S
+#84013
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84014
+D1
+~
+~
+0 0 84020
+D2
+~
+~
+0 0 84012
+D3
+~
+~
+0 0 84010
+S
+#84014
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84015
+D1
+~
+~
+0 0 84019
+D2
+~
+~
+0 0 84013
+D3
+~
+~
+0 0 84009
+S
+#84015
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84016
+D1
+~
+~
+0 0 84018
+D2
+~
+~
+0 0 84014
+D3
+~
+~
+0 0 84008
+S
+#84016
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84012
+D1
+~
+~
+0 0 84017
+D2
+~
+~
+0 0 84015
+D3
+~
+~
+0 0 84007
+S
+#84017
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84021
+D1
+~
+~
+0 0 84026
+D2
+~
+~
+0 0 84018
+D3
+~
+~
+0 0 84016
+S
+#84018
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84017
+D1
+~
+~
+0 0 84025
+D2
+~
+~
+0 0 84019
+D3
+~
+~
+0 0 84015
+S
+#84019
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84018
+D1
+~
+~
+0 0 84024
+D2
+~
+~
+0 0 84020
+D3
+~
+~
+0 0 84014
+S
+#84020
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84019
+D1
+~
+~
+0 0 84023
+D2
+~
+~
+0 0 84021
+D3
+~
+~
+0 0 84013
+S
+#84021
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84020
+D1
+~
+~
+0 0 84022
+D2
+~
+~
+0 0 84017
+D3
+~
+~
+0 0 84012
+S
+#84022
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84023
+D1
+~
+~
+0 0 84031
+D2
+~
+~
+0 0 84026
+D3
+~
+~
+0 0 84021
+S
+#84023
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84024
+D1
+~
+~
+0 0 84030
+D2
+~
+~
+0 0 84022
+D3
+~
+~
+0 0 84020
+S
+#84024
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84025
+D1
+~
+~
+0 0 84029
+D2
+~
+~
+0 0 84023
+D3
+~
+~
+0 0 84019
+S
+#84025
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84026
+D1
+~
+~
+0 0 84028
+D2
+~
+~
+0 0 84024
+D3
+~
+~
+0 0 84018
+S
+#84026
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84022
+D1
+~
+~
+0 0 84027
+D2
+~
+~
+0 0 84025
+D3
+~
+~
+0 0 84017
+S
+#84027
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84031
+D1
+~
+~
+0 0 84036
+D2
+~
+~
+0 0 84028
+D3
+~
+~
+0 0 84026
+S
+#84028
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84027
+D1
+~
+~
+0 0 84035
+D2
+~
+~
+0 0 84029
+D3
+~
+~
+0 0 84025
+S
+#84029
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84028
+D1
+~
+~
+0 0 84034
+D2
+~
+~
+0 0 84030
+D3
+~
+~
+0 0 84024
+S
+#84030
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84029
+D1
+~
+~
+0 0 84033
+D2
+~
+~
+0 0 84031
+D3
+~
+~
+0 0 84023
+S
+#84031
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84030
+D1
+~
+~
+0 0 84032
+D2
+~
+~
+0 0 84027
+D3
+~
+~
+0 0 84022
+S
+#84032
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84033
+D1
+~
+~
+0 0 84041
+D2
+~
+~
+0 0 84036
+D3
+~
+~
+0 0 84031
+S
+#84033
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84034
+D1
+~
+~
+0 0 84040
+D2
+~
+~
+0 0 84032
+D3
+~
+~
+0 0 84030
+S
+#84034
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84035
+D1
+~
+~
+0 0 84039
+D2
+~
+~
+0 0 84033
+D3
+~
+~
+0 0 84029
+S
+#84035
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84036
+D1
+~
+~
+0 0 84038
+D2
+~
+~
+0 0 84034
+D3
+~
+~
+0 0 84028
+S
+#84036
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84032
+D1
+~
+~
+0 0 84037
+D2
+~
+~
+0 0 84035
+D3
+~
+~
+0 0 84027
+S
+#84037
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84041
+D1
+~
+~
+0 0 84046
+D2
+~
+~
+0 0 84038
+D3
+~
+~
+0 0 84036
+S
+#84038
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84037
+D1
+~
+~
+0 0 84045
+D2
+~
+~
+0 0 84039
+D3
+~
+~
+0 0 84035
+S
+#84039
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84038
+D1
+~
+~
+0 0 84044
+D2
+~
+~
+0 0 84040
+D3
+~
+~
+0 0 84034
+S
+#84040
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84039
+D1
+~
+~
+0 0 84043
+D2
+~
+~
+0 0 84041
+D3
+~
+~
+0 0 84033
+S
+#84041
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84040
+D1
+~
+~
+0 0 84042
+D2
+~
+~
+0 0 84037
+D3
+~
+~
+0 0 84032
+S
+#84042
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84043
+D1
+~
+~
+0 0 84051
+D2
+~
+~
+0 0 84046
+D3
+~
+~
+0 0 84041
+S
+#84043
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84044
+D1
+~
+~
+0 0 84050
+D2
+~
+~
+0 0 84042
+D3
+~
+~
+0 0 84040
+S
+#84044
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84045
+D1
+~
+~
+0 0 84049
+D2
+~
+~
+0 0 84043
+D3
+~
+~
+0 0 84039
+S
+#84045
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84046
+D1
+~
+~
+0 0 84048
+D2
+~
+~
+0 0 84044
+D3
+~
+~
+0 0 84038
+S
+#84046
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84042
+D1
+~
+~
+0 0 84047
+D2
+~
+~
+0 0 84045
+D3
+~
+~
+0 0 84037
+S
+#84047
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84051
+D1
+~
+~
+0 0 84006
+D2
+~
+~
+0 0 84048
+D3
+~
+~
+0 0 84046
+S
+#84048
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84047
+D1
+~
+~
+0 0 84005
+D2
+~
+~
+0 0 84049
+D3
+~
+~
+0 0 84045
+S
+#84049
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84048
+D1
+~
+~
+0 0 84004
+D2
+~
+~
+0 0 84050
+D3
+~
+~
+0 0 84044
+S
+#84050
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84049
+D1
+~
+~
+0 0 84003
+D2
+~
+~
+0 0 84051
+D3
+~
+~
+0 0 84043
+S
+#84051
+#RThe Lush Fields of Another Land.~
+#0You are standing in a beautiful field. The air is sweet and refreshing. The fields continue in every direction as far as the eye can see.
+~
+0 0 2
+D0
+~
+~
+0 0 84050
+D1
+~
+~
+0 0 84002
+D2
+~
+~
+0 0 84047
+D3
+~
+~
+0 0 84042
+S
+#84052
+#REntrance to the Temple~
+#7You stand amidst the massive stone pillars of The Gods Temple. The resting place of the once mighty gods who ruled over Another Land before the coming of the Immortals. You sense a power far greater then any you have known before. Maybe it would be a good idea to go back to the fields and play with the bunnies and flowers before going any further.
+~
+0 0 0
+D2
+~
+~
+0 0 84006
+S
+#84099
+#RKasey's Room~
+#0A royal bed swathed in fine fabrics and covered with pillows is in the
+center of the west wall.  Two identical ornate desks face each other from
+their position on the south wall and several large armoires hold Scum's
+uniforms of state as well as the many ball gowns of the Lady Kasey.  Lit
+only by candles and lamps, this room has no windows, presumably for security reasons.
+~
+0 4 0
+S
+#84100
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.  From here Seth Street bisects
+the city to the south.  North the gates of the city yield to the road to the Temple.
+~
+0 0 1
+D0
+~
+~
+0 0 84002
+D1
+~
+~
+0 0 84101
+D3
+~
+~
+0 0 84123
+S
+#84101
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84102
+D3
+~
+~
+0 0 84100
+S
+#84102
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84103
+D3
+~
+~
+0 0 84101
+S
+#84103
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84104
+D3
+~
+~
+0 0 84102
+S
+#84104
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 0
+D1
+~
+~
+0 0 84105
+D3
+~
+~
+0 0 84103
+S
+#84105
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84106
+D3
+~
+~
+0 0 84104
+S
+#84106
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84107
+D3
+~
+~
+0 0 84105
+S
+#84107
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84108
+D3
+~
+~
+0 0 84106
+S
+#84108
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84109
+D3
+~
+~
+0 0 84107
+S
+#84109
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84110
+D3
+~
+~
+0 0 84108
+S
+#84110
+#RIntersection of Seth and 1st Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. South down 1st Street you can hear the
+noise from Central Plaza.
+~
+0 0 1
+D1
+~
+~
+0 0 84111
+D3
+~
+~
+0 0 84109
+S
+#84111
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84112
+D3
+~
+~
+0 0 84110
+S
+#84112
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84113
+D3
+~
+~
+0 0 84111
+S
+#84113
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84114
+D3
+~
+~
+0 0 84112
+S
+#84114
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84115
+D3
+~
+~
+0 0 84113
+S
+#84115
+#RIntersection of Seth and Church Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. From here Church Street begins its long trek through town.
+~
+0 0 0
+D1
+~
+~
+0 0 84116
+D3
+~
+~
+0 0 84114
+S
+#84116
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84117
+D3
+~
+~
+0 0 84115
+S
+#84117
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84118
+D3
+~
+~
+0 0 84116
+S
+#84118
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84119
+D3
+~
+~
+0 0 84117
+S
+#84119
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84120
+D3
+~
+~
+0 0 84118
+S
+#84120
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84121
+D3
+~
+~
+0 0 84119
+S
+#84121
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84122
+D3
+~
+~
+0 0 84120
+S
+#84122
+#RCorner of Seth and Queen Street~
+#7Queen Street, which defines the eastern edge of New Haven, begins its
+southerly journey from this point, hugging the stone retainer that protects
+the city from invasion.  To the north and east is the smooth gray wall
+fortifying the city while to the west Seth Street borders the northern
+boundary of New Haven.
+~
+0 0 1
+D2
+~
+~
+0 0 84148
+D3
+~
+~
+0 0 84121
+S
+#84123
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84100
+D3
+~
+~
+0 0 84124
+S
+#84124
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 0
+D1
+~
+~
+0 0 84123
+D3
+~
+~
+0 0 84125
+S
+#84125
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84124
+D3
+~
+~
+0 0 84126
+S
+#84126
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84125
+D3
+~
+~
+0 0 84127
+S
+#84127
+#RIntersection of Seth and Justice~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. Justice Street and the New Haven Courthouse are south.
+~
+0 0 1
+D1
+~
+~
+0 0 84126
+D3
+~
+~
+0 0 84128
+S
+#84128
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84127
+D3
+~
+~
+0 0 84129
+S
+#84129
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. Here Seth Street Loops around the Haven Brewery.
+~
+0 0 1
+D1
+~
+~
+0 0 84128
+D2
+~
+~
+0 0 84130
+S
+#84130
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. Here Seth Street Loops around the Haven Brewery.
+~
+0 0 1
+D0
+~
+~
+0 0 84129
+D2
+~
+~
+0 0 84131
+S
+#84131
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. Here Seth Street Loops around the Haven Brewery.
+~
+0 0 1
+D0
+~
+~
+0 0 84130
+D3
+~
+~
+0 0 84132
+S
+#84132
+#RSeth Street#n~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city. To 
+the north is the New Haven Brewery and to the south there 
+are the homes and businesses of a healthy capital city. The                
+doors of the New Haven Brewery are on the north side of the street.
+~
+0 0 1
+D0
+~
+north~
+3 0 84144
+D1
+~
+~
+0 0 84131
+D3
+~
+~
+0 0 84133
+S
+#84133
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city. To 
+the north is the New Haven Brewery and to the south there 
+are the homes and businesses of a healthy capital city. 
+~
+0 0 1
+D1
+~
+~
+0 0 84132
+D3
+~
+~
+0 0 84134
+S
+#84134
+#RIntersection of Seth and Commerce~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. Commerce Road leads south of here.
+~
+0 0 1
+D0
+~
+~
+0 0 84135
+D1
+~
+~
+0 0 84133
+S
+#84135
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D0
+~
+~
+0 0 84136
+D2
+~
+~
+0 0 84134
+S
+#84136
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D2
+~
+~
+0 0 84135
+D3
+~
+~
+0 0 84137
+S
+#84137
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 0
+D1
+~
+~
+0 0 84136
+D3
+~
+~
+0 0 84138
+S
+#84138
+#RIntersection of Seth and King Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city. From here King Street begins its long 
+southerly journey straight through town.
+~
+0 0 1
+D1
+~
+~
+0 0 84137
+D3
+~
+~
+0 0 84139
+S
+#84139
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84138
+D3
+~
+~
+0 0 84140
+S
+#84140
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84139
+D3
+~
+~
+0 0 84141
+S
+#84141
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84140
+D3
+~
+~
+0 0 84142
+S
+#84142
+#RSeth Street~
+#7Seth Street is the northernmost road in New Haven, following the
+straight path of the protective wall that surrounds the city.  You face
+sheer gray stone when facing north but to the south there are the homes and
+businesses of a healthy capital city.
+~
+0 0 1
+D1
+~
+~
+0 0 84141
+D3
+~
+~
+0 0 84143
+S
+#84143
+#RIntersection of Seth and Front Street~
+#7Front Street, which defines the western edge of New Haven, begins
+its southerly journey from this point, hugging the stone retainer that
+protects the city from invasion.  To the north and west is the smooth gray
+wall fortifying the city while to the east Seth Street borders the northern 
+boundary of New Haven.
+~
+0 0 1
+D1
+~
+~
+0 0 84142
+S
+#84144
+#RNew Haven Brewery~
+#7Large vats of a dark liquid vent noxious fumes into the air as the ale
+brews. Looking across the room you can see barrels of beer in different
+stages of development, from the pale, unfermented liquid at the start to 
+the strong dark beverages favored by the locals, all of it is 
+treated with great care by skilled masters of their craft.
+~
+0 0 0
+D0
+~
+~
+0 0 84147
+D2
+~
+~
+3 0 84132
+D3
+~
+~
+0 0 84145
+S
+#84145
+#RNew Haven Brewery~
+#7Large vats of a dark liquid vent noxious fumes into the air as the ale
+brews. Looking across the room you can see barrels of beer in different
+stages of development, from the pale, unfermented liquid at the start to 
+the strong dark beverages favored by the locals, all of it is 
+treated with great care by skilled masters of their craft.
+~
+0 0 0
+D0
+~
+~
+0 0 84146
+D1
+~
+~
+0 0 84144
+S
+#84146
+#RNew Haven Brewery~
+#7Large vats of a dark liquid vent noxious fumes into the air as the ale
+brews. Looking across the room you can see barrels of beer in different
+stages of development, from the pale, unfermented liquid at the start to 
+the strong dark beverages favored by the locals, all of it is 
+treated with great care by skilled masters of their craft.
+~
+0 0 0
+D1
+~
+~
+0 0 84147
+D2
+~
+~
+0 0 84145
+S
+#84147
+#RNew Haven Brewery~
+#7Large vats of a dark liquid vent noxious fumes into the air as the ale
+brews. Looking across the room you can see barrels of beer in different
+stages of development, from the pale, unfermented liquid at the start to 
+the strong dark beverages favored by the locals, all of it is 
+treated with great care by skilled masters of their craft.
+~
+0 0 0
+D2
+~
+~
+0 0 84144
+D3
+~
+~
+0 0 84146
+S
+#84148
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 0
+D0
+~
+~
+0 0 84122
+D2
+~
+~
+0 0 84149
+S
+#84149
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while the heavy wooden doors 
+of the New Haven Town Hall are to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 84148
+D2
+~
+~
+0 0 84150
+D3
+~
+~
+3 0 84175
+S
+#84150
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84149
+D2
+~
+~
+0 0 84151
+S
+#84151
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84150
+D2
+~
+~
+0 0 84152
+S
+#84152
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84151
+D2
+~
+~
+0 0 84153
+S
+#84153
+#RIntersection of Second and Queen~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while Second Street leads west.
+~
+0 0 0
+D0
+~
+~
+0 0 84152
+D2
+~
+~
+0 0 84154
+S
+#84154
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84153
+D2
+~
+~
+0 0 84155
+S
+#84155
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84154
+D2
+~
+~
+0 0 84156
+S
+#84156
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84155
+D2
+~
+~
+0 0 84157
+S
+#84157
+#RIntersection of Majestic and Queen~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while Majestic Road begins 
+its long journey straight through town.
+~
+0 0 0
+D0
+~
+~
+0 0 84156
+D2
+~
+~
+0 0 84158
+D3
+~
+~
+0 0 84216
+S
+#84158
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84157
+D2
+~
+~
+0 0 84159
+S
+#84159
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84158
+D2
+~
+~
+0 0 84160
+S
+#84160
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84159
+D2
+~
+~
+0 0 84161
+S
+#84161
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84160
+D2
+~
+~
+0 0 84162
+S
+#84162
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84161
+D2
+~
+~
+0 0 84163
+S
+#84163
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 0
+D0
+~
+~
+0 0 84162
+D2
+~
+~
+0 0 84164
+S
+#84164
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84163
+D2
+~
+~
+0 0 84165
+S
+#84165
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84164
+D3
+~
+~
+0 0 84166
+S
+#84166
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 0
+D1
+~
+~
+0 0 84165
+D3
+~
+~
+0 0 84167
+S
+#84167
+#RQueen street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D1
+~
+~
+0 0 84166
+D3
+~
+~
+0 0 84168
+S
+#84168
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D1
+~
+~
+0 0 84167
+D2
+~
+~
+0 0 84169
+D3
+~
+~
+0 0 84205
+S
+#84169
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84168
+D2
+~
+~
+0 0 84170
+S
+#84170
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 1
+D0
+~
+~
+0 0 84169
+D2
+~
+~
+0 0 84171
+S
+#84171
+#RIntersection of Union and Queen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city.
+Union street makes its way west across town.
+~
+0 0 0
+D0
+~
+~
+0 0 84170
+D2
+~
+~
+0 0 84172
+S
+#84172
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 0
+D0
+~
+~
+0 0 84171
+D2
+~
+~
+0 0 84173
+S
+#84173
+#RQueen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+is the smooth gray bulwark fortifying the city while shops and homes crowd
+the western side of this highly-traveled road.
+~
+0 0 0
+D0
+~
+~
+0 0 84172
+D2
+~
+~
+0 0 84174
+S
+#84174
+#RIntersection of Battle and Queen Street~
+#7Queen Street borders the eastern extreme of New Haven, closely
+following the stone wall that protects the city from invasion.  To the east
+and south is the smooth gray bulwark fortifying the city while Battle 
+Boulevard defines the southern edge of New haven to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 84173
+S
+#84175
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D1
+~
+~
+3 0 84149
+D3
+~
+~
+0 0 84176
+S
+#84176
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D0
+~
+~
+0 0 84182
+D1
+~
+~
+0 0 84175
+D3
+~
+~
+0 0 84177
+S
+#84177
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D1
+~
+~
+0 0 84176
+D2
+~
+~
+0 0 84189
+D3
+~
+~
+0 0 84178
+S
+#84178
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D1
+~
+~
+0 0 84177
+D3
+~
+~
+0 0 84179
+S
+#84179
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D0
+~
+~
+0 0 84185
+D1
+~
+~
+0 0 84178
+D3
+~
+~
+0 0 84180
+S
+#84180
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D1
+~
+~
+0 0 84179
+D2
+~
+~
+0 0 84192
+S
+#84181
+#RTown Council Meeting Chamber~
+#7Though Scum rules New Haven with a strong hand, he listens to the
+Town Council closely.  No advisor could possibly keep him so closely
+apprised to the mood of the people as a simple Town Council meeting.  This
+room is a simple gathering place with a large table at the front of the 
+room facing the audience.
+~
+0 0 0
+D3
+~
+~
+0 0 84182
+S
+#84182
+#RTown Council Meeting Chamber~
+#7Though Scum rules New Haven with a strong hand, he listens to the
+Town Council closely.  No advisor could possibly keep him so closely
+apprised to the mood of the people as a simple Town Council meeting.  This
+room is a simple gathering place with a large table at the front of the 
+room facing the audience.
+~
+0 0 0
+D1
+~
+~
+0 0 84181
+D2
+~
+~
+0 0 84176
+D3
+~
+~
+0 0 84183
+S
+#84183
+#RTown Council Meeting Chamber~
+#7Though Scum rules New Haven with a strong hand, he listens to the
+Town Council closely.  No advisor could possibly keep him so closely
+apprised to the mood of the people as a simple Town Council meeting.  This
+room is a simple gathering place with a large table at the front of the 
+room facing the audience.
+~
+0 0 0
+D1
+~
+~
+0 0 84182
+S
+#84184
+#RTown Treasurer~
+#7The office of a bureaucrat of moderate importance, this office is
+designed with two goals in mind: impressing visitors and re-election. 
+Various plaques and awards are displayed throughout the office and 
+memoranda from Scum are carefully arranged on the desk to appear casual yet 
+be immediately noticeable by anyone wandering into the office. 
+~
+0 0 0
+D3
+~
+~
+0 0 84185
+S
+#84185
+#RTown Treasurer~
+#7The office of a bureaucrat of moderate importance, this office is
+designed with two goals in mind: impressing visitors and re-election. 
+Various plaques and awards are displayed throughout the office and 
+memoranda from Scum are carefully arranged on the desk to appear casual yet 
+be immediately noticeable by anyone wandering into the office. 
+~
+0 0 0
+D1
+~
+~
+0 0 84184
+D2
+~
+~
+0 0 84179
+D3
+~
+~
+0 0 84186
+S
+#84186
+#RTown Treasurer~
+#7The office of a bureaucrat of moderate importance, this office is
+designed with two goals in mind: impressing visitors and re-election. 
+Various plaques and awards are displayed throughout the office and 
+memoranda from Scum are carefully arranged on the desk to appear casual yet 
+be immediately noticeable by anyone wandering into the office. 
+~
+0 0 0
+D1
+~
+~
+0 0 84185
+S
+#84187
+#ROffice of Realm Records~
+#7The mysteries and history of every player in the entire realm is stored
+within these four walls.  Lined with deep mahogany shelves, filled to the
+edges with parchments and books.  You ponder on how many names and histories
+that must be recorded in this room and shudder slightly, glad that it is not
+your job to keep it all organized.
+~
+0 0 0
+D3
+~
+~
+0 0 84188
+S
+#84188
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D1
+~
+~
+0 0 84187
+D2
+~
+~
+0 0 84194
+D3
+~
+~
+0 0 84189
+S
+#84189
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84177
+D1
+~
+~
+0 0 84188
+D2
+~
+~
+0 0 84195
+S
+#84190
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D2
+~
+~
+0 0 84196
+D3
+~
+~
+0 0 84191
+S
+#84191
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D1
+~
+~
+0 0 84190
+D2
+~
+~
+0 0 84197
+S
+#84192
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D0
+~
+~
+0 0 84180
+D2
+~
+~
+0 0 84198
+S
+#84193
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D2
+~
+~
+0 0 84199
+D3
+~
+~
+0 0 84194
+S
+#84194
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84188
+D1
+~
+~
+0 0 84193
+D2
+~
+~
+0 0 84200
+D3
+~
+~
+0 0 84195
+S
+#84195
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84189
+D1
+~
+~
+0 0 84194
+D2
+~
+~
+0 0 84201
+S
+#84196
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D0
+~
+~
+0 0 84190
+D2
+~
+~
+0 0 84202
+D3
+~
+~
+0 0 84197
+S
+#84197
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D0
+~
+~
+0 0 84191
+D1
+~
+~
+0 0 84196
+D2
+~
+~
+0 0 84203
+D3
+~
+~
+0 0 84198
+S
+#84198
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D0
+~
+~
+0 0 84192
+D1
+~
+~
+0 0 84197
+D2
+~
+~
+0 0 84204
+S
+#84199
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84193
+D3
+~
+~
+0 0 84200
+D4
+~
+~
+7 0 84000
+S
+#84200
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84194
+D1
+~
+~
+0 0 84199
+D3
+~
+~
+0 0 84201
+S
+#84201
+#RThe New Haven Town Master's Offices~
+#7You have entered the New Haven Town Master's offices.  Opulent in design,
+it has the feel of the town itself.  Dark wooden beams angle up from the
+walls to form the structure of the building while deep polished wooden
+floorboards cover the floor.  On the walls are landscape paintings of the
+cliffs surrounding New Haven.
+~
+0 0 0
+D0
+~
+~
+0 0 84195
+D1
+~
+~
+0 0 84200
+S
+#84202
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D0
+~
+~
+0 0 84196
+D3
+~
+~
+0 0 84203
+S
+#84203
+#RConference Room~
+#7This is the most elaborately decorated of all the other rooms within the
+town hall.  There are comfy chairs lining the wall, with desks for each of
+the council members here.  A large emblem of the town rests upon the back
+wall.
+~
+0 0 0
+D0
+~
+~
+0 0 84197
+D1
+~
+~
+0 0 84202
+S
+#84204
+#RTown Hall~
+#7The old town hall building is a remnant of New Haven's village past. 
+Once the only public building in the small town, the town hall was
+used for public meetings, elections, church services, funerals and anything
+else that required a public building.  These days it's simply used for town
+administration.
+~
+0 0 0
+D0
+~
+~
+0 0 84198
+S
+#84205
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic. 
+~
+0 0 1
+D0
+~
+~
+0 0 84206
+D1
+~
+~
+0 0 84168
+S
+#84206
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic. 
+~
+0 0 1
+D0
+~
+~
+0 0 84207
+D2
+~
+~
+0 0 84205
+S
+#84207
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic. 
+~
+0 0 1
+D0
+~
+~
+0 0 84208
+D2
+~
+~
+0 0 84206
+S
+#84208
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic. 
+~
+0 0 1
+D0
+~
+~
+0 0 84209
+D2
+~
+~
+0 0 84207
+S
+#84209
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.
+Doors on either side of the street lead to the fishery and sawmill.
+~
+0 0 1
+D0
+~
+~
+0 0 84210
+D1
+~
+~
+3 0 84234
+D2
+~
+~
+0 0 84208
+D3
+~
+~
+3 0 84238
+S
+#84210
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic.
+~
+0 0 1
+D0
+~
+~
+0 0 84211
+D2
+~
+~
+0 0 84209
+S
+#84211
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic.
+~
+0 0 1
+D0
+~
+~
+0 0 84212
+D2
+~
+~
+0 0 84210
+S
+#84212
+#RWorker's Road~
+#7Worker's Road covers the short distance from Majestic Road to Queen Street.
+Along its brief course are a sawmill and fishery, as well as a small 
+stables for the oxen used to power the saws and grinding stones.  Sounds of 
+activity waft into the street from the millhouses but there is little traffic.
+~
+0 0 1
+D0
+~
+~
+0 0 84213
+D2
+~
+~
+0 0 84211
+S
+#84213
+#RIntersection of Majestic and Worker's Road~
+#7Mellowed, time-worn cobblestones underfoot hint at the age of Majestic 
+Road.  Part of the original village, the fisherman built their houses and 
+shops well inland to avoid the ravages of the sea.  Even now the occasional 
+cottage or small shop remains, remnants of an earlier time. Worker's road is to the south.
+~
+0 0 1
+D1
+~
+~
+0 0 84214
+D2
+~
+~
+0 0 84212
+S
+#84214
+#RMajestic Road~
+#7Mellowed, time-worn cobblestones underfoot hint at the age of Majestic 
+Road.  Part of the original village, the fisherman built their houses and 
+shops well inland to avoid the ravages of the sea.  Even now the occasional 
+cottage or small shop remains, remnants of an earlier time.
+~
+0 0 1
+D1
+~
+~
+0 0 84215
+D3
+~
+~
+0 0 84213
+S
+#84215
+#RMajestic Road~
+#7Mellowed, time-worn cobblestones underfoot hint at the age of Majestic 
+Road.  Part of the original village, the fisherman built their houses and 
+shops well inland to avoid the ravages of the sea.  Even now the occasional 
+cottage or small shop remains, remnants of an earlier time.
+~
+0 0 1
+D1
+~
+~
+0 0 84216
+D3
+~
+~
+0 0 84214
+S
+#84216
+#RMajestic Road~
+#7Mellowed, time-worn cobblestones underfoot hint at the age of Majestic 
+Road.  Part of the original village, the fisherman built their houses and 
+shops well inland to avoid the ravages of the sea.  Even now the occasional 
+cottage or small shop remains, remnants of an earlier time.
+~
+0 0 0
+D1
+~
+~
+0 0 84157
+D3
+~
+~
+0 0 84215
+S
+#84217
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84218
+D3
+~
+~
+0 0 84224
+S
+#84218
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84219
+D2
+~
+~
+0 0 84217
+D3
+~
+~
+0 0 84225
+S
+#84219
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84220
+D2
+~
+~
+0 0 84218
+D3
+~
+~
+0 0 84226
+S
+#84220
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84221
+D2
+~
+~
+0 0 84219
+D3
+~
+~
+0 0 84227
+S
+#84221
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84222
+D2
+~
+~
+0 0 84220
+D3
+~
+~
+0 0 84228
+S
+#84222
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D2
+~
+~
+0 0 84221
+D3
+~
+~
+0 0 84229
+S
+#84223
+#RMillworks Manager's Office~
+#7In this small office the millworks manager deals with the logistics of
+arriving and departing grain, labor scheduling, buying new raw materials 
+and even tracking the billing on overdue accounts.  The manager's hands 
+aren't dirty like the laborers in the mill itself but he works just as  
+hard.
+~
+0 0 0
+D3
+~
+~
+3 0 84230
+S
+#84224
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84225
+D1
+~
+~
+0 0 84217
+D3
+~
+~
+0 0 84231
+S
+#84225
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84226
+D1
+~
+~
+0 0 84218
+D2
+~
+~
+0 0 84224
+D3
+~
+~
+0 0 84232
+S
+#84226
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84227
+D1
+~
+~
+0 0 84219
+D2
+~
+~
+0 0 84225
+D3
+~
+~
+0 0 84233
+S
+#84227
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84228
+D1
+~
+~
+0 0 84220
+D2
+~
+~
+0 0 84226
+D3
+~
+~
+0 0 84234
+S
+#84228
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84229
+D1
+~
+~
+0 0 84221
+D2
+~
+~
+0 0 84227
+D3
+~
+~
+0 0 84235
+S
+#84229
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84230
+D1
+~
+~
+0 0 84222
+D2
+~
+~
+0 0 84228
+D3
+~
+~
+0 0 84236
+S
+#84230
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D1
+~
+~
+3 0 84223
+D2
+~
+~
+0 0 84229
+D3
+~
+~
+0 0 84237
+S
+#84231
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84232
+D1
+~
+~
+0 0 84224
+S
+#84232
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84233
+D1
+~
+~
+0 0 84225
+D2
+~
+~
+0 0 84231
+S
+#84233
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84234
+D1
+~
+~
+0 0 84226
+D2
+~
+~
+0 0 84232
+S
+#84234
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84235
+D1
+~
+~
+0 0 84227
+D2
+~
+~
+0 0 84233
+D3
+~
+~
+3 0 84209
+S
+#84235
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84236
+D1
+~
+~
+0 0 84228
+D2
+~
+~
+0 0 84234
+S
+#84236
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D0
+~
+~
+0 0 84237
+D1
+~
+~
+0 0 84229
+D2
+~
+~
+0 0 84235
+S
+#84237
+#RNew Haven Millworks~
+#7Taking the dried grain that has been stored since harvest, the millworks 
+grinds it between two giant stone disks that are driven by teams of oxen on 
+the floor below.  The ground flour is then packed into cloth sacks and 
+carried to storage until it's sold.
+~
+0 0 0
+D1
+~
+~
+0 0 84230
+D2
+~
+~
+0 0 84236
+S
+#84238
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D1
+~
+~
+3 0 84209
+D2
+~
+~
+0 0 84239
+D3
+~
+~
+0 0 84247
+S
+#84239
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84238
+D2
+~
+~
+0 0 84240
+D3
+~
+~
+0 0 84246
+S
+#84240
+#RNew Haven FIshery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84239
+D2
+~
+~
+0 0 84241
+D3
+~
+~
+0 0 84245
+S
+#84241
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84240
+D2
+~
+~
+0 0 84242
+D3
+~
+~
+0 0 84244
+S
+#84242
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84241
+D3
+~
+~
+0 0 84243
+S
+#84243
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84244
+D1
+~
+~
+0 0 84242
+S
+#84244
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84245
+D1
+~
+~
+0 0 84241
+D2
+~
+~
+0 0 84243
+S
+#84245
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84246
+D1
+~
+~
+0 0 84240
+D2
+~
+~
+0 0 84244
+S
+#84246
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D0
+~
+~
+0 0 84247
+D1
+~
+~
+0 0 84239
+D2
+~
+~
+0 0 84245
+S
+#84247
+#RNew Haven Fishery~
+#7The primary purchaser of the local fishermen's harvest, the New Haven
+Fishery is filled with long tables of fish being stripped of scales and
+relieved of the parts not generally eaten by people.  Barrels at the end 
+of the sloped tables catch the heads, guts and tails to be sent to the bait 
+shop for sale while the edible fish that remains is preserved in brine to 
+be exported throughout the world.
+~
+0 0 0
+D1
+~
+~
+0 0 84238
+D2
+~
+~
+0 0 84246
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

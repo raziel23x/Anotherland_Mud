@@ -1,0 +1,216 @@
+Installation for ACK!MUD 4.3.1 ( As located at silverbridge.org )
+-----------------------------------------------------------------
+
+1. In your Makefile, someplace above the main list of O_FILES,
+   include the following:
+
+#IMC2 - Comment out to disable IMC2 support
+IMC = 1
+
+   Then directly below the list of O_FILES, add the following:
+   [Note: BSD users - put a period in front of the word ifdef, and in front of the word endif]
+
+ifdef IMC
+   O_FILES := imc.o sha256.o $(O_FILES)
+   C_FLAGS := $(C_FLAGS) -DIMC -DIMCACK
+endif
+
+2. Open ack.h and locate the following:
+
+#ifndef DEC_STRFUNS_H
+#include "strfuns.h"
+#endif
+
+#ifndef DEC_ACT_MOB_H
+#include "act_mob.h"
+#endif
+
+   Directly below that, add the following:
+
+#ifdef IMC
+   #include "imc.h"
+#endif
+
+   Locate your pc_data struct,
+
+   Add the following to the end of it:
+
+#ifdef IMC
+    IMC_CHARDATA *imcchardata;
+#endif
+
+3. Open interp.c and locate the following section:
+
+if ( !check_social( ch, command, argument )
+
+   Add the following condition to whatever series of ifchecks exist there:
+
+#ifdef IMC
+	&&   !imc_command_hook( ch, command, argument )
+#endif
+
+4. Open comm.c and locate the following in main() :
+
+    struct timeval now_time;
+    bool fCopyOver = FALSE; /* HOTreboot??? Well is it...is it???? - Flar */
+    extern int abort_threshold;
+
+   Below that, add:
+
+#ifdef IMC
+   int imcsocket = -1;
+#endif
+
+   Then locate the following:
+
+/* Check for HOTreboot parameter - Flar */
+        if (argv[2] && argv[2][0])
+        {
+                fCopyOver = TRUE;
+                control = atoi(argv[3]);
+        }
+
+   Change it to look like this:
+
+/* Check for HOTreboot parameter - Flar */
+        if (argv[2] && argv[2][0])
+        {
+                fCopyOver = TRUE;
+                control = atoi(argv[3]);
+#ifdef IMC
+	   imcsocket = atoi( argv[4] );
+#endif
+        }
+
+   Then locate the following:
+
+    if ( fCopyOver )
+      abort_threshold = BOOT_DB_ABORT_THRESHOLD;
+    boot_db( fCopyOver );
+#ifndef WIN32
+    init_alarm_handler();
+#endif
+    sprintf( log_buf, "ACK! MUD is ready on port %d.", port );
+    log_string( log_buf );
+
+   Add the following ABOVE that:
+
+#ifdef IMC
+    imc_startup( FALSE, imcport, fCopyOver );
+#endif
+
+   Then further down in main(), locate the following:
+
+   close( control );
+
+   Add the following beneath that:
+
+#ifdef IMC
+   imc_shutdown( FALSE );
+#endif
+
+   Then in game_loop_unix(), locate the following:
+
+	/*
+	 * Autonomous game motion.
+	 */
+	update_handler( );
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+	imc_loop();
+#endif
+
+5. Open save.c and locate fread_char:
+
+   In the case 'I': section, and right before the final break; add the follwing:
+
+#ifdef IMC
+           if( ( fMatch = imc_loadchar( ch, fp, word ) ) )
+                break;
+#endif
+
+   Then in fwrite_char, locate:
+
+    fprintf( fp, "End\n\n" );
+
+   Directly ABOVE that, add:
+
+#ifdef IMC
+    imc_savechar( ch, fp );
+#endif
+
+   Then in load_char_obj(), locate the following:
+
+     for ( cnt = 0; cnt < MAX_ALIASES; cnt++ )
+     {
+       ch->pcdata->alias_name[cnt]  = str_dup( "<none>" );
+       ch->pcdata->alias[cnt]	    = str_dup( "<none>" );
+     }
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+    imc_initchar( ch );
+#endif
+
+6. Open db.c
+
+   Locate free_char:
+
+   Find the section that looks like this:
+
+    if ( ch->pcdata != NULL )
+    {
+      PUT_FREE(ch->pcdata, pcd_free);
+    }
+
+   Make it read as so:
+
+    if ( ch->pcdata != NULL )
+    {
+#ifdef IMC
+	imc_freechardata( ch );
+#endif
+      PUT_FREE(ch->pcdata, pcd_free);
+    }
+
+7. For users of copyover/hotboot ONLY:
+
+   Locate do_copyover.
+
+   In the variable declarations, add another bufX[100], where X is the next number in line.
+
+   Then just before the buffers for the execl call are
+   allocated, add the following:
+
+#ifdef IMC
+   imc_hotboot();
+#endif
+
+   Then right before the execl call, add the following, where X is the same number in the
+   new declaration you just made:
+
+#ifdef IMC
+   if( this_imcmud )
+      snprintf( bufX, 100, "%d", this_imcmud->desc );
+   else
+      strncpy( bufX, "-1", 100 );
+#else
+   strncpy( bufX, "-1", 100 );
+#endif
+
+   Then you need to add your new buffer to the execl call. So if you have this:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, (char *)NULL );
+
+   It needs to become:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, bufX, (char *)NULL );
+
+   Again being sure to change "X" to the right number.
+   Keep in mind copyover implementations vary widely among muds and you may need to
+   make some additional adjustments.
+
+Return to the main IMC.txt file and continue where you left off.

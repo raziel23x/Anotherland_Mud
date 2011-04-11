@@ -1,0 +1,2016 @@
+403
+Fixed long name character names upon creation.~
+Chrono~
+05/24/04~
+1085448423
+
+Btw no longer can create a name as a mob now either. :-)~
+Chrono~
+05/24/04~
+1085448489
+
+Re-wrote fixhead code, to not crash and actually do its job.~
+Chrono~
+05/24/04~
+1085453327
+
+Fixed alot of mud problem's/code and revamped so I can make backups.~
+Chrono~
+May 24, 2004~
+1085460132
+
+Fixed some arena bugs/glitches.~
+Chrono~
+May 24, 2004~
+1085460244
+
+Fixed some spell bugs also.~
+Chrono~
+May 24, 2004~
+1085460278
+
+Deleted uneeded pfiles and people who haven't logged recently. (Wanna bitch about it. Bitch I don't care its hogging space.)~
+Chrono~
+May 24, 2004~
+1085461030
+
+Added channel history for chat,flame,game,immt,roleplay.~
+Chrono~
+May 25, 2004~
+1085532760
+
+Slowly gonna remove doom troopers do not selfclass as one.~
+Chrono~
+May 25, 2004~
+1085536530
+
+People who are now afk before a copyover will be afk afterwards.~
+Chrono~
+May 26, 2004~
+1085549539
+
+help stataffect added, help mccp updated, and help samurai updated and improved. More to come.~
+Talyn~
+May 27, 2004~
+1085635789
+
+Johsua and my self have been left in charge. Any ideas or request send them our way. If you know any old players who want to come back bring them back.~
+Chrono~
+May 30, 2004~
+1085898474
+
+DoomTroopers no longer classable at all any who still exist can still fight/whatever~
+Joshua~
+May 30, 2004~
+1085899024
+
+stats can go higher not saying how high but higher~
+Joshua~
+May 30, 2004~
+1085904001
+
+Added autoslab, autogem, autohilt. See HELP AUTOSLAB for help.~
+Chrono~
+May 31, 2004~
+1086029905
+
+Autoloot Autoslab and Autogem work correctly and now set right with the commands listed in help autoslab.~
+Chrono~
+May 31, 2004~
+1086031977
+
+Tanar'ri now can flee with fury on.~
+Chrono~
+May 31, 2004~
+1086036326
+
+Token quest/store/exp now put the creater as owner. Try alt transfering still I will nuke, and I mean it.~
+Chrono~
+Jun 01, 2004~
+1086149276
+
+Can no longer quit in forbidden fortress. :-)~
+Chrono~
+Jun 02, 2004~
+1086162263
+
+Only people of the same upgrade can attack/kill/decap each other.~
+Chrono~
+Jun 02, 2004~
+1086162979
+
+Don't like previous change, blow me and write a note saying why. :-)~
+Chrono~
+Jun 02, 2004~
+1086163036
+
+A few slight area changes~
+Kage~
+Jun 03, 2004~
+1086247006
+
+If you now get stuck in fortress due to a crash/isp problem. You will reconnect in AL portal room.~
+Chrono~
+Jun 03, 2004~
+1086294824
+
+Change the look on how Cast Gas works. Thanks for the Grand Manasplice exmaple Magna. (We Miss You!)~
+Chrono~
+Jun 08, 2004~
+1086686609
+
+pls everyone read my note on board 3 "new chat rule"~
+Silk~
+Jun 15, 2004~
+1087361828
+
+I made the training room back to the way it is suspose to be...meaning people can be capped again in it~
+Silk~
+Jun 20, 2004~
+1087765106
+
+Re-built the portal room, west of recall. Disconnected the old portal area.~
+Talyn~
+Jun 24, 2004~
+1088064233
+
+Artisteal no longer works during Apocalypse or in the Forbidden Fortress.~
+Magna~
+Jun 27, 2004~
+1088393672
+
+It is no longer possible to pick up more than 3 artifacts.  Please report any loopholes or problems immediately.~
+Magna~
+Jun 27, 2004~
+1088393749
+
+Fixed Vampire midnight bonus. Won't say what it is.~
+Chrono~
+Jun 27, 2004~
+1088397755
+
+Mortals can no longer shatter objects owned by someone else.~
+Magna~
+Jun 29, 2004~
+1088553425
+
+It is no longer possible to kdecap in the forbidden fortress.~
+Magna~
+Jul 06, 2004~
+1089175302
+
+Mobs will not repop if you're sitting in it. That goes for both Kingdoms, Midgaard, and all EXP areas~
+Seth~
+Jul 07, 2004~
+1089246605
+
+Bank was upped to 1k qps a store ( 2billion exp ) But will soon be replaced, so have fun while you can...~
+Seth~
+Jul 07, 2004~
+1089246629
+
+Shapeshifters + WWs are officially "balanced" I have yet to balance Sams, Kahns, Vamps and the rest~
+Seth~
+Jul 07, 2004~
+1089246665
+
+New flag for builders: items can have extra of "Quested" It basically announces to the mud when a player finds your item on the floor ONLY... And it announces it across Quest~
+Seth~
+Jul 07, 2004~
+1089255555
+
+Quest Channel added. Immortals can talk on it using questchat ( message )~
+Seth~
+Jul 07, 2004~
+1089255566
+
+type channel -info to turn off quest. I would highly recommend leaving it on if you want to know when my quests are...~
+Seth~
+Jul 07, 2004~
+1089255663
+
+People entering and is in your range will NOT SHOW UP. So you don't fucking run away like a damn shaved pussy.~
+Seth~
+Jul 08, 2004~
+1089273633
+
+AUTOCLAIM, NOCLAIM, AUTOENGRAVE are the three new flags. Autoclaim makes you automatically claim an item, Noclaim makes it impossible to claim the item, and autoengrave doesn't allow you to wear another persons EQ~
+Seth~
+Jul 16, 2004~
+1089958141
+
+Modified autoengrave a bit. Realm + connect will autoengrave if the items are "autoengrave" set.~
+Seth~
+Jul 16, 2004~
+1089961648
+
+NEW AREA! It's a quest only area made up of 898 rooms, IE When I have a quest or another immortal has a quest. I also changed scatter to make it possible to set the ranges of where a object scatters.~
+Seth~
+Jul 18, 2004~
+1090142116
+
+Activequest is a new command to tell you if there are any more quest items to be found. NO they will not tell you where. But they will tell you if there are any left.~
+Seth~
+Jul 19, 2004~
+1090293831
+
+Kingdoms command is now much easier to read.~
+Nibbles~
+Jul 25, 2004~
+1090769553
+
+updated kingom list~
+Kage~
+Jul 30, 2004~
+1091175244
+
+New pkrange, five up, three down.  On your toes, people!~
+Alesyira~
+Aug 05, 2004~
+1091762270
+
+ALL areas will reset unless the flag "noreset" is set... Which means a builder has to go and add noreset flags to most of the areas... ~
+Seth~
+Aug 08, 2004~
+1092026839
+
+Zombiefied mobs will be shitty weak compared to real mobs.~
+Seth~
+Aug 08, 2004~
+1092026854
+
+Screech is now spelled correctly.  The channel is not broken!~
+Nibbles~
+Aug 10, 2004~
+1092127183
+
+Immortals now receive better information on multiplaying.  Don't do it!~
+Nibbles~
+Aug 10, 2004~
+1092166916
+
+ToM is now private.  IE, two people max in each room.  Hate me if you must!!  :D~
+Alesyira~
+Aug 10, 2004~
+1092167024
+
+Enrage can no longer be used by those in newbie hours.  You'll have to commit to use it.~
+Nibbles~
+Aug 11, 2004~
+1092274942
+
+Kingdom guards should be better at detecting invisible people now.~
+Nibbles~
+Aug 12, 2004~
+1092362892
+
+Adamantite can no longer be forged over mithril.  See an imm if one of your weapons has this bug.~
+Nibbles~
+Aug 13, 2004~
+1092429052
+
+Deforge changed to work appropriatly on newly forged weapons.  Weapons forged before this change will still suffer from an elongated affect list upon deforging.  See an imm for this to be removed.~
+Nibbles~
+Aug 13, 2004~
+1092429123
+
+Kingdom guards can now attack shadowplaned characters.~
+Nibbles~
+Aug 13, 2004~
+1092429166
+
+Newbies may no longer enter the forbidden fortress~
+Nibbles~
+Aug 13, 2004~
+1092431031
+
+Relic's are now immune to damage in combat.  Object damage in general rewritten.~
+Nibbles~
+Aug 15, 2004~
+1092607241
+
+Kingdom guards are no longer insane.~
+Nibbles~
+Aug 16, 2004~
+1092704331
+
+AhhH!!  Mobdeaths are ON THE RISE!!  On your toes, people!!~
+Alesyira~
+Aug 17, 2004~
+1092744470
+
+Fixed monk block counter.  It will now increase like it should.  You will gain more dodge/parry.~
+Hutoshi~
+Dec 03, 2004~
+1102055550
+
+Re-added mudcheck.pl to check and see if the mud is running, if not restart, if the mud is hung it will kill then restart.~
+Chrono~
+Jan 28, 2005~
+1106909460
+
+Changed qps recieved back to 5 qps 100 was way too much.~
+Chrono~
+Jan 28, 2005~
+1106909588
+
+#sP#sW#sI#sP#sE#G!!!! #sY#sI#sP#sP#sI#sE#G!!!!#n~
+Dertaherup~
+Feb 02, 2005~
+1107334648
+
+Kaladrath has been fired for cheating ...kala what you do goes to logs numpty~
+Silk~
+Feb 05, 2005~
+1107652594
+
+al now has an email logsforal@hotmail.com~
+Silk~
+Feb 05, 2005~
+1107658070
+
+liches and Bmages are not to be in any pk fights no attacking and no one attack them~
+Silk~
+Feb 08, 2005~
+1107910546
+
+decap is disabled read note on announce~
+Silk~
+Feb 11, 2005~
+1108148420
+
+liches and bmages open again for pk~
+Silk~
+Feb 21, 2005~
+1109026637
+
+I have slightly modified help botting. read it, ignorance is not an excuse.~
+Dertaherup~
+Feb 23, 2005~
+1109197684
+
+I will from now on be ignoring all posts on the incorrect boards. It's a simple concept people keep them within their subject and who they are to. Despite popular belief I am not on the roleplay board.~
+Dertaherup~
+Feb 24, 2005~
+1109263088
+
+malice is fired~
+Dertaherup~
+Feb 28, 2005~
+1109651369
+
+if a new imm is taken to replace Malice we are gogin to be alot stricter to rules about imms and alts if another imm is caught rigging alts or hae both imm and alt on at the same times remember only Idiots cheat and all things are loged~
+Raziel~
+Mar 05, 2005~
+1110019029
+
+fixed a few typos and a few errors I found cosmetic stuff.~
+Raziel~
+Mar 24, 2005~
+1111662970
+
+sacing rune eq has been fixed you get half qp back when ya sac them now instead of just 10k since rune eq cost 50k if ya sac them you now get 25k~
+Raziel~
+Mar 24, 2005~
+1111715421
+
+finger has now been changed to whois~
+Raziel~
+Mar 26, 2005~
+1111836621
+
+small changes done to xp read note on board 3 for more info~
+Raziel~
+Mar 26, 2005~
+1111846610
+
+lowered Khans a bit~
+Raziel~
+Mar 26, 2005~
+1111893126
+
+balancing Liches lowering there melee and raising there other class powers making them more usefull please tell me what you see with them one class at a time people~
+Raziel~
+Mar 26, 2005~
+1111893697
+
+Put the kingdom hallway back in. players may now walk to kingdoms. recall down south west~
+Dertaherup~
+Mar 28, 2005~
+1111993770
+
+added a few log out message ~
+Raziel~
+Mar 31, 2005~
+1112277134
+
+I was bored added a few new log out messages and a few new messages when you type a none command IE make a typo when doing commands~
+Raziel~
+Mar 31, 2005~
+1112282533
+
+fixed a few more bugs I found Gotten the Kingdom code working again (I hope) Gotten a few things that I saw needing to be fix. Corrected a few typos I saw and clean up the code a bit by removing some stuff that is no longer used. will start phasing out the rent command and a few other commands that are useless~
+Raziel~
+Mar 31, 2005~
+1112282750
+
+hay guy typo shit like crtazy liek type giberish and check out teh new typo messages~
+Raziel~
+Apr 01, 2005~
+1112412534
+
+modified spells. Example giant strenght stone skin armor shield frenxy bless darkbless now has a strong kick~
+Raziel~
+Apr 05, 2005~
+1112706549
+
+i also leave it up to you the players to find out what other spells have been moded and made usefull on the prac list~
+Raziel~
+Apr 05, 2005~
+1112706983
+
+changed teh curse spell message to let ya knwo that you actually cursed the idiot not give them teh evil eye when ya cast curse on them~
+Raziel~
+Apr 05, 2005~
+1112709388
+
+edited and changed a few of the mob decap messages~
+Raziel~
+Apr 05, 2005~
+1112710977
+
+Misc changes have been made to the code cleared out the bug log and a few other things after going through each one and checking to see what happened in each case. clean up the a bit more changed a few message with commands and spells Ie if there was a typo in it it was corrected that i found so far and a few other things that woudl take up too much space to say but freed up some more ~
+Raziel~
+Apr 05, 2005~
+1112713836
+
+Edited fight.c and fixed the experience modifiers, or so i think. At the very least happy hour works properly again. syntax happybuy ~
+Dertaherup~
+Apr 06, 2005~
+1112786746
+
+pkscore exp modifier tweaked. you now get an increase of you status amount. so 2 status gets +2%, up to 20% increase~
+Dertaherup~
+Apr 06, 2005~
+1112790240
+
+happyhour is fix instead of it just req you to have 5k qp now it also take 5k qp to use~
+Raziel~
+Apr 06, 2005~
+1112791345
+
+mroe code clean up and reorganization~
+Raziel~
+Apr 06, 2005~
+1112794440
+
+Added a small tier to the pkscore multiplier. will add more later tonight probably. also changed the msg of the modifer to reflect your status rank~
+Dertaherup~
+Apr 06, 2005~
+1112824710
+
+made a few mods to the vamp class more classes to come at random between fixing other stuff that is more important to fix~
+Raziel~
+Apr 07, 2005~
+1112850465
+
+autoquest should now no longer do autoquest of 0 mob the min now is 1~
+Raziel~
+Apr 10, 2005~
+1113135040
+
+i think i am finally finshed fucking up a few spell in teh magic.c you should see them work a little bit better or worse depending on if you are on teh reciven in or not heheh~
+Raziel~
+Apr 10, 2005~
+1113136983
+
+remember the comamnd award and use it well~
+Raziel~
+Apr 11, 2005~
+1113201308
+
+blood fills up 2000-3500 per drink now. no more spammin drink blood 50 times.~
+Dertaherup~
+Apr 11, 2005~
+1113207157
+
+fixed the clear stat bug for wolf form~
+Raziel~
+Apr 12, 2005~
+1113299781
+
+act_wiz.c:7191: warning: passing arg 1 of `do_weapset' from incompatible pointer type fixed~
+Raziel~
+Apr 12, 2005~
+1113300465
+
+backed all changes done to the code thus far and backedup the pfiles of all the players incase we have a melt down or something~
+Raziel~
+Apr 12, 2005~
+1113302636
+
+updated wizlist~
+Raziel~
+Apr 12, 2005~
+1113304148
+
+lowered lich melee a little might lower it some more after looking at monks~
+Raziel~
+Apr 16, 2005~
+1113655661
+
+moded lich chant damage and soulsuck removed alignment off soulsuck to make it more usefull~
+Raziel~
+Apr 16, 2005~
+1113658954
+
+score has been semi revamped~
+Raziel~
+Apr 16, 2005~
+1113701851
+
+i hope afk works liek it is sapose to now tred to add a timer to it may r may not work alot more tweeking to it may ahve to be done~
+Raziel~
+Apr 18, 2005~
+1113805703
+
+halved soulsuck damage. will probably be tweaked some more at a later time~
+Dertaherup~
+Apr 18, 2005~
+1113856417
+
+Edited shapies, roar SHOULD make the victim flee again, let me know if it doesnt~
+Dertaherup~
+Apr 22, 2005~
+1114149728
+
+liches/battle mages no longer can heal in pk~
+Raziel~
+Apr 28, 2005~
+1114738181
+
+all player files whos last login was prior to April 1st was deleted. i do have a back up of the files however so if you are one of them i can return your file.~
+Dertaherup~
+May 01, 2005~
+1114981643
+
+Taken out most of pit eq, but due to the complete lack of intelligence and abundance of idiocy on behalf of Kaladrath its damned near impossable to get it all out. If you have some, sac it. If i find it on you i will be sure not to miss it the second time around and will delete your file. Yuo have been warned.~
+Dertaherup~
+May 02, 2005~
+1115016227
+
+The pits themselves have been taken out. all players who have had their pit eq removed have had their file reverted to a backup from earlier today - the pit eq~
+Dertaherup~
+May 02, 2005~
+1115022627
+
+Fixed the Doomtrooper bug with giving negative stores.~
+Chrono~
+May 26, 2005~
+1117085274
+
+Fixed stats, based on using primal. Cost is 25 times current stat. People will need to note me if they have over 100 in stats so i can fix your char. You dont note I reset hp to 300k.~
+Chrono~
+May 27, 2005~
+1117179879
+
+fixed a fuck up in one of the kahn syntax lines~
+Dertaherup~
+Jun 02, 2005~
+1117734803
+
+made burrow a werewolf to werewolf travel, ignores notrav. room flags still in effect. wont work on mobs or other classes~
+Dertaherup~
+Jun 02, 2005~
+1117736466
+
+announce~
+Alesyira~
+Jun 06, 2005~
+1118081498
+
+#7Join the #RAnother#LLand#7 discussion group/mailing list through Yahoo Groups!  #yhttp://groups.yahoo.com/group/another_land/#n~
+Alesyira~
+Jun 06, 2005~
+1118081961
+
+spell bug fixed, thank chrono~
+Dertaherup~
+Jun 14, 2005~
+1118806544
+
+Nuke works again. it no longer just denies a file, it full on fucking deletes it. have a nice day=)~
+Dertaherup~
+Jul 11, 2005~
+1121063738
+
+reason has been removed~
+Dertaherup~
+Jul 12, 2005~
+1121205284
+
+invisible enters are visible again~
+Dertaherup~
+Jul 12, 2005~
+1121207228
+
+nuke is now new and improved. bow before me for i am root;)~
+Dertaherup~
+Jul 13, 2005~
+1121293088
+
+fixed the 0 mobs loaded on quests, min is now 1. arent i special?~
+Dertaherup~
+Jul 15, 2005~
+1121421651
+
+mithril can no longer be deforged~
+Dertaherup~
+Jul 19, 2005~
+1121755886
+
+fixed the grammar on the weather updates and also did some minor changes to the merc file~
+Dertaherup~
+Jul 19, 2005~
+1121814254
+
+also made new weather echos, if ya see any bad grammar/spelling let me know~
+Dertaherup~
+Jul 19, 2005~
+1121814315
+
+a password is now required to commit, a helpfile will soon follow~
+Dertaherup~
+Jul 21, 2005~
+1121923157
+
+finished removing reason, you can now quit normally as a newbie~
+Dertaherup~
+Jul 21, 2005~
+1121930888
+
+fixed a bug with commit~
+Dertaherup~
+Jul 21, 2005~
+1121984157
+
+edit the weather a little more~
+Dertaherup~
+Jul 21, 2005~
+1121984752
+
+cleaned out a few things that have been around for a while Zip the log files in the log folder to save space and cleaned out pfiles that have not logged on in over 3 months and other things~
+Raziel~
+Aug 14, 2005~
+1124053662
+
+added wizards back in will balance them later after battle data is aquired~
+Raziel~
+Sep 05, 2005~
+1125968101
+
+buystatus command added help file has been updated~
+Raziel~
+Sep 16, 2005~
+1126917477
+
+tweaked buystatus to log when used. ~
+Raziel~
+Sep 18, 2005~
+1127075062
+
+tweaked number attacks on a few classes to better balance them~
+Raziel~
+Sep 18, 2005~
+1127075481
+
+wizards have been lowered quiet a bit~
+Raziel~
+Sep 18, 2005~
+1127076177
+
+UK number of attacks have been raised a small bit~
+Raziel~
+Sep 18, 2005~
+1127076202
+
+demons been up a bit~
+Raziel~
+Sep 18, 2005~
+1127076211
+
+vampires number of attacks has been lowered a bit~
+Raziel~
+Sep 18, 2005~
+1127076260
+
+other minor tweaks have been done here and there~
+Raziel~
+Sep 18, 2005~
+1127076294
+
+looked at wizards again and actually found a bug with them bug fixed~
+Raziel~
+Sep 21, 2005~
+1127340788
+
+did a few minor code adjustments~
+Raziel~
+Sep 21, 2005~
+1127341134
+
+Wraiths are in now. No pk. no unauthorized wraiths~
+Dertaherup~
+Oct 22, 2005~
+1130019040
+
+fixed a neg mana bug with phoenix flare~
+Dertaherup~
+Oct 22, 2005~
+1130019074
+
+added a few more status xp bonuses~
+Dertaherup~
+Oct 22, 2005~
+1130019088
+
+Fixed a minor bug with wraith's death aura.~
+Dertaherup~
+Oct 24, 2005~
+1130195759
+
+sunfire lag raised~
+Dertaherup~
+Oct 24, 2005~
+1130197610
+
+Wraith number of attacks if (IS_CLASS(ch, CLASS_WRAITH)) count += 5 + (ch->pdeath/3);~
+Raziel~
+Oct 30, 2005~
+1130685991
+
+if you cannot finger another players name do not worry i did not delete or nuke anyone all i did was clean out a few folder to save memory and it was a lot easier to just delete everyone in the finger file folder and they will reappear when they log back on the mud. so don't worry if you cannot finger anyone i was just doing some spring cleaning and saw there was finger files of player~
+Raziel~
+Oct 30, 2005~
+1130688385
+
+players who was deleted ages ago. it was a lot easier to just delete everyone's then it was to go through and just delete who is no longer with us.~
+Raziel~
+Oct 30, 2005~
+1130688488
+
+if (IS_CLASS(ch, CLASS_WRAITH)) count += 5 + ((ch->pkill)-(ch->pdeath))/3;~
+Raziel~
+Nov 01, 2005~
+1130849205
+
+reason removed (commented out for future use)~
+Dertaherup~
+Nov 04, 2005~
+1131146360
+
+Edited several of the newbie hints.~
+Dertaherup~
+Nov 04, 2005~
+1131147594
+
+newbie command is now loged if you are caught using this command to rack up in qp then you are nuked considered this your first and final warning everyone if we see you use the command constantly for what ever reason you will be nuked no questions asked~
+Raziel~
+Nov 09, 2005~
+1131527977
+
+statcap is upgrade level * 25~
+Beorn~
+Mar 07, 2006~
+1141771734
+
+stats work again, see help stateffect for details~
+Beorn~
+Mar 07, 2006~
+1141771749
+
+upgrades give correct bonuses again.~
+Beorn~
+Mar 07, 2006~
+1141771814
+
+no upper limit on upgrades if you have the requirements~
+Beorn~
+Mar 07, 2006~
+1141771834
+
+damroll no longer affects chant damage.~
+Beorn~
+Mar 07, 2006~
+1141771869
+
+Autoquest now does a minimum of 20 mobs~
+Dertaherup~
+Mar 07, 2006~
+1141774135
+
+Doomtroopers are debugged (I think) and ready to play!~
+Beorn~
+Mar 07, 2006~
+1141786423
+
+Mud was down for unknown reason. Ill be checking why its doing this.~
+Chrono~
+Mar 09, 2006~
+1141960501
+
+Topplayer and Leader Board has been cleared.~
+Chrono~
+Mar 09, 2006~
+1141962113
+
+Ok, quests shouldn't spawn 0 anymore~
+Dertaherup~
+Mar 10, 2006~
+1142029110
+
+I signed up for the naval nuclear engineering school.  Fear for your pathetic lives.~
+Beorn~
+Mar 10, 2006~
+1142042825
+
+Chrono added pages to changes for less spam!~
+Beorn~
+Mar 11, 2006~
+1142072235
+
+The redoubtable Chrono has added pages to changes for less spam.~
+Beorn~
+Mar 11, 2006~
+1142072349
+
+testing something~
+Dertaherup~
+Mar 11, 2006~
+1142072355
+
+test~
+Beorn~
+Mar 11, 2006~
+1142072363
+
+autoquest really is fixed now, god that was a bitch.~
+Dertaherup~
+Mar 11, 2006~
+1142072900
+
+Made a buggy and half working page selected changes based on older and newer code. (Fixed by Dertaherup~
+The Crash Code~
+Mar 11, 2006~
+1142073714
+
+stats now get lowered with downgrade~
+Dertaherup~
+Mar 11, 2006~
+1142076877
+
+Ok, methinks the new changes display system is 100% working like it should.~
+Chrono~
+Mar 11, 2006~
+1142078250
+
+#sP#sW#sI#sP#sE#s!#s!#s!~
+Dertaherup~
+Mar 11, 2006~
+1142079020
+
+Oh horrors!  You actually have to use gensteal to get generation now!~
+Beorn~
+Mar 11, 2006~
+1142124338
+
+all generations give damcap bonus now.~
+Beorn~
+Mar 11, 2006~
+1142125233
+
+generation goes down to 0 now.  No extra weaponskill, but good damcap bonus~
+Beorn~
+Mar 11, 2006~
+1142125507
+
+10k qps to anyone who comes up with a usable, color code included, generation titles for any slots not filled.~
+Beorn~
+Mar 11, 2006~
+1142125612
+
+fixed a bug in con, and modified it. You now gain 1000 max hp per con.~
+Dertaherup~
+Mar 12, 2006~
+1142160911
+
+Added a Class Leader System, type classleader for the current leader of each Class...~
+Chrono~
+Mar 12, 2006~
+1142168058
+
+bank fixed~
+Dertaherup~
+Mar 12, 2006~
+1142196536
+
+lowered autoquest's amount of mobs spawned to 21-101~
+Dertaherup~
+Mar 12, 2006~
+1142198983
+
+Autoquest shouldn't load training mobs anymore~
+Dertaherup~
+Mar 12, 2006~
+1142198998
+
+fixed a bug in the con statcap math~
+Dertaherup~
+Mar 12, 2006~
+1142202645
+
+Ok, statcap for stats if fixed.  See me for refund if you have too much.~
+Beorn~
+Mar 16, 2006~
+1142519954
+
+werewolf talon lowered.~
+Beorn~
+Mar 16, 2006~
+1142523219
+
+vamp spit and lamprey raised a bit.~
+Beorn~
+Mar 16, 2006~
+1142527490
+
+Kahn damcap lowered for now.~
+Beorn~
+Mar 16, 2006~
+1142528358
+
+Bounties are worth more.  Get to pking for those qps!~
+Beorn~
+Mar 16, 2006~
+1142541083
+
+samurai lowered.~
+Beorn~
+Mar 16, 2006~
+1142541449
+
+wolves tweaked~
+Beorn~
+Mar 16, 2006~
+1142542871
+
+disquiet lowered to not be an auto win vs most classes~
+Beorn~
+Mar 16, 2006~
+1142546564
+
+katana average lowered to sane numbers~
+Beorn~
+Mar 16, 2006~
+1142554270
+
+sams lowered.  again.~
+Beorn~
+Mar 17, 2006~
+1142598512
+
+vampire regen works now a little better.~
+Beorn~
+Mar 17, 2006~
+1142615984
+
+Monk sacredinvis should work now.~
+Beorn~
+Mar 17, 2006~
+1142616239
+
+monk adamantiumhands raised~
+Beorn~
+Mar 17, 2006~
+1142621298
+
+You can no longer gensteal out of status range.~
+Beorn~
+Mar 17, 2006~
+1142660308
+
+Pk range is 4 up, 4 down to match upgrade requirements.~
+Beorn~
+Mar 17, 2006~
+1142661299
+
+drow raised.~
+Beorn~
+Mar 18, 2006~
+1142666097
+
+drow garotte raised~
+Beorn~
+Mar 18, 2006~
+1142671469
+
+drow professions removed, you should be able to use all of the skills.~
+Beorn~
+Mar 18, 2006~
+1142673298
+
+drow balanced and ready to play.~
+Beorn~
+Mar 18, 2006~
+1142673308
+
+demonform bonus raised, some demon abilities fixed/slightly raised.~
+Beorn~
+Mar 18, 2006~
+1142676607
+
+classleader is working again properly.~
+Beorn~
+Mar 18, 2006~
+1142679174
+
+Dragons tweaked.~
+Beorn~
+Mar 18, 2006~
+1142688504
+
+Use genbuy to bring your generation back down to 6 after its been stolen.  It's very expensive though, so be warned.~
+Beorn~
+Mar 18, 2006~
+1142691694
+
+Phoenix rage actually gives hitroll and damroll now.~
+Beorn~
+Mar 18, 2006~
+1142692396
+
+werewolf rage is slightly better now.~
+Beorn~
+Mar 18, 2006~
+1142692578
+
+Monk adamantium hands raised.~
+Beorn~
+Mar 18, 2006~
+1142699361
+
+wolf damcap upped, attacks slightly upped~
+Beorn~
+Mar 18, 2006~
+1142711944
+
+samurai # of attacks lowered.~
+Beorn~
+Mar 18, 2006~
+1142713310
+
+range is 3 up 3 down.  Now quit whining about it.~
+Beorn~
+Mar 18, 2006~
+1142714954
+
+Monks can no longer wield weapons.~
+Beorn~
+Mar 18, 2006~
+1142716720
+
+Ganging is illegal, dont fucking do it, or you will be sorry.~
+Beorn~
+Mar 18, 2006~
+1142718779
+
+elf warriors raised~
+Beorn~
+Mar 18, 2006~
+1142720010
+
+Flee has more lag on it now.~
+Beorn~
+Mar 19, 2006~
+1142770112
+
+amount of rebirth heal for phoenix slightly lowered.~
+Beorn~
+Mar 19, 2006~
+1142770898
+
+swoop actually works properly now.~
+Beorn~
+Mar 19, 2006~
+1142776240
+
+gfavor no longer steals hit/dam~
+Beorn~
+Mar 19, 2006~
+1142777224
+
+Dragons lowered.  Yes dragondive hurts.  It's supposed too.~
+Beorn~
+Mar 19, 2006~
+1142830880
+
+Garotte doesnt work, so drow are off playable list until I figure it out.~
+Beorn~
+Mar 19, 2006~
+1142832111
+
+Doomtroopers removed from selfclass as well.~
+Beorn~
+Mar 19, 2006~
+1142832362
+
+Ok, class losing bug fixed, along with associated major crash bug.~
+Beorn~
+Mar 20, 2006~
+1142865534
+
+If you find the mud is crashing on your login attempt, or stalling out, let me know, your pfile got bugged, is easy to fix.~
+Beorn~
+Mar 20, 2006~
+1142866043
+
+oh yeah, by emailing me at odhinn_all_father@hotmail.com~
+Beorn~
+Mar 20, 2006~
+1142866079
+
+effects on some elfstone skills raised.~
+Beorn~
+Mar 20, 2006~
+1142881306
+
+monk midrounds now only once a round.~
+Beorn~
+Mar 20, 2006~
+1142882399
+
+wither is a 1 in 4 chance to work now in pk.~
+Beorn~
+Mar 20, 2006~
+1142888760
+
+mobs it should be about half the time.~
+Beorn~
+Mar 20, 2006~
+1142888862
+
+No longer need gen 1 for realm, but come on you wusses learn to gensteal or at least fight more and not try to hog status,~
+Chrono~
+Mar 20, 2006~
+1142900794
+
+Getting decapped by a mob now sets you to mortal, have to train avatar.~
+Beorn~
+Mar 21, 2006~
+1142965263
+
+elf mages get int *4 added to spellcap instead of int * 2 for everyone else~
+Beorn~
+Mar 21, 2006~
+1143004618
+
+VORSPRUNG DER TECHNIC!!!!~
+Beorn~
+Mar 22, 2006~
+1143035883
+
+Kicetouch was lowered a few days ago, forgot to mention it.~
+Beorn~
+Mar 23, 2006~
+1143118660
+
+vampire's fortitude affect raised slightly.~
+Beorn~
+Mar 23, 2006~
+1143118854
+
+elves in general raised.~
+Beorn~
+Mar 23, 2006~
+1143119052
+
+mudstat spacing fixed!  Hoorah!~
+Beorn~
+Mar 23, 2006~
+1143127897
+
+fixed an autoquest bug~
+Dertaherup~
+Mar 26, 2006~
+1143355015
+
+fixed spacing on wraiths who~
+Dertaherup~
+Mar 26, 2006~
+1143355595
+
+Blink lag lowered a bit.~
+Beorn~
+Mar 28, 2006~
+1143548871
+
+Mud now announces to other people when your 5 hours of newbie protection is gone, lets get it on!~
+Chrono~
+Mar 29, 2006~
+1143665034
+
+fryballs is now a valid punishment~
+Dertaherup~
+Mar 30, 2006~
+1143759282
+
+Elf mages damcap and spell colors raised, will most likely need more tweaking.~
+Beorn~
+Apr 01, 2006~
+1143935056
+
+Elf mage commands should be usable in combat now.~
+Beorn~
+Apr 01, 2006~
+1143935416
+
+Got a question or want to post a problem or something head to http://grevin.sytes.net/modules.php?name=Forums&file=index&c=4~
+Chrono~
+Apr 01, 2006~
+1143935686
+
+Re-instated the cleaner version of multicheck, you multiplay your char gets denied. No If's Ands or Buts.~
+Chrono~
+Apr 01, 2006~
+1143938984
+
+please remember- If you are a melee class- you will not do very well when you are missing your arms.~
+Beorn~
+Apr 03, 2006~
+1144114513
+
+Kahn clawslash damage capped- this shouldnt actually affect anyone yet, nobody is big enough.~
+Beorn~
+Apr 03, 2006~
+1144114833
+
+savageshred lag lowered.~
+Beorn~
+Apr 03, 2006~
+1144114949
+
+droids given a boost.~
+Beorn~
+Apr 03, 2006~
+1144115237
+
+elfstones changed to use spell colors for damage.  yes its ugly right now- it needs polishing.~
+Beorn~
+Apr 03, 2006~
+1144124795
+
+lowered bank 2 qp~
+Dertaherup~
+Apr 06, 2006~
+1144353125
+
+lowered the other banks as well because of an overlooked issue~
+Dertaherup~
+Apr 07, 2006~
+1144449061
+
+sorry I wasnt around this weekend, I got arrested on my way to work.~
+Beorn~
+Apr 10, 2006~
+1144726326
+
+ninjas given a little bit of a boost~
+Beorn~
+Apr 17, 2006~
+1145289540
+
+generation boosts spellcap for magic using classes~
+Beorn~
+Apr 20, 2006~
+1145559892
+
+soulsuck lag lowered, and chant damage beefed up some.~
+Beorn~
+Apr 23, 2006~
+1145847686
+
+Dragons and Phoenix display class properly when you finger them.~
+Beorn~
+Apr 24, 2006~
+1145924830
+
+UK's soulsuck reworked.  Now differs quite a bit from the lich power.~
+Beorn~
+Apr 25, 2006~
+1145999175
+
+Stomp now has a full round of lag.~
+Beorn~
+Apr 26, 2006~
+1146109869
+
+Spiderdriods can no longer be selfclassed, Im going to completely rebuild them, if you already are, feel free to continue playing.~
+Beorn~
+Apr 26, 2006~
+1146109903
+
+spamcap check removed for now, so have fun!~
+Beorn~
+Apr 28, 2006~
+1146271805
+
+shapeshifters lag lowered in some spots, raised in others, forms give more logical bonuses and comparable to other classes.~
+Beorn~
+Apr 28, 2006~
+1146272862
+
+Added a cussing censorship to all channels except flame.~
+Chrono~
+May 01, 2006~
+1146481997
+
+Channel history back in, no longer crashes when having a "%" in chat.~
+Chrono~
+May 01, 2006~
+1146482169
+
+elfstones beefed again.~
+Beorn~
+May 08, 2006~
+1147127727
+
+wizards fixed up slightly.~
+Beorn~
+May 08, 2006~
+1147128877
+
+Liches should be good to go and not sucking anymore.~
+Beorn~
+May 10, 2006~
+1147309795
+
+elfstone's damage message no longer looks like ass.~
+Beorn~
+May 18, 2006~
+1148005158
+
+vampire negative blood bug fixed!~
+Beorn~
+Jun 06, 2006~
+1149644887
+
+ALL RANDOM CRASHES ARE FIXED~
+Dertaherup~
+Jun 22, 2006~
+1151038291
+
+Vampire damcap bonus from being full of blood changed to just blood/10~
+Beorn~
+Jun 23, 2006~
+1151071053
+
+Lich and Undead Knight soulsuck now operate differently and for different damage amounts.~
+Beorn~
+Jul 11, 2006~
+1152678280
+
+Demons weaponlevels raised.~
+Beorn~
+Jul 12, 2006~
+1152682530
+
+modified connect. If you attempt two connect two pieces that don't belong they will be destroyed.~
+Dertaherup~
+Jul 12, 2006~
+1152735912
+
+Server issues that resulted in mud being down for a prolonged time are fixed.  Thank you for your patience.~
+Beorn~
+Jul 17, 2006~
+1153112867
+
+blink changed to hit less- but harder~
+Beorn~
+Jul 17, 2006~
+1153113200
+
+send balance issues, preferably with logs, to george.coe@gmail.com  and if you just send me "wtf!!!11!! u r riged!"  I will ignore your dumb ass.~
+Beorn~
+Jul 17, 2006~
+1153113426
+
+I'll reward anybody who rewrites a helpfile.  Send them to george.coe@gmail.com.  Size of reward depends on how well you do and how important the helpfile is.~
+Beorn~
+Jul 17, 2006~
+1153145295
+
+shapeshifters can wear equipment while shifted now.~
+Beorn~
+Jul 17, 2006~
+1153157449
+
+Artifacts cost one million quest points.~
+Beorn~
+Jul 17, 2006~
+1153162308
+
+cleaned up the immortal commands and removed a bunch of horseshit.~
+Beorn~
+Jul 18, 2006~
+1153276162
+
+lich soulsuck lag fixed.~
+Beorn~
+Jul 18, 2006~
+1153277026
+
+pk range is 4 up and 4 down.~
+Beorn~
+Jul 18, 2006~
+1153281872
+
+forge items are 20% more likely to load on mobs~
+Dertaherup~
+Jul 19, 2006~
+1153346408
+
+new items randomly load on mobs, Status pieces. when you have two pieces, connect them and if they fit it will create a status token. EAT IT! If they don't fit ya lose both pieces. There is a slight chance of a token loading on its own too.~
+Dertaherup~
+Jul 19, 2006~
+1153346515
+
+Uk soulsuck works properly again.~
+Beorn~
+Jul 19, 2006~
+1153349900
+
+connect is modified again, chance of breaking items even if they do fit~
+Dertaherup~
+Jul 19, 2006~
+1153358371
+
+fixed vampires spew and infirm~
+Dertaherup~
+Jul 20, 2006~
+1153437889
+
+Please eat your status flakes quickly- or I will be removing them as they are causing a bug when you log off.~
+Beorn~
+Jul 20, 2006~
+1153447995
+
+Bug with losing stats on downgrade when you shouldn't be is fixed.~
+Beorn~
+Jul 20, 2006~
+1153448976
+
+samurai katana function completely rewritten and debugged.~
+Beorn~
+Jul 20, 2006~
+1153450577
+
+class information displays in score now.~
+Beorn~
+Jul 20, 2006~
+1153453933
+
+lag for victim on powerword stun lowered.~
+Beorn~
+Jul 20, 2006~
+1153454216
+
+everyone read help rewards.~
+Beorn~
+Jul 20, 2006~
+1153455216
+
+Score is now properly spaced no matter what your alignment is~
+Beorn~
+Jul 20, 2006~
+1153457149
+
+ninjas backstab doesnt hit quite so damn many times now.~
+Beorn~
+Jul 21, 2006~
+1153463580
+
+Shapeshifter form bonus is now dependant on generation.  Crappy gen?  Crappy bonus.~
+Beorn~
+Jul 21, 2006~
+1153500760
+
+Rage bonus displays correct value in score now.~
+Beorn~
+Jul 21, 2006~
+1153510573
+
+generation spellcap boost raised~
+Beorn~
+Jul 21, 2006~
+1153511519
+
+healing rate upped.  I think.~
+Beorn~
+Jul 21, 2006~
+1153516557
+
+position updating bug fixed.~
+Beorn~
+Jul 21, 2006~
+1153518218
+
+Ninjas will be pleased to note that realm daggers are available now for your piercing needs.~
+Beorn~
+Jul 21, 2006~
+1153521309
+
+Upgrade 5 now can make chaoseq~
+Beorn~
+Jul 21, 2006~
+1153524513
+
+upgrade code cleaned up, small tweaks in damcap/attacks to several classes.~
+Beorn~
+Jul 21, 2006~
+1153532960
+
+Removed faggot autosac after decap, Fucking deal with it.~
+Dertaherup~
+Jul 22, 2006~
+1153553595
+
+Can now rename relics with quest~
+Dertaherup~
+Jul 22, 2006~
+1153554144
+
+questors delight now doubles qp from mobs~
+Dertaherup~
+Jul 22, 2006~
+1153567460
+
+questmobs give more qp now instead of the pussy amount they used to.=P~
+Dertaherup~
+Jul 22, 2006~
+1153570115
+
+Questors Delight now effects quest mobs as well as regular mobs~
+Dertaherup~
+Jul 22, 2006~
+1153570720
+
+fixed the connect bug, to everyone who lost shit, sorry. You won't get the finished item now if another item breaks in the connect...oops? =P~
+Dertaherup~
+Jul 22, 2006~
+1153618269
+
+Weapons train SLIGHTLY faster as an avatar, and train MUCH faster as a mortal.~
+Beorn~
+Jul 22, 2006~
+1153620418
+
+Pkpowers displays properly now.~
+Beorn~
+Jul 22, 2006~
+1153621875
+
+Extra Ft and lag when attempting to enter training rooms removed.~
+Beorn~
+Jul 22, 2006~
+1153622528
+
+quest rename/long on relics fixed~
+Dertaherup~
+Jul 24, 2006~
+1153738650
+
+status flakes exist, spamming newbies won't get you them, slightly more rare than before~
+Dertaherup~
+Jul 24, 2006~
+1153743142
+
+oh yeah, only 10 status pieces can exist in the mud at once, or no more will load~
+Dertaherup~
+Jul 24, 2006~
+1153743400
+
+players will not be kicked from altar while writing a note~
+Dertaherup~
+Jul 24, 2006~
+1153751852
+
+UK timers twiddled with- powerword blind bug fixed.~
+Beorn~
+Jul 24, 2006~
+1153778517
+
+Bloodrite actually does something worthwhile, and minor other UK automatic abilities raised a tad.~
+Beorn~
+Jul 24, 2006~
+1153779707
+
+Superior Protection fixed.  It now reduces basic combat damage by * 0.75~
+Beorn~
+Jul 24, 2006~
+1153783111
+
+Stomp is now 25% chance instead of 75% and before you fuckers bitch- thats same chance as wither, so get over it.~
+Beorn~
+Jul 24, 2006~
+1153787825
+
+Kahn savageshred lowered to a 25% chance~
+Beorn~
+Jul 24, 2006~
+1153787925
+
+added freezing and Superior Protection to affects list when you have them.~
+Beorn~
+Jul 24, 2006~
+1153788439
+
+you can now gensteal anyone regardless of your/their status~
+Dertaherup~
+Jul 25, 2006~
+1153810226
+
+you now gain bouns qps for saccing a status piece or flake~
+Dertaherup~
+Jul 25, 2006~
+1153811634
+
+soulsuck damage raised, but also capped.~
+Beorn~
+Jul 25, 2006~
+1153835028
+
+Mien has lag, tiny, but it has lag.  Bom also picked up a tiny amount.~
+Beorn~
+Jul 25, 2006~
+1153835180
+
+Ninja hakunetsu completely redone, lots of damage, but only once per fight.~
+Beorn~
+Jul 25, 2006~
+1153837101
+
+ninja weaken damage lowered- same stat affects~
+Beorn~
+Jul 25, 2006~
+1153837170
+
+circle raised, and given more lag~
+Beorn~
+Jul 25, 2006~
+1153837343
+
+vampire assassinate recoded as well.~
+Beorn~
+Jul 25, 2006~
+1153838505
+
+samurai # of attacks lowered.~
+Beorn~
+Jul 25, 2006~
+1153838819
+
+thats ## of attacks.  stupid color code~
+Beorn~
+Jul 25, 2006~
+1153838846
+
+Ninjas must be using Kakusu to Hakunetsu~
+Beorn~
+Jul 25, 2006~
+1153839433
+
+Ninjas cannot Hakunetsu a fighting person either.~
+Beorn~
+Jul 25, 2006~
+1153839457
+
+removed a bunch of stupid shit from half finished classes~
+Beorn~
+Jul 25, 2006~
+1153839962
+
+Vampire assassinate is now affected by Superior Protection and Sanctuary~
+Beorn~
+Jul 25, 2006~
+1153841070
+
+Superior Protection now reduces all damage it affects by 10 percent.~
+Beorn~
+Jul 25, 2006~
+1153841140
+
+Sanctuary reduces damage by 25 percent now.~
+Beorn~
+Jul 25, 2006~
+1153841230
+
+All class skills will require targets.  Please report any that do not.~
+Beorn~
+Jul 25, 2006~
+1153841521
+
+Ironmind changed so it affects more than one hit.~
+Beorn~
+Jul 25, 2006~
+1153848768
+
+bonus attacks for pkpowers changed to only work with enough upgrades.~
+Beorn~
+Jul 25, 2006~
+1153848868
+
+all pkpowers should now be working and displaying properly for what you have,~
+Beorn~
+Jul 25, 2006~
+1153848884
+
+more classes have specific upgrade messages now~
+Beorn~
+Jul 25, 2006~
+1153849693
+
+UK fear ability is no longer rigged.  Overlooked side affect of monk changes is fixed.~
+Beorn~
+Jul 25, 2006~
+1153854499
+
+Powerword kill lowered a bit.  40k was a bit crazy.~
+Beorn~
+Jul 25, 2006~
+1153855267
+
+recall is available from combat and with ft.  Dont like it? add curse to your weapons.~
+Beorn~
+Jul 25, 2006~
+1153859314
+
+golems beefed, and spellcolors for casters boosted across~
+Beorn~
+Jul 25, 2006~
+1153873954
+
+increased qp from arena tokens~
+Dertaherup~
+Jul 26, 2006~
+1153895885
+
+modified an imm command~
+Dertaherup~
+Jul 26, 2006~
+1153896537
+
+fixed the mithril bug with quest items~
+Dertaherup~
+Jul 26, 2006~
+1153909501
+
+status displays wrong on who- range is still only 4 up 4 down.~
+Beorn~
+Jul 29, 2006~
+1154230521
+
+who fixed.  Will write a better system when have time.~
+Beorn~
+Jul 29, 2006~
+1154231836
+
+flakes temporarily removed pending reworking of dispersal system~
+Beorn~
+Jul 29, 2006~
+1154232689
+
+werewolf damcap lowered~
+Beorn~
+Jul 30, 2006~
+1154237862
+
+swoop rewritten, now is an opener attack~
+Beorn~
+Jul 30, 2006~
+1154299079
+
+angels classtravel is now angelfly.~
+Beorn~
+Jul 30, 2006~
+1154299102
+
+ninja hakanetsu now removes truesight, blinds, and chance to web.~
+Beorn~
+Jul 30, 2006~
+1154300114
+
+My apologies.  Werewolf damcap is actually fixed now.~
+Beorn~
+Jul 30, 2006~
+1154306336
+
+kill is fixed.~
+Beorn~
+Jul 30, 2006~
+1154307533
+
+pk is displayed on info now, there will be no excuses and no toleration of ganging.  You have been warned.~
+Beorn~
+Jul 30, 2006~
+1154312717
+
+you now have a bounty when you train avatar.~
+Beorn~
+Jul 30, 2006~
+1154317748
+
+new area added to the hourly invasions, and removed an area from the hourlys that spawned 0~
+Dertaherup~
+Jul 30, 2006~
+1154317959
+
+Fixed a bug in OLC with area flags not saving properly~
+Dertaherup~
+Jul 30, 2006~
+1154318201
+
+Your bounty raise when you kill someone now reflects their bounty when they died, their upgrade, and their gen.~
+Beorn~
+Jul 30, 2006~
+1154318258
+
+tweaked copyover code~
+Dertaherup~
+Jul 30, 2006~
+1154320104
+
+modified exp: the amount gained is now much more dependant on the mobs level~
+Dertaherup~
+Jul 31, 2006~
+1154331144
+
+removed the xp change due to mathematical inconsistencies, will fix it when I'm not tired~
+Dertaherup~
+Jul 31, 2006~
+1154337113
+
+if you have ft at altar, you can be attacked with the kill command~
+Beorn~
+Jul 31, 2006~
+1154399264
+
+retort now gives you one melee hit.  you have good melee, its a strong hit, you don't, it obviously isnt.~
+Beorn~
+Jul 31, 2006~
+1154401085
+
+fixed chaoseq satchel~
+Dertaherup~
+Aug 02, 2006~
+1154500742
+
+removed a useless command and redid the help file for resets~
+Dertaherup~
+Aug 03, 2006~
+1154587261
+
+donateing no long removes owner from claimed items~
+Dertaherup~
+Aug 04, 2006~
+1154728073
+
+Elfstones should be displaying damage now.~
+Beorn~
+Aug 04, 2006~
+1154728095
+
+elfstones damage lowered slightly.  mages should be forced to use their other abilities now to win.~
+Beorn~
+Aug 04, 2006~
+1154728430
+
+removed mightright checks, being a weak outside newbie hours will not keep you safe now~
+Dertaherup~
+Aug 04, 2006~
+1154745195
+
+"see you later, alligator" logout message is about the most faggot shit I have ever seen- changed to reflect the attitude of the current staff.  Fuck you and have a nice day.~
+Beorn~
+Aug 05, 2006~
+1154761688
+
+Ninja bomuzite now stuns the victim.~
+Dertaherup~
+Aug 06, 2006~
+1154862488
+
+Samurai hit/dam and ac bonus is lowered.~
+Beorn~
+Aug 06, 2006~
+1154899736
+
+Superior Protection isnt rigged anymore.~
+Beorn~
+Aug 06, 2006~
+1154903030
+
+all samurai make new katanas or be nuked.~
+Beorn~
+Aug 06, 2006~
+1154914743
+
+updated help artifact with correct cost~
+Dertaherup~
+Aug 06, 2006~
+1154920641
+
+anyone fighting a samurai who's katanas still have vorpal, make sure and let me know right away.~
+Beorn~
+Aug 06, 2006~
+1154920943
+
+Removed arena deathmatch. Learn to hunt, pussies.~
+Dertaherup~
+Aug 09, 2006~
+1155116426
+
+Samurai katanas are now back to haste.. remove and remake your old ones or be removed :)~
+Talyn~
+Aug 11, 2006~
+1155350716
+
+sorry, ive been on vacation and drunk off my ass for past 2ish weeks due to turning 21, so nothing done too mud.  will be back to normal updates soon as I sober up.~
+Beorn~
+Aug 18, 2006~
+1155877366
+
+all people on while my drunk ass (now actually legally) is on gets 50 stores.  Fuck anyone who isnt, I dont care what your complaints are,  HAHAHAHA!~
+Beorn~
+Aug 18, 2006~
+1155877875
+
+modified who for proper grammer~
+Dertaherup~
+Aug 25, 2006~
+1156538909
+
+fixed a crash bug~
+Dertaherup~
+Aug 31, 2006~
+1157004200
+
+There's a secret out there.  But you have to find it.  You'll know it when you see it.~
+Beorn~
+Sep 07, 2006~
+1157675015
+
+bladespin un-nerfed~
+Beorn~
+Sep 07, 2006~
+1157675713
+
+Leaderboard fixed and reset classleader updated~
+Joshua~
+Sep 07, 2006~
+1157689017
+
+Don't ask the imms what the secret is, because we will punish you.  The idea is for YOU to find it.~
+Beorn~
+Sep 08, 2006~
+1157691847
+
+classleader cleared, and cleaderclear added for imms to use to reset individual lines.~
+Beorn~
+Sep 08, 2006~
+1157748377
+
+imms shouldn't be taking the classleader spots anymore, even when they set themselves to avatar.~
+Beorn~
+Sep 08, 2006~
+1157748728
+
+renamed Sir Greg and redid his eq~
+Dertaherup~
+Oct 03, 2006~
+1159935073
+
+Cleaned up the code and added a system data for misc things, will be advancing it further. Right now it stores a nice copyover effect, Silent Copyover's or msg'ed ones.~
+Chrono~
+Nov 11, 2006~
+1163227559
+
+Warning Imm's without shell, can now search logs or player files.~
+Chrono~
+Nov 12, 2006~
+1163323825
+
+woo~
+Silk~
+Feb 06, 2007~
+1170761463
+

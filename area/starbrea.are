@@ -1,0 +1,1033 @@
+#AREADATA
+Name        Seppuku Unfinished Area~
+Builders    Starbreaker~
+VNUMs       102000 102099
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#102000
+yellow chocobo~
+A Yellow Chocobo~
+An extremely large #yyellow bird#n, possible a chocobo, is here, #r'warking'#n at you. 
+~
+~
+515 524288 500 S
+1063 0 0 50d3+3 0d0+0
+0 0
+0 0 0
+#102001
+black chocobo~
+A Black Chocobo~
+A black chocobo is flying around you, #r'warking'#n at you. 
+~
+~
+515 512 0 S
+1062 0 0 100d3+3 0d0+0
+0 0
+0 0 1
+#102002
+red chocobo~
+A Red Chocobo~
+A #rred#n chocobo is here, #r'warking'#n and launching choco meteors at everybody!
+~
+~
+1027 128 0 S
+1213 0 0 100d3+3 0d0+0
+0 0
+0 0 0
+#102003
+ugly goblin ~
+A Goblin~
+An ugly goblin, wearing a #rred#n hat, is here, looking for someone to pummel. 
+~
+~
+7 0 0 S
+974 0 0 50d3+3 0d0+0
+0 0
+0 0 0
+#102004
+Black Goblin~
+A Black Goblin~
+A Black Goblin is here, wonder whether it can beat you up.
+~
+~
+3 512 0 S
+1166 0 0 100d3+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#102000
+Dorter Trade City~
+You stand in the midde of Magic City Gariand, one of the major cities
+in the land of Ivalice.  You marvel at the town where well-known heroes have
+come from.  This is also the town where St.  Ajora was born.  You glance
+around and see many buildings around you.  There is a store, a bar, and a
+soldier training field.  To the south, you see Orbornne Monastery. To the  
+east you see an exit out of the city.
+~
+0 4 1
+D0
+~
+~
+0 0 102018
+D1
+~
+~
+0 0 102001
+D2
+~
+~
+0 0 102002
+D3
+~
+~
+0 0 102005
+S
+#102001
+Araguay Woods~
+You find this land very easy to traverse, since it is so flat.  The
+terrain is quite barren and filled with rocks.  You can see the shadows of
+monsters sneaking around these rocks.  You suddenly don't feel too safe
+since you can hear the chitter of many monsters.  
+~
+0 0 0
+D2
+~
+~
+0 0 102023
+D3
+~
+~
+0 0 102000
+S
+#102002
+Outside of Orbornne Monastery~
+This castle is devoid of everything.  The front of the monastery has been
+deserted.  The only thing keeping you company is a soft breeze.  You walk
+slowly on the drawbridge, wondering where everyone has gone.  You glance at
+something on the floor.  You see #rblood#n stains.  Uh oh, you are getting
+nervous.  You see the grisly bits and pieces of some ripped up knights. 
+Despite this ominous scene, you still go in.  You want to get to the bottom
+of this.
+~
+0 0 0
+D0
+~
+~
+0 0 102000
+D2
+~
+~
+0 0 102003
+S
+#102003
+Underground Book Storage Floor 1~
+You traverse down the stairs and look around, seeing bookcase among
+bookcase filled with books.  The church must be rich indeed, to have enough
+money to print these books.  The room smells musty, probably due to the fact
+that it is not very well ventilated.  You glance around one of the
+bookshelves and spy a battalion of monks and knights.  
+~
+0 0 0
+D0
+~
+~
+0 0 102002
+D5
+~
+~
+0 0 102004
+S
+#102004
+Underground Book Storage Floor 2~
+You come into the part of the monastary, chasing down a mysterious robed
+figure.  You see even more books on this floor.  After rounding a corner,
+you are not too shocked to see some Lancers and Geomancers waiting for you. 
+~
+0 0 0
+D4
+~
+~
+0 0 102003
+D5
+~
+~
+0 0 102063
+S
+#102005
+Sweegy Woods~
+This is a primeval forest surrounded by a mountain range.  You can tell
+that this area used to be bustling with life.  Now it is home to only
+extinct moogles.  You almost mistook this area for a swamp, since there are
+so many dead trees.  The dead trees are overflowing with maggots.  You want
+to get out of this area as soon as possible.  
+~
+0 0 0
+D1
+~
+~
+0 0 102000
+D3
+~
+~
+0 0 102006
+S
+#102006
+Gariland Magic City~
+~
+0 0 0
+D0
+~
+~
+0 0 102014
+D1
+~
+~
+0 0 102005
+D3
+~
+~
+0 0 102007
+S
+#102007
+Mandalia Plains~
+This area is known as Beast Plains, since the #wwhite limestone#n plains
+look like elephant tusks.  This area if relatively flat, except for a few
+rocks jutting out of the ground.  This area looks pretty tame, so you
+venture deeper into it.  Suddenly you freeze, since you can see fast moving
+shadows darting around behind the rocks.  
+~
+0 0 2
+D0
+~
+~
+0 0 102008
+D1
+~
+~
+0 0 102006
+D2
+~
+~
+0 0 102047
+S
+#102008
+Pathway to Igros Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102009
+D2
+~
+~
+0 0 102007
+S
+#102009
+Foyer of Igros Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102012
+D1
+~
+~
+0 0 102011
+D2
+~
+~
+0 0 102008
+D3
+~
+~
+0 0 102010
+S
+#102010
+Soldier Shop~
+~
+0 0 0
+D1
+~
+~
+0 0 102009
+S
+#102011
+Meeting Hall~
+~
+0 0 0
+D3
+~
+~
+0 0 102009
+S
+#102012
+Fort Zeakden~
+~
+0 0 0
+D1
+~
+~
+0 0 102013
+D2
+~
+~
+0 0 102009
+S
+#102013
+Fovoham Plains~
+~
+0 0 0
+D1
+~
+~
+0 0 102015
+D2
+~
+~
+0 0 102014
+D3
+~
+~
+0 0 102012
+S
+#102014
+Lenalia Plateau~
+This area is pretty bare, except for the bristles, which cover what seem
+to be gravestones.  This region is very hilly and there are varying heights.
+You do not like this area since there is so little scenery around.  You can
+hear the dripping of morbol goo.  
+~
+0 0 0
+D0
+~
+~
+0 0 102013
+D2
+~
+~
+0 0 102006
+S
+#102015
+Outside of Riovanes Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102016
+D1
+~
+~
+0 0 102020
+D2
+~
+~
+0 0 102017
+D3
+~
+~
+0 0 102013
+S
+#102016
+Inside of Riovanes Castle~
+~
+0 0 0
+D2
+~
+~
+0 0 102015
+S
+#102017
+Bervenia Volcano~
+~
+0 0 0
+D0
+~
+~
+0 0 102015
+D2
+~
+~
+0 0 102018
+S
+#102018
+Zeklaus Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 102017
+D1
+~
+~
+0 0 102019
+D2
+~
+~
+0 0 102000
+S
+#102019
+Goland Coal City~
+~
+0 0 0
+D0
+~
+~
+0 0 102022
+D3
+~
+~
+0 0 102018
+S
+#102020
+Yuguo Woods~
+~
+0 0 0
+D1
+~
+~
+0 0 102021
+D3
+~
+~
+0 0 102015
+S
+#102021
+Grog Hill~
+~
+0 0 0
+D1
+~
+~
+0 0 102049
+D2
+~
+~
+0 0 102022
+D3
+~
+~
+0 0 102020
+S
+#102022
+Lesalia Imperial Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102021
+D2
+~
+~
+0 0 102019
+S
+#102023
+Zirekile Falls~
+~
+0 0 0
+D0
+~
+~
+0 0 102001
+D1
+~
+~
+0 0 102048
+D2
+~
+~
+0 0 102024
+S
+#102024
+Zaland Fort City~
+~
+0 0 0
+D0
+~
+~
+0 0 102023
+D1
+~
+~
+0 0 102025
+S
+#102025
+Baraius Hill~
+~
+0 0 0
+D2
+~
+~
+0 0 102026
+D3
+~
+~
+0 0 102024
+S
+#102026
+Lionel Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102025
+D1
+~
+~
+0 0 102027
+D3
+~
+~
+0 0 102043
+S
+#102027
+Baraius Valley~
+~
+0 0 0
+D2
+~
+~
+0 0 102028
+D3
+~
+~
+0 0 102026
+S
+#102028
+Fork in the road~
+~
+0 0 0
+D0
+~
+~
+0 0 102027
+D1
+~
+~
+0 0 102029
+D3
+~
+~
+0 0 102042
+S
+#102029
+Warjilis Trade City~
+~
+0 0 0
+D1
+~
+~
+0 0 102030
+D3
+~
+~
+0 0 102028
+S
+#102030
+On the way to Deep Dungeon~
+~
+0 0 0
+D1
+~
+~
+0 0 102031
+D3
+~
+~
+0 0 102029
+S
+#102031
+Entrance to Deep Dungeon~
+~
+0 0 0
+D3
+~
+~
+0 0 102030
+D5
+~
+~
+0 0 102032
+S
+#102032
+NOGIAS~
+~
+0 0 0
+D4
+~
+~
+0 0 102031
+D5
+~
+~
+0 0 102033
+S
+#102033
+TERMINATE~
+~
+0 0 0
+D4
+~
+~
+0 0 102032
+D5
+~
+~
+0 0 102034
+S
+#102034
+DELTA~
+~
+0 0 0
+D4
+~
+~
+0 0 102033
+D5
+~
+~
+0 0 102035
+S
+#102035
+VALKYRIES~
+~
+0 0 0
+D4
+~
+~
+0 0 102034
+D5
+~
+~
+0 0 102036
+S
+#102036
+MLAPAN~
+~
+0 0 0
+D4
+~
+~
+0 0 102035
+D5
+~
+~
+0 0 102037
+S
+#102037
+TIGER~
+~
+0 0 0
+D4
+~
+~
+0 0 102036
+D5
+~
+~
+0 0 102038
+S
+#102038
+BRIDGE~
+~
+0 0 0
+D4
+~
+~
+0 0 102037
+D5
+~
+~
+0 0 102039
+S
+#102039
+VOYAGE~
+~
+0 0 0
+D4
+~
+~
+0 0 102038
+D5
+~
+~
+0 0 102040
+S
+#102040
+HORROR~
+~
+0 0 0
+D4
+~
+~
+0 0 102039
+D5
+~
+~
+0 0 102041
+S
+#102041
+END~
+~
+0 0 0
+D4
+~
+~
+0 0 102040
+S
+#102042
+Golgarand Execution Site~
+~
+0 0 0
+D1
+~
+~
+0 0 102028
+S
+#102043
+Zigolis Swamp~
+~
+0 0 0
+D1
+~
+~
+0 0 102026
+D3
+~
+~
+0 0 102044
+S
+#102044
+Goug Machine City~
+~
+0 0 0
+D0
+~
+~
+0 0 102045
+D1
+~
+~
+0 0 102043
+S
+#102045
+Entrance to Murond Holy Palace~
+~
+0 0 0
+D0
+~
+~
+0 0 102046
+D2
+~
+~
+0 0 102044
+S
+#102046
+Interior of Murond Holy Place~
+~
+0 0 0
+D0
+~
+~
+0 0 102047
+D2
+~
+~
+0 0 102045
+S
+#102047
+Thieves Fort~
+~
+0 0 0
+D0
+~
+~
+0 0 102007
+D2
+~
+~
+0 0 102046
+S
+#102048
+Bethla Garrison~
+~
+0 0 0
+D0
+~
+~
+0 0 102051
+D1
+~
+~
+0 0 102061
+D3
+~
+~
+0 0 102023
+S
+#102049
+Doguola Pass~
+~
+0 0 0
+D1
+~
+~
+0 0 102050
+D3
+~
+~
+0 0 102021
+S
+#102050
+Bervenia Free City~
+~
+0 0 0
+D1
+~
+~
+0 0 102052
+D2
+~
+~
+0 0 102051
+D3
+~
+~
+0 0 102049
+S
+#102051
+Bed Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 102050
+D2
+~
+~
+0 0 102048
+S
+#102052
+Finath River~
+~
+0 0 0
+D1
+~
+~
+0 0 102053
+D3
+~
+~
+0 0 102050
+S
+#102053
+Outside of Zeltennia Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102054
+D1
+~
+~
+0 0 102056
+D3
+~
+~
+0 0 102052
+S
+#102054
+Inside of Zeltennia Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102055
+D2
+~
+~
+0 0 102053
+S
+#102055
+Nelveska Temple~
+~
+0 0 0
+D2
+~
+~
+0 0 102054
+S
+#102056
+Zarghidas Trade City~
+~
+0 0 0
+D2
+~
+~
+0 0 102057
+D3
+~
+~
+0 0 102053
+S
+#102057
+Germinas Peak~
+~
+0 0 0
+D0
+~
+~
+0 0 102056
+D2
+~
+~
+0 0 102058
+S
+#102058
+Poeskas Lake~
+~
+0 0 0
+D0
+~
+~
+0 0 102057
+D2
+~
+~
+0 0 102059
+S
+#102059
+Pathway to Limberry Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102058
+D3
+~
+~
+0 0 102060
+S
+#102060
+Outside of Limberry Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 102059
+D2
+~
+~
+0 0 102062
+D3
+~
+~
+0 0 102061
+S
+#102061
+Golbodar Swamp~
+~
+0 0 0
+D1
+~
+~
+0 0 102060
+D3
+~
+~
+0 0 102048
+S
+#102062
+Inside of Limberry Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 102060
+S
+#102063
+Underground Book Storage Floor 3~
+~
+0 0 0
+D4
+~
+~
+0 0 102004
+D5
+~
+~
+0 0 102064
+S
+#102064
+Underground Book Storage Floor 4~
+~
+0 0 0
+D4
+~
+~
+0 0 102063
+D5
+~
+~
+0 0 102065
+S
+#102065
+Underground Book Storage Floor 5~
+~
+0 0 0
+D4
+~
+~
+0 0 102064
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 102000 3 102007
+M 0 102000 2 102007
+M 0 102003 2 102007
+M 0 102000 2 102007
+M 0 102000 2 102007
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

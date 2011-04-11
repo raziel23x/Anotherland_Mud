@@ -1,0 +1,56 @@
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "merc.h"
+
+//slimbolious speed bless increases attacks
+/*for fight.c
+if(ch->pcdata->clepal[7]>=1){
+if(IS_CLASS(ch,CLASS_CLEPAL) count+=5
+else count+=2;}
+//gardonia
+if(ch->pcdata->clepal[8]>=1){
+if(IS_CLASS(ch,CLASS_CLEPAL) count+=5
+else count+=2;}
+//mulier damage
+if(ch->pcdata->clepal[9]>=1){
+if(IS_CLASS(ch,CLASS_CLEPAL) dam*=2.2
+else dam*=1.7;}
+//uxor   resist
+if(victim->pcdata->clepal[10]>=1){
+if(IS_CLASS(victim,CLASS_CLEPAL) dam*=.6
+else dam*=.75;}
+//obitus  sanct bonus
+if(victim->pcdata->clepal[11]>=1){
+if(IS_CLASS(victim,CLASS_CLEPAL) dam*=.85
+else dam*=.9;}
+//letum damcap
+if(ch->pcdata->clepal[12]>=1){
+if(IS_CLASS(ch,CLASS_CLEPAL) max_dam+=1000
+else max_dam+=600;}
+//funus
+if(victim->pcdata->clepal[13]>=1){
+if(IS_CLASS(victim,CLASS_CLEPAL) max_dam-=800
+else max_dam-=400;}
+//caritas parry
+//ætaluta dodge
+//battuere heal
+//grayimur retort
+//belaik  ultimate bless combo bless
+//salithus  time bless
+
+// blesstimer for update.c
+for(i=7,i>18,i++){
+if(ch->pcdata->clepal[i]>10&&ch->pcdata->clepal[19]==0){
+  stc("One of your blesses fade away.\n\r",ch);
+  ch->pcdata->clepal[i]=0;}
+else if(ch->pcdata->clepal[i]>10&&ch->pcdata->clepal[19]>0)
+      stc("Your time bless increases the length of one of your blesses.\n\r",ch);
+      ch->pcdata->clepal[i]-=3;}
+else if(ch->pcdata->clepal[1]!=0) ch->pcdata->clepal[i]+=1;}

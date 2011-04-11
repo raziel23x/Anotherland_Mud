@@ -1,0 +1,2449 @@
+/******************************************************************************
+ *
+ *      File:                   dknight.c
+ *
+ *      Function:               Death Knight Class
+ *
+ *      Author(s):              Ryan Pessa (Tamas D'Varde)
+ *
+ *      Copyright:              Copyright (c) 1999 Ryan Pessa
+ *                                      All Rights Reserved.
+ *
+ *****************************************************************************/
+
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "merc.h"
+#include "player.h"
+
+// #define stc send_to_char
+/*
+#define IS_AFF(a,b)  IS_SET( (a)->affected_by, (b) )
+#define IS_ACT(a,b)  IS_SET( (a)->act, (b) )
+#define IS_AFF2(a,b) IS_SET( (a)->affected_by2, (b) )
+
+#define SET_AFF(a,b)  SET_BIT( (a)->affected_by, (b) )
+#define SET_ACT(a,b)  SET_BIT( (a)->act, (b) )
+#define SET_AFF2(a,b) SET_BIT( (a)->affected_by2, (b) )
+
+#define REMOVE_AFF(a,b)  REMOVE_BIT( (a)->affected_by, (b) )
+#define REMOVE_ACT(a,b)  REMOVE_BIT( (a)->act, (b) )
+#define REMOVE_AFF2(a,b) REMOVE_BIT( (a)->affected_by2, (b) )
+*/
+#define PLR_CANFIGHT(ch)        (  !IS_AFF(ch,AFF_STEELSHIELD) \
+                                && (!IS_ITEMAFF(ch,ITEMA_PEACE)) \
+                                && (!IS_AFF(ch,AFF_SHADOWPLANE)) \
+                                && !IS_SET(ch->in_room->room_flags,ROOM_SAFE) \
+                                && CAN_PK(ch) )
+#define PUNC_OTHER(c,v,d)		hurt_person(c, v, d);
+
+#define CAN_FIGHT(ch, victim)     ((IS_NPC(victim)&&!IS_SET(ch->in_room->room_flags,ROOM_SAFE) \
+)||(PLR_CANFIGHT(ch) && PLR_CANFIGHT(victim) \
+                                && ( (!IS_AFF(ch,AFF_SHADOWPLANE) && !IS_AFF(victim,AFF_SHADOWPLANE)) \
+                                || (IS_AFF(ch,AFF_SHADOWPLANE) && IS_AFF(ch,AFF_SHADOWPLANE)))))
+
+#define start_fight(ch, victim) { \
+                                if ( !(ch)->fighting ) \
+                                set_fighting((ch),(victim)); \
+                                if ( !(victim)->fighting ) \
+                                set_fighting((victim),(ch)); \
+                                }
+
+#define LIFEFORCE(ch)   (ch)->pcdata->stats[DROW_POWER]
+
+void add_affect(OBJ_DATA* obj,int apply,long value);
+
+const char * rank_names[] =
+{
+        "Black Fury",
+        "Lord of Death",
+        "Minion of Death",
+        "Priest of Death",
+        "General",
+        "Commander",
+        "Commodore",
+        "Lieutenant Commander",
+        "Lieutenant",
+        "Captain",
+        "Private",
+        "Trainee",
+        "Recruit",
+        "demi-human swordcushion"
+};
+
+const int rank_costs[] =
+{
+        999999999,      // Unused
+        999999999,      // Lord
+        999999999,      // Minion
+        100000,         // Priest
+        50000,          // General
+        35000,          // Commander
+        25000,          // Commodore
+        17500,          // Lieu C
+        15000,          // Lieu
+        10000,          // Captain
+        7000,           // Private
+        5000,           // Trainee
+        1000,           // Recruit
+        0               // swordcushion
+};
+
+void do_dpowers( CHAR_DATA *ch, char *argument )
+{
+    char arg1[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+    char buf[MAX_STRING_LENGTH];
+    int power;
+    int costs[7];
+    int gen[7];
+    int genx;
+
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+                send_to_char("Huh?\n\r",ch);
+                return;
+    }
+
+    if (!arg1[0])
+        sprintf( arg1, "x" );
+
+    if (arg2[0] == '\0')
+    {
+                if (!str_cmp(arg1,"life"))
+        {
+            send_to_char("#3Life - Powers dealing with your life before the Curse fell upon you.\n\r",ch);
+            power = ch->pcdata->powers[DKPOWER_LIFE];
+            if (power < 1)
+              send_to_char("#3You have retained nothing from your past life.\n\r",ch);
+            if (power > 0)
+              send_to_char("#3Your lifeforce from your past life can be stored in a mystical blade.\n\r",ch);
+                if (power > 1)
+                  send_to_char("#3You regenerate quicker than most mortals.\n\r", ch);
+            if (power > 2)
+              send_to_char("#3You can remember objects from your past life.\n\r",ch);
+            if (power > 3)
+              send_to_char("#3You can store your lifeforce in your material things.\n\r",ch);
+                if (power > 4)
+                  send_to_char("#3You can grow two more living arms.\n\r", ch);
+            return;
+        }
+        else if (!str_cmp(arg1,"death"))
+        {
+            send_to_char("#0Death - Powers gained from the Curse of the undead.\n\r",ch);
+            power = ch->pcdata->powers[DKPOWER_DEATH];
+            if (power < 1)
+              send_to_char("#0Your death has gained you naught.\n\r",ch);
+            if (power > 0)
+              send_to_char("#0You can see all things of the mortal and immortal planes.\n\r",ch);
+            if (power > 1)
+              send_to_char("#0You emanate the cold of the grave.\n\r",ch);
+            if (power > 2)
+              send_to_char("#0Your unholy powers protect you from attacks.\n\r",ch);
+                if (power > 3)
+                  send_to_char("#0Your voice chills the hearts of mortals.\n\r",ch);
+            if (power > 4)
+              send_to_char("#0Your touch drains another of their life.\n\r",ch);
+                if (power > 5)
+                  send_to_char("#0You can summon undead minions to command.\n\r",ch);
+            return;
+        }
+        else if (!str_cmp(arg1,"force"))
+        {
+            send_to_char("#4Force - Mystical powers used by only the most powerful beings.\n\r",ch);
+            power = ch->pcdata->powers[DKPOWER_FORCE];
+            if (power < 1)
+              send_to_char("#4You have not achieved mastery over any powers of the force.\n\r",ch);
+            if (power > 0)
+              send_to_char("#4You can walk the shadows.\n\r",ch);
+            if (power > 1)
+              send_to_char("#4You can fade between the shadows and light at will.\n\r",ch);
+            if (power > 2)
+              send_to_char("#4You can stun your enemies with a single word.\n\r",ch);
+            if (power > 3)
+              send_to_char("#4You can blind your opponents with but a word.\n\r",ch);
+            if (power > 4)
+              send_to_char("#4You can slay a foe with a simple muttering.\n\r",ch);
+                if (power > 5)
+                  send_to_char("#4Your words have mastery over the minds of your enemies.\n\r",ch);
+            return;
+        }
+        else if (!str_cmp(arg1,"fire"))
+        {
+            send_to_char("#1Fire - Pure elemental fires that fall under your command.\n\r",ch);
+            power = ch->pcdata->powers[DKPOWER_FIRE];
+            if (power < 1)
+              send_to_char("#1You have not attained mastery over the element of fire.\n\r",ch);
+            if (power > 0)
+              send_to_char("#1You can shoot beams of flame from your palm.\n\r",ch);
+            if (power > 1)
+              send_to_char("#1You can create bursts of flame from the earth.\n\r",ch);
+            if (power > 2)
+              send_to_char("#1You can make balls of scorching flames.\n\r",ch);
+            if (power > 3)
+              send_to_char("#1You can cause a rain of fire to befoul the land.\n\r",ch);
+            if (power > 4)
+              send_to_char("#1You create infernos to destroy your enemies.\n\r",ch);
+            if (power > 5)
+              send_to_char("#1Your flame can consume an opponent.\n\r",ch);
+            return;
+        }
+        else if (!str_cmp(arg1,"ice"))
+        {
+            send_to_char("#6Ice - Pure elemental colds that can be harnessed by your power.\n\r",ch);
+            power = ch->pcdata->powers[DKPOWER_ICE];
+            if (power < 1)
+              send_to_char("#6You cannot harness the cold.\n\r",ch);
+            if (power > 0)
+              send_to_char("#6You can shoot beams of ice from your palm.\n\r",ch);
+            if (power > 1)
+              send_to_char("#6You send shards of ice towards your opponents.\n\r",ch);
+            if (power > 2)
+              send_to_char("#6Your power can freeze a foe.\n\r",ch);
+            if (power > 3)
+              send_to_char("#6You breathe ice upon your enemies.\n\r",ch);
+            if (power > 4)
+              send_to_char("#6You can freeze your opponents into blocks of ice.\n\r",ch);
+            return;
+        }
+        else if (!str_cmp(arg1,"rank"))
+        {
+            int rank = ch->pcdata->stats[UNI_GEN];
+            if (rank == 1)
+            sprintf(buf,"#0You are %s, ruler over the legion of the undead.\n\r",rank_names[1]);
+            else
+            sprintf(buf,"#0You are a %s in the legion of the undead.\n\r",rank_names[rank]);
+            send_to_char(buf,ch);
+            return;
+        }
+/*      else if (!str_cmp(arg1,"power"))
+        {
+            if ( ch->trust >= LEVEL_ARCHMAGE )
+                sprintf(buf,"#0Your power is at it's maximum.\n\r");
+            else if ( ch->trust >= LEVEL_AVATAR )
+                sprintf(buf,"#0Your power can be improved.\n\r");
+            else
+                sprintf(buf,"#0Your power is puny.\n\r");
+            if ( ch->level < LEVEL_AVATAR )
+                sprintf(buf,"#0Your power is puny.\n\r");
+            stc(buf,ch);
+            return;
+        }*/
+        sprintf(buf,"#7Powers:\n\r"
+                    "#3life [#5%d#3/#55#3]   "
+                                "#0death [#5%d#0/#56#0]  "
+                                "#4force [#5%d#4/#56#4]  "
+                                "#1fire [#5%d#1/#56#1]   "
+                                "#6ice [#5%d#6/#55#6]    "
+                                "#orank [#5%d#o]       "
+/*                              "#Rpower"*/
+                                "\n\r",
+                    ch->pcdata->powers[DKPOWER_LIFE],
+                    ch->pcdata->powers[DKPOWER_DEATH],
+                    ch->pcdata->powers[DKPOWER_FORCE],
+                    ch->pcdata->powers[DKPOWER_FIRE],
+                    ch->pcdata->powers[DKPOWER_ICE],
+                    ch->pcdata->stats[UNI_GEN] );
+        send_to_char(buf,ch);
+        return;
+    }
+
+    if (!str_cmp(arg2,"improve"))
+    {
+        int improve;
+        int cost;
+        int max;
+
+             if (!str_cmp(arg1,"life" ))    {improve = DKPOWER_LIFE;    max=5;}
+        else if (!str_cmp(arg1,"death"))    {improve = DKPOWER_DEATH;   max=6;}
+        else if (!str_cmp(arg1,"force"))    {improve = DKPOWER_FORCE;   max=6;}
+        else if (!str_cmp(arg1,"fire"))     {improve = DKPOWER_FIRE;    max=6;}
+        else if (!str_cmp(arg1,"ice"))      {improve = DKPOWER_ICE;     max=5;}
+        else if (!str_cmp(arg1,"rank"))     {improve = -1; max = 3;}
+/*      else if (!str_cmp(arg1,"power"))    {improve = -1; max = -1;}*/
+        else
+        {
+            send_to_char("Your undead powers are called from life, death, force, fire, and ice.\n\r",ch);
+//          send_to_char("You may also increase your rank or power.\n\r",ch);
+            send_to_char("You may also increase your rank.\n\r",ch);
+            return;
+        }
+        switch (improve) {
+          case DKPOWER_LIFE:
+                costs[1] = 5;
+                        costs[2] = 15;
+                costs[3] = 25;
+                costs[4] = 40;
+                        costs[5] = 50;
+            gen[1] = 13;
+                        gen[2] = 9;
+            gen[3] = 8;
+            gen[4] = 5;
+                        gen[5] = 3;
+            break;
+          case DKPOWER_DEATH:
+                costs[1] = 5;
+                costs[2] = 10;
+                costs[3] = 20;
+                costs[4] = 45;
+                        costs[5] = 75;
+                        costs[6] = 75;
+            gen[1] = 13;
+            gen[2] = 11;
+            gen[3] = 6;
+                        gen[4] = 5;
+            gen[5] = 4;
+                        gen[6] = 3;
+            break;
+          case DKPOWER_FORCE:
+                costs[1] = 15;
+                costs[2] = 25;
+                costs[3] = 50;
+                costs[4] = 50;
+                costs[5] = 125;
+                        costs[6] = 80;
+            gen[1] = 12;
+            gen[2] = 11;
+            gen[3] = 9;
+            gen[4] = 7;
+            gen[5] = 6;
+                        gen[6] = 4;
+            break;
+          case DKPOWER_FIRE:
+                costs[1] = 10;
+                costs[2] = 15;
+                costs[3] = 25;
+                costs[4] = 35;
+                costs[5] = 45;
+                costs[6] = 55;
+            gen[1] = 11;
+            gen[2] = 10;
+            gen[3] = 8;
+            gen[4] = 6;
+            gen[5] = 4;
+            gen[6] = 2;
+            break;
+          case DKPOWER_ICE:
+                costs[1] = 10;
+                costs[2] = 20;
+                costs[3] = 30;
+                costs[4] = 40;
+                costs[5] = 50;
+            gen[1] = 11;
+            gen[2] = 9;
+            gen[3] = 7;
+            gen[4] = 5;
+            gen[5] = 3;
+            break;
+        }
+
+/*      if (improve == -1 && max == -1)
+        {
+            if ( ch->level < LEVEL_AVATAR )
+                return (do_train(ch,"avatar"));
+            if ( ch->trust < LEVEL_ARCHMAGE )
+            {
+                if ( ch->exp < 100000 )
+                    return (stc("You need 100000 experience.\n\r",ch));
+                ch->exp -= 100000;
+                ch->trust = LEVEL_ARCHMAGE;
+                stc("Your power has now reached its maximum.\n\r",ch);
+                return;
+            }
+            stc("Your power is already at its maximum!\n\r",ch);
+            return;
+        }*/
+        if (improve == -1)
+        {
+            int *pRank = &ch->pcdata->stats[UNI_GEN];
+            int rank = *pRank - 1;
+            if (rank<=2)
+            {
+                stc("You can't attain a higher rank!\n\r",ch);
+                return;
+            }
+            if ( ch->practice < 10 )
+            {
+                stc("You need 10 primal to be promoted.\n\r",ch);
+                return;
+            }
+            if ( LIFEFORCE(ch) < rank_costs[rank] )
+            {
+                sprintf(buf,"You need %d lifeforce to be promoted.\n\r",rank_costs[rank] );
+                stc(buf,ch);
+                return;
+            }
+            ch->practice -= 10;
+            LIFEFORCE(ch) -= rank_costs[rank];
+            (*pRank)--;
+            sprintf(buf,"#0%s has attained the rank of %s in the legion of the undead.\n\r",ch->name,rank_names[rank]);
+            do_info(ch,buf);
+            return;
+        }
+
+        if ( ch->pcdata->powers[improve] >= max )
+        {
+                sprintf(buf,"You have already gained all the powers of %s.\n\r",arg1);
+            send_to_char(buf,ch);
+            return;
+        }
+
+                cost = costs[ch->pcdata->powers[improve]+1];
+        if ( cost > ch->practice )
+        {
+                sprintf(buf,"It costs %d primal to gain another power of %s.\n\r", cost, arg1);
+            send_to_char(buf,ch);
+            return;
+        }
+
+                genx = gen[ch->pcdata->powers[improve]+1];
+        if ( genx < ch->pcdata->stats[UNI_GEN] )
+        {
+                sprintf(buf,"You must be of generation %d to gain another power of %s.\n\r", genx, arg1);
+                        send_to_char(buf,ch);
+            return;
+        }                                         
+
+        ch->pcdata->powers[improve] += 1;
+                ch->practice -= cost;
+                sprintf(buf,"You have gained another power of %s.\n\r", arg1);
+                send_to_char(buf,ch);
+    }
+    else send_to_char("To gain another power, type: powers <power type> improve.\n\r",ch);
+    return;
+}
+
+
+
+/*******************************
+ *        DKPOWER_LIFE         *
+ *******************************/
+void do_lifeblade( CHAR_DATA *ch, char *argument )
+{
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        send_to_char("Huh?\n\r", ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_LIFE] < 1 )
+    {
+        send_to_char("You do not have the first power of life.\n\r",ch);
+        return;
+    }
+
+    if ( IS_SET( ch->act, PLR_LIFEBLADE ) )
+    {
+        REMOVE_BIT( ch->act, PLR_LIFEBLADE );
+        send_to_char("Your shimmering blade folds into itself.\n\r",ch);
+        act("$n's shimmering blade folds into itself.",ch,NULL,NULL,TO_ROOM);
+//              if (!(lifeblade = get_eq_char( ch, WEAR_WIELD ) ) )
+//            return;
+//              unequip_char( ch, lifeblade );
+//              extract_obj( lifeblade );
+        return;
+    }
+
+/*    if ( (lifeblade = get_eq_char( ch, WEAR_WIELD )) )
+    {
+                do_remove( ch, str_dup(lifeblade->name) );
+                if ( get_eq_char( ch, WEAR_WIELD ) )
+                {
+                send_to_char( "But your hands are full!\n\r", ch );
+                return;
+                }
+    }*/
+
+    SET_BIT( ch->act, PLR_LIFEBLADE );
+    send_to_char("A shimmering blade encompasses your current weapon!\n\r",ch);
+    act("A shimmering blade encompasses $n's current weapon!",ch,NULL,NULL,TO_ROOM);
+/*    if ( !(lifebladeIndex = get_obj_index( OBJ_VNUM_LIFEBLADE )) )
+    {
+        stc("The lifeblade object isn't there!  Inform Devik!\n\r",ch);
+        return;
+    }
+    lifeblade = create_object(lifebladeIndex, 50);
+    obj_to_char(lifeblade, ch);
+    equip_char(ch, lifeblade, WEAR_WIELD);*/
+}
+
+void do_imbue( CHAR_DATA *ch, char *argument)
+{
+    OBJ_DATA *obj;
+    char arg[MAX_INPUT_LENGTH];
+    int gen;
+    argument = one_argument(argument, arg);
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+            send_to_char("Huh?\n\r",ch);
+            return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_LIFE] < 4 )
+    {
+        send_to_char("You do not have the fourth power of life.\n\r",ch);
+        return;
+    }
+
+    if( !(obj = get_obj_carry(ch,arg)) )
+        if( !(obj = get_obj_wear(ch,arg)) )
+        {
+            send_to_char("You don't have that.\n\r",ch);
+            return;
+        }
+
+    if ( IS_SET( obj->quest, QUEST_RELIC ) ||
+         IS_SET( obj->quest, QUEST_ARTIFACT ) || (str_cmp(obj->questowner, ch->name)))
+    {
+        send_to_char("You can't imbue that!\n\r",ch);
+        return;
+    }
+
+    if (ch->mana < 1000)
+    {
+        send_to_char("It costs 1000 mana to imbue something.\n\r",ch);
+        return;
+    }
+
+    if (ch->pcdata->stats[DROW_POWER] < 10000)
+    {
+        send_to_char("It costs 10000 lifeforce to imbue something.\n\r",ch);
+        return;
+    }
+
+    ch->mana -= 1000;
+    ch->pcdata->stats[DROW_POWER] -= 10000;
+
+    gen = ch->pcdata->stats[UNI_GEN];
+
+        SET_BIT(obj->quest, QUEST_RELIC);               //Make it a relic
+        free_string(obj->questowner);                   //Clear owner slot
+        obj->questowner = str_dup(ch->name);    //Set owner to Victim
+    add_affect(obj,APPLY_HIT,number_fuzzy(50));
+    add_affect(obj,APPLY_MANA,number_fuzzy(50));
+    add_affect(obj,APPLY_MOVE,number_fuzzy(50));
+    add_affect(obj,APPLY_HITROLL,number_fuzzy(15));
+    add_affect(obj,APPLY_DAMROLL,number_fuzzy(15));
+    add_affect(obj,APPLY_AC,-number_fuzzy(250));
+
+    act("$p glows with unholy power.",ch,obj,NULL,TO_CHAR);
+    act("$n's $p glows with unholy power.",ch,obj,NULL,TO_ROOM);
+
+    return;
+
+}
+
+void do_lifeform( CHAR_DATA *ch, char *argument )
+{
+    char         buf[MAX_STRING_LENGTH];
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+                stc("Huh?",ch);
+                return;
+    }
+
+    if (IS_SET(ch->polyaff,POLY_LIFEFORM)){
+      REMOVE_BIT(ch->affected_by, AFF_POLYMORPH);
+      REMOVE_BIT(ch->polyaff,POLY_LIFEFORM);
+      free_string(ch->morph);
+      ch->morph = str_dup(ch->name);
+      stc("#0Your form shifts and you return to your undead state.\n\r",ch);
+      act("#0$n's form shifts and $e returns to $s undead state.\n\r",ch,NULL,NULL,TO_ROOM);
+      ch->hitroll -= 1000;
+      ch->damroll -= 1000;
+      ch->armor += 1000;
+      return;}
+
+    SET_BIT(ch->affected_by, AFF_POLYMORPH);
+    SET_BIT(ch->polyaff,POLY_LIFEFORM);
+    sprintf(buf,"%s, a huge death knight", ch->name);
+    free_string( ch->morph );  
+    ch->morph = str_dup( buf );
+    stc("#3Your form shifts and flesh grows on your bones.\n\r",ch);
+    act("#3$n's form shifts and flesh grows on $s bones.\n\r",ch,NULL,NULL,TO_ROOM);
+    ch->hitroll += 1000;
+    ch->damroll += 1000;
+    ch->armor -= 1000;
+    return;
+}
+
+
+/*******************************
+ *        DKPOWER_DEATH        *
+ *******************************/
+void do_deathsight( CHAR_DATA *ch, char *argument )
+{
+    if (IS_NPC(ch)) return;
+        
+    if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+        {
+                send_to_char("Huh?\n\r", ch);
+                return;
+        }
+        
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 1 )
+        {
+        send_to_char("You do not have the first power of death.\n\r", ch);
+                return;
+        }
+        
+    if ( IS_SET(ch->act, PLR_HOLYLIGHT) )
+    {
+        REMOVE_BIT(ch->act, PLR_HOLYLIGHT);
+        REMOVE_BIT(ch->affected_by, AFF_SHADOWSIGHT);
+        send_to_char( "You no longer see all the planes.\n\r", ch );
+        return;
+    }
+
+    if (ch->mana < 50)
+        {
+        send_to_char("You need 50 mana to see all planes.\n\r", ch);
+                return;
+        } 
+
+        SET_BIT(ch->act, PLR_HOLYLIGHT);
+    SET_BIT(ch->affected_by, AFF_SHADOWSIGHT);
+    send_to_char("Your death grants you vision.\n\r", ch );
+    ch->mana -= 50; 
+
+}
+
+void do_deathfield( CHAR_DATA *ch, char *argument )
+{
+    if (IS_NPC(ch)) return;
+
+    if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+    {
+        send_to_char("Huh?\n\r", ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 2 )
+    {
+        send_to_char("You do not have the second power of death.\n\r",ch);
+        return;
+    }
+
+    if ( IS_AFF2(ch, AFF_DEATHFIELD) )
+    {
+        send_to_char("The death field around you fades away.\n\r",ch);
+        act("The death field around $n fades away.",ch,NULL,NULL,TO_ROOM);
+        REMOVE_AFF2(ch, AFF_DEATHFIELD );
+    }
+    else
+    {
+        if ( ch->mana < 10 )
+        {
+            send_to_char("You need 10 mana to emanate a death field.\n\r",ch);
+            return;
+        }
+
+        send_to_char("The cold of the grave surrounds you.\n\r",ch);
+        act("The cold of the grave surrounds $n.",ch,NULL,NULL,TO_ROOM);
+        SET_AFF2(ch, AFF_DEATHFIELD );
+    }
+}
+
+void do_unholyprotection( CHAR_DATA *ch, char *argument )
+{
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        send_to_char("Huh?\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 3 )
+    {
+        send_to_char("You do not have the third power of death.\n\r",ch);
+        return;
+    }
+
+    if ( IS_AFF2( ch, AFF_UNHOLYPROT ) )
+    {
+        send_to_char("You have lowered your unholy protection.\n\r",ch);
+        REMOVE_AFF2( ch, AFF_UNHOLYPROT );
+        return;
+    }
+
+    if ( ch->mana < 100 )
+    {
+        send_to_char("You need 100 mana to protect yourself.\n\r",ch);
+        return;
+    }
+
+    SET_AFF2( ch, AFF_UNHOLYPROT );
+    send_to_char("Through unholy power you protect yourself from damage.\n\r",ch);
+    ch->mana -= 100;
+
+}
+
+void do_chillofdeath( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char      arg [MAX_INPUT_LENGTH];
+
+    argument = one_argument( argument, arg );
+
+    if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+    {
+        send_to_char("Huh?\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 4 )
+    {
+        send_to_char("You do not have the fourth power of death.\n\r",ch);
+        return;
+    }
+
+    if ( arg[0] == '\0' )
+    {
+        if ( ch->fighting == NULL )
+        {
+            send_to_char("Chill whose heart?\n\r",ch);
+            return;
+        }
+        victim = ch->fighting;
+    } else (victim = get_char_room( ch, arg ));
+
+    if ( victim == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+        if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+    {
+        send_to_char( "Your fear cannot affect them.\n\r", ch );
+        return;
+    }
+
+    if ( !CAN_FIGHT(ch,victim) )
+    {
+        send_to_char( "And how will you do that?\n\r", ch );
+        return;
+    }
+
+    if ( ch->mana < 1000 )
+    {
+        send_to_char( "You need 1000 mana to instill terror into a mortal heart.\n\r", ch );
+        return;
+    }
+
+    if ( IS_AFF2(victim,AFF_SLOWED) )
+    {
+                stc("But they are already afraid!\n\r",ch);
+                return;
+    }
+
+    {
+        AFFECT_DATA af;
+
+        ch->mana -= 1000;
+        af.type=skill_lookup("chill of death");
+        af.duration=(13-ch->pcdata->stats[UNI_GEN]);
+        af.location=APPLY_STR;
+        af.modifier=-4;
+        af.bitvector=AFF_SLOWED;
+        affect_to_char2(victim,&af);
+    }
+}
+
+void do_touchofdeath( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char      arg [MAX_INPUT_LENGTH];
+
+    argument = one_argument( argument, arg );
+
+    if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+    {
+        send_to_char("Huh?\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 5 )
+    {
+        send_to_char("You do not have the fifth power of death.\n\r",ch);
+        return;
+    }
+
+    if ( arg[0] == '\0' )
+    {
+        if ( ch->fighting == NULL )
+        {
+            send_to_char("Touch whom?\n\r",ch);
+            return;
+        }
+        victim = ch->fighting;
+    } else (victim = get_char_room( ch, arg ));
+
+    if ( victim == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+        if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+    {
+        send_to_char( "They're already dead!\n\r", ch );
+        return;
+    }
+
+    if ( !CAN_FIGHT(ch,victim) )
+    {
+                send_to_char( "And how will you do that?\n\r", ch );
+                return;
+    }
+
+    if ( ch->mana < 5000 )
+    {
+        send_to_char( "You need 5000 mana to touch someone.\n\r", ch );
+        return;
+    }
+
+    if ( ch->pcdata->stats[DROW_POWER] < 20000 )
+    {
+        send_to_char( "You need 20000 lifeforce to touch someone.\n\r", ch );
+        return;
+    }
+
+    ch->mana-=5000;
+    ch->pcdata->stats[DROW_POWER]-=20000;
+
+    start_fight(ch, victim);
+
+    if ( !IS_SET(victim->affected_by, AFF_PROTECT) )
+    {
+        act("Your touch -==ERADICATES==- $N! [4000]",ch,NULL,victim,TO_CHAR);
+            act("$n's touch -==ERADICATES==- you! [4000]",ch,NULL,victim,TO_VICT);
+            act("$n's touch -==ERADICATES==- $N!",ch,NULL,victim,TO_NOTVICT);
+            hurt_person(ch, victim, 4000);
+    } else {
+        act("Your touch -==ERADICATES==- $N! [2000]",ch,NULL,victim,TO_CHAR);
+            act("$n's touch -==ERADICATES==- you! [2000]",ch,NULL,victim,TO_VICT);
+            act("$n's touch -==ERADICATES==- $N!",ch,NULL,victim,TO_NOTVICT);
+            hurt_person(ch, victim, 2000);
+    }
+
+    WAIT_STATE(ch,PULSE_VIOLENCE);
+
+}
+
+void do_minion( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA   *victim;
+    AFFECT_DATA  af;
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT) )
+    {
+                stc("Huh?\n\r",ch);
+                return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_DEATH] < 6 )
+    {
+                stc("You do not have the sixth power of death.\n\r",ch);
+                return;
+    }
+
+    if ( ch->mana < 15000 )
+    {
+                stc("You need 15000 mana to raise an undead minion.\n\r",ch);
+                return;
+    }
+
+    if ( ch->pcdata->stats[DROW_POWER] < 50000 )
+    {
+                stc("You need 50000 lifeforce to make a skeleton live.\n\r",ch);
+                return;
+    }
+
+    ch->mana -= 15000;
+    ch->pcdata->stats[DROW_POWER] -= 50000;
+
+    victim=create_mobile( get_mob_index( 3000 ) );
+    if ( !victim )
+    {
+        send_to_char("Something's not right!\n\r",ch);
+        return;
+    }
+    victim->level = 1000;
+    victim->hit = 25000;
+    victim->max_hit = 25000;
+    victim->hitroll = 350;
+    victim->damroll = 350;
+    victim->armor = -5000;
+
+//    strcpy(buf,"#0I call upon the power of the undead!  Join me, my minion!");
+    do_say( ch, "#0I call upon the power of the undead!  Join me, my minion!" );
+
+    stc("The ground shifts infront of you as a skeletal hand bursts through the earth.\n\r",ch);
+    act("The ground shifts infront of you as a skeletal hand bursts through the earth.",ch,NULL,victim,TO_ROOM);
+    stc("More earth breaks away and your undead minion rises.\n\r",ch);
+    act("More earth breaks away, and an undead minion rises from the ground.",ch,NULL,victim,TO_ROOM);
+    act("$N bows to $n.\n\r",ch,NULL,victim,TO_NOTVICT);
+    act("$N bows to you.\n\r",ch,NULL,victim,TO_CHAR);
+
+    char_to_room( victim, ch->in_room );
+
+    add_follower( victim, ch );
+    af.type      = skill_lookup("charm person");
+    af.duration  = -1;
+    af.location  = APPLY_NONE;
+    af.modifier  = 0;
+    af.bitvector = AFF_CHARM;
+    affect_to_char( victim, &af );
+
+    SET_BIT(victim->act, ACT_NOEXP);
+    SET_BIT(victim->act, ACT_NOPARTS);
+
+}
+
+
+/*******************************
+ *        DKPOWER_FORCE        *
+ *******************************/
+/* removed, wasn't any useful.
+void do_protectionfromgood( CHAR_DATA *ch, char *argument )
+{
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        send_to_char("Huh?\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 1 )
+    {
+        send_to_char("You do not have the first power of force.\n\r",ch);
+        return;
+    }
+
+    if ( IS_AFF2( ch, AFF_PROTGOOD ) )
+    {
+        send_to_char("You have lowered your protection from good.\n\r",ch);
+        REMOVE_AFF2( ch, AFF_PROTGOOD );
+        return;
+    }
+
+    if ( ch->mana < 100 )
+    {
+        send_to_char("You need 100 mana to protect yourself.\n\r",ch);
+        return;
+    }
+
+    SET_AFF2( ch, AFF_PROTGOOD );
+    send_to_char("You use your force to protect yourself from the powers of good.\n\r",ch);
+    ch->mana -= 100;
+    
+}*/
+
+void do_walkshadows( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *vict;
+    ROOM_INDEX_DATA *pRoom;
+    char arg1[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH];
+    bool cut;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        do_huh(ch,argument);
+        return;
+    }
+
+    argument = one_argument(argument,arg1);
+    argument = one_argument(argument,arg2);
+    if ( !str_cmp(arg2,"cut") ) cut = TRUE; else cut = FALSE;
+
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 1 )
+    {
+        send_to_char("You do not have the first power of force.\n\r",ch);
+        return;
+    }
+
+    if ( !(vict = get_char_world(ch,arg1)) )
+    {
+        stc("And where might they be?\n\r",ch);
+        return;
+    }
+
+    if ( ch->mana < 100 || (cut && ch->mana < 500) )
+    {
+        stc("100 mana is required to walk the shadows.\n\r",ch);
+        stc("500 mana is required for cutting.\n\r",ch);
+        return;
+    }
+
+    if ( ch->move < 200 || (cut && ch->move < 750) )
+    {
+        stc("200 movement is required to walk the shadows.\n\r",ch);
+        stc("750 movement is required for cutting.\n\r",ch);
+        return;
+    }
+
+    if ( !IS_ACT(ch,PLR_LIFEBLADE) )
+    {
+        stc("You must be using a lifeblade to walk the shadows.\n\r",ch);
+        return;
+    }
+
+    if ( !(pRoom = vict->in_room) )
+    {
+        stc("Hmm... they seem to be in the middle of nowhere at the moment.\n\r",ch);
+        return;
+    }
+
+    if ( !IS_NPC(vict) && !IS_IMMUNE(vict,IMM_SUMMON) && !IS_CLASS(vict,CLASS_DKNIGHT))
+    {
+        stc("Your blade can't cut through to them.\n\r",ch);
+/*      stc("Try 'walkshadows <person> cut'.\n\r",ch);*/
+        return;
+    }
+
+    if ( !cut ) ch->mana -= 100; else ch->mana -= 500;
+    if ( !cut ) ch->move -= 200; else ch->move -= 750;
+
+    stc("#0You slice a hole into darkness with your lifeblade.\n\r",ch);
+    act("#0$n slices a hole through the planar barrier with $s lifeblade.",ch,NULL,NULL,TO_ROOM);
+    char_from_room(ch);
+    char_to_room(ch,pRoom);
+    act("#0You walk the shadows and enter the mortal plane next to $N.",ch,NULL,vict,TO_CHAR);
+    act("#0A hole rips open through the planar barrier next to $N.",ch,NULL,vict,TO_ROOM);
+    act("#0$n walks in from the dark plane.",ch,NULL,vict,TO_ROOM);
+    do_look(ch,"auto");
+}
+
+void do_fade( CHAR_DATA *ch, char *argument )
+{
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+            send_to_char("Huh?\n\r",ch);
+            return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 2 )
+    {
+        send_to_char("You do not have the second power of force.\n\r",ch);
+        return;
+    }
+
+    if ( IS_SET(ch->act, PLR_WIZINVIS) )
+    {
+                REMOVE_BIT(ch->act, PLR_WIZINVIS);
+                act( "$n appears from the shadows.", ch, NULL, NULL, TO_ROOM );
+                send_to_char( "You appear from the shadows.\n\r", ch );
+        return;
+    }
+
+    if ( ch->mana < 50 )
+    {
+        send_to_char( "You need 50 mana to fade away.\n\r", ch);
+        return;
+    }
+
+        act( "$n disappears into the shadows.", ch, NULL, NULL, TO_ROOM );
+        send_to_char( "You disappear into the shadows.\n\r", ch );
+        SET_BIT(ch->act, PLR_WIZINVIS);
+        ch->mana -= 50;
+
+}
+
+void do_fadeshadow( CHAR_DATA *ch, char *argument )
+{
+    if (!IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+            send_to_char("Huh?\n\r",ch);
+            return;
+    }
+
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 2 )
+    {
+        send_to_char("You do not have the second power of force.\n\r",ch);
+        return;
+    }
+
+    if ( IS_SET(ch->affected_by, AFF_SHADOWPLANE) )
+    {
+        send_to_char("You step through the barrier back onto the mortal plane.\n\r",ch);
+        REMOVE_BIT(ch->affected_by, AFF_SHADOWPLANE);
+        return;
+    }
+
+    if ( ch->mana < 50 )
+    {
+        send_to_char( "You need 50 mana to fade away.\n\r", ch);
+        return;
+    }
+
+    SET_BIT(ch->affected_by, AFF_SHADOWPLANE);
+    send_to_char("You step through the planar barrier and into the shadowplane.\n\r",ch);
+    ch->mana -= 50;
+
+}
+
+void do_pstun( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char      arg [MAX_INPUT_LENGTH];
+    int       gen;
+    argument = one_argument( argument, arg );
+
+    if (IS_NPC(ch)) return;
+        
+    if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+    {
+        send_to_char("Huh?\n\r", ch);
+        return;
+    }
+            
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 3 )
+    {
+        send_to_char("You do not have the third power of force.\n\r",ch);
+        return;
+    }
+
+    if ( arg[0] == '\0' )
+    {
+        if ( ch->fighting == NULL )
+        {
+            send_to_char("Stun whom?\n\r",ch);
+            return;
+        }
+        victim = ch->fighting;
+    } else (victim = get_char_room( ch, arg ));
+
+    if ( victim == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+        if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+    {
+        send_to_char( "Your stun cannot affect a death knight.\n\r", ch );
+        return;
+    }
+
+    if ( !CAN_FIGHT(ch,victim) )
+    {
+                send_to_char( "And how will you do that?\n\r", ch );
+                return;
+    }
+
+    if ( ch->mana < 1000 )
+    {
+        send_to_char("You need 1000 mana to stun someone.\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->stats[DROW_POWER] < 1000 )
+    {
+        send_to_char("You need 1000 lifeforce to stun someone.\n\r",ch);
+        return;
+    }
+
+    if ( IS_AFF2(victim, AFF_PSTUN) )
+    {
+        send_to_char("But they are already stunned!\n\r",ch);
+        return;
+    }
+
+    ch->mana-=1000;
+    ch->pcdata->stats[DROW_POWER]-=1000;
+
+    gen = ch->pcdata->stats[UNI_GEN];
+    if (  number_range(1, 7) > gen )
+    {
+        send_to_char("You failed.\n\r",ch);
+        return;
+    }
+
+    act("You point you hand at $N and say, 'Stun!'",ch,NULL,victim,TO_CHAR);
+    act("$n points at you and says, 'Stun!'",ch,NULL,victim,TO_VICT);
+    act("$n points at $N and says, 'Stun!'",ch,NULL,victim,TO_NOTVICT);
+
+    if ( ( number_range(1, 50) > number_range(1, 60) ) || (IS_AFF2(victim, AFF_AURALIFE) ) )
+    {
+        send_to_char("But nothing happens!\n\r",ch);
+        act("But nothing happens!",ch,NULL,NULL,TO_NOTVICT);
+        send_to_char("Close call!\n\r",victim);
+        return;
+    }
+
+    act("You watch as $N falls to the ground, stunned!",ch,NULL,victim,TO_CHAR);
+    act("You feel helpless as you collapse onto the ground.",ch,NULL,victim,TO_VICT);
+    act("You watch as $N falls to the ground, stunned!",ch,NULL,victim,TO_NOTVICT);
+
+    SET_AFF2( victim, AFF_PSTUN );
+
+
+    WAIT_STATE(ch,PULSE_VIOLENCE);
+    WAIT_STATE(victim,number_range(1,5)*PULSE_VIOLENCE);
+
+}
+
+void do_pblind( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char      arg [MAX_INPUT_LENGTH];
+    int       gen;
+    argument = one_argument( argument, arg );
+
+    if (IS_NPC(ch)) return;
+        
+        if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+        {
+                send_to_char("Huh?\n\r", ch);
+                return;
+        }
+            
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 4 )
+    {
+        send_to_char("You do not have the fourth power of force.\n\r",ch);
+        return;
+    }
+
+    if ( arg[0] == '\0' )
+    {
+        if ( ch->fighting == NULL )
+        {
+            send_to_char("Blind whom?\n\r",ch);
+            return;
+        }
+        victim = ch->fighting;
+    } else (victim = get_char_room( ch, arg ));
+
+    if ( victim == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+        if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+    {
+        send_to_char( "Your blind cannot affect a death knight.\n\r", ch );
+        return;
+    }
+
+    if ( !CAN_FIGHT(ch,victim) )
+    {
+                send_to_char( "And how will you do that?\n\r", ch );
+                return;
+    }
+
+        if ( ch->mana < 1000 )
+    {
+        send_to_char("You need 1500 mana to blind someone.\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->stats[DROW_POWER] < 1000 )
+    {
+        send_to_char("You need 1000 lifeforce to blind someone.\n\r",ch);
+        return;
+    }
+
+    if ( IS_SET(victim->affected_by, AFF_TOTALBLIND) )
+    {
+        send_to_char("But they are already blind!\n\r",ch);
+        return;
+    }
+
+    ch->mana-=1500;
+    ch->pcdata->stats[DROW_POWER]-=1000;
+
+    start_fight(ch, victim);
+
+    gen = ch->pcdata->stats[UNI_GEN];
+    if ( number_percent()/100 < ((gen/8)*2)/3 )
+    {
+        send_to_char("You failed.\n\r",ch);
+        return;
+    }
+
+    act("You point you hand at $N and say, 'Blind!'",ch,NULL,victim,TO_CHAR);
+    act("$n points at you and says, 'Blind!'",ch,NULL,victim,TO_VICT);
+    act("$n points at $N and says, 'Blind!'",ch,NULL,victim,TO_NOTVICT);
+
+    if ( ( number_range(1, 50) > number_range(1, 60) ) || (IS_AFF2(victim, AFF_AURALIFE) ) )
+    {
+        send_to_char("But nothing happens!\n\r",ch);
+        act("But nothing happens!",ch,NULL,NULL,TO_NOTVICT);
+        send_to_char("Close call!\n\r",victim);
+        return;
+    }
+
+    act("$N's eyes turn black and $E cannot see!",ch,NULL,victim,TO_CHAR);
+    act("Your eyes turn black and you can't see!",ch,NULL,victim,TO_VICT);
+    act("$N's eyes turn black and $E cannot see!",ch,NULL,victim,TO_NOTVICT);
+
+    {
+        AFFECT_DATA af;
+        af.type = skill_lookup("power word, blind");
+        af.duration = (13-ch->pcdata->stats[UNI_GEN]);
+        af.location = APPLY_NONE;
+        af.modifier = 0;
+        af.bitvector = AFF_TOTALBLIND;
+        affect_to_char(victim,&af);
+    }
+//    SET_AFF(victim, AFF_TOTALBLIND);
+//    SET_AFF2(victim, AFF_PBLIND);
+
+    WAIT_STATE(ch,PULSE_VIOLENCE);
+
+}
+
+void do_pkill( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char      arg [MAX_INPUT_LENGTH];
+    int       num;
+    int       saving;
+
+    argument = one_argument( argument, arg );
+
+    if (IS_NPC(ch)) return;
+        
+        if (!IS_CLASS(ch, CLASS_DKNIGHT) )
+        {
+                send_to_char("Huh?\n\r", ch);
+                return;
+        }
+            
+    if ( ch->pcdata->powers[DKPOWER_FORCE] < 5 )
+    {
+        send_to_char("You do not have the fifth power of force.\n\r",ch);
+        return;
+    }
+
+    if ( arg[0] == '\0' )
+    {
+        if ( ch->fighting == NULL )
+        {
+            send_to_char("Kill whom?\n\r",ch);
+            return;
+        }
+        victim = ch->fighting;
+    } else (victim = get_char_room( ch, arg ));
+
+    if ( victim == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+        if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+    {
+        send_to_char( "You cannot kill a death knight with a word!\n\r", ch );
+        return;
+    }
+
+    if ( !CAN_FIGHT(ch,victim) )
+    {
+                send_to_char( "And how will you do that?\n\r", ch );
+                return;
+    }
+
+    if ( ch->mana < 2500 )
+    {
+        send_to_char("You need 2500 mana to kill someone.\n\r",ch);
+        return;
+    }
+
+    if ( ch->pcdata->stats[DROW_POWER] < 5000 )
+    {
+        send_to_char("You need 5000 lifeforce to kill someone.\n\r",ch);
+        return;
+    }
+
+    ch->mana-=2500;
+    ch->pcdata->stats[DROW_POWER]-=5000;
+
+    start_fight(ch,victim);
+
+    num = number_range(1, 100);
+    if ( num > 1 )
+    {
+        send_to_char("You failed.\n\r",ch);
+        return;
+    }
+
+    act("You point you hand at $N and say, 'DIE!'",ch,NULL,victim,TO_CHAR);
+    act("$n points at you and says, 'DIE!'",ch,NULL,victim,TO_VICT);
+    act("$n points at $N and says, 'DIE!'",ch,NULL,victim,TO_NOTVICT);
+
+    if ( IS_SET(ch->affected_by, AFF_PROTECT) )
+        saving = number_range(1, 50)/2;
+    else saving = -1;
+
+    if ( ( saving > number_range(1, 60) ) || (IS_AFF2(victim, AFF_AURALIFE) ) )
+    {
+        send_to_char("But nothing happens!\n\r",ch);
+        act("But nothing happens!",ch,NULL,NULL,TO_NOTVICT);
+        send_to_char("Close call!\n\r",victim);
+        return;
+    }
+
+    act("You watch as $N falls to the ground, unmoving.",ch,NULL,victim,TO_CHAR);
+    act("You fall to the ground!  You have been mortally wounded!",ch,NULL,victim,TO_VICT);
+    act("You watch as $N falls to the ground and stops moving.",ch,NULL,victim,TO_NOTVICT);
+
+    victim->hit = -3;
+    if ( IS_NPC(victim) )
+        victim->hit = 0;
+    update_pos(victim);
+
+    WAIT_STATE(ch,PULSE_VIOLENCE);
+    WAIT_STATE(ch,number_range(1,5));
+}
+
+void do_voiceofdeath( CHAR_DATA *ch, char *argument )
+{
+    char arg1[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+    CHAR_DATA *victim;
+    ROOM_INDEX_DATA *pRoom;
+    int awe;
+    argument = one_argument( argument, arg1 );
+               one_argument( argument, arg2 );
+
+    if (IS_NPC(ch)) return;
+    if (!IS_CLASS(ch,CLASS_VAMPIRE))
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        send_to_char( "Huh?\n\r", ch );
+        return;
+    }
+    if (!IS_CLASS(ch,CLASS_VAMPIRE))
+    if (ch->pcdata->powers[DKPOWER_FORCE] < 6)
+    {
+        send_to_char( "You do not have the sixth power of force.\n\r",ch);
+        return;
+    }
+
+    if ( arg1[0] == '\0' )
+    {
+        send_to_char( "Use that on who?\n\r", ch );
+        return;
+    }
+
+    if ( !argument[0] )
+    {
+                stc("But what will it say?\n\r",ch);
+                return;
+    }
+
+    if ( is_name( arg2, "delete quit detox classme train token" ) )
+    {
+        stcf(ch,"Illegal.\n\r");
+        return;
+    }
+
+    if ( ( victim = get_char_world( ch, arg1 ) ) == NULL )
+    {
+        send_to_char( "They aren't here.\n\r", ch );
+        return;
+    }
+
+    if ( victim == ch )
+    {
+        send_to_char( "Can't you do it yourself?\n\r", ch );
+        return;
+    }
+
+    if ( IS_EXTRA(victim,EXTRA_AFK) )
+    {
+        stcf(ch,"Not to AFK players.\n\r");
+        return;
+    }
+
+    if ( IS_SET(ch->in_room->room_flags,ROOM_SAFE) )
+    {
+        stcf(ch,"Not in a safe room!\n\r");
+        return;
+    }
+
+    if ( IS_SET(victim->in_room->room_flags,ROOM_SAFE) )
+    {
+        stcf(ch,"They are in a safe room.\n\r");
+        return;
+    }
+
+//    if ( IS_CLASS(ch,CLASS_DKNIGHT) )
+  //      awe = 20;
+//    else 
+awe = 20;
+/*
+    if ( IS_CLASS(victim,CLASS_DKNIGHT) )       awe -= 10;
+    if ( IS_CLASS(victim,CLASS_VAMPIRE) )       awe -= 5;
+    if ( IS_CLASS(victim,CLASS_WEREWOLF) )      awe += 3;
+    if ( IS_CLASS(victim,CLASS_HIGHLANDER) )    awe += 3;
+    if ( IS_CLASS(victim,CLASS_PALADIN) )       awe += 1;
+//    if ( IS_CLASS(victim,CLASS_MOOGLE) )      awe -= 3;
+//    if ( IS_CLASS(victim,CLASS_PRIEST) )      awe -= 1;
+    if ( IS_CLASS(victim,CLASS_DEMON) )         awe += 5;
+    if ( IS_CLASS(victim,CLASS_NINJA) )         awe += 1;
+    if ( IS_CLASS(victim,CLASS_MONK) )          awe += 3;
+*/
+    awe += (21 - ch->pcdata->stats[UNI_GEN])/2;
+    number_fuzzy(awe);
+
+  /*  if ( !IS_NPC(victim))
+    {
+        send_to_char( "You can not command other avatars.\n\r", ch );
+        return;
+    }
+*/
+    if ( ch->mana < 2000 )
+    {
+   if (IS_CLASS(ch,CLASS_DKNIGHT))
+        send_to_char( "The voice only yields to those with 2000 mana.\n\r",ch);
+else
+stc("Command costs 2000 mana.\r\n",ch);
+        return;
+    }
+ if (!IS_CLASS(ch,CLASS_VAMPIRE))
+    if ( ch->pcdata->stats[DROW_POWER] < 5000 )
+    {
+        send_to_char( "The voice requires 5000 lifeforce to reach its target.\n\r",ch);
+        return;
+    }
+
+    ch->mana -= 2000;
+
+if (!IS_CLASS(ch,CLASS_VAMPIRE)){
+    ch->pcdata->stats[DROW_POWER] -= 5000;
+    stc("#0An eerie voice whispers into your ear words you cannot understand.\n\r",victim);
+}
+    if ( awe < (get_curr_int(victim) + number_range(3,10)))
+    {
+  if (!IS_CLASS(ch,CLASS_VAMPIRE)) 
+               act("#0$N resists the voice of death.",ch,NULL,victim,TO_CHAR);
+ else
+  act("$N resists your command.",ch,NULL,victim,TO_CHAR);
+/*                ch->mana += 1000;
+                LIFEFORCE(ch) += 4500;*/
+                return;
+    }
+if (IS_CLASS(ch,CLASS_DKNIGHT)) {
+    act("#0The voice of death tempts $N into doing your will.",ch,NULL,victim,TO_CHAR);
+    stc("#0You somehow understand its meaning and follow it's command.\n\r",victim);
+} else {
+  act("$n commands $N into doing his will.",ch,NULL,victim,TO_ROOM);
+  stc("You obey.",victim);
+}
+    pRoom = ch->in_room;
+    char_from_room(ch);
+    char_to_room(ch,victim->in_room);
+    interpret( victim, argument );
+    char_from_room(ch);
+    char_to_room(ch,pRoom);
+    return;
+}
+
+
+/*******************************
+ *        DKPOWER_FIRE         *
+ *******************************/
+void do_fire( CHAR_DATA *ch, char *argument )
+{
+        char arg1[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+    char buf1[MAX_STRING_LENGTH];
+    char buf2[MAX_STRING_LENGTH];
+    CHAR_DATA *victim;
+    int dmg;
+    int fpower = ch->pcdata->powers[DKPOWER_FIRE];
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if (!IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+            send_to_char("Huh?\n\r",ch);
+            return;
+    }
+
+    if ( fpower < 1 )
+    {
+        send_to_char("You do not have the any powers of fire!\n\r",ch);
+        return;
+    }
+
+    if ( !str_cmp(arg1, "beam") )
+    {
+        if ( arg2[0] == '\0' )
+                {
+                if ( ch->fighting == NULL )
+                {
+                        send_to_char("Beam whom?\n\r",ch);
+                        return;
+                }
+                victim = ch->fighting;
+                } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your fire cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+        if ( ch->mana < 100 )
+            {
+                send_to_char( "You need 100 mana to beam someone.\n\r", ch );
+                return;
+            }
+
+        start_fight(ch,victim);
+
+                ch->mana-=100;
+        dmg = 500;
+        if ( IS_IMMUNE(ch, IMM_HEAT) )
+          dmg -= 125;
+        dmg += number_range(-125, 125);
+        sprintf(buf1, "Your beam fries $N! [%d]", dmg);
+        sprintf(buf2, "$n's beam fries you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n's beam fries $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+                SET_AFF(victim,AFF_FLAMING);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "burst") )
+    {
+        if ( fpower < 2 )
+        {
+                send_to_char("You cannot create lava bursts!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Lava burst whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your fire cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+                if ( ch->mana < 250 )
+            {
+                send_to_char( "You need 250 mana to lava burst someone.\n\r", ch );
+                return;
+            }
+
+                start_fight(ch,victim);
+                ch->mana-=250;
+        dmg = 1000;
+        if ( IS_IMMUNE(ch, IMM_HEAT) )
+          dmg -= 250;
+        dmg += number_range(-500, 500);
+        sprintf(buf1, "Your lava burst toasts $N! [%d]", dmg);
+        sprintf(buf2, "$n's lava burst toasts you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n toasts $N with a lava burst!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+                SET_AFF(victim,AFF_FLAMING);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "ball") )
+    {
+        if ( fpower < 3 )
+        {
+                send_to_char("You can't shoot fireballs!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Fireball whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your fire cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+            if ( ch->mana < 300 )
+            {
+                send_to_char( "You need 300 mana to fireball someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=300;
+        dmg = 1000;
+        if ( IS_IMMUNE(ch, IMM_HEAT) )
+          dmg -= 125;
+        dmg += number_range(-250, 250);
+        sprintf(buf1, "You fireball $N! [%d]", dmg);
+        sprintf(buf2, "$n fireballs you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n fireballs $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+                SET_AFF(victim,AFF_FLAMING);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "storm") )
+    {
+        if ( fpower < 4 )
+        {
+                send_to_char("You have not attained the power to create firestorms!\n\r",ch);
+                return;
+            }
+
+
+            if ( ch->mana < 550 )
+            {
+                send_to_char( "You need 550 mana to firestorm.\n\r", ch );
+                return;
+            }
+
+                ch->mana -= 550;
+
+                act("The sky rumbles and drops of fire fall from the sky!!!",ch,NULL,NULL,TO_ROOM);
+
+                for( victim = ch->in_room->people; victim; victim = victim->next_in_room )
+                {
+                if ( victim == ch )
+                          continue;
+                if ( (!IS_NPC(victim) && IS_CLASS(victim, CLASS_DKNIGHT)) || !CAN_FIGHT(ch,victim) )
+                {
+                                act("The fiery droplets seem to have no affect on $N.",ch,NULL,victim,TO_CHAR);
+                                act("The fiery droplets dance around you.",ch,NULL,victim,TO_VICT);
+                                act("The fiery droplets seem to have no affect on $N.",ch,NULL,victim,TO_NOTVICT);
+                                continue;
+                }
+
+                dmg = 500;
+                if ( IS_IMMUNE(ch, IMM_HEAT) )
+                        dmg -= 125;
+                dmg += number_range(-125, 125);
+                sprintf(buf1, "Your firestorm scorches $N! [%d]", dmg);
+                sprintf(buf2, "$n's firestorm scorches you! [%d]", dmg);
+                act(buf1,ch,NULL,victim,TO_CHAR);
+                act(buf2,ch,NULL,victim,TO_VICT);
+                act("$n's firestorm scorches $N!",ch,NULL,victim,TO_NOTVICT);
+                hurt_person(ch, victim, dmg);
+                        SET_AFF(victim,AFF_FLAMING);
+                }
+                WAIT_STATE(ch,PULSE_VIOLENCE);
+
+                act("As suddenly as it started, the rain of fire ceases.",ch,NULL,NULL,TO_ROOM);
+
+        return;
+    } else if ( !str_cmp(arg1, "inferno") )
+    {
+        if ( fpower < 5 )
+        {
+                send_to_char("Your heat is not strong enough to inferno!\n\r",ch);
+                return;
+            }
+
+            if ( ch->mana < 750 )
+            {
+                send_to_char( "You need 750 mana to inferno.\n\r", ch );
+                return;
+            }
+
+                ch->mana -= 750;
+
+                act("$n raises $s hands, claps them together, and the room is filled with 
+flame!",ch,NULL,NULL,TO_ROOM);
+
+                for( victim = ch->in_room->people; victim; victim = victim->next_in_room )
+                {
+                if ( victim == ch )
+                          continue;
+                if ( (!IS_NPC(victim) && IS_CLASS(victim, CLASS_DKNIGHT)) || !CAN_FIGHT(ch,victim) )
+                {
+                                act("The flames seem to have no affect on $N.",ch,NULL,victim,TO_CHAR);
+                                act("The flames dance around you.",ch,NULL,victim,TO_VICT);
+                                act("The flames seem to have no affect on $N.",ch,NULL,victim,TO_NOTVICT);
+                                continue;
+                }
+
+                dmg = 500;
+                if ( IS_IMMUNE(ch, IMM_HEAT) )
+                        dmg -= 125;
+                dmg += number_range(-100, 250);
+                sprintf(buf1, "Your inferno cremates $N! [%d]", dmg);
+                sprintf(buf2, "$n's inferno cremates you! [%d]", dmg);
+                act(buf1,ch,NULL,victim,TO_CHAR);
+                act(buf2,ch,NULL,victim,TO_VICT);
+                act("$n's inferno cremates $N!",ch,NULL,victim,TO_NOTVICT);
+                hurt_person(ch, victim, dmg);
+                        SET_AFF(victim,AFF_FLAMING);
+                }
+                WAIT_STATE(ch,PULSE_VIOLENCE);
+
+                act("The fire subsides and the room is quiet.",ch,NULL,NULL,TO_ROOM);
+
+        return;
+    } else if ( !str_cmp(arg1, "consume") )
+    {
+        if ( fpower < 6 )
+        {
+                send_to_char("Your flame cannot consume!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Consume whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your fire cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+            if ( ch->mana < 1000 )
+            {
+                send_to_char( "You need 1000 mana to consume someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=1000;
+        dmg = 4000;
+                if ( IS_IMMUNE(victim, IMM_HEAT) )
+              dmg -= 1000;
+                dmg += number_range(-750, 1250);
+                if ( number_range(1,150) == 1 )
+              dmg += number_range(1000, 5000);
+        sprintf(buf1, "Your flame of power -==cONsUmeS==- $N! [%d]", dmg);
+        sprintf(buf2, "$n's flame of power -==cONsUmeS==- you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n's flame of power -==cONsUmeS==- $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+                SET_AFF(victim,AFF_FLAMING);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else {
+        sprintf(buf1,"Which power of fire do you wish to invoke?\n\r"
+                        "%s%s%s%s%s%s",
+                     (fpower > 0) ? "beam - beam of flame\n\r" : "",
+                     (fpower > 1) ? "burst - lava burst\n\r" : "",
+                     (fpower > 2) ? "ball - fireball\n\r" : "",
+                     (fpower > 3) ? "storm - rain of fire\n\r" : "",
+                     (fpower > 4) ? "inferno - explosion of fire\n\r" : "",
+                     (fpower > 5) ? "consume - consuming flame\n\r" : "" );
+        send_to_char(buf1, ch);
+    }
+    return;
+
+}
+
+
+
+/*******************************
+ *         DKPOWER_ICE         *
+ *******************************/
+void do_ice( CHAR_DATA *ch, char *argument )
+{
+    char arg1[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+    char buf1[MAX_STRING_LENGTH];
+    char buf2[MAX_STRING_LENGTH];
+    CHAR_DATA *victim;
+    int dmg;
+    int ipower = ch->pcdata->powers[DKPOWER_ICE];
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if (!IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+            send_to_char("Huh?\n\r",ch);
+            return;
+    }
+
+    if ( ipower < 1 )
+    {
+        send_to_char("You do not have the any powers of ice!\n\r",ch);
+        return;
+    }
+
+    if ( !str_cmp(arg1, "beam") )
+    {
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Beam whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your ice cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+            if ( ch->mana < 100 )
+            {
+                send_to_char( "You need 100 mana to beam someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=100;
+        dmg = 1000;
+        if ( IS_IMMUNE(ch, IMM_COLD) )
+          dmg -= 250;
+        dmg += number_range(-250, 250);
+        sprintf(buf1, "Your beam frosts $N! [%d]", dmg);
+        sprintf(buf2, "$n's beam frosts you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n's beam frosts $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "shards") )
+    {
+            if ( ipower < 2 )
+        {
+                send_to_char("You cannot shoot shards of ice!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Shards whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your ice cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+            if ( ch->mana < 750 )
+            {
+                send_to_char( "You need 750 mana to shards someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=750;
+        dmg = 1500;
+        dmg += number_range(-500, 500);
+        sprintf(buf1, "Your shards pierce $N! [%d]", dmg);
+        sprintf(buf2, "$n's shards pierce you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n's shards pierce $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "freeze") )
+    {
+            if ( ipower < 3 )
+        {
+                send_to_char("You cannot freeze anyone!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Freeze whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your ice cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+           	send_to_char( "And how will you do that?\n\r", ch );
+                return;
+        }
+
+            if ( ch->mana < 1000 )
+            {
+                send_to_char( "You need 1000 mana to beam someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=1000;
+        dmg = 1000;
+        if ( IS_IMMUNE(ch, IMM_COLD) )
+          dmg -= 500;
+        dmg += number_range(-250, 250);
+        sprintf(buf1, "You freeze $N! [%d]", dmg);
+        sprintf(buf2, "$n freezes you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n freezes $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else if ( !str_cmp(arg1, "breathe") )
+    {
+            if ( ipower < 4 )
+        {
+                send_to_char("You can't breathe frost!\n\r",ch);
+                return;
+            }
+
+            if ( ch->mana < 1500 )
+            {
+                send_to_char( "You need 1500 mana to breathe.\n\r", ch );
+                return;
+            }
+
+                ch->mana -= 1500;
+
+                act("$n opens $s mouth and exhales frost and ice!!!",ch,NULL,NULL,TO_ROOM);
+
+                for( victim = ch->in_room->people; victim; victim = victim->next_in_room )
+                {
+                if ( victim == ch )
+                          continue;
+                if ( (!IS_NPC(victim) && IS_CLASS(victim, CLASS_DKNIGHT)) || !CAN_FIGHT(ch,victim) )
+                {
+                                act("The frost seems to have no affect on $N.",ch,NULL,victim,TO_CHAR);
+                                act("The frost dances around you.",ch,NULL,victim,TO_VICT);
+                                act("The frost seems to have no affect on $N.",ch,NULL,victim,TO_NOTVICT);
+                                continue;
+                }
+
+                dmg = 1000;
+                if ( IS_IMMUNE(ch, IMM_COLD) )
+                          dmg -= 250;
+                dmg += number_range(-250, 400);
+                sprintf(buf1, "Your breath freezes $N! [%d]", dmg);
+                sprintf(buf2, "$n's breath freezes you! [%d]", dmg);
+                act(buf1,ch,NULL,victim,TO_CHAR);
+                act(buf2,ch,NULL,victim,TO_VICT);
+                act("$n's breath freezes $N!",ch,NULL,victim,TO_NOTVICT);
+                hurt_person(ch, victim, dmg);
+                }
+                WAIT_STATE(ch,PULSE_VIOLENCE);
+
+                act("$n closes $s mouth and the frost dissipates.",ch,NULL,NULL,TO_ROOM);
+
+            return;
+    } else if ( !str_cmp(arg1, "deepfreeze") )
+    {
+            if ( ipower < 5 )
+        {
+                send_to_char("You cannot FrEEzE anyone!\n\r",ch);
+                return;
+            }
+
+        if ( arg2[0] == '\0' )
+            {
+                if ( ch->fighting == NULL )
+                {
+                    send_to_char("Deepfreeze whom?\n\r",ch);
+                    return;
+                }
+                victim = ch->fighting;
+            } else (victim = get_char_room( ch, arg2 ));
+
+            if ( victim == NULL )
+            {
+                send_to_char( "They aren't here.\n\r", ch );
+                return;
+            }
+
+                if ( IS_CLASS( victim, CLASS_DKNIGHT ) )
+            {
+                send_to_char( "Your ice cannot affect a death knight.\n\r", ch );
+                return;
+            }
+
+        if ( !CAN_FIGHT(ch,victim) )
+        {
+                        send_to_char( "And how will you do that?\n\r", ch );
+                        return;
+        }
+
+            if ( ch->mana < 2000 )
+            {
+                send_to_char( "You need 2000 mana to deepfreeze someone.\n\r", ch );
+                return;
+            }
+
+
+                start_fight(ch,victim);
+            ch->mana-=2000;
+        dmg = 5000;
+        if ( IS_IMMUNE(ch, IMM_COLD) )
+          dmg -= 3000;
+        dmg += number_range(-1000, 1000);
+                if (dmg<0) dmg=0;
+        sprintf(buf1, "Your arctic winds FrEEzE $N! [%d]", dmg);
+        sprintf(buf2, "$n's arctic winds FrEEzE you! [%d]", dmg);
+            act(buf1,ch,NULL,victim,TO_CHAR);
+            act(buf2,ch,NULL,victim,TO_VICT);
+            act("$n's arctic winds FrEEzE $N!",ch,NULL,victim,TO_NOTVICT);
+
+            hurt_person(ch, victim, dmg);
+
+            WAIT_STATE(ch,PULSE_VIOLENCE);
+
+        return;
+    } else {
+        sprintf(buf1,"Which power of ice do you wish to call?\n\r"
+                        "%s%s%s%s%s",
+                     (ipower > 0) ? "beam - beam of cold\n\r" : "",
+                     (ipower > 1) ? "shards - shards of ice\n\r" : "",
+                     (ipower > 2) ? "freeze - freezing blast\n\r" : "",
+                     (ipower > 3) ? "breathe - breathe frost\n\r" : "",
+                     (ipower > 4) ? "deepfreeze - FrEEzE your enemy!\n\r" : "" );
+        send_to_char(buf1, ch);
+    }
+    return;
+
+}
+
+
+
+
+/*******************************
+ *    Innate DKnight Powers    *
+ *******************************/
+void do_sense( CHAR_DATA *ch, char *argument )
+{
+    char buf[MAX_STRING_LENGTH];
+    char arg[MAX_INPUT_LENGTH];
+    CHAR_DATA *gch;
+
+    one_argument( argument, arg );
+
+    if (IS_NPC(ch)) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+        send_to_char("Huh?\n\r",ch);
+        return;
+    }
+                               //swordcushion
+    send_to_char("#0[     Name     |       Rank      | Hits    % | Mana    % | Move    % |   lf   ]\n\r",ch);
+    for ( gch = char_list; gch != NULL; gch = gch->next )
+    {
+        char *gch_rank;
+        if ( IS_NPC(gch) ) continue;
+        if ( !IS_CLASS(gch, CLASS_DKNIGHT) &&
+            !(IS_AFF(gch, AFF_POLYMORPH) && IS_POLYAFF(gch, POLY_LIFEFORM)) )
+                        continue;
+        if ( !can_see(ch,gch) ) continue;
+        gch_rank = str_dup(rank_names[gch->pcdata->stats[UNI_GEN]]);
+        if ( gch->pcdata->stats[UNI_GEN] == 13 )
+        {
+            free_string(gch_rank);
+            gch_rank = str_dup("swordcushion");
+        }
+        if ( gch->pcdata->stats[UNI_GEN] == 7 )
+        {
+            free_string(gch_rank);
+            gch_rank = str_dup("Lieut. Cmdr");
+        }
+        sprintf( buf, "#0[#%c%-14s#0| %-15s |%-6d %3d%%|%-6d %3d%%|%-6d %3d%%|%-8d]\n\r",
+                 ((IS_AFF(ch,AFF_POLYMORPH) && IS_POLYAFF(ch,POLY_LIFEFORM))
+                        ?'Y':'R'),
+                 gch->name,
+                 gch_rank,
+                 gch->hit,  (gch->hit  * 100 / gch->max_hit ),
+                 gch->mana, (gch->mana * 100 / gch->max_mana),
+                 gch->move, (gch->move * 100 / gch->max_move),
+                 LIFEFORCE(gch) );
+        send_to_char( buf, ch );
+        free_string(gch_rank);
+    }
+    return;
+}
+
+void do_lifeforce( CHAR_DATA *ch, char *argument )
+{
+    char buf[MAX_STRING_LENGTH];
+    char arg1[MAX_INPUT_LENGTH];
+    char arg2[MAX_INPUT_LENGTH];
+
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if ( IS_NPC(ch) ) return;
+
+    if ( !IS_CLASS(ch, CLASS_DKNIGHT))
+    {
+                stc("Huh?\n\r",ch);
+                return;
+    }
+
+    if ( arg1 && arg1[0] && IS_IMMORTAL( ch ) )
+    {
+                CHAR_DATA *victim;
+
+                if ( !arg2 || !arg2[0] )
+                {
+                    stc("How much?\n\r", ch);
+                    return;
+                }
+
+                if ( !is_number(arg2) )
+                {
+                    stc("That's not a number!\n\r",ch);
+                    return;
+                }
+
+                if ( !(victim = get_char_room(ch, arg1) ) )
+                {
+                    stc("They aren't here!\n\r",ch);
+                    return;
+                }
+
+                victim->pcdata->stats[POWER_CURRENT] = atoi(arg2);
+                sprintf( buf, "You have stored %d lifeforce.\n\r", atoi(arg2) ); 
+                stc(buf, victim);
+                sprintf( buf, "%s has stored %d lifeforce.\n\r", victim->name, atoi(arg2) );
+                stc(buf, ch);
+                return;
+    }
+
+    sprintf( buf, "#yYou have stored %d lifeforce.\n\r",
+                ch->pcdata->stats[POWER_CURRENT] );
+    stc(buf,ch);
+    if (IS_ACT(ch, PLR_LIFEBLADE))
+          stc("#yYou are wielding your lifeblade, and can gain lifeforce.\n\r", ch);
+    else
+          stc("You are not wielding your lifeblade. #RYou cannot gain lifeforce.\n\r", ch);
+
+
+
+}
+
+void do_promote( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+    char buf[MAX_INPUT_LENGTH];
+
+    if ( IS_NPC(ch) ) return;
+
+    if ( !IS_CLASS(ch,CLASS_DKNIGHT) )
+        return do_rand_typo(ch);
+
+    if ( ch->pcdata->stats[UNI_GEN] > 0 )
+        return stcf(ch,"You aren't high enough rank to do this.\n\r");
+
+    if ( !(victim = get_char_world(ch,argument)) )
+        return stcf(ch,"Promote whom?\n\r");
+
+    if ( IS_NPC(victim) ) return;
+
+    if ( !IS_CLASS(victim,CLASS_DKNIGHT) )
+        return stcf(ch,"But they're not a Death Knight!\n\r");
+
+    if ( victim->pcdata->stats[UNI_GEN] == 0 )
+        return stcf(ch,"And put yourself out of a job?\n\r");
+
+    if ( victim == ch )
+        return stcf(ch,"The Legion of the Undead does not take kindly to self promotions...\n\r");
+
+    if ( victim->pcdata->stats[UNI_GEN] < 2 )
+        return stcf(ch,"You can't promote someone higher than you!\n\r");
+
+    if ( victim->pcdata->stats[UNI_GEN] != 3 )
+        return stcf(ch,"They must have attained the rank of %s first.\n\r",rank_names[3]);
+
+    stcf(ch,"You have promoted %s to the rank of %s.\n\r",victim->name,rank_names[2]);
+    sprintf(buf,"%s 2",victim->name);
+    do_generation(ch,buf);
+}
+
+// Used by do_imbue()
+void add_affect(OBJ_DATA *obj,int apply,long value)
+{
+    AFFECT_DATA *paf;
+
+    if ( affect_free == NULL )
+    {
+        paf             = alloc_perm( sizeof(*paf) );
+    }
+    else
+    {
+        paf             = affect_free;
+        affect_free     = affect_free->next;
+    }
+
+    paf->type   = 0;
+    paf->duration       = -1;
+    paf->location       = apply;
+    paf->modifier       = value;
+    paf->bitvector      = 0;
+    paf->next           = obj->affected;
+    obj->affected       = paf;
+
+}
+

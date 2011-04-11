@@ -1,0 +1,244 @@
+#AREADATA
+Name        Best of The Best~
+Builders    Chrono~
+VNUMs       40965 40990
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#40965
+Beast of Zeus~
+#LB#least #Co#cf #yZ#oeus#n~
+#LB#least #Co#cf #yZ#oeus#n stand's here provoking you!
+~
+~
+207883 4457020 -250 S
+9007 0 0 10d10+1 0d0+0
+0 0
+0 0 1
+#40966
+God's Arch-Angel~
+#7God's #CA#crch#R-#7Angel#n~
+#7God's #CA#crch#R-#7Angel#n hovers here about you.
+~
+~
+11 524472 250 S
+2002 0 0 15d15+1 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#40965
+A Comfortable Chair~
+a Comfortable Chair~
+A Comfortable Chair is here for you to sit and rest on.~
+~
+12 0 0
+0 0 32768
+1 10 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40966
+Key Number one 1~
+#RK#rey #LN#lumber #y1#n~
+#cA weird looking key lays here.~
+~
+18 131072 524289
+0 0 0
+0 0 0 0
+0 1000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40965
+#L/#y-#RBest of The Best Entrance#y-#L\#n~
+You are standing in the entrance of the great testing ground's. There is a legend you are rewarded well if you pass all of the high god's tests. While eager to attempt these test, you hear screams and people fighting and a evil laughter ahead of you.
+~
+0 268435464 1
+D0
+~
+~
+0 0 40966
+S
+#40966
+#L/#y-#RPreparation Room#y-#L\#n~
+After entering you see many things before you, seeing it is a preparation room. You prepare for you next few battles.
+~
+0 268435456 0
+D0
+~
+~
+0 0 40967
+D2
+~
+~
+0 0 40965
+S
+#40967
+#L/#y-#RTest ##1#y-#L\#n~
+~
+0 13647872 0
+D0
+~
+~
+71 0 40968
+D2
+~
+~
+0 0 40966
+S
+#40968
+#L/#y-#RTest ##2#y-#L\#n~
+~
+0 13647872 0
+D0
+~
+~
+0 0 40969
+D2
+~
+~
+71 0 40967
+S
+#40969
+#L/#y-#RInto the Ground#y-#L\#n~
+It seems you have made it past the first two test.  You scan around for a
+bit a notice that theres a trapdoor below your feet so you open it and
+adventure downward.  
+~
+0 268451840 0
+D2
+~
+~
+0 0 40968
+D5
+~
+~
+67 0 40970
+S
+#40970
+#L/#y-#RWalking the Grounds#y-#L\#n~
+While walk into the room you hear even more screams and loud clashes of
+people fighting.  Looking around you see 4 rooms one north, south, east, and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 40971
+D1
+~
+~
+0 0 40974
+D2
+~
+~
+0 0 40973
+D3
+~
+~
+0 0 40972
+D4
+~
+~
+67 0 40969
+D5
+~
+~
+103 40966 40975
+S
+#40971
+#L/#y-#RTest ##3#y-#L\#n~
+~
+0 0 0
+D2
+~
+~
+0 0 40970
+S
+#40972
+#L/#y-#RTest ##4#y-#L\#n~
+~
+0 0 0
+D1
+~
+~
+0 0 40970
+S
+#40973
+#L/#y-#RTest ##5#y-#L\#n~
+~
+0 0 0
+D0
+~
+~
+0 0 40970
+S
+#40974
+#L/#y-#RTest ##6#y-#L\#n~
+~
+0 0 0
+D3
+~
+~
+0 0 40970
+S
+#40975
+#L/#y-#RA Break from War#y-#L\#n~
+~
+0 0 0
+D4
+~
+~
+103 40966 40970
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 40965 0 40966
+M 0 40965 1 40967
+E 0 102189 0 -1
+M 0 40966 1 40968
+E 0 102189 0 -1
+E 0 102189 0 -1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

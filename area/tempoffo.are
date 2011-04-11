@@ -1,0 +1,3018 @@
+#AREADATA
+Name        Tanaka  Temple of Fortitude~
+Builders    Tanaka~
+VNUMs       70000 70099
+Security    1
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#70000
+guardian~
+#7The #0Guardian #bof the #gUndeadcity #bstands here#n~
+#7The Undead #0Guardian #7is waiting
+~
+~
+131099 5350078 1000 S
+1471 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#70001
+skeleton~
+#0a #oSkeleton #0stares at you~
+A #OSkeleton #0screams at you
+~
+It smells bad, it looks bad,
+the thing is about 3 feet tall
+one eye is green the other is purple
+half of its nose is pointed up,
+the other is pointed to the left side
+he doesn't have any lips
+all of his teeth are pointed and black
+all togeather it looks like its had a bad life
+~
+19 0 0 S
+219 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#70002
+zombie~
+a zombie howls~
+#a #gZo#omb#gie #0growls as you walk in
+~
+It's even uglier then the males
+smells alot worse
+muscle mass is very well off
+she is fat, and she is around 4 feet tall
+her eyes are pink and brown
+her nose looks broken
+her lips are very big
+and she has no hair!
+~
+19 0 0 S
+351 0 0 1d1+1 0d0+0
+0 0
+0 0 2
+#70003
+ghoul~
+a ghoul wails in pain~
+#0a #PGh#rou#Pl#0 crawls towards you
+~
+~
+3 0 0 S
+262 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70004
+ghost~
+a Ghost is here~
+#7A #LGH#cos#Lt #7floats around the room.#n
+~
+~
+3 0 0 S
+330 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70005
+darkling~
+a Wicked Darkling roars in anger~
+A #gWicked #0Da#7rkli#0ng #gcharges at you
+~
+~
+3 0 0 S
+107 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70006
+freak~
+they call him the freak~
+A #sF#sr#se#sa#sk #0is freaking out here
+~
+~
+3 0 0 S
+351 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70007
+minor lich~
+a minor lich is here~
+#ca minor #Clich #7is here casting spells
+~
+~
+3 128 0 S
+287 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70008
+mutant~
+a mutant~
+#0A #oGhastly #0Mu#7tan#0t #rstares into space.#n
+~
+~
+3 0 0 S
+279 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70009
+vampire~
+a Vampire flies around the room~
+#0A #PVa#7mpi#Pre #0flies around the room#n
+~
+~
+3 0 0 S
+308 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70010
+tormented spirit~
+a Tormented spirit weeps in sorrow~
+A #rTo#0rment#red #CSp#7ir#Cit #pweeps #7in #Rsorrow
+~
+~
+3 0 0 S
+330 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70011
+mummy~
+a mummy is coming unwrapped here~
+#0An ancient #omummy #7is standing here#n 
+~
+~
+3 0 0 S
+302 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70012
+banshee~
+a Banshee screaks in pain as you hit it~
+#0A #pWailing #GBa#gnsh#Gee #0is a bit pissed off at you#n
+~
+~
+3 0 0 S
+273 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70013
+living arm~
+a living arm is losing its fingers~
+A #oliving #garm #0crawls towards you
+~
+~
+3 0 0 S
+313 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70014
+floating eye~
+the eye winks at you~
+#0Before you flies a #CFloating #Geye#n
+~
+~
+3 0 0 S
+282 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70015
+decapitated zombie~
+#0Warning dont step on my #RHead#y!!#n~
+A #0Decapitated #oZo#ymb#oie #7is looking for its head.
+~
+~
+3 0 0 S
+274 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70016
+dirty man~
+dang he smells~
+A very #0Di#ort#0y #7man #gsits here on the couch
+~
+~
+3 0 0 S
+298 0 0 1d1+1 0d0+0
+0 0
+0 0 1
+#70017
+dirty woman~
+she looks nasty, and wants you badly~
+A #ocrusty #rdirty #Cwoman #0is here looking for a man
+~
+~
+3 0 0 S
+347 0 0 1d1+1 0d0+0
+0 0
+0 0 2
+#70018
+dirty kid~
+can someone change this things diaper~
+A #gsnot nosed #oDirty #7Kid #0is here cring
+~
+~
+3 0 0 S
+220 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70019
+dirty dog~
+dont get to close its catching~
+A #rsmelly, #Pdirty #LDog, #0is here picking at its fleas
+~
+~
+3 0 0 S
+259 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70020
+undead bat~
+watch out for bat dung~
+A #0large #oundead #PBat #7sit here in the tree
+~
+~
+3 0 0 S
+294 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70021
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2963 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70022
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3034 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70023
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3076 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70024
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2955 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70025
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3018 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70026
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3036 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70027
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2928 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70028
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3068 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70029
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2952 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70030
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3051 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70031
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2979 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70032
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3032 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70033
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3004 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70034
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3046 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70035
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2949 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70036
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3024 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70037
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2915 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70038
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3017 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70039
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2936 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70040
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2996 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70041
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3035 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70042
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2965 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70043
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2959 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70044
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2987 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70045
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2977 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70046
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2989 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70047
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3006 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70048
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2960 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70049
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2958 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70050
+Gremlin~
+#0a #GGr#Peml#Gin #7is here picking your nose~
+#0a #GGr#geml#Gin #7is here picking your nose
+~
+~
+3 0 0 S
+244 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70051
+lich lord~
+a lich lord is passing gas~
+#pa #oL#0ic#oh L#7or#od #nis here chanting words of #CPower#y!!
+~
+~
+3 0 0 S
+88 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70052
+poltergeist~
+a poltergeist~
+#0A #RP#nolt#Rer#ngeis#Rt#0 is fading in and out of the room.#n
+~
+~
+3 0 0 S
+115 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70053
+large man-eating plant~
+a man-eatting plant eats you up~
+#0a #rlarge #0man-eating #Gplant #7attacks you on sight
+~
+~
+65555 128 0 S
+37 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70054
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2885 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70055
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2968 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70056
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2986 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70057
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3011 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70058
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2910 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70059
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2969 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70060
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2993 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70061
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3233 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70062
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3238 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70063
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3112 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70064
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3030 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70065
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3000 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70066
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3053 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70067
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2962 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70068
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3019 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70069
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3058 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70070
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2951 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70071
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2972 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70072
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3104 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70073
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2942 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70074
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3054 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70075
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3005 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70076
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2952 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70077
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2963 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70078
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3001 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70079
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3052 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70081
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3002 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70082
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3007 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70083
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2994 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70084
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3007 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70085
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3046 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70086
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2950 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70087
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3069 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70088
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3008 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70089
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2613 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70090
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2634 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70091
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2811 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70092
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3013 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70093
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2977 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70094
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3015 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70095
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2979 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70096
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3002 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70097
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+2935 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70098
+mutant~
+a mutant stares at you~
+Its ugly
+~
+~
+1 0 0 S
+3000 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#70099
+mutant~
+a mutant~
+#0a #0M#7u#nt#7a#0nt #gstands here
+~
+~
+19 0 0 S
+498 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#70000
+Guardians juice~
+the #CGuardian's#n Juice~
+A container is here~
+~
+5 4232 262144
+2 0 2097152
+0 0 0 0
+10 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#70001
+Coat hanger~
+a #YCoat#n Hanger~
+A coat hanger is here~
+~
+5 262144 131072
+0 24 360448
+0 200 250 9
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#70002
+stinky cloud~
+a very #0Stinky#n Cloud ~
+A very #0Stinky#n Cloud floats around you~
+~
+9 282915 524288
+0 0 0
+0 0 0 0
+10 100 0
+A
+17 -100
+A
+13 50
+A
+9 50
+A
+1 5
+A
+2 5
+A
+4 5
+A
+5 5
+A
+4 5
+A
+5 5
+A
+12 50
+A
+14 50
+A
+18 50
+A
+19 50
+A
+20 -50
+A
+21 50
+A
+22 -50
+A
+23 -50
+A
+24 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#70003
+toothbrush~
+a Crest #lToothbrush#n~
+Its a toothbrush~
+~
+5 262147 8192
+0 1336 0
+0 200 250 3
+10 0 0
+A
+18 50
+A
+19 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#70053
+medal of honor~
+#0Medal #7of #yH#0oo#yn#oo#yr#n~
+#0Medal #7of #yH#oo#yn#oo#yr#n~
+~
+9 135171 262145
+0 0 98304
+10062 0 0 0
+10 20000 0
+A
+17 -250
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#70000
+#0Entrance to the #gUn#odead#0City~
+~
+0 159408134 1
+D5
+~
+~
+0 0 70001
+S
+#70001
+Pathway Down~
+~
+0 8 1
+D4
+~
+~
+0 0 70000
+D5
+~
+~
+0 0 70002
+S
+#70002
+Pathway Down~
+~
+0 8 1
+D4
+~
+~
+0 0 70001
+D5
+~
+~
+0 0 70003
+S
+#70003
+Pathway Down~
+~
+0 8 1
+D4
+~
+~
+0 0 70002
+D5
+~
+~
+0 0 70004
+S
+#70004
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70003
+D5
+~
+~
+0 0 70005
+S
+#70005
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70004
+D5
+~
+~
+0 0 70006
+S
+#70006
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70005
+D5
+~
+~
+0 0 70007
+S
+#70007
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70006
+D5
+~
+~
+0 0 70008
+S
+#70008
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70007
+D5
+~
+~
+0 0 70009
+S
+#70009
+Pathway Down~
+~
+0 0 0
+D4
+~
+~
+0 0 70008
+D5
+~
+~
+0 0 70010
+S
+#70010
+NorthWestern Turn~
+~
+0 0 0
+D1
+~
+~
+0 0 70049
+D2
+~
+~
+0 0 70011
+D4
+~
+~
+0 0 70009
+S
+#70011
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70010
+D2
+~
+~
+0 0 70012
+S
+#70012
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70011
+D2
+~
+~
+0 0 70013
+D4
+~
+~
+0 0 70054
+S
+#70013
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70012
+D2
+~
+~
+0 0 70014
+S
+#70014
+Western Street~
+~
+0 4 0
+D0
+~
+~
+0 0 70013
+D2
+~
+~
+0 0 70015
+S
+#70015
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70014
+D1
+~
+~
+0 0 70089
+D2
+~
+~
+0 0 70016
+S
+#70016
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70015
+D2
+~
+~
+0 0 70017
+S
+#70017
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70016
+D1
+~
+~
+0 0 70058
+D2
+~
+~
+0 0 70018
+S
+#70018
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70017
+D2
+~
+~
+0 0 70019
+S
+#70019
+Western Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70018
+D2
+~
+~
+0 0 70020
+S
+#70020
+SouthWestern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70019
+D1
+~
+~
+0 0 70021
+S
+#70021
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70022
+D3
+~
+~
+0 0 70020
+S
+#70022
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70023
+D2
+~
+~
+0 0 70070
+D3
+~
+~
+0 0 70021
+S
+#70023
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70024
+D3
+~
+~
+0 0 70022
+S
+#70024
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70025
+D3
+~
+~
+0 0 70023
+S
+#70025
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70026
+D3
+~
+~
+0 0 70024
+S
+#70026
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70027
+D3
+~
+~
+0 0 70025
+D4
+~
+~
+0 0 70073
+S
+#70027
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70028
+D3
+~
+~
+0 0 70026
+S
+#70028
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70029
+D3
+~
+~
+0 0 70027
+S
+#70029
+Southern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70030
+D3
+~
+~
+0 0 70028
+S
+#70030
+SouthEastern Turn~
+~
+0 0 0
+D0
+~
+~
+0 0 70031
+D3
+~
+~
+0 0 70029
+D5
+~
+~
+0 0 70076
+S
+#70031
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70032
+D2
+~
+~
+0 0 70030
+S
+#70032
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70033
+D2
+~
+~
+0 0 70031
+S
+#70033
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70034
+D2
+~
+~
+0 0 70032
+S
+#70034
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70035
+D2
+~
+~
+0 0 70033
+S
+#70035
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70036
+D2
+~
+~
+0 0 70034
+D3
+~
+~
+0 0 70081
+S
+#70036
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70037
+D2
+~
+~
+0 0 70035
+S
+#70037
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70038
+D2
+~
+~
+0 0 70036
+S
+#70038
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70039
+D2
+~
+~
+0 0 70037
+S
+#70039
+Eastern Street~
+~
+0 0 0
+D0
+~
+~
+0 0 70040
+D2
+~
+~
+0 0 70038
+S
+#70040
+NorthEast Turn~
+~
+0 0 0
+D2
+~
+~
+0 0 70039
+D3
+~
+~
+0 0 70041
+S
+#70041
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70040
+D3
+~
+~
+0 0 70042
+S
+#70042
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70041
+D3
+~
+~
+0 0 70043
+S
+#70043
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70042
+D3
+~
+~
+0 0 70044
+D4
+~
+~
+0 0 70075
+S
+#70044
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70043
+D3
+~
+~
+0 0 70045
+S
+#70045
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70044
+D3
+~
+~
+0 0 70046
+D4
+~
+~
+0 0 70095
+S
+#70046
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70045
+D3
+~
+~
+0 0 70047
+D4
+~
+~
+0 0 70092
+S
+#70047
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70046
+D3
+~
+~
+0 0 70048
+S
+#70048
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70047
+D3
+~
+~
+0 0 70049
+D4
+~
+~
+0 0 70098
+S
+#70049
+Northern Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70048
+D3
+~
+~
+0 0 70010
+D4
+~
+~
+0 0 70050
+S
+#70050
+Entrance to a Dirty House~
+~
+0 8 1
+D1
+~
+~
+0 0 70051
+D5
+~
+~
+0 0 70049
+S
+#70051
+HallWay~
+~
+0 8 1
+D0
+~
+~
+0 0 70052
+D1
+~
+~
+0 0 70053
+D3
+~
+~
+0 0 70050
+S
+#70052
+Scuzzy Bathroom~
+~
+0 134242329 1
+D2
+~
+~
+0 0 70051
+S
+#70053
+Closet~
+~
+0 8 1
+D3
+~
+~
+0 0 70051
+S
+#70054
+Entrance to a Suzzy House~
+~
+0 0 0
+D3
+~
+~
+0 0 70055
+D5
+~
+~
+0 0 70012
+S
+#70055
+Living Room~
+~
+0 0 0
+D0
+~
+~
+0 0 70057
+D1
+~
+~
+0 0 70054
+D5
+~
+~
+0 0 70056
+S
+#70056
+Bathroom~
+~
+0 0 0
+D4
+~
+~
+0 0 70055
+S
+#70057
+Bed Room~
+~
+0 0 0
+D2
+~
+~
+0 0 70055
+S
+#70058
+A Store~
+~
+0 0 0
+D3
+~
+~
+0 0 70017
+D5
+~
+~
+0 0 70059
+S
+#70059
+Basement~
+~
+0 0 0
+D4
+~
+~
+0 0 70058
+S
+#70060
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70061
+S
+#70061
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70062
+D3
+~
+~
+0 0 70060
+S
+#70062
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70063
+D3
+~
+~
+0 0 70061
+S
+#70063
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70064
+D3
+~
+~
+0 0 70062
+S
+#70064
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70065
+D3
+~
+~
+0 0 70063
+S
+#70065
+Fine Looking Room~
+~
+0 0 0
+D0
+~
+~
+0 0 70074
+D1
+~
+~
+0 0 70066
+D3
+~
+~
+0 0 70064
+S
+#70066
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70067
+D3
+~
+~
+0 0 70065
+S
+#70067
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70068
+D3
+~
+~
+0 0 70066
+S
+#70068
+Fine Looking Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70069
+D3
+~
+~
+0 0 70067
+S
+#70069
+Fine Looking Room~
+~
+0 0 0
+D3
+~
+~
+0 0 70068
+S
+#70070
+Path~
+~
+0 0 0
+D0
+~
+~
+0 0 70022
+D2
+~
+~
+0 0 70071
+D4
+~
+~
+0 0 70082
+S
+#70071
+Path~
+~
+0 0 0
+D0
+~
+~
+0 0 70070
+D5
+~
+~
+0 0 70072
+S
+#70072
+MakeOut Pit~
+~
+0 16 0
+D4
+~
+~
+0 0 70071
+S
+#70073
+Stinky House~
+~
+0 0 0
+D1
+~
+~
+0 0 70074
+D5
+~
+~
+0 0 70026
+S
+#70074
+Stinky Living Room~
+~
+0 0 0
+D0
+~
+~
+0 0 70075
+D2
+~
+~
+0 0 70065
+D3
+~
+~
+0 0 70073
+S
+#70075
+Nasty Stinky Scummy Bathroom~
+down remove
+~
+0 0 0
+D2
+~
+~
+0 0 70074
+D5
+~
+~
+0 0 70043
+S
+#70076
+Sewer~
+~
+0 0 0
+D2
+~
+~
+0 0 70077
+D4
+~
+~
+0 0 70030
+S
+#70077
+Sewer~
+~
+0 0 0
+D0
+~
+~
+0 0 70076
+D3
+~
+~
+0 0 70078
+S
+#70078
+Sewer~
+~
+0 0 0
+D0
+~
+~
+0 0 70079
+D1
+~
+~
+0 0 70077
+S
+#70079
+Sewer~
+~
+0 0 0
+D2
+~
+~
+0 0 70078
+D5
+~
+~
+0 0 70080
+S
+#70080
+On a Grate~
+~
+0 0 0
+D4
+~
+~
+0 0 70079
+S
+#70081
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70035
+D3
+~
+~
+0 0 70082
+S
+#70082
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70081
+D3
+~
+~
+0 0 70083
+D5
+~
+~
+0 0 70070
+S
+#70083
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70082
+D3
+~
+~
+0 0 70084
+S
+#70084
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70083
+D3
+~
+~
+0 0 70085
+D5
+~
+~
+0 0 70090
+S
+#70085
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70084
+D3
+~
+~
+0 0 70086
+S
+#70086
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70085
+D3
+~
+~
+0 0 70087
+S
+#70087
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70086
+D3
+~
+~
+0 0 70088
+S
+#70088
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70087
+D3
+~
+~
+0 0 70089
+S
+#70089
+Middle Street~
+~
+0 0 0
+D1
+~
+~
+0 0 70088
+D3
+~
+~
+0 0 70015
+S
+#70090
+Sink Hole~
+~
+0 0 0
+D4
+~
+~
+0 0 70084
+S
+#70091
+The Jail~
+~
+0 164655110 0
+S
+#70092
+Really Ugly House~
+~
+0 0 0
+D1
+~
+~
+0 0 70093
+D5
+~
+~
+0 0 70046
+S
+#70093
+Ghetto Living Room/Kitchen~
+~
+0 0 0
+D0
+~
+~
+0 0 70094
+D3
+~
+~
+0 0 70092
+S
+#70094
+Bathroom/Bedroom~
+~
+0 0 0
+D2
+~
+~
+0 0 70093
+S
+#70095
+Another Stinky House~
+~
+0 0 0
+D1
+~
+~
+0 0 70096
+D5
+~
+~
+0 0 70045
+S
+#70096
+Scuzzy Living Room~
+~
+0 0 0
+D1
+~
+~
+0 0 70097
+D3
+~
+~
+0 0 70095
+D4
+~
+~
+0 0 70097
+S
+#70097
+Bathroom~
+~
+0 0 0
+D3
+~
+~
+0 0 70096
+D5
+~
+~
+0 0 70096
+S
+#70098
+Tree~
+~
+0 8 1
+D1
+~
+~
+0 0 70099
+D5
+~
+~
+0 0 70048
+S
+#70099
+tree~
+~
+0 8 1
+D3
+~
+~
+0 0 70098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 70000 1 70000
+M 0 70005 18 70001
+M 0 70004 18 70001
+M 0 70003 18 70001
+M 0 70002 18 70001
+M 0 70001 18 70001
+M 0 70005 18 70001
+M 0 70004 18 70001
+M 0 70003 18 70001
+M 0 70002 18 70001
+M 0 70001 18 70001
+M 0 70005 18 70002
+M 0 70004 18 70002
+M 0 70003 18 70002
+M 0 70002 18 70002
+M 0 70001 18 70002
+M 0 70005 18 70002
+M 0 70004 18 70002
+M 0 70003 18 70002
+M 0 70002 18 70002
+M 0 70001 18 70002
+M 0 70005 18 70003
+M 0 70004 18 70003
+M 0 70003 18 70003
+M 0 70002 18 70003
+M 0 70001 18 70003
+M 0 70005 18 70003
+M 0 70004 18 70003
+M 0 70003 18 70003
+M 0 70002 18 70003
+M 0 70001 18 70003
+M 0 70005 18 70004
+M 0 70004 18 70004
+M 0 70003 18 70004
+M 0 70002 18 70004
+M 0 70001 18 70004
+M 0 70005 18 70004
+M 0 70004 18 70004
+M 0 70003 18 70004
+M 0 70002 18 70004
+M 0 70001 18 70004
+M 0 70005 18 70005
+M 0 70004 18 70005
+M 0 70003 18 70005
+M 0 70002 18 70005
+M 0 70001 18 70005
+M 0 70005 18 70005
+M 0 70004 18 70005
+M 0 70003 18 70005
+M 0 70002 18 70005
+M 0 70001 18 70005
+M 0 70005 18 70006
+M 0 70004 18 70006
+M 0 70003 18 70006
+M 0 70002 18 70006
+M 0 70001 18 70006
+M 0 70005 18 70006
+M 0 70004 18 70006
+M 0 70003 18 70006
+M 0 70002 18 70006
+M 0 70001 18 70006
+M 0 70005 18 70007
+M 0 70004 18 70007
+M 0 70003 18 70007
+M 0 70002 18 70007
+M 0 70001 18 70007
+M 0 70005 18 70007
+M 0 70004 18 70007
+M 0 70003 18 70007
+M 0 70002 18 70007
+M 0 70001 18 70007
+M 0 70005 18 70008
+M 0 70004 18 70008
+M 0 70003 18 70008
+M 0 70002 18 70008
+M 0 70001 18 70008
+M 0 70005 18 70008
+M 0 70004 18 70008
+M 0 70003 18 70008
+M 0 70002 18 70008
+M 0 70001 18 70008
+M 0 70005 18 70009
+M 0 70004 18 70009
+M 0 70003 18 70009
+M 0 70002 18 70009
+M 0 70001 18 70009
+M 0 70005 18 70009
+M 0 70004 18 70009
+M 0 70003 18 70009
+M 0 70002 18 70009
+M 0 70001 18 70009
+M 0 70010 22 70010
+M 0 70009 22 70010
+M 0 70008 22 70010
+M 0 70007 22 70010
+M 0 70006 22 70010
+M 0 70010 22 70010
+M 0 70009 22 70010
+M 0 70008 22 70010
+M 0 70007 22 70010
+M 0 70006 22 70010
+M 0 70010 22 70011
+M 0 70009 22 70011
+M 0 70008 22 70011
+M 0 70007 22 70011
+M 0 70006 22 70011
+M 0 70010 22 70011
+M 0 70009 22 70011
+M 0 70008 22 70011
+M 0 70007 22 70011
+M 0 70006 22 70011
+M 0 70010 22 70012
+M 0 70009 22 70012
+M 0 70008 22 70012
+M 0 70007 22 70012
+M 0 70006 22 70012
+M 0 70010 22 70012
+M 0 70009 22 70012
+M 0 70008 22 70012
+M 0 70007 22 70012
+M 0 70006 22 70012
+M 0 70010 22 70013
+M 0 70009 22 70013
+M 0 70008 22 70013
+M 0 70007 22 70013
+M 0 70006 22 70013
+M 0 70010 22 70013
+M 0 70009 22 70013
+M 0 70008 22 70013
+M 0 70007 22 70013
+M 0 70006 22 70013
+M 0 70010 22 70014
+M 0 70009 22 70014
+M 0 70008 22 70014
+M 0 70007 22 70014
+M 0 70006 22 70014
+M 0 70010 22 70014
+M 0 70009 22 70014
+M 0 70008 22 70014
+M 0 70007 22 70014
+M 0 70006 22 70014
+M 0 70010 22 70015
+M 0 70009 22 70015
+M 0 70008 22 70015
+M 0 70007 22 70015
+M 0 70006 22 70015
+M 0 70010 22 70015
+M 0 70009 22 70015
+M 0 70008 22 70015
+M 0 70007 22 70015
+M 0 70006 22 70015
+M 0 70010 22 70016
+M 0 70009 22 70016
+M 0 70008 22 70016
+M 0 70007 22 70016
+M 0 70006 22 70016
+M 0 70010 22 70016
+M 0 70009 22 70016
+M 0 70008 22 70016
+M 0 70007 22 70016
+M 0 70006 22 70016
+M 0 70010 22 70017
+M 0 70009 22 70017
+M 0 70008 22 70017
+M 0 70007 22 70017
+M 0 70006 22 70017
+M 0 70010 22 70017
+M 0 70009 22 70017
+M 0 70008 22 70017
+M 0 70007 22 70017
+M 0 70006 22 70017
+M 0 70010 22 70018
+M 0 70009 22 70018
+M 0 70008 22 70018
+M 0 70007 22 70018
+M 0 70006 22 70018
+M 0 70010 22 70018
+M 0 70009 22 70018
+M 0 70008 22 70018
+M 0 70007 22 70018
+M 0 70006 22 70018
+M 0 70010 22 70019
+M 0 70009 22 70019
+M 0 70008 22 70019
+M 0 70007 22 70019
+M 0 70006 22 70019
+M 0 70010 22 70019
+M 0 70009 22 70019
+M 0 70008 22 70019
+M 0 70007 22 70019
+M 0 70006 22 70019
+M 0 70010 22 70020
+M 0 70009 22 70020
+M 0 70008 22 70020
+M 0 70007 22 70020
+M 0 70006 22 70020
+M 0 70010 22 70020
+M 0 70009 22 70020
+M 0 70008 22 70020
+M 0 70007 22 70020
+M 0 70006 22 70020
+M 0 70013 20 70040
+M 0 70015 20 70040
+M 0 70012 20 70040
+M 0 70014 20 70040
+M 0 70011 20 70040
+M 0 70013 20 70040
+M 0 70015 20 70040
+M 0 70012 20 70040
+M 0 70014 20 70040
+M 0 70011 20 70040
+M 0 70013 20 70041
+M 0 70015 20 70041
+M 0 70012 20 70041
+M 0 70014 20 70041
+M 0 70011 20 70041
+M 0 70013 20 70041
+M 0 70015 20 70041
+M 0 70012 20 70041
+M 0 70014 20 70041
+M 0 70011 20 70041
+M 0 70013 20 70042
+M 0 70015 20 70042
+M 0 70012 20 70042
+M 0 70014 20 70042
+M 0 70011 20 70042
+M 0 70013 20 70042
+M 0 70015 20 70042
+M 0 70012 20 70042
+M 0 70014 20 70042
+M 0 70011 20 70042
+M 0 70013 20 70043
+M 0 70015 20 70043
+M 0 70012 20 70043
+M 0 70014 20 70043
+M 0 70011 20 70043
+M 0 70013 20 70043
+M 0 70015 20 70043
+M 0 70012 20 70043
+M 0 70014 20 70043
+M 0 70011 20 70043
+M 0 70013 20 70044
+M 0 70015 20 70044
+M 0 70012 20 70044
+M 0 70014 20 70044
+M 0 70011 20 70044
+M 0 70013 20 70044
+M 0 70015 20 70044
+M 0 70012 20 70044
+M 0 70014 20 70044
+M 0 70011 20 70044
+M 0 70013 20 70045
+M 0 70015 20 70045
+M 0 70012 20 70045
+M 0 70014 20 70045
+M 0 70011 20 70045
+M 0 70013 20 70045
+M 0 70015 20 70045
+M 0 70012 20 70045
+M 0 70014 20 70045
+M 0 70011 20 70045
+M 0 70013 20 70046
+M 0 70015 20 70046
+M 0 70012 20 70046
+M 0 70014 20 70046
+M 0 70011 20 70046
+M 0 70013 20 70046
+M 0 70015 20 70046
+M 0 70012 20 70046
+M 0 70014 20 70046
+M 0 70011 20 70046
+M 0 70013 20 70047
+M 0 70015 20 70047
+M 0 70012 20 70047
+M 0 70014 20 70047
+M 0 70011 20 70047
+M 0 70013 20 70047
+M 0 70015 20 70047
+M 0 70012 20 70047
+M 0 70014 20 70047
+M 0 70011 20 70047
+M 0 70013 20 70048
+M 0 70015 20 70048
+M 0 70012 20 70048
+M 0 70014 20 70048
+M 0 70011 20 70048
+M 0 70013 20 70048
+M 0 70015 20 70048
+M 0 70012 20 70048
+M 0 70014 20 70048
+M 0 70011 20 70048
+M 0 70013 20 70049
+M 0 70015 20 70049
+M 0 70012 20 70049
+M 0 70014 20 70049
+M 0 70011 20 70049
+M 0 70013 20 70049
+M 0 70015 20 70049
+M 0 70012 20 70049
+M 0 70014 20 70049
+M 0 70011 20 70049
+M 0 70019 66 70052
+M 0 70018 66 70052
+M 0 70017 66 70052
+M 0 70016 66 70052
+M 0 70019 66 70052
+M 0 70018 66 70052
+M 0 70017 66 70052
+M 0 70016 66 70052
+M 0 70019 66 70052
+M 0 70018 66 70052
+M 0 70017 66 70052
+M 0 70016 66 70052
+M 0 70019 66 70061
+M 0 70018 66 70061
+M 0 70017 66 70061
+M 0 70016 66 70061
+M 0 70019 66 70062
+M 0 70018 66 70062
+M 0 70017 66 70062
+M 0 70016 66 70062
+M 0 70053 1 70063
+M 0 70019 66 70064
+M 0 70018 66 70064
+M 0 70017 66 70064
+M 0 70016 66 70064
+M 0 70019 66 70064
+M 0 70018 66 70064
+M 0 70017 66 70064
+M 0 70016 66 70064
+M 0 70019 66 70064
+M 0 70018 66 70064
+M 0 70017 66 70064
+M 0 70016 66 70064
+M 0 70019 66 70065
+M 0 70018 66 70065
+M 0 70017 66 70065
+M 0 70016 66 70065
+M 0 70019 66 70065
+M 0 70018 66 70065
+M 0 70017 66 70065
+M 0 70016 66 70065
+M 0 70019 66 70065
+M 0 70018 66 70065
+M 0 70017 66 70065
+M 0 70016 66 70065
+M 0 70019 66 70066
+M 0 70018 66 70066
+M 0 70017 66 70066
+M 0 70016 66 70066
+M 0 70019 66 70066
+M 0 70018 66 70066
+M 0 70017 66 70066
+M 0 70016 66 70066
+M 0 70019 66 70066
+M 0 70018 66 70066
+M 0 70017 66 70066
+M 0 70016 66 70066
+M 0 70019 66 70067
+M 0 70018 66 70067
+M 0 70017 66 70067
+M 0 70016 66 70067
+M 0 70019 66 70067
+M 0 70018 66 70067
+M 0 70017 66 70067
+M 0 70016 66 70067
+M 0 70019 66 70067
+M 0 70018 66 70067
+M 0 70017 66 70067
+M 0 70016 66 70067
+M 0 70019 66 70068
+M 0 70018 66 70068
+M 0 70017 66 70068
+M 0 70016 66 70068
+M 0 70019 66 70068
+M 0 70018 66 70068
+M 0 70017 66 70068
+M 0 70016 66 70068
+M 0 70019 66 70068
+M 0 70018 66 70068
+M 0 70017 66 70068
+M 0 70016 66 70068
+M 0 70019 66 70069
+M 0 70018 66 70069
+M 0 70017 66 70069
+M 0 70016 66 70069
+M 0 70019 66 70073
+M 0 70018 66 70073
+M 0 70017 66 70073
+M 0 70016 66 70073
+M 0 70019 66 70073
+M 0 70018 66 70073
+M 0 70017 66 70073
+M 0 70016 66 70073
+M 0 70019 66 70073
+M 0 70018 66 70073
+M 0 70017 66 70073
+M 0 70016 66 70073
+M 0 70019 66 70074
+M 0 70018 66 70074
+M 0 70017 66 70074
+M 0 70016 66 70074
+M 0 70019 66 70074
+M 0 70018 66 70074
+M 0 70017 66 70074
+M 0 70016 66 70074
+M 0 70019 66 70074
+M 0 70018 66 70074
+M 0 70017 66 70074
+M 0 70016 66 70074
+M 0 70019 66 70075
+M 0 70018 66 70075
+M 0 70017 66 70075
+M 0 70016 66 70075
+M 0 70019 66 70075
+M 0 70018 66 70075
+M 0 70017 66 70075
+M 0 70016 66 70075
+M 0 70019 66 70075
+M 0 70018 66 70075
+M 0 70017 66 70075
+M 0 70016 66 70075
+M 0 70019 66 70092
+M 0 70018 66 70092
+M 0 70017 66 70092
+M 0 70016 66 70092
+M 0 70019 66 70092
+M 0 70018 66 70092
+M 0 70017 66 70092
+M 0 70016 66 70092
+M 0 70019 66 70092
+M 0 70018 66 70092
+M 0 70017 66 70092
+M 0 70016 66 70092
+M 0 70019 66 70093
+M 0 70018 66 70093
+M 0 70017 66 70093
+M 0 70016 66 70093
+M 0 70019 66 70093
+M 0 70018 66 70093
+M 0 70017 66 70093
+M 0 70016 66 70093
+M 0 70019 66 70093
+M 0 70018 66 70093
+M 0 70017 66 70093
+M 0 70016 66 70093
+M 0 70019 66 70094
+M 0 70018 66 70094
+M 0 70017 66 70094
+M 0 70016 66 70094
+M 0 70019 66 70094
+M 0 70018 66 70094
+M 0 70017 66 70094
+M 0 70016 66 70094
+M 0 70019 66 70094
+M 0 70018 66 70094
+M 0 70017 66 70094
+M 0 70016 66 70094
+M 0 70019 66 70095
+M 0 70018 66 70095
+M 0 70017 66 70095
+M 0 70016 66 70095
+M 0 70019 66 70095
+M 0 70018 66 70095
+M 0 70017 66 70095
+M 0 70016 66 70095
+M 0 70019 66 70095
+M 0 70018 66 70095
+M 0 70017 66 70095
+M 0 70016 66 70095
+M 0 70019 66 70096
+M 0 70018 66 70096
+M 0 70017 66 70096
+M 0 70016 66 70096
+M 0 70019 66 70096
+M 0 70018 66 70096
+M 0 70017 66 70096
+M 0 70016 66 70096
+M 0 70019 66 70096
+M 0 70018 66 70096
+M 0 70017 66 70096
+M 0 70016 66 70096
+M 0 70019 66 70097
+M 0 70018 66 70097
+M 0 70017 66 70097
+M 0 70016 66 70097
+M 0 70019 66 70097
+M 0 70018 66 70097
+M 0 70017 66 70097
+M 0 70016 66 70097
+M 0 70019 66 70097
+M 0 70018 66 70097
+M 0 70017 66 70097
+M 0 70016 66 70097
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70098
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+M 0 70020 20 70099
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

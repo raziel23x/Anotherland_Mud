@@ -1,0 +1,8903 @@
+#AREADATA
+Name        Dertah  Fallout~
+Builders    Dertaherup All~
+VNUMs       1002000 1004000
+Security    9
+Recall      3001
+Flags	      64
+End
+
+
+
+#MOBILES
+#1002300
+enclave general~
+#0E#rnclave #0G#reneral#n~
+#0E#rnclave #0G#reneral#n wants to know what you are doing here!
+~
+~
+458767 4194364 -1000 S
+10011 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#1002301
+enclave drill instructor sergeant~
+#0E#rnclave #0D#rrill #0I#rnstructor#n~
+#0E#rnclave #0D#rrill #0I#rnstructor#n is barking orders at you.
+~
+~
+458767 128 -1000 S
+6000 0 0 0d20+3 0d0+0
+0 0
+0 0 1
+#1002305
+enclave guard~
+#0E#rnclave #0G#ruard#n~
+#0E#rnclave #0G#ruard#n is watching you.
+~
+~
+131073 128 -1000 S
+1510 0 0 0d10+0 0d0+0
+0 0
+0 0 0
+#1002306
+enclave trainee~
+#0E#rnclave #0T#rrainee#n~
+#0E#rnclave #0T#rrainee#n keeps screwing up and landing on his ass.
+~
+~
+1 0 0 S
+1017 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#1002307
+enclave student~
+#0E#rnclave #0S#rtudent#n~
+#0E#rnclave #0S#rtudent#n is reading here.
+~
+~
+33 0 0 S
+709 0 0 30d0+2 0d0+0
+0 0
+0 0 0
+#1002308
+enclave soldier~
+#0E#rnclave #0S#roldier#n~
+An #0E#rnclave #0S#roldier#n is screwing around
+~
+~
+131073 128 0 S
+1006 0 0 0d10+0 0d0+0
+0 0
+0 0 1
+#1002309
+enclave clerk~
+#0E#rnclave #0C#rlerk#n~
+#0E#rnclave #0C#rlerk#n is waiting for your inquiry.
+~
+~
+131073 0 0 S
+515 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#1002310
+enclave engineer~
+#0E#rnclave #0E#rngineer#n~
+#0E#rnclave #0E#rngineer#n is working on somethin.
+~
+~
+131073 0 0 S
+502 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#1002600
+an angry mob of feminists~
+#nan angry mob of #Pfeminists#n~
+#nan angry mob of #Pfeminists #nprotest here.
+~
+What a bunch of flippin' biscuits.
+~
+131081 1638570 -9999 S
+100000 0 0 0d20+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#1002000
+rptoken~
+derts rptoken~
+Immortal shit~
+~
+54 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002036
+portal park mcleod~
+#GA portal to Mcleod park#n~
+A portal to Mcleod park exists as a tear in the dimension.~
+~
+27 0 0
+0 0 0
+1002040 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002040
+midgaard portal vortex blue~
+a portal back to midgaard.~
+#LA large vortex lights up the surrounding area with a blue glow.#n~
+~
+27 3 0
+0 0 0
+3001 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002230
+yellow keycard~
+#yYellow Keycard#n~
+A small piece of old plastic is buried in the dirt.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002457
+dark alley~
+# ~
+#~
+~
+27 0 0
+0 0 0
+1002458 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002500
+used blowup doll~
+a used blowup doll~
+A used blowup doll rests here waiting for you....~
+~
+15 0 65537
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002501
+porno porn centerfold~
+#CA C#penterfold #Co#pf #CA#plesyira#n~
+A small poster of a beatiful woman is gathering dust on the floor.~
+~
+38 12582912 16385
+0 0 0
+0 0 0 0
+0 0 0
+A
+2 15
+E
+porn~
+A very cute girl with short hair is posing just for you!  Wearing only a
+short plaid skirt.  The rest of her schoolgirl outfit is scattered her, with
+the exception of her form fitting blouse which is unbuttoned and draping
+over her breasts.  While laying on her back she beams a beatiful smile at
+you.  
+~
+E
+centerfold~
+A very cute girl with short hair is posing just for you!  Wearing only a
+short plaid skirt.  The rest of her schoolgirl outfit is scattered her, with
+the exception of her form fitting blouse which is unbuttoned and draping
+over her breasts.  While laying on her back she beams a beatiful smile at
+you.  
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002502
+condom jimmy cap~
+#7A U#0s#7e#0d #7J#0i#7m#0m#7y C#0a#7p#n~
+A sticky piece of latex is on the ground.~
+~
+9 0 65537
+0 0 1048576
+0 0 0 0
+0 0 0
+A
+3 5
+A
+5 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002503
+hatch~
+the hatch~
+#~
+~
+27 0 0
+0 0 0
+1002220 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002504
+cigarette~
+#7a zoob brand cigarette#n~
+A nice new zoob is waiting for you to suck on it.~
+~
+1 0 32769
+0 0 0
+0 0 3 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002505
+Derts Dirty Drink~
+#sD#se#sr#st#s'#ss #sD#si#sr#st#sy #sD#sr#si#sn#sk#n~
+#sD#se#sr#st#s'#ss #sD#si#sr#st#sy #sD#sr#si#sn#sk#n is screaming for you to drink it!~
+~
+17 0 16385
+0 0 0
+200 200 8 1
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002600
+a green portal~
+#na #Ggreen #nportal~
+#na #Ggreen #nportal makes a humming noise.~
+~
+27 0 0
+0 0 0
+3001 0 0 0
+19072 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002601
+a blue portal~
+#na #Lblue #nportal~
+#na #Lblue #nportal makes a whirring noise.~
+~
+27 0 0
+0 0 0
+1002601 0 0 0
+-1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002602
+a red portal~
+#na #Rred #nportal~
+#na #Rred #nportal makes a roaring noise.~
+~
+27 0 0
+0 0 0
+1002602 0 0 0
+-1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002603
+a strap-on dildo~
+a strap-on #Pdildo#n~
+#na strap-on #Pdildo #nlies here. WTF.~
+~
+9 1 2048
+0 0 0
+-50000000 0 0 0
+-7937 0 0
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+18 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+19 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002604
+a token for one diamond~
+a token for one diamond~
+A token for one diamond lies here.~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#1002605
+portal~
+portal~
+(no description)~
+~
+27 0 0
+0 0 0
+1002600 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#1002000
+fallout zone~
+vnums  1002000-1003000
+rooms  1002001-1002299
+mobs   1002300-1002400
+items  1002500-1002600
+~
+0 1064964 0
+S
+#1002001
+The Enclave General's Office~
+You are in a very orderly office. In front of you is a
+BEAUTIFUL polished mahogany desk. Where they found the wood
+in this wasteland is well beyond your grasp of knowledge
+yet here it is. The walls are all a metal of some kind
+and the only exit is the hydraulic door behind you.
+~
+0 0 0
+D2
+~
+~
+67 0 1002002
+S
+#1002002
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad. There is a door to the north, and through the
+porthole it appears to be an office of some sort.
+~
+0 0 0
+D0
+~
+~
+67 0 1002001
+D2
+~
+~
+0 0 1002003
+S
+#1002003
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad.
+~
+0 0 0
+D0
+~
+~
+0 0 1002002
+D2
+~
+~
+0 0 1002004
+D3
+~
+~
+67 0 1002008
+S
+#1002004
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad.
+~
+0 0 0
+D0
+~
+~
+0 0 1002003
+D2
+~
+~
+0 0 1002005
+S
+#1002005
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad.
+~
+0 0 0
+D0
+~
+~
+0 0 1002004
+D1
+~
+~
+67 0 1002009
+D2
+~
+~
+0 0 1002006
+S
+#1002006
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad.
+~
+0 0 0
+D0
+~
+~
+0 0 1002005
+D2
+~
+~
+0 0 1002007
+S
+#1002007
+A long metallic hallway~
+As you travel the hallway there is no ambient noise
+except for that which you create on your own, and the
+occasional voices over the commlinks of the patrols
+as they check in. Your breathing and heartbeat seem
+to increase in volume, and are begining to drive you 
+mad.
+~
+0 0 0
+D0
+~
+~
+0 0 1002006
+D2
+~
+~
+0 0 1002011
+D3
+~
+~
+67 0 1002010
+S
+#1002008
+Storage room~
+This room is gigantic! there are rows and rows of shelfing
+Over in the corner there is a short spindly man spindly
+man standing in front of a computer terminal listing the
+contents of room and their locations.
+~
+0 0 0
+D1
+~
+~
+67 0 1002003
+S
+#1002009
+Armory~
+Lockers line the walls of this room. Primarily they
+are used for storing weapons and armor for the new
+recruits. However old members come here as well
+for replacements while their equipment are being
+repaired.
+~
+0 0 0
+D3
+~
+~
+67 0 1002005
+S
+#1002010
+Repair shop~
+This room has items scattered all about it on
+various tables, and shelfing. Engineers are scurrying
+around gathering tools and fixing damage on the worn
+outout equipment of their fellow soldiers
+~
+0 0 0
+D1
+~
+~
+67 0 1002007
+S
+#1002011
+Elevator: #GSub-level 3#n~
+Standing inside this old elevator you listen to the
+squealing of the machine as it slides between levels.
+Stopping with a hard thud and a metallic clang, The
+blast doors grind open revealing the lower corridor.
+~
+0 0 0
+D0
+~
+~
+0 0 1002007
+D4
+~
+~
+0 0 1002012
+S
+#1002012
+Elevator: #GSub-level 2#n~
+Standing inside this old elevator you listen to the
+squealing of the machine as it slides between levels.
+Stopping with a hard thud and a metallic clang, The
+blast doors grind open revealing the barracks.
+~
+0 0 0
+D0
+~
+~
+0 0 1002015
+D4
+~
+~
+0 0 1002013
+D5
+~
+~
+0 0 1002011
+S
+#1002013
+Elevator: #GSub-level 1#n~
+Standing inside this old elevator you listen to the
+squealing of the machine as it slides between levels.
+Stopping with a hard thud and a metallic clang, The
+blast doors grind open revealing the training decks.
+~
+0 0 0
+D0
+~
+~
+0 0 1002024
+D4
+~
+~
+0 0 1002014
+D5
+~
+~
+0 0 1002012
+S
+#1002014
+Elevator: #GGround Floor#n~
+This old elevator goes down several floors underground
+into an old fallout bunker. There looks like there were
+originally 12 possable choices of levels, but the
+buttons have all been damaged well beyond use. Currently
+only sub-levels 1, 2, and 3 seem to be working.
+~
+0 0 0
+D0
+~
+~
+67 0 1002034
+D5
+~
+~
+0 0 1002013
+S
+#1002015
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002018
+D1
+~
+~
+0 0 1002020
+D2
+~
+~
+0 0 1002012
+D3
+~
+~
+0 0 1002016
+S
+#1002016
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002017
+D1
+~
+~
+0 0 1002015
+S
+#1002017
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002023
+D1
+~
+~
+0 0 1002018
+D2
+~
+~
+0 0 1002016
+S
+#1002018
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002022
+D1
+~
+~
+0 0 1002019
+D2
+~
+~
+0 0 1002015
+D3
+~
+~
+0 0 1002017
+S
+#1002019
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002021
+D2
+~
+~
+0 0 1002020
+D3
+~
+~
+0 0 1002018
+S
+#1002020
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D0
+~
+~
+0 0 1002019
+D3
+~
+~
+0 0 1002015
+S
+#1002021
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D2
+~
+~
+0 0 1002019
+D3
+~
+~
+0 0 1002022
+S
+#1002022
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D1
+~
+~
+0 0 1002021
+D2
+~
+~
+0 0 1002018
+D3
+~
+~
+0 0 1002023
+S
+#1002023
+Barracks~
+Small cots litter the room, there must be hundreds!
+Soldiers and various other forms of personel are
+all standing around in here. some sleeping and some
+doing various activities to relive the dullness
+of life on this base.
+~
+0 0 0
+D1
+~
+~
+0 0 1002022
+D2
+~
+~
+0 0 1002017
+S
+#1002024
+Lobby~
+A receptionist sits behind a desk in this boring
+pathway beteen places of learning.
+A Receptionist says '#yThe sergeant's office is to the north, library to the east, and sparring rooms to the west#n'.
+~
+0 0 0
+D0
+~
+~
+67 0 1002033
+D1
+~
+~
+0 0 1002025
+D2
+~
+~
+0 0 1002013
+D3
+~
+~
+0 0 1002029
+S
+#1002025
+Library~
+This library ironically has a rather small
+amount of books. During the war many books
+were destroyed in the initial blasts. Now
+they are on terminals which are spread
+evenly throughout the room. Students come
+here to study and to download copys for
+their own personal uses.
+~
+0 0 0
+D0
+~
+~
+0 0 1002028
+D1
+~
+~
+0 0 1002026
+D3
+~
+~
+0 0 1002024
+S
+#1002026
+Library~
+This library ironically has a rather small
+amount of books. During the war many books
+were destroyed in the initial blasts. Now
+they are on terminals which are spread
+evenly throughout the room. Students come
+here to study and to download copys for
+their own personal uses.
+~
+0 0 0
+D0
+~
+~
+0 0 1002027
+D3
+~
+~
+0 0 1002025
+S
+#1002027
+Library~
+This library ironically has a rather small
+amount of books. During the war many books
+were destroyed in the initial blasts. Now
+they are on terminals which are spread
+evenly throughout the room. Students come
+here to study and to download copys for
+their own personal uses.
+~
+0 0 0
+D2
+~
+~
+0 0 1002026
+D3
+~
+~
+0 0 1002028
+S
+#1002028
+Library~
+This library ironically has a rather small
+amount of books. During the war many books
+were destroyed in the initial blasts. Now
+they are on terminals which are spread
+evenly throughout the room. Students come
+here to study and to download copys for
+their own personal uses.
+~
+0 0 0
+D1
+~
+~
+0 0 1002027
+D2
+~
+~
+0 0 1002025
+S
+#1002029
+Sparring room~
+Trainees are here beating the crap out of
+each other while even more watch. The floor
+is coated in some sort of soft rubber foam
+to ease the falls.
+~
+0 0 0
+D0
+~
+~
+0 0 1002032
+D1
+~
+~
+0 0 1002024
+D3
+~
+~
+0 0 1002030
+S
+#1002030
+Sparring room~
+Trainees are here beating the crap out of
+each other while even more watch. The floor
+is coated in some sort of soft rubber foam
+to ease the falls.
+~
+0 0 0
+D0
+~
+~
+0 0 1002031
+D1
+~
+~
+0 0 1002029
+S
+#1002031
+Sparring room~
+Trainees are here beating the crap out of
+each other while even more watch. The floor
+is coated in some sort of soft rubber foam
+to ease the falls.
+~
+0 0 0
+D1
+~
+~
+0 0 1002032
+D2
+~
+~
+0 0 1002030
+S
+#1002032
+Sparring room~
+Trainees are here beating the crap out of
+each other while even more watch. The floor
+is coated in some sort of soft rubber foam
+to ease the falls.
+~
+0 0 0
+D2
+~
+~
+0 0 1002029
+D3
+~
+~
+0 0 1002031
+S
+#1002033
+Drill Sergeant's office~
+This office is extremly disorganised! The desk
+is Cluttered with papers, books lay all over
+the shelves, and the couch in the corner has a
+bed pillow on it with a blanket hanging off on
+to the floor.
+~
+0 0 0
+D2
+~
+~
+67 0 1002024
+S
+#1002034
+Standing Outside the shed~
+You are standing outside an odd looking shed
+made of some sort of metal. There is a large
+door in the center. surrounding the shed is
+razor-wire several layers deep.
+~
+0 0 0
+D0
+~
+~
+0 0 1002035
+D2
+~
+~
+67 0 1002014
+S
+#1002035
+A war torn path~
+As you walk down this crappy road you can
+see a small building to the south, and
+the remnants of an old city to the
+northeast. Between you and the city is a
+vast expanse of nothing but irradiated
+desert.
+~
+0 0 0
+D0
+~
+~
+0 0 1002036
+D2
+~
+~
+0 0 1002034
+S
+#1002036
+A war torn path~
+Standing here on the edge of the wastes
+you wonder if youll ever find a friendly
+face again. From here you can see light
+reflecting off of something to the south,
+but its too far away to see what it is.
+~
+0 0 0
+D2
+~
+~
+0 0 1002035
+S
+#1002037
+Elevator: #GSub-level 11~
+~
+0 0 0
+D4
+~
+~
+0 0 1002011
+S
+#1002040
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 4 2
+D0
+~
+~
+0 0 1002043
+D1
+~
+~
+0 0 1002044
+D3
+~
+~
+0 0 1002041
+S
+#1002041
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D0
+~
+~
+0 0 1002042
+D1
+~
+~
+0 0 1002040
+S
+#1002042
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D0
+~
+~
+0 0 1002048
+D1
+~
+~
+0 0 1002043
+D2
+~
+~
+0 0 1002041
+S
+#1002043
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D0
+~
+~
+0 0 1002047
+D1
+~
+~
+0 0 1002045
+D2
+~
+~
+0 0 1002040
+D3
+~
+~
+0 0 1002042
+S
+#1002044
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D0
+~
+~
+0 0 1002045
+D3
+~
+~
+0 0 1002040
+S
+#1002045
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D0
+~
+~
+0 0 1002046
+D1
+~
+~
+0 0 1002049
+D2
+~
+~
+0 0 1002044
+D3
+~
+~
+0 0 1002043
+S
+#1002046
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D2
+~
+~
+0 0 1002045
+D3
+~
+~
+0 0 1002047
+S
+#1002047
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002046
+D2
+~
+~
+0 0 1002043
+D3
+~
+~
+0 0 1002048
+S
+#1002048
+McLeod Park~
+You are standing in a park with very few patches of grass left.  The
+trees scattered about are gnarled and sickly in appearance, many of them are
+even petrified.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002047
+D2
+~
+~
+0 0 1002042
+S
+#1002049
+Entrance to a pedestrian overpass~
+The bottom of the concrete ramp onto the foot bridge over the highway
+spirals up from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 1002045
+D4
+~
+~
+0 0 1002050
+S
+#1002050
+A pedestrian walkway over the highway~
+The top of the concrete ramp onto the foot bridge over the highway
+spirals down from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002051
+D5
+~
+~
+0 0 1002049
+S
+#1002051
+A pedestrian walkway over the highway~
+Here on the bridge over Kaua Oni Lani Parkway you can look out over the
+remnants on this old city.  A factory of some kind looms off in the distant
+North-east in the wastes.  Directly beneath you is a long corridor of
+asphalt and concrete heading to the north, and the south around a bend.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002052
+D3
+~
+~
+0 0 1002050
+S
+#1002052
+A pedestrian walkway over the highway~
+The top of the concrete ramp onto the foot bridge over the highway
+spirals down from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 1002051
+D5
+~
+~
+0 0 1002053
+S
+#1002053
+Entrance to a pedestrian overpass~
+The bottom of the concrete ramp onto the foot bridge over the highway
+spirals up from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002054
+D4
+~
+~
+0 0 1002052
+S
+#1002054
+Kipper Street~
+Here on Kipper Street, small plots of land seperate fallen and 
+dilapidated residential homes lining the east side of the street. 
+To the west is a solid wall reaching almost 20 feet made of concrete, 
+however there is a small gap about 6 feet wide leading up to a walkway.  
+The road is blocked to the south by a large pile of rubble from a 
+building which collapsed across the way. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002055
+D3
+~
+~
+0 0 1002053
+S
+#1002055
+Kipper Street~
+Here on Kipper Street small plots of land seperate fallen and
+dilapidated residential homes lining the east side of the street.  To the
+west is a solid wall reaching almost 20 feet made of concrete.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002056
+D2
+~
+~
+0 0 1002054
+S
+#1002056
+Kipper Street~
+Here on Kipper Street small plots of land seperate fallen and
+dilapidated residential homes lining the east side of the street.  To the
+west is a solid wall reaching almost 20 feet made of concrete.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002057
+D2
+~
+~
+0 0 1002055
+S
+#1002057
+Kipper Street~
+Here on Kipper Street small plots of land seperate fallen and
+dilapidated residential homes lining the east side of the street.  To the
+west is a solid wall reaching almost 20 feet made of concrete.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002058
+D2
+~
+~
+0 0 1002056
+S
+#1002058
+Kipper Street~
+Here on Kipper Street small plots of land seperate fallen and
+dilapidated residential homes lining the east side of the street.  To the
+west is a solid wall reaching almost 20 feet made of concrete.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002059
+D2
+~
+~
+0 0 1002057
+S
+#1002059
+Kipper Street~
+Kipper makes an abrupt 90 degree turn to the east here for no apparent
+reason....  To the west is a solid wall reaching almost 20 feet made of
+concrete.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002060
+D2
+~
+~
+0 0 1002058
+S
+#1002060
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002061
+D3
+~
+~
+0 0 1002059
+S
+#1002061
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002062
+D3
+~
+~
+0 0 1002060
+S
+#1002062
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002063
+D3
+~
+~
+0 0 1002061
+S
+#1002063
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002064
+D3
+~
+~
+0 0 1002062
+S
+#1002064
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002065
+D3
+~
+~
+0 0 1002063
+S
+#1002065
+Intersection: Kipper and Slave~
+Slave Street ends here due to the huge wall blocking further passage to
+the north.  Kipper Street runs east and west for a little ways.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002066
+D2
+~
+~
+0 0 1002070
+D3
+~
+~
+0 0 1002064
+S
+#1002066
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002067
+D3
+~
+~
+0 0 1002065
+S
+#1002067
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002068
+D3
+~
+~
+0 0 1002066
+S
+#1002068
+Kipper Street~
+The street runs east and west parallel to the highway slightly to the
+north.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002069
+D3
+~
+~
+0 0 1002067
+S
+#1002069
+Kipper Street~
+The eastern portion of the road has collapsed into the wastes hundreds of
+feet below.  Whatever destructive power could have caused such a
+depression into the earth is FAR beyond any you possess.  
+~
+0 0 1
+D3
+~
+~
+0 0 1002068
+S
+#1002070
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002065
+D2
+~
+~
+0 0 1002071
+S
+#1002071
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002070
+D2
+~
+~
+0 0 1002072
+S
+#1002072
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002071
+D2
+~
+~
+0 0 1002073
+S
+#1002073
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002072
+D2
+~
+~
+0 0 1002074
+S
+#1002074
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002073
+D2
+~
+~
+0 0 1002075
+S
+#1002075
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002074
+D2
+~
+~
+0 0 1002076
+S
+#1002076
+Slave Street~
+Slave street runs south and north where it intersects with Kipper Street.
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way south.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002075
+D2
+~
+~
+0 0 1002077
+S
+#1002077
+Slave Street~
+Slave street runs north where it meets Kipper and west to another intersection.  
+Adequately named, holding pens made of chain link fence and razor wire
+string the whole perimeter of the street all the way north, and west.  Gloomy faces
+look at you pleading for help from the other side. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002076
+D3
+~
+~
+0 0 1002078
+S
+#1002078
+Slave Street~
+Just east of here the road turns and continues to the north, and slightly
+off to the west it meets with the southern portion of Kipper Street.  The
+slave cages continue to line the road on both sides.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002077
+D3
+~
+~
+0 0 1002079
+S
+#1002079
+Slave Street~
+Holding pens for the slaves are on the north side of here, with a gate
+leading inside guarded by 2 Slavers.  South of you is the Slavers Guild. 
+The building is rather worn down, as all the buildings are around here.  The
+guild keeps it in pretty good shape though.  Patches of brick and mortar
+cover the exterior.  Through the windows you can see movement, but it's too
+dark to tell anything beyond that.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002078
+D3
+~
+~
+0 0 1002080
+S
+#1002080
+Intersection: Slave and Kipper~
+You're standing at the four way intersection of Kipper and Slave street. 
+You can hear the screams of hundreds of people from he east.  A huge group
+of people all seeming to meander about aimlessy block any westward travel
+further along Slave Street.  Kipper however is almost completely vacant by
+comparison.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002086
+D1
+~
+~
+0 0 1002079
+D2
+~
+~
+0 0 1002089
+S
+#1002081
+Slave Street~
+You can hear the shouts and screams of the future slaves from here, but
+it is nearly drowned out by the huge crowd that populates this section of
+the street.  Drunkards and druggies slam into you as they try to find their
+footing.  The crowd swells in behind you blocking all passage west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002080
+S
+#1002082
+Slave Street~
+You can hear the shouts and screams of the future slaves from here, but
+it is nearly drowned out by the huge crowd that populates this section of
+the street.  Drunkards and druggies slam into you as they try to find their
+footing.  The crowd swells in behind you blocking all passage west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002081
+S
+#1002083
+Slave Street~
+You can hear the shouts and screams of the future slaves from here, but
+it is nearly drowned out by the huge crowd that populates this section of
+the street.  Drunkards and druggies slam into you as they try to find their
+footing.  The crowd swells in behind you blocking all passage west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002082
+S
+#1002084
+Slave Street~
+You can hear the shouts and screams of the future slaves from here, but
+it is nearly drowned out by the huge crowd that populates this section of
+the street.  Drunkards and druggies slam into you as they try to find their
+footing.  The crowd swells in behind you blocking all passage west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002083
+S
+#1002085
+Slave Street~
+You can hear the shouts and screams of the future slaves from here, but
+it is nearly drowned out by the huge crowd that populates this section of
+the street.  Drunkards and druggies slam into you as they try to find their
+footing.  The crowd swells in behind you blocking all passage west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002084
+S
+#1002086
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002087
+D2
+~
+~
+0 0 1002080
+S
+#1002087
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002088
+D2
+~
+~
+0 0 1002086
+S
+#1002088
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  The
+path to the north is blocked though there is a small window just large
+enough for a person to crawl through if they opened it.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002087
+S
+#1002089
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002080
+D2
+~
+~
+0 0 1002090
+S
+#1002090
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002089
+D2
+~
+~
+0 0 1002091
+S
+#1002091
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002090
+D2
+~
+~
+0 0 1002092
+S
+#1002092
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002091
+D2
+~
+~
+0 0 1002093
+S
+#1002093
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002092
+D2
+~
+~
+0 0 1002094
+S
+#1002094
+Kipper Street~
+Broken down houses align the sides of the road.  Some barely have more
+that their support beams still in existence, some even less than that.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002093
+D2
+~
+~
+0 0 1002095
+S
+#1002095
+Intersection: Angel and Kipper~
+Angel and Kipper connect at this location.  Angel is notorious for the
+street thugs who constantly break out in fights.  Each contending for their
+dominance of the neighborhood, but all afraid to venture very far into
+slaver territory or the mafia's neighborhoods.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002094
+D1
+~
+~
+0 0 1002101
+D3
+~
+~
+0 0 1002096
+S
+#1002096
+Angel Street~
+Here on the west side of angel street Blades patrol their grounds.  Very
+artistic graffiti covers almost everything in sight, and many show a mural
+of a machette.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002095
+D3
+~
+~
+0 0 1002097
+S
+#1002097
+Angel Street~
+Here on the west side of angel street Blades patrol their grounds.  Very
+artistic graffiti covers almost everything in sight, and many show a mural
+of a machette.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002096
+D3
+~
+~
+0 0 1002098
+S
+#1002098
+Angel Street~
+Here on the west side of angel street Blades patrol their grounds.  Very
+artistic graffiti covers almost everything in sight, and many show a mural
+of a machette.  Fusion Creek drifts its way over to the road from the north
+where it veers to the west and proceeds alongside Angel Street.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002097
+D3
+~
+~
+0 0 1002099
+S
+#1002099
+Angel Street~
+Here on the west side of angel street Blades patrol their grounds.  Very
+artistic graffiti covers almost everything in sight, and many show a mural
+of a machette.  A small creek runs along the north side of the roadway.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002098
+D3
+~
+~
+0 0 1002100
+S
+#1002100
+Angel Street~
+Here on the west side of angel street Blades patrol their grounds.  Very
+artistic graffiti covers almost everything in sight, and many show a mural
+of a machette.  New Crapatola bridge hangs over your head crossing Fusion
+Creek which sprouts up from a spring to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002099
+D3
+~
+~
+0 0 1002383
+S
+#1002101
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002102
+D3
+~
+~
+0 0 1002095
+S
+#1002102
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002103
+D3
+~
+~
+0 0 1002101
+S
+#1002103
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002104
+D3
+~
+~
+0 0 1002102
+S
+#1002104
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002105
+D3
+~
+~
+0 0 1002103
+S
+#1002105
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002106
+D3
+~
+~
+0 0 1002104
+S
+#1002106
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002107
+D3
+~
+~
+0 0 1002105
+S
+#1002107
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002108
+D3
+~
+~
+0 0 1002106
+S
+#1002108
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002109
+D3
+~
+~
+0 0 1002107
+S
+#1002109
+Angel Street~
+The Raiders control this portion of Angel Street.  Their members walk
+around this area brandishing their shotguns and cattle prods.  The Raider
+logo of a skull with 2 old fashioned one-shot pistols underneath mark
+various objects around here.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002110
+D3
+~
+~
+0 0 1002108
+S
+#1002110
+Intersection: Angel and Grader~
+You are at the corner of Angel and Grader street.  Gunfire and shouts
+echo out of the west, while the south has many high rise buildings, some of
+which are not so high anymore.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002111
+D2
+~
+~
+0 0 1002126
+D3
+~
+~
+0 0 1002109
+S
+#1002111
+Grader Avenue~
+There are very few buildings along this stretch of Grader Avenue.  The
+few that do exist don't look inhabitable, even in the most minute degree.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002112
+D2
+~
+~
+0 0 1002110
+S
+#1002112
+Grader Avenue~
+There are very few buildings along this stretch of Grader Avenue.  The
+few that do exist don't look inhabitable, even in the most minute degree.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002113
+D2
+~
+~
+0 0 1002111
+S
+#1002113
+Grader Avenue~
+There are very few buildings along this stretch of Grader Avenue.  The
+few that do exist don't look inhabitable, even in the most minute degree.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002114
+D2
+~
+~
+0 0 1002112
+S
+#1002114
+Intersection: Pike and Grader~
+Grader and Park Lane both meet here.  To the west is an entrance to Kaua
+Oni Lani Parkway.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002115
+D2
+~
+~
+0 0 1002113
+S
+#1002115
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002116
+D3
+~
+~
+0 0 1002114
+S
+#1002116
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002117
+D3
+~
+~
+0 0 1002115
+S
+#1002117
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002118
+D3
+~
+~
+0 0 1002116
+S
+#1002118
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002119
+D3
+~
+~
+0 0 1002117
+S
+#1002119
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002120
+D3
+~
+~
+0 0 1002118
+S
+#1002120
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002121
+D3
+~
+~
+0 0 1002119
+S
+#1002121
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002122
+D3
+~
+~
+0 0 1002120
+S
+#1002122
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002123
+D3
+~
+~
+0 0 1002121
+S
+#1002123
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002124
+D3
+~
+~
+0 0 1002122
+S
+#1002124
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002125
+D3
+~
+~
+0 0 1002123
+S
+#1002125
+Pike Lane~
+Alienated from the rest of the town the inhabitants of Pike Lane consist
+largely of ghouls and muties.  Rather than persecution from the general
+population of the town, they seek solace here amongst their own kind... 
+Other freaks.  
+~
+0 0 1
+D3
+~
+~
+0 0 1002124
+S
+#1002126
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002110
+D2
+~
+~
+0 0 1002127
+S
+#1002127
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002126
+D2
+~
+~
+0 0 1002128
+S
+#1002128
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002127
+D2
+~
+~
+0 0 1002129
+S
+#1002129
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002128
+D2
+~
+~
+0 0 1002130
+S
+#1002130
+Intersection: Portola and Grader~
+The decimated skyscrapers turn to the west and run along Portola.  Some
+remain to the south on Grader, but fade out rather quickly as the city turns
+to a more agricultural aspect.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002129
+D2
+~
+~
+0 0 1002132
+D3
+~
+~
+0 0 1002131
+S
+#1002131
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002156
+S
+#1002132
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002130
+D2
+~
+~
+0 0 1002133
+S
+#1002133
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002132
+D2
+~
+~
+0 0 1002134
+S
+#1002134
+Grader Avenue~
+Here on Grader you are surrounded by the remnants of once tall buildings.
+The rubble of their former floors is scattered about the road and in between
+the towering masses.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002133
+D2
+~
+~
+0 0 1002135
+S
+#1002135
+Grader Avenue~
+The tall buildings thin out the further south you travel.  Instead it
+seems to become another residential zone, apartment complexes seem to be
+randomly splattered about with large gaps of nothing but dirt between them. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002134
+D2
+~
+~
+0 0 1002136
+S
+#1002136
+Grader Avenue~
+The tall buildings thin out the further south you travel.  Instead it
+seems to become another residential zone, apartment complexes seem to be
+randomly splattered about with large gaps of nothing but dirt between them. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002135
+D2
+~
+~
+0 0 1002137
+S
+#1002137
+Grader Avenue~
+The tall buildings thin out the further south you travel.  Instead it
+seems to become another residential zone, apartment complexes seem to be
+randomly splattered about with large gaps of nothing but dirt between them. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002136
+D2
+~
+~
+0 0 1002138
+S
+#1002138
+Grader Avenue~
+The tall buildings thin out the further south you travel.  Instead it
+seems to become another residential zone, apartment complexes seem to be
+randomly splattered about with large gaps of nothing but dirt between them. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002137
+D2
+~
+~
+0 0 1002139
+S
+#1002139
+Grader Avenue~
+The tall buildings thin out the further south you travel.  Instead it
+seems to become another residential zone, apartment complexes seem to be
+randomly splattered about with large gaps of nothing but dirt between them. 
+~
+0 0 1
+D0
+~
+~
+0 0 1002138
+D2
+~
+~
+0 0 1002140
+S
+#1002140
+Intersection: Noriega and Grader~
+North on grader street are buildings so large you can scarcely imagine
+their original heights!  The west and east are extreme opposites.  Towards
+the wastelands are farms with fences running on and on, and the and back in
+the direction of the city you see a small business district.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002139
+D1
+~
+~
+0 0 1002148
+D3
+~
+~
+0 0 1002141
+S
+#1002141
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002140
+D3
+~
+~
+0 0 1002142
+S
+#1002142
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002141
+D3
+~
+~
+0 0 1002143
+S
+#1002143
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002142
+D3
+~
+~
+0 0 1002144
+S
+#1002144
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002143
+D3
+~
+~
+0 0 1002145
+S
+#1002145
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002144
+D3
+~
+~
+0 0 1002146
+S
+#1002146
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002145
+D3
+~
+~
+0 0 1002147
+S
+#1002147
+Noriega Road~
+This section looked like another lot of small businesses, but in fact
+seems to eb used as homes for the workers of the farms on east Noriega.  A
+gigantic jumble of steel is to your west.  Pieces of ancient vehicles are
+hardly recognisable as they stick out from the pile.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002146
+S
+#1002148
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002149
+D3
+~
+~
+0 0 1002140
+S
+#1002149
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002150
+D3
+~
+~
+0 0 1002148
+S
+#1002150
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002151
+D3
+~
+~
+0 0 1002149
+S
+#1002151
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002152
+D3
+~
+~
+0 0 1002150
+S
+#1002152
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002153
+D3
+~
+~
+0 0 1002151
+S
+#1002153
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002154
+D3
+~
+~
+0 0 1002152
+S
+#1002154
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D1
+~
+~
+0 0 1002155
+D3
+~
+~
+0 0 1002153
+S
+#1002155
+Noriega Road~
+You are on eastern Noriega Road fields filled with brahmin and crops
+spread off into the open land.  Crude barns and shacks dot the land.  
+~
+0 0 2
+D3
+~
+~
+0 0 1002154
+S
+#1002156
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002157
+S
+#1002157
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002158
+S
+#1002158
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002159
+S
+#1002159
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002160
+S
+#1002160
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002161
+S
+#1002161
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002162
+S
+#1002162
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002163
+S
+#1002163
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002164
+S
+#1002164
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002165
+S
+#1002165
+Intersection: Portola and Ulloa~
+The highway exit slides into this intersection from the north, and
+continues south as Ulloa Road where a strange smell seems to emanate.  New
+Portola and its crowd continue to run west off into the gloom.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002172
+D3
+~
+~
+0 0 1002166
+S
+#1002166
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002167
+S
+#1002167
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002168
+S
+#1002168
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002169
+S
+#1002169
+New Portola Avenue~
+The tall buildings around you give off a feeling of confinement and
+claustrophobia.  People clog the street adding to this allready cramped
+road, and are preventing you from turning around..  
+~
+0 0 1
+D3
+~
+~
+0 0 1002170
+S
+#1002170
+Curve in the Street~
+New Portola veers to the right and becomes Crapatola Avenue which slides
+its way to the northern horizon.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002191
+S
+#1002171
+Exit Ramp~
+~
+0 0 0
+D2
+~
+~
+0 0 1002165
+S
+#1002172
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002173
+S
+#1002173
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002174
+S
+#1002174
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002175
+S
+#1002175
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002176
+S
+#1002176
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002177
+S
+#1002177
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002178
+S
+#1002178
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002179
+S
+#1002179
+Ulloa Road~
+People in ragged clothing surround burning trash cans in an attempt to
+stay warm.  You realise that the awful smell is the collective of filth
+layered on this street and its packrat residents.  Nuka-cola bottles,
+rotting food, decaying bodies, and other things you can't identify are
+scattered around here.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002180
+S
+#1002180
+Intersection: Noriega and Ulloa~
+Ulloa continues on to the southern reaches of this town, and Cabrini
+territory.  While noriega run west and east connecting a small business
+community.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002181
+D2
+~
+~
+0 0 1002206
+D3
+~
+~
+0 0 1002186
+S
+#1002181
+Noriega Road~
+The commercial buildings begin spreading out.  Patches of dirt and beige
+field grass conquer the area between them.  Unused street lights hang over
+your head as another eerie reminder of days gone by.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002182
+D3
+~
+~
+0 0 1002180
+S
+#1002182
+Noriega Road~
+The commercial buildings begin spreading out.  Patches of dirt and beige
+field grass conquer the area between them.  Unused street lights hang over
+your head as another eerie reminder of days gone by.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002183
+D3
+~
+~
+0 0 1002181
+S
+#1002183
+Noriega Road~
+The small business have all but disappeared in this section of the road. 
+Unused street lights hang over your head as another eerie reminder of days
+gone by.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002184
+D3
+~
+~
+0 0 1002182
+S
+#1002184
+Noriega Road~
+The small business have all but disappeared in this section of the road. 
+Unused street lights hang over your head as another eerie reminder of days
+gone by.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002185
+D3
+~
+~
+0 0 1002183
+S
+#1002185
+Noriega Road~
+A large pile of destroyed cars and trucks are jammed in an uneven and
+slipshod manner between two buildings blocking the road further east 
+~
+0 0 1
+D3
+~
+~
+0 0 1002184
+S
+#1002186
+Noriega Road~
+You are surrounded by shops of all kinds.  Gunfire echos out of the
+south-west mixing with the other ambient sound of this street.  Noriega
+continues to the west, and Ulloa intersects a little ways to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002180
+D3
+~
+~
+0 0 1002187
+S
+#1002187
+Noriega Road~
+You are surrounded by shops of all kinds.  Gunfire echos out of the
+south-west mixing with the other ambient sound of this street.  Noriega
+continues to the west, and Ulloa intersects a little ways to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002186
+D3
+~
+~
+0 0 1002188
+S
+#1002188
+Noriega Road~
+You are surrounded by shops of all kinds.  Gunfire echos out of the
+south-west mixing with the other ambient sound of this street.  Noriega
+continues to the west, and Ulloa intersects a little ways to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002187
+D3
+~
+~
+0 0 1002189
+S
+#1002189
+Noriega Road~
+You are surrounded by shops of all kinds.  Gunfire echos out of the
+south-west mixing with the other ambient sound of this street.  Noriega
+continues to the west, and Ulloa intersects a little ways to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002188
+D3
+~
+~
+0 0 1002190
+S
+#1002190
+Noriega Road~
+The shops end here where the road is blocked yet again to the west.  A
+portion of the highway overpass collapsed down onto the road and a couple
+small buildings.  The rubble is too steep and unstable to climb your way
+over though...  
+~
+0 0 1
+D1
+~
+~
+0 0 1002189
+S
+#1002191
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere you
+look.  Upon closer inspection you realise that they are in fact flower
+sculptures....  Weird.  There are daises, roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002192
+D2
+~
+~
+0 0 1002170
+S
+#1002192
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere you
+look.  Upon closer inspection you realise that they are in fact flower
+sculptures....  Weird.  There are daises, roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002193
+D2
+~
+~
+0 0 1002191
+S
+#1002193
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere you
+look.  Upon closer inspection you realise that they are in fact flower
+sculptures....  Weird.  There are daises, roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002194
+D2
+~
+~
+0 0 1002192
+S
+#1002194
+Crapatola Bridge over fusion creek~
+This ancient bridge somehow manages to remain intact for the most part. 
+Although filled with chips and cracks it still appears to be stable.  A
+couple of small holes do exist, but they dont seem to weaken the structure
+at all.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002195
+D2
+~
+~
+0 0 1002193
+S
+#1002195
+Crapatola Bridge over fusion creek~
+This ancient bridge somehow manages to remain intact for the most part. 
+Although filled with chips and cracks it still appears to be stable.  A
+couple of small holes do exist, but they dont seem to weaken the structure
+at all.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002196
+D2
+~
+~
+0 0 1002194
+D5
+~
+~
+0 0 1002100
+S
+#1002196
+Crapatola Bridge over fusion creek~
+This ancient bridge somehow manages to remain intact for the most part. 
+Although filled with chips and cracks it still appears to be stable.  A
+couple of small holes do exist, but they dont seem to weaken the structure
+at all.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002197
+D2
+~
+~
+0 0 1002195
+S
+#1002197
+Crapatola Bridge over fusion creek ~
+This ancient bridge somehow manages to remain intact for the most part. 
+Although filled with chips and cracks it still appears to be stable.  A
+couple of small holes do exist, but they dont seem to weaken the structure
+at all.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002198
+D2
+~
+~
+0 0 1002196
+S
+#1002198
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere
+you look.  Upon closer inspection you realize that they are, in fact, flower
+sculptures....  Weird.  There are daises roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002199
+D2
+~
+~
+0 0 1002197
+S
+#1002199
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere
+you look.  Upon closer inspection you realize that they are, in fact, flower
+sculptures....  Weird.  There are daises roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002200
+D2
+~
+~
+0 0 1002198
+S
+#1002200
+Intersection: Slave and Crapatola~
+Crapatola goes south from this point for quite a ways, it also runs
+north, but passes under the highway out of sight.  A large obnoxious and
+large crowd flood Slave Street to your east.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002201
+D1
+~
+~
+0 0 1002085
+D2
+~
+~
+0 0 1002199
+S
+#1002201
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere
+you look.  Upon closer inspection you realize that they are, in fact, flower
+sculptures....  Weird.  There are daises roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002202
+D2
+~
+~
+0 0 1002200
+S
+#1002202
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere
+you look.  Upon closer inspection you realize that they are, in fact, flower
+sculptures....  Weird.  There are daises roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002203
+D2
+~
+~
+0 0 1002201
+S
+#1002203
+Crapatola Avenue~
+Pieces of welded scrap metal stick out of the earth nearly everywhere
+you look.  Upon closer inspection you realize that they are, in fact, flower
+sculptures....  Weird.  There are daises roses, sunflowers, and many more
+types.  Whoever made these must have seriously lost a few marbles.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002204
+D2
+~
+~
+0 0 1002202
+S
+#1002204
+Crapatola Avenue~
+Small holes fill the surrounding area, and a few have strange metallic
+plants buried in them.  After pausing for a moment to think about the
+oddity, you begin traveling again down the nearly barren road.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002205
+D2
+~
+~
+0 0 1002203
+S
+#1002205
+Crapatola Avenue~
+Small holes fill the surrounding area, and a few have strange metallic
+plants buried in them.  After pausing for a moment to think about the
+oddity, you begin traveling again down the nearly barren road.  
+~
+0 4 1
+D2
+~
+~
+0 0 1002204
+S
+#1002206
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002207
+S
+#1002207
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002209
+S
+#1002209
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002210
+S
+#1002210
+Intersection: Brimstone and Ulloa~
+The miners street, Brimstone Boulevard, breaks off of Ulloa heading west
+momentarily before turning to the south.  Ulloa continues south into a quiet
+and desolate neighborhood.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002211
+D3
+~
+~
+0 0 1002331
+S
+#1002211
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002212
+S
+#1002212
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002213
+S
+#1002213
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002214
+S
+#1002214
+Ulloa Road~
+The Cabrinis keep this section of Ulloa clean.  Though the smell still
+wafts in, its not nearly as bad.  Members of the Cabrini family patrol this
+street watching the only inlet, other than the highway, to the neighborhood.
+~
+0 0 1
+D2
+~
+~
+0 0 1002215
+S
+#1002215
+Intersection: Jasper and Ulloa~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002231
+D3
+~
+~
+0 0 1002216
+S
+#1002216
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002215
+D3
+~
+~
+0 0 1002217
+S
+#1002217
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002216
+D3
+~
+~
+0 0 1002218
+S
+#1002218
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002217
+D3
+~
+~
+0 0 1002219
+S
+#1002219
+Jasper Street~
+The remnants of a large private jet spans the trench of Brimstone Blvd. 
+Acting as a bridge for those walking along Jasper Street.  The only way
+inside from this direction is the hatch which hangs open on the south side
+of the plane.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002218
+S
+#1002220
+Skynard Bridge~
+You are inside the fuselage of an old plane wreckage.  Bullet holes
+pierce the sides, and most of the windows have been blown out.  Molding
+fabric barely clings to the ancient chairs.  
+~
+0 0 0
+D2
+~
+~
+0 0 1002219
+D3
+~
+~
+0 0 1002221
+S
+#1002221
+Skynard Bridge~
+You are inside the fuselage of an old plane wreckage.  Bullet holes
+pierce the sides, and most of the windows have been blown out.  Molding
+fabric barely clings to the ancient chairs.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002220
+D3
+~
+~
+0 0 1002222
+S
+#1002222
+Jasper Street~
+The remnants of a large private jet span the trench of Brimstone Blvd to
+the east.  Acting as a bridge for those walking along Jasper Street.  The
+destroyed tail of the plane is buried half in the dirt off the side of the
+road.  Because the tail is no longer connected there is a gaping hole
+allowing passage to the interior of the plane.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002221
+D3
+~
+~
+0 0 1002223
+S
+#1002223
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002222
+D3
+~
+~
+0 0 1002224
+S
+#1002224
+Jasper Street~
+The rubble of nearby buildings has been piled up into a makeshift set of
+stairs against the side of a large wall to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002223
+D4
+~
+~
+0 0 1002225
+S
+#1002225
+Lynard Bridge~
+You are on the detached wing of a small jet which sits in ruin just to
+the east.  Resting across the walls of the highway this acts as a cheap
+alternative to an actual bridge, and also serves as a strategic choke point
+to ambush enemies at.  
+~
+0 0 1
+D3
+~
+~
+0 0 1002226
+D5
+~
+~
+0 0 1002224
+S
+#1002226
+Lynard Bridge~
+You are on the detached wing of a small jet which sits in ruin just to
+the east.  Resting across the walls of the highway this acts as a cheap
+alternative to an actual bridge, and also serves as a strategic choke point
+to ambush enemies at.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002225
+D5
+~
+~
+0 0 1002227
+S
+#1002227
+Jasper Street~
+The rubble of nearby buildings has been piled up into a makeshift set of
+stairs against the side of a large wall to the east.  
+~
+0 0 1
+D3
+~
+~
+0 0 1002228
+D4
+~
+~
+0 0 1002226
+S
+#1002228
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002227
+D3
+~
+~
+0 0 1002229
+S
+#1002229
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002228
+D3
+~
+~
+0 0 1002230
+S
+#1002230
+Intersection: Jasper and Cabrini~
+There is a large metal gate to the north guarded by 2 large men with guns
+and three english mastiff bulls.  Cabrini Drive is extremly well kept.  Mr. 
+Cabrini would have it no other way.  A long stretch of battered and
+crumbeling buildings go to east from here.  There is an eerie silence to the
+east as well....  
+~
+0 0 1
+D0
+~
+~
+103 1002230 1002241
+D1
+~
+~
+0 0 1002229
+D2
+~
+~
+0 0 1002251
+S
+#1002231
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002232
+D3
+~
+~
+0 0 1002215
+S
+#1002232
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002233
+D3
+~
+~
+0 0 1002231
+S
+#1002233
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002234
+D3
+~
+~
+0 0 1002232
+S
+#1002234
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002235
+D3
+~
+~
+0 0 1002233
+S
+#1002235
+Intersection: Jasper and S. Brahmin~
+Brahmin Road starts here and travels north but the road is blocked by a
+herd of...  Brahmin.  Jasper runs west between dilapidated structures off
+into teh distance, and can be seen joining with another road a little ways
+to the east.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002236
+D3
+~
+~
+0 0 1002234
+S
+#1002236
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002237
+D3
+~
+~
+0 0 1002235
+S
+#1002237
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002238
+D3
+~
+~
+0 0 1002236
+S
+#1002238
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002239
+D3
+~
+~
+0 0 1002237
+S
+#1002239
+Jasper Street~
+Annihilated buildings dominate Jasper.  The Cabrinis do not allow any
+construction on this road because they use the buildings for cover during
+fights.  Blood splatters stain the gray walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002240
+D3
+~
+~
+0 0 1002238
+S
+#1002240
+Intersection: Jasper and Buckshot~
+The desert wasteland reaches this edge of the town.  A raging sandstorm
+to the south persuades you not to travel in that direction.  To the west is
+Jasper Street stretching twoards the horizon.  Buckshot row leads north into
+the hot desert and farmland.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002285
+D3
+~
+~
+0 0 1002239
+S
+#1002241
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002242
+D2
+~
+~
+103 1002230 1002230
+S
+#1002242
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002243
+D2
+~
+~
+0 0 1002241
+S
+#1002243
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002244
+D2
+~
+~
+0 0 1002242
+S
+#1002244
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002245
+D2
+~
+~
+0 0 1002243
+S
+#1002245
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002246
+D2
+~
+~
+0 0 1002244
+S
+#1002246
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002247
+D2
+~
+~
+0 0 1002245
+S
+#1002247
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002248
+D2
+~
+~
+0 0 1002246
+S
+#1002248
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002249
+D2
+~
+~
+0 0 1002247
+S
+#1002249
+Cabrini Drive~
+Brick walls span the perimeter of the road begining from the gates and
+leading north.  Reaching 15 feet high the massive barriers prevent you from
+seeing anything beyond.  Even larger trees grow on the other side of the
+walls creating another hinderance of sight.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002250
+D2
+~
+~
+0 0 1002248
+S
+#1002250
+Cabrini Drive~
+Don Cabrini's mansion dominates your view of the north.  More english
+mastffs tand on the opposing side of anothe r gate.  Snarling and bashing it
+they try to break through to tear you limb from limb.  Judging from the
+stains on the surrounding area you would not be the first.  
+~
+0 0 1
+D2
+~
+~
+0 0 1002249
+S
+#1002251
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002230
+D2
+~
+~
+0 0 1002252
+S
+#1002252
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002251
+D2
+~
+~
+0 0 1002253
+S
+#1002253
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002252
+D2
+~
+~
+0 0 1002254
+S
+#1002254
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002253
+D2
+~
+~
+0 0 1002255
+S
+#1002255
+Intersection: Commerce and Cabrini~
+Commerce Avenue joins Cabrini here.  Stretching it's pavement to the east
+commerce runs between a large business community.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002254
+D1
+~
+~
+0 0 1002261
+D2
+~
+~
+0 0 1002256
+S
+#1002256
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002255
+D2
+~
+~
+0 0 1002257
+S
+#1002257
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002256
+D2
+~
+~
+0 0 1002258
+S
+#1002258
+Cabrini Drive~
+This well paved road works its way south through an italian neighborhood.
+Well painted houses line the street, and scary fashions walk along it.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002257
+D2
+~
+~
+0 0 1002259
+S
+#1002259
+Cabrini Drive~
+Cabrini Drive ends here, and a small path takes over bending around a
+large body of water 
+~
+0 0 1
+D0
+~
+~
+0 0 1002258
+D2
+~
+~
+0 0 1002260
+S
+#1002260
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D0
+~
+~
+0 0 1002259
+D1
+~
+~
+0 0 1002382
+S
+#1002261
+Commerce Avenue~
+The buildings here are used as a checkpoint to Cabrini Dr.  Mobsters
+watch as people pass by, stopping anyone suspicious.  Suspicion is defined
+by whether they are itlian or not.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002262
+D3
+~
+~
+0 0 1002255
+S
+#1002262
+Commerce Avenue~
+A checkpoint to Cabrini Drive lies just to the west.  There are no shops
+right here, and the buildings stand vacant on account of the frequent fights
+that break out at the checkpoint.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002263
+D3
+~
+~
+0 0 1002261
+S
+#1002263
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002264
+D3
+~
+~
+0 0 1002262
+S
+#1002264
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002265
+D3
+~
+~
+0 0 1002263
+S
+#1002265
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002266
+D3
+~
+~
+0 0 1002264
+S
+#1002266
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002267
+D3
+~
+~
+0 0 1002265
+S
+#1002267
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002268
+D3
+~
+~
+0 0 1002266
+S
+#1002268
+Commerce Avenue~
+Several stores sell their goods here, and there are a few street vendors
+peddleing their items as well.  The overall atmosphere is kept friendly and
+inviting though you would be wise to shop carefully, and keep a tight grip
+on your money.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002269
+D3
+~
+~
+0 0 1002267
+S
+#1002269
+Commerce Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 1002270
+D3
+~
+~
+0 0 1002268
+S
+#1002270
+Intersection: Commerce and Brimstone~
+Brimstone comes in from out of the north, and continues south into the
+seedier part of town.  Many shouts spring out of the west as locals attempt
+to hawk their goods to passerbys.  Commerce Avenue also leads east but you
+cant see anything of particular interest that way.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002349
+D1
+~
+~
+0 0 1002271
+D2
+~
+~
+0 0 1002350
+D3
+~
+~
+0 0 1002269
+S
+#1002271
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002272
+D3
+~
+~
+0 0 1002270
+S
+#1002272
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002273
+D3
+~
+~
+0 0 1002271
+S
+#1002273
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002274
+D3
+~
+~
+0 0 1002272
+S
+#1002274
+Floyd Tunnel~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002275
+D3
+~
+~
+0 0 1002273
+S
+#1002275
+Floyd Tunnel~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002276
+D3
+~
+~
+0 0 1002274
+S
+#1002276
+Floyd Tunnel~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002277
+D3
+~
+~
+0 0 1002275
+S
+#1002277
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002278
+D3
+~
+~
+0 0 1002276
+S
+#1002278
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002279
+D3
+~
+~
+0 0 1002277
+S
+#1002279
+Commerce Avenue~
+This section of commerce is rarely traveled and has been abandoned and
+nearly forgotton.  Potholes seem more abundant than flat pavement, and huge
+droppings from brahmin are scattered about.  Flies fill the air only
+slightly less thick than the stench of decay.  
+~
+0 0 1
+D1
+~
+~
+0 0 1002280
+D3
+~
+~
+0 0 1002278
+S
+#1002280
+Intersection: Commerce and Buckshot~
+Old Man Mac owns the large property to your south.  You can't see past
+his adobe home, but a large sandstorm is visible, looming to the south, and
+moving quickly this way.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002281
+D3
+~
+~
+0 0 1002279
+S
+#1002281
+Buckshot Row~
+Old Man Mac's property extends from his house in the south, quite a ways
+to the north.  A reddish wall made of some form of mortar runs parellel with
+the road on the eastern side.  The sand stoem has completly enveloped Mac's
+home, and the southern reaches of his property.  You would not dare turning
+back to travel along Commerce now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002282
+S
+#1002282
+Buckshot Row~
+Old Man Mac's property extends from his house in the south, quite a ways
+to the north.  A reddish wall made of some form of mortar runs parellel with
+the road on the eastern side.  The sand stoem has completly enveloped Mac's
+home, and the southern reaches of his property.  You would not dare turning
+back to travel along Commerce now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002283
+S
+#1002283
+Buckshot Row~
+Old Man Mac's property extends from his house in the south, quite a ways
+to the north.  A reddish wall made of some form of mortar runs parellel with
+the road on the eastern side.  The sand stoem has completly enveloped Mac's
+home, and the southern reaches of his property.  You would not dare turning
+back to travel along Commerce now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002284
+S
+#1002284
+Buckshot Row~
+Old Man Mac's property extends from his house in the south, quite a ways
+to the north.  A reddish wall made of some form of mortar runs parellel with
+the road on the eastern side.  The sand stoem has completly enveloped Mac's
+home, and the southern reaches of his property.  You would not dare turning
+back to travel along Commerce now.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002240
+S
+#1002285
+Buckshot Row~
+Old splintered fences lined with barbed wire mark the property lines of
+the farmers on both sides.  A few cottages dot the surrounding desert.  The
+sandstorm has followed you blocking southbound travel and continues to
+rapidly move closer.  The roaring fills your ears and blocks out all other
+sounds 
+~
+0 0 0
+D0
+~
+~
+0 0 1002286
+S
+#1002286
+Buckshot Row~
+Old splintered fences lined with barbed wire mark the property lines of
+the farmers on both sides.  A few cottages dot the surrounding desert.  The
+sandstorm has followed you blocking southbound travel and continues to
+rapidly move closer.  The roaring fills your ears and blocks out all other
+sounds 
+~
+0 0 0
+D0
+~
+~
+0 0 1002287
+S
+#1002287
+Buckshot Row~
+Old splintered fences lined with barbed wire mark the property lines of
+the farmers on both sides.  A few cottages dot the surrounding desert.  The
+sandstorm has followed you blocking southbound travel and continues to
+rapidly move closer.  The roaring fills your ears and blocks out all other
+sounds 
+~
+0 0 0
+D0
+~
+~
+0 0 1002288
+S
+#1002288
+Buckshot Row~
+Old splintered fences lined with barbed wire mark the property lines of
+the farmers on both sides.  A few cottages dot the surrounding desert.  The
+sandstorm has followed you blocking southbound travel and continues to
+rapidly move closer.  The roaring fills your ears and blocks out all other
+sounds 
+~
+0 0 0
+D0
+~
+~
+0 0 1002289
+S
+#1002289
+Buckshot Row~
+Old splintered fences lined with barbed wire mark the property lines of
+the farmers on both sides.  A few cottages dot the surrounding desert.  The
+sandstorm has followed you blocking southbound travel and continues to
+rapidly move closer.  The roaring fills your ears and blocks out all other
+sounds 
+~
+0 0 0
+D0
+~
+~
+0 0 1002290
+S
+#1002290
+Intersection: Brahmin and Buckshot~
+Vast fields of brahmin fill your vison.  A couple of slaughterhouses and
+barns stand along the side of Brahmin street in either direction.  The
+sandstorm has closed in behind you blocking southbound travel on Buckshot
+Row, but it seems to not be moving any closer.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002291
+D3
+~
+~
+0 0 1002296
+S
+#1002291
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002292
+D3
+~
+~
+0 0 1002290
+S
+#1002292
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002293
+D3
+~
+~
+0 0 1002291
+S
+#1002293
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002294
+D3
+~
+~
+0 0 1002292
+S
+#1002294
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west, and ends just east of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002295
+D3
+~
+~
+0 0 1002293
+S
+#1002295
+Edge of a Gravel Path~
+Brahmin Road fades to nothing as it nears the cliff edge.  Sand and dirt
+take over here, and the land stops moving out further about 20 feet to the
+east and drops straight down several hundred feet.  There seems to a small
+path worn into the earth leading south.  
+~
+0 0 0
+D2
+~
+~
+0 0 1002310
+D3
+~
+~
+0 0 1002294
+S
+#1002296
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002290
+D3
+~
+~
+0 0 1002297
+S
+#1002297
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002296
+D3
+~
+~
+0 0 1002298
+S
+#1002298
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002297
+D3
+~
+~
+0 0 1002299
+S
+#1002299
+Brahmin Road~
+The putrid odor of brahmin shit clogs the air and makes it hard to
+breathe.  You have no idea how anyone could possably want to live out here. 
+Brahmin Road meanders its way west and east.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002298
+D3
+~
+~
+0 0 1002300
+S
+#1002300
+S. Brahmin Road~
+The road makes a sharp turn to the left and starts running south.  A
+large herd of brahmin are crossing the road, but there is enough room for
+you to press your way past.  
+~
+0 4 0
+D1
+~
+~
+0 0 1002299
+D2
+~
+~
+0 0 1002301
+S
+#1002301
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002302
+S
+#1002302
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002303
+S
+#1002303
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002304
+S
+#1002304
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002305
+S
+#1002305
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002306
+S
+#1002306
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002307
+S
+#1002307
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002308
+S
+#1002308
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002309
+S
+#1002309
+S. Brahmin Road~
+The herd seems agitated by your presence and slam in behind you. 
+Surrounding you they charge and attack!  
+~
+0 0 0
+D2
+~
+~
+0 0 1002235
+S
+#1002310
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002295
+D2
+~
+~
+0 0 1002312
+S
+#1002312
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002310
+D2
+~
+~
+0 0 1002313
+S
+#1002313
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002312
+D2
+~
+~
+0 0 1002314
+S
+#1002314
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002313
+D2
+~
+~
+0 0 1002315
+S
+#1002315
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002314
+D2
+~
+~
+0 0 1002316
+S
+#1002316
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002315
+D2
+~
+~
+0 0 1002317
+S
+#1002317
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002316
+D2
+~
+~
+0 0 1002318
+S
+#1002318
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002317
+D2
+~
+~
+0 0 1002319
+S
+#1002319
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002318
+D2
+~
+~
+0 0 1002320
+S
+#1002320
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002319
+D2
+~
+~
+0 0 1002321
+S
+#1002321
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002320
+D2
+~
+~
+0 0 1002322
+S
+#1002322
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002321
+D2
+~
+~
+0 0 1002323
+S
+#1002323
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002322
+D2
+~
+~
+0 0 1002324
+S
+#1002324
+Forgotten path~
+You are on a small dirt path on the edge of the wasteland.  By the looks
+of it almost no one has come this way in ages, however you can make out at
+least one set of footprints which hasnt been worn away by the constant
+winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002323
+D2
+~
+~
+0 0 1002325
+S
+#1002325
+Small street in the wastes~
+You find yourself standing on the last remains of an ancient westward
+road.  A battered street sign still hangs from an old light post.  
+~
+0 0 0
+E
+sign~
+In White text on a geen background the sign says, "#7Washington Street#n"
+Just below that, scratched in to the metal, "#0KEEP OUT!  #n".  
+~
+E
+street~
+In White text on a geen background the sign says, "#7Washington Street#n"
+Just below that, scratched in to the metal, "#0KEEP OUT!  #n".  
+~
+D0
+~
+~
+0 0 1002324
+D3
+~
+~
+0 0 1002326
+S
+#1002326
+Small street in the wastes~
+While standing hereon this battered road you can see there is a small hut
+standing alone amungst a pile of garbage and boulders a little ways to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002325
+D3
+~
+~
+0 0 1002327
+S
+#1002327
+Small street in the wastes~
+While standing hereon this battered road you can see there is a small hut
+standing alone amungst a pile of garbage and boulders a little ways to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002326
+D3
+~
+~
+0 0 1002328
+S
+#1002328
+Small street in the wastes~
+While standing hereon this battered road you can see there is a small hut
+standing alone amungst a pile of garbage and boulders a little ways to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002327
+D3
+~
+~
+0 0 1002329
+S
+#1002329
+Small street in the wastes~
+While standing hereon this battered road you can see there is a small hut
+standing alone amungst a pile of garbage and boulders a little ways to the
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002328
+D3
+~
+~
+0 0 1002330
+S
+#1002330
+Street in front of a shack~
+You stand before a small hut.  Barely managing to withstand it's own
+weight, you wonder if you should risk entering it.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002329
+S
+#1002331
+Brimstone Boulevard~
+Very few inhabited buildings exist this far north on Brimstone because of
+the distance from the mines.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002210
+D3
+~
+~
+0 0 1002332
+S
+#1002332
+Brimstone Boulevard~
+Very few inhabited buildings exist this far north on Brimstone because of
+the distance from the mines.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002331
+D3
+~
+~
+0 0 1002333
+S
+#1002333
+Brimstone Boulevard~
+Very few inhabited buildings exist this far north on Brimstone because of
+the distance from the mines.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002332
+D3
+~
+~
+0 0 1002334
+S
+#1002334
+Brimstone Boulevard~
+Very few inhabited buildings exist this far north on Brimstone because of
+the distance from the mines.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002333
+D3
+~
+~
+0 0 1002335
+S
+#1002335
+Brimstone Boulevard~
+Curving to the south along the outter edge of a big hill, Brimstone
+snakes its way through a dirty neighborhood on its way to the mines.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002334
+D2
+~
+~
+0 0 1002336
+S
+#1002336
+Brimstone Boulevard~
+This section of Brimstone still has very few used buildings, but there
+are a handful being used as homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002335
+D2
+~
+~
+0 0 1002337
+S
+#1002337
+Brimstone Boulevard~
+This section of Brimstone still has very few used buildings, but there
+are a handful being used as homes.  The road sinks down and becomes a long
+gully.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002336
+D2
+~
+~
+0 0 1002338
+S
+#1002338
+Brimstone Boulevard~
+The walls of earth close in on both sides and do not give enough room for
+buildings.  Fortunately it never rains this far out in the wastes, otherwise
+you would be swimming.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002337
+D2
+~
+~
+0 0 1002339
+S
+#1002339
+Brimstone Boulevard~
+The walls of earth close in on both sides and do not give enough room for
+buildings.  Fortunately it never rains this far out in the wastes, otherwise
+you would be swimming.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002338
+D2
+~
+~
+0 0 1002340
+S
+#1002340
+Brimstone Boulevard~
+An ancient jet lays across the trench above you.  Thuds of feet can be
+heard reverberating through the hull.  South of you the trench widens and
+people bustle about.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002339
+D2
+~
+~
+0 0 1002341
+S
+#1002341
+Brimstone Boulevard~
+A few people wobble about in a drunken stupor outside a large opening in
+the side of the earth.  Torchlight flickers from within the cave and
+laughter echos out.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002340
+D2
+~
+~
+0 0 1002342
+S
+#1002342
+Brimstone Boulevard~
+The trench expands and structures pop up built into the earth allowing
+for easier passage along the street.  All the places seem to be homes for
+the occupants of this street.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002341
+D2
+~
+~
+0 0 1002343
+S
+#1002343
+Brimstone Boulevard~
+The trench expands and structures pop up built into the earth allowing
+for easier passage along the street.  All the places seem to be homes for
+the occupants of this street.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002342
+D2
+~
+~
+0 0 1002344
+S
+#1002344
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002343
+D2
+~
+~
+0 0 1002345
+S
+#1002345
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002344
+D2
+~
+~
+0 0 1002346
+S
+#1002346
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002345
+D2
+~
+~
+0 0 1002347
+S
+#1002347
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002346
+D2
+~
+~
+0 0 1002348
+S
+#1002348
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002347
+D2
+~
+~
+0 0 1002349
+S
+#1002349
+Brimstone Boulevard~
+Brimstone Blvd.  Raises out of its depression.  Filthy run-down houses
+line both sides of the street as far south as Commerce Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002348
+D2
+~
+~
+0 0 1002270
+S
+#1002350
+Brimstone Boulevard~
+A large group of people traveling between brimstone and commerce avenue
+bar you path north.  Between here and nickel street to the south lie some
+shops which sell general mining supplies.  
+~
+0 0 0
+D2
+~
+~
+0 0 1002351
+S
+#1002351
+Brimstone Boulevard~
+A giant sign hangs over a building to the west, "Eddie's Excavation
+Emporium".  
+~
+0 0 0
+D0
+~
+~
+0 0 1002350
+D2
+~
+~
+0 0 1002352
+S
+#1002352
+Brimstone Boulevard~
+More shops fill the road on both the eastern and western side.  Some
+prostitutes scan the area looking for customers leaving the shops.  One
+walks over and says '#yfive bucks baby and im #yyours#n'.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002351
+D2
+~
+~
+0 0 1002353
+S
+#1002353
+Brimstone Boulevard~
+More shops fill the road on both the eastern and western side.  Some
+prostitutes scan the area looking for customers leaving the shops.  One
+walks over and says '#yLooking for a good time?  #n'.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002352
+D2
+~
+~
+0 0 1002354
+S
+#1002354
+Brimstone Boulevard~
+All there is to the east and west are parking lots with wreckages of
+abandoned vehicles.  The sounds of whores earning their pay spring forth
+from the darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002353
+D2
+~
+~
+0 0 1002355
+S
+#1002355
+Intersection: Nickel and Brimstone~
+Brimstone continues south a little further into the wastes where the
+mines are and to the north are a few mining supply shops.  Nickel street
+proceeds both east and west.  Famous for its infinite carnal puruit, whores
+and pimps flock here.  Seedy businesses operate all along the strip,
+including The Barracuda casino which can be seen off to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002354
+D1
+~
+~
+0 0 1002356
+D3
+~
+~
+0 0 1002366
+S
+#1002356
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002357
+D3
+~
+~
+0 0 1002355
+S
+#1002357
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002358
+D3
+~
+~
+0 0 1002356
+S
+#1002358
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002359
+D3
+~
+~
+0 0 1002357
+S
+#1002359
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002360
+D3
+~
+~
+0 0 1002358
+S
+#1002360
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002361
+D3
+~
+~
+0 0 1002359
+S
+#1002361
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002362
+D3
+~
+~
+0 0 1002360
+S
+#1002362
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002363
+D3
+~
+~
+0 0 1002361
+S
+#1002363
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002364
+D3
+~
+~
+0 0 1002362
+S
+#1002364
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002365
+D3
+~
+~
+0 0 1002363
+S
+#1002365
+Nickel Street~
+Kaua Oni Lani Parkway runs overhead, but the overpass collapsed onto
+Nickel Street a long time ago.  The gigantic mess bars your path further
+east.  
+~
+0 0 0
+D3
+~
+~
+0 0 1002364
+S
+#1002366
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002355
+D3
+~
+~
+0 0 1002367
+S
+#1002367
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002366
+D3
+~
+~
+0 0 1002368
+S
+#1002368
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002367
+D3
+~
+~
+0 0 1002369
+S
+#1002369
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002368
+D3
+~
+~
+0 0 1002370
+S
+#1002370
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002369
+D3
+~
+~
+0 0 1002371
+S
+#1002371
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002370
+D3
+~
+~
+0 0 1002372
+S
+#1002372
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002371
+D3
+~
+~
+0 0 1002373
+S
+#1002373
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002372
+D3
+~
+~
+0 0 1002374
+S
+#1002374
+Nickel Street~
+Unsavory travelers wander on this street as women sell themselves from
+the roadside.  Sounds of both joy and pain pierce the air, and drunks and
+druggies wobble along like animated corpses.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002373
+D3
+~
+~
+0 0 1002375
+S
+#1002375
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D0
+~
+~
+0 0 1002376
+D1
+~
+~
+0 0 1002374
+S
+#1002376
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D0
+~
+~
+0 0 1002377
+D2
+~
+~
+0 0 1002375
+S
+#1002377
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D2
+~
+~
+0 0 1002376
+D3
+~
+~
+0 0 1002378
+S
+#1002378
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  There is a sign standing, it seems to
+have kind of significance.  
+~
+0 0 10
+D0
+~
+~
+0 0 1002379
+D1
+~
+~
+0 0 1002377
+S
+#1002379
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D2
+~
+~
+0 0 1002378
+D3
+~
+~
+0 0 1002380
+S
+#1002380
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D1
+~
+~
+0 0 1002379
+D3
+~
+~
+0 0 1002381
+S
+#1002381
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D0
+~
+~
+0 0 1002382
+D1
+~
+~
+0 0 1002380
+S
+#1002382
+Dirt Path Around the Lake~
+The earth suddenly falls away into a massive water-filled crater.  The
+deep blue of the lake rests about 100 feet below you and the ground leading
+down is almost completly vertical.  
+~
+0 0 10
+D2
+~
+~
+0 0 1002381
+D3
+~
+~
+0 0 1002260
+S
+#1002383
+Angel Street~
+Fuson creek continues it's slow pace flowing west parallel to the road. 
+You notice a little ways downstream that a bridge crosses over the water.  
+~
+0 0 0
+D1
+~
+~
+0 0 1002100
+D3
+~
+~
+0 0 1002384
+S
+#1002384
+Angel Street~
+From here you can see that angel street dies out at the edge of an old
+gravel road to the west.  Warcrys still ring through the air from the east. 
+~
+0 0 0
+D1
+~
+~
+0 0 1002383
+D3
+~
+~
+0 0 1002385
+S
+#1002385
+Intersection: Angel and Radioactive~
+You're feet sink into the deep pool of rocks ast you stand here looking
+to the east down angel road.  You can hear the fighting from over there, but
+can't see past past a large bridge which passes above both Angel Street and
+Fusiion Creek.  The path you stand on runs both north and south before
+turning west.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002396
+D1
+~
+~
+0 0 1002384
+D2
+~
+~
+0 0 1002386
+S
+#1002386
+Radioactive Street~
+The gravel crunches underneath your feet.  There isn't much around, but
+you can see some small buildings a short distance to the southwest.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002385
+D2
+~
+~
+0 0 1002387
+S
+#1002387
+Radioactive Street~
+The gravel crunches underneath your feet.  There isn't much around, but
+you can see some small buildings a short distance to the southwest.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002386
+D2
+~
+~
+0 0 1002388
+S
+#1002388
+Radioactive Street~
+The gravel crunches underneath your feet.  There isn't much around, but
+you can see some small buildings a short distance to the southwest.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002387
+D2
+~
+~
+0 0 1002389
+S
+#1002389
+Radioactive Street~
+The gravel crunches underneath your feet.  There isn't much around, but
+you can see some small buildings a short distance to the southwest.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002388
+D2
+~
+~
+0 0 1002390
+S
+#1002390
+Radioactive Street~
+Turning sharply the road leads west into town again, and north into.... 
+Nothing.  
+~
+0 0 1
+D0
+~
+~
+0 0 1002389
+D3
+~
+~
+0 0 1002391
+S
+#1002391
+Radioactive Street~
+There really is not anything out here.  The only things interesting are
+signs that line the edge of the road on both sides.  
+~
+0 0 1
+E
+sign~
+A large sign is stabbed into the ground.  A duplicate is about 15 feet
+away on either side, and about 15 feet away from the next, and the next, and
+the next....  
+#o+--------------------------------+
+#o|#n            #RWARNING#o             |
+#o|                                |
+#o|#n         Do not enter!#o          |
+#o|#nLive mine field. No Trespassing.#o|
+#o+--------------------------------+
+~
+D1
+~
+~
+0 0 1002390
+D3
+~
+~
+0 0 1002392
+S
+#1002392
+Radioactive Street~
+There really is not anything out here.  The only things interesting are
+signs that line the edge of the road on both sides.  
+~
+0 0 1
+E
+sign~
+A large sign is stabbed into the ground.  A duplicate is about 15 feet
+away on either side, and about 15 feet away from the next, and the next, and
+the next....  
+#o+--------------------------------+
+#o|#n            #RWARNING#o             |
+#o|                                |
+#o|#n         Do not enter!#o          |
+#o|#nLive mine field. No Trespassing.#o|
+#o+--------------------------------+
+~
+D1
+~
+~
+0 0 1002391
+D3
+~
+~
+0 0 1002393
+S
+#1002393
+Radioactive Street~
+There really is not anything out here.  The only things interesting are
+signs that line the edge of the road on both sides.  
+~
+0 0 1
+E
+sign~
+A large sign is stabbed into the ground.  A duplicate is about 15 feet
+away on either side, and about 15 feet away from the next, and the next, and
+the next....  
+#o+--------------------------------+
+#o|#n            #RWARNING#o             |
+#o|                                |
+#o|#n         Do not enter!#o          |
+#o|#nLive mine field. No Trespassing.#o|
+#o+--------------------------------+
+~
+D1
+~
+~
+0 0 1002392
+D3
+~
+~
+0 0 1002394
+S
+#1002394
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002393
+D3
+~
+~
+0 0 1002395
+S
+#1002395
+Intersection: Radioactive and Gun Park~
+~
+0 0 0
+D0
+~
+~
+0 0 1002514
+D1
+~
+~
+0 0 1002394
+S
+#1002396
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002397
+D2
+~
+~
+0 0 1002385
+S
+#1002397
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002398
+D2
+~
+~
+0 0 1002396
+S
+#1002398
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002399
+D2
+~
+~
+0 0 1002397
+S
+#1002399
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002400
+D2
+~
+~
+0 0 1002398
+S
+#1002400
+Radioactive Street~
+~
+0 0 1
+D2
+~
+~
+0 0 1002399
+D3
+~
+~
+0 0 1002401
+S
+#1002401
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002400
+D3
+~
+~
+0 0 1002402
+S
+#1002402
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002401
+D3
+~
+~
+0 0 1002403
+S
+#1002403
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002402
+D3
+~
+~
+0 0 1002404
+S
+#1002404
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002403
+D3
+~
+~
+0 0 1002405
+S
+#1002405
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002404
+D3
+~
+~
+0 0 1002406
+S
+#1002406
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002405
+D3
+~
+~
+0 0 1002407
+S
+#1002407
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002406
+D3
+~
+~
+0 0 1002408
+S
+#1002408
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002407
+D3
+~
+~
+0 0 1002409
+S
+#1002409
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002408
+D3
+~
+~
+0 0 1002410
+S
+#1002410
+Intersection: Radioactive and Wynkoop~
+~
+0 0 1
+D0
+~
+~
+0 0 1002426
+D1
+~
+~
+0 0 1002409
+D2
+~
+~
+0 0 1002431
+D3
+~
+~
+0 0 1002411
+S
+#1002411
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002410
+D3
+~
+~
+0 0 1002412
+S
+#1002412
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002411
+D3
+~
+~
+0 0 1002413
+S
+#1002413
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002412
+D3
+~
+~
+0 0 1002414
+S
+#1002414
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002413
+D3
+~
+~
+0 0 1002415
+S
+#1002415
+Radioactive Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002414
+D2
+~
+~
+0 0 1002416
+S
+#1002416
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002415
+D2
+~
+~
+0 0 1002417
+S
+#1002417
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002416
+D2
+~
+~
+0 0 1002418
+S
+#1002418
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002417
+D2
+~
+~
+0 0 1002419
+S
+#1002419
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002418
+D2
+~
+~
+0 0 1002420
+S
+#1002420
+overpass~
+~
+0 0 1
+D0
+~
+~
+0 0 1002419
+D2
+~
+~
+0 0 1002421
+S
+#1002421
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002420
+D2
+~
+~
+0 0 1002422
+S
+#1002422
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002421
+D2
+~
+~
+0 0 1002423
+S
+#1002423
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002422
+D2
+~
+~
+0 0 1002424
+S
+#1002424
+Radioactive Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002423
+D2
+~
+~
+0 0 1002425
+S
+#1002425
+Intersection: Inca and Radioactive~
+~
+0 0 1
+D0
+~
+~
+0 0 1002424
+D1
+~
+~
+0 0 1002501
+D3
+~
+~
+0 0 1002461
+S
+#1002426
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002427
+D2
+~
+~
+0 0 1002410
+S
+#1002427
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002428
+D2
+~
+~
+0 0 1002426
+S
+#1002428
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002429
+D2
+~
+~
+0 0 1002427
+S
+#1002429
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002430
+D2
+~
+~
+0 0 1002428
+S
+#1002430
+Wynkoop Avenue~
+~
+0 0 1
+D2
+~
+~
+0 0 1002429
+S
+#1002431
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002410
+D2
+~
+~
+0 0 1002432
+S
+#1002432
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002431
+D2
+~
+~
+0 0 1002433
+S
+#1002433
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002432
+D2
+~
+~
+0 0 1002434
+S
+#1002434
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002433
+D2
+~
+~
+0 0 1002435
+S
+#1002435
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002434
+D2
+~
+~
+0 0 1002436
+S
+#1002436
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002435
+D2
+~
+~
+0 0 1002437
+S
+#1002437
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002436
+D2
+~
+~
+0 0 1002438
+S
+#1002438
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002437
+D2
+~
+~
+0 0 1002439
+S
+#1002439
+Wynkoop Avenue~
+~
+0 0 1
+D0
+~
+~
+0 0 1002438
+D2
+~
+~
+0 0 1002440
+S
+#1002440
+Turn in the Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002439
+D3
+~
+~
+0 0 1002441
+S
+#1002441
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002440
+D3
+~
+~
+0 0 1002442
+S
+#1002442
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002441
+D3
+~
+~
+0 0 1002443
+S
+#1002443
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002442
+D3
+~
+~
+0 0 1002444
+S
+#1002444
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002443
+D3
+~
+~
+0 0 1002445
+S
+#1002445
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002444
+D3
+~
+~
+0 0 1002446
+S
+#1002446
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002445
+D3
+~
+~
+0 0 1002447
+S
+#1002447
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002446
+D3
+~
+~
+0 0 1002448
+S
+#1002448
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002447
+D3
+~
+~
+0 0 1002449
+S
+#1002449
+Sleepytime Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002448
+D3
+~
+~
+0 0 1002450
+S
+#1002450
+Sleepytime Drive~
+~
+0 0 1
+D0
+~
+~
+0 0 1002451
+D1
+~
+~
+0 0 1002449
+S
+#1002451
+Sleepytime Drive~
+~
+0 0 1
+D0
+~
+~
+0 0 1002452
+D2
+~
+~
+0 0 1002450
+S
+#1002452
+Sleepytime Drive~
+~
+0 0 1
+D0
+~
+~
+0 0 1002453
+D2
+~
+~
+0 0 1002451
+S
+#1002453
+Sleepytime Drive~
+~
+0 0 1
+D2
+~
+~
+0 0 1002452
+S
+#1002454
+Waterside Drive~
+~
+0 0 1
+D3
+~
+~
+0 0 1002435
+S
+#1002455
+Waterside Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002456
+D3
+~
+~
+0 0 1002454
+S
+#1002456
+Waterside Drive~
+~
+0 0 1
+D1
+~
+~
+0 0 1002457
+D3
+~
+~
+0 0 1002455
+S
+#1002457
+Waterside Drive~
+~
+0 0 1
+D3
+~
+~
+0 0 1002456
+S
+#1002458
+Dark Alley~
+~
+0 0 1
+D0
+~
+~
+0 0 1002457
+D2
+~
+~
+0 0 1002459
+S
+#1002459
+Dark Alley~
+~
+0 0 1
+D0
+~
+~
+0 0 1002458
+D2
+~
+~
+0 0 1002460
+S
+#1002460
+Dark Alley~
+~
+0 0 1
+D0
+~
+~
+0 0 1002459
+S
+#1002461
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002425
+D3
+~
+~
+0 0 1002462
+S
+#1002462
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002461
+D3
+~
+~
+0 0 1002463
+S
+#1002463
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002462
+D3
+~
+~
+0 0 1002464
+S
+#1002464
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002463
+D3
+~
+~
+0 0 1002465
+S
+#1002465
+Intersection: Inca and Zoob~
+~
+0 0 1
+D1
+~
+~
+0 0 1002464
+D2
+~
+~
+0 0 1002533
+D3
+~
+~
+0 0 1002466
+S
+#1002466
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002465
+D3
+~
+~
+0 0 1002467
+S
+#1002467
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002466
+D3
+~
+~
+0 0 1002468
+S
+#1002468
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002467
+D3
+~
+~
+0 0 1002469
+S
+#1002469
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002468
+D3
+~
+~
+0 0 1002470
+S
+#1002470
+Intersection: W. Inca and N. Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002476
+D1
+~
+~
+0 0 1002469
+D3
+~
+~
+0 0 1002471
+S
+#1002471
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002470
+D3
+~
+~
+0 0 1002472
+S
+#1002472
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002471
+D3
+~
+~
+0 0 1002473
+S
+#1002473
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002472
+S
+#1002474
+West Inca~
+~
+0 0 1
+D3
+~
+~
+0 0 1002475
+S
+#1002475
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002474
+D3
+~
+~
+0 0 1002500
+S
+#1002476
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002478
+D2
+~
+~
+0 0 1002470
+S
+#1002478
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002479
+D2
+~
+~
+0 0 1002476
+S
+#1002479
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002480
+D2
+~
+~
+0 0 1002478
+S
+#1002480
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002481
+D2
+~
+~
+0 0 1002479
+S
+#1002481
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002482
+D2
+~
+~
+0 0 1002480
+S
+#1002482
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002483
+D2
+~
+~
+0 0 1002481
+S
+#1002483
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002484
+D2
+~
+~
+0 0 1002482
+S
+#1002484
+North Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002485
+D2
+~
+~
+0 0 1002483
+S
+#1002485
+Turn in the Road~
+~
+0 0 1
+D2
+~
+~
+0 0 1002484
+D3
+~
+~
+0 0 1002486
+S
+#1002486
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002485
+D3
+~
+~
+0 0 1002487
+S
+#1002487
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002486
+D3
+~
+~
+0 0 1002488
+S
+#1002488
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002487
+D3
+~
+~
+0 0 1002489
+S
+#1002489
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002488
+D3
+~
+~
+0 0 1002490
+S
+#1002490
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002489
+D3
+~
+~
+0 0 1002491
+S
+#1002491
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002490
+D3
+~
+~
+0 0 1002492
+S
+#1002492
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002491
+D3
+~
+~
+0 0 1002493
+S
+#1002493
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002492
+D3
+~
+~
+0 0 1002494
+S
+#1002494
+East Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002493
+D3
+~
+~
+0 0 1002495
+S
+#1002495
+Turn in the Road~
+~
+0 0 1
+D1
+~
+~
+0 0 1002494
+D2
+~
+~
+0 0 1002496
+S
+#1002496
+South Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002495
+D2
+~
+~
+0 0 1002497
+S
+#1002497
+South Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002496
+D2
+~
+~
+0 0 1002498
+S
+#1002498
+South Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002497
+D2
+~
+~
+0 0 1002499
+S
+#1002499
+South Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002498
+D2
+~
+~
+0 0 1002500
+S
+#1002500
+Turn in the Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002499
+D1
+~
+~
+0 0 1002475
+S
+#1002501
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002502
+D3
+~
+~
+0 0 1002425
+S
+#1002502
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002503
+D3
+~
+~
+0 0 1002501
+S
+#1002503
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002504
+D3
+~
+~
+0 0 1002502
+S
+#1002504
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002505
+D3
+~
+~
+0 0 1002503
+S
+#1002505
+West Inca~
+~
+0 0 1
+D0
+~
+~
+0 0 1002511
+D1
+~
+~
+0 0 1002506
+D3
+~
+~
+0 0 1002504
+S
+#1002506
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002507
+D3
+~
+~
+0 0 1002505
+S
+#1002507
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002508
+D3
+~
+~
+0 0 1002506
+S
+#1002508
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002509
+D3
+~
+~
+0 0 1002507
+S
+#1002509
+West Inca~
+~
+0 0 1
+D1
+~
+~
+0 0 1002510
+D3
+~
+~
+0 0 1002508
+S
+#1002510
+A Sharp Turn~
+~
+0 0 1
+D2
+~
+~
+0 0 1002517
+D3
+~
+~
+0 0 1002509
+S
+#1002511
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002512
+S
+#1002512
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002513
+S
+#1002513
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002395
+S
+#1002514
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002515
+S
+#1002515
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002516
+S
+#1002516
+Gunpark Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002455
+S
+#1002517
+Powder Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002510
+D2
+~
+~
+0 0 1002518
+S
+#1002518
+Powder Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002517
+D2
+~
+~
+0 0 1002519
+S
+#1002519
+Powder Road~
+~
+0 0 1
+D0
+~
+~
+0 0 1002518
+D2
+~
+~
+0 0 1002520
+S
+#1002520
+East Pope Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002519
+D3
+~
+~
+0 0 1002521
+S
+#1002521
+East Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002520
+D3
+~
+~
+0 0 1002522
+S
+#1002522
+East Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002521
+D3
+~
+~
+0 0 1002523
+S
+#1002523
+East Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002522
+D3
+~
+~
+0 0 1002524
+S
+#1002524
+East Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002523
+D3
+~
+~
+0 0 1002525
+S
+#1002525
+Intersection: Pope and Hodges~
+~
+0 0 0
+D1
+~
+~
+0 0 1002524
+D2
+~
+~
+0 0 1002534
+D3
+~
+~
+0 0 1002526
+S
+#1002526
+West Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002525
+D3
+~
+~
+0 0 1002527
+S
+#1002527
+West Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002526
+D3
+~
+~
+0 0 1002528
+S
+#1002528
+West Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002527
+D3
+~
+~
+0 0 1002529
+S
+#1002529
+West Pope Street~
+~
+0 0 1
+D1
+~
+~
+0 0 1002528
+D3
+~
+~
+0 0 1002530
+S
+#1002530
+West Pope Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002531
+D1
+~
+~
+0 0 1002529
+S
+#1002531
+Zoob Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002532
+D2
+~
+~
+0 0 1002530
+S
+#1002532
+Zoob Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002533
+D2
+~
+~
+0 0 1002531
+S
+#1002533
+Zoob Street~
+~
+0 0 1
+D0
+~
+~
+0 0 1002465
+D2
+~
+~
+0 0 1002532
+S
+#1002534
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1002525
+D2
+~
+~
+0 0 1002535
+S
+#1002535
+Intersection: Geddes and Hodges~
+~
+0 0 0
+D0
+~
+~
+0 0 1002534
+D3
+~
+~
+0 0 1002536
+S
+#1002536
+Geddes Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 1002535
+D3
+~
+~
+0 0 1002537
+S
+#1002537
+Geddes Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 1002536
+D3
+~
+~
+0 0 1002538
+S
+#1002538
+Geddes Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 1002537
+D3
+~
+~
+0 0 1002539
+S
+#1002539
+Geddes Avenue~
+~
+0 0 1
+D1
+~
+~
+0 0 1002538
+D3
+~
+~
+0 0 1002540
+S
+#1002540
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002539
+D3
+~
+~
+0 0 1002541
+S
+#1002541
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002540
+D3
+~
+~
+0 0 1002542
+S
+#1002542
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002541
+D3
+~
+~
+0 0 1002543
+S
+#1002543
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002542
+D3
+~
+~
+0 0 1002544
+S
+#1002544
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002543
+D3
+~
+~
+0 0 1002545
+S
+#1002545
+Geddes Avenue~
+~
+0 0 10
+D1
+~
+~
+0 0 1002544
+S
+#1002600
+WTF!~
+Before you, hover three portals.
+ 
+You can't remember how you got here;
+so you might as well choose one of them.
+ 
+~
+0 4 0
+S
+#1002601
+WRONG~
+Oh dear. It seems you picked the wrong portal.
+For the #Lblue #nportal leads to certain death.
+ 
+~
+0 4 0
+S
+#1002602
+SCORE!~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 1002300 spec_executioner
+M 1002301 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 1002300 1 1002001
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002002
+M 0 1002305 10 1002003
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002004
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002005
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002006
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002305 10 1002007
+M 0 1002309 1 1002008
+M 0 1002310 5 1002010
+M 0 1002310 5 1002010
+M 0 1002310 5 1002010
+M 0 1002310 5 1002010
+M 0 1002310 5 1002010
+M 0 1002308 20 1002015
+M 0 1002308 20 1002015
+M 0 1002308 20 1002015
+M 0 1002308 20 1002015
+M 0 1002308 20 1002015
+M 0 1002308 20 1002016
+M 0 1002308 20 1002016
+M 0 1002308 20 1002016
+M 0 1002308 20 1002016
+M 0 1002308 20 1002016
+M 0 1002308 20 1002017
+M 0 1002308 20 1002017
+M 0 1002308 20 1002017
+M 0 1002308 20 1002017
+M 0 1002308 20 1002017
+M 0 1002308 20 1002018
+M 0 1002308 20 1002018
+M 0 1002308 20 1002018
+M 0 1002308 20 1002018
+M 0 1002308 20 1002018
+M 0 1002308 20 1002019
+M 0 1002308 20 1002019
+M 0 1002308 20 1002019
+M 0 1002308 20 1002019
+M 0 1002308 20 1002019
+M 0 1002308 20 1002020
+M 0 1002308 20 1002020
+M 0 1002308 20 1002020
+M 0 1002308 20 1002020
+M 0 1002308 20 1002020
+M 0 1002308 20 1002021
+M 0 1002308 20 1002021
+M 0 1002308 20 1002021
+M 0 1002308 20 1002021
+M 0 1002308 20 1002021
+M 0 1002308 20 1002022
+M 0 1002308 20 1002022
+M 0 1002308 20 1002022
+M 0 1002308 20 1002022
+M 0 1002308 20 1002022
+M 0 1002308 20 1002022
+M 0 1002308 20 1002023
+M 0 1002308 20 1002023
+M 0 1002308 20 1002023
+M 0 1002308 20 1002023
+M 0 1002308 20 1002023
+M 0 1002307 5 1002025
+M 0 1002307 5 1002025
+M 0 1002307 5 1002025
+M 0 1002307 5 1002025
+M 0 1002307 5 1002025
+M 0 1002307 5 1002026
+M 0 1002307 5 1002026
+M 0 1002307 5 1002026
+M 0 1002307 5 1002026
+M 0 1002307 5 1002026
+M 0 1002307 5 1002027
+M 0 1002307 5 1002027
+M 0 1002307 5 1002027
+M 0 1002307 5 1002027
+M 0 1002307 5 1002027
+M 0 1002307 5 1002028
+M 0 1002307 5 1002028
+M 0 1002307 5 1002028
+M 0 1002307 5 1002028
+M 0 1002307 5 1002028
+M 0 1002306 5 1002029
+M 0 1002306 5 1002029
+M 0 1002306 5 1002029
+M 0 1002306 5 1002029
+M 0 1002306 5 1002029
+M 0 1002306 5 1002030
+M 0 1002306 5 1002030
+M 0 1002306 5 1002030
+M 0 1002306 5 1002030
+M 0 1002306 5 1002030
+M 0 1002306 5 1002031
+M 0 1002306 5 1002031
+M 0 1002306 5 1002031
+M 0 1002306 5 1002031
+M 0 1002306 5 1002031
+M 0 1002306 5 1002032
+M 0 1002306 5 1002032
+M 0 1002306 5 1002032
+M 0 1002306 5 1002032
+M 0 1002306 5 1002032
+M 0 1002301 1 1002033
+O 0 1002036 0 1002036
+O 0 1002040 0 1002040
+O 0 1002503 0 1002219
+O 0 1002457 0 1002457
+O 0 1002602 0 1002600
+O 0 1002601 0 1002600
+O 0 1002600 0 1002600
+M 0 1002600 1 1002601
+E 0 1002603 0 13
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

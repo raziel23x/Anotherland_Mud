@@ -1,0 +1,1408 @@
+#AREADATA
+Name        Jinnai  Jinnai's Temple~
+Builders    Jinnai Test Faith Buffy~
+VNUMs       72000 72099
+Security    5
+Recall      72000
+Flags	      0
+End
+
+
+
+#MOBILES
+#72000
+servant personal assistant~
+Jinnai's personal assistant~
+Jinnai's personal assistant.
+~
+~
+5 0 100 S
+10 0 0 1d10+3 0d0+0
+0 0
+0 0 0
+#72001
+Jinnai's Protector~
+protector~
+Jinnai's protector
+~
+~
+3 0 500 S
+100013 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#72002
+wimpy monster~
+wimpy monster~
+Wimpy monster
+~
+~
+3 268435456 250 S
+14 0 0 -100d1+0 0d0+0
+0 0
+0 0 0
+#72003
+Training Dummy~
+Training Dummy~
+Training Dummy
+~
+~
+36231 5767741 0 S
+77 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#72004
+picolo monster scavenger~
+Picolo Scavenger.~
+A Picolo Scavenger
+~
+~
+100375 64 0 S
+7 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#72005
+Quest mob Dark aura trainie~
+Quest Mob DarkAura Trainie~
+Quest Mob DarkAura Trainie
+~
+~
+265265 8 0 S
+1056 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#72006
+Dark Aura DarkAura Knight Quest~
+#0Dark#RAura #LKnight#n~
+#0Dark#RAura #LKnight#n
+~
+~
+461877 5874364 -1000 S
+3050 0 0 25d20+3 0d0+0
+0 0
+0 0 0
+#72007
+Dark aura bug~
+a dark aura bug~
+A Dark aura bug.
+~
+~
+66597 0 0 S
+551 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#72008
+dark aura darkaura pimp master quest~
+a #0Dark#RAura #CPimp#0Masta#n~
+#0Dark#RAura #CPimp#0Masta#n
+~
+~
+461857 274268730 -1000 S
+1532 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#72009
+dark aura gladiator quest~
+#7a #rDark #lAura #yGladiator#n~
+#7A #rDark #lAura #yGladiator#n
+~
+~
+461877 5874350 -1000 S
+11948 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#72010
+darkaura member~
+#0Dark#RAura#n~
+#0Dark#RAura#n
+~
+~
+3075 630792 0 S
+2520 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#72011
+DarkAura Leader~
+#0Dark#RAura #LLea#yder#n~
+#0Dark#RAura #LLea#yder#n
+~
+~
+199701 4293302 -1000 S
+80006 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#72012
+World guard guardian~
+World Guardian~
+World guardian
+~
+~
+205835 5874366 -1000 S
+99998 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#72020
+no name~
+(no short description)~
+(no long description)
+~
+~
+3 0 0 S
+181 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#72098
+Gremlin Baby~
+a Gremlin~
+A gremlin hops around.
+~
+~
+1 128 0 S
+115 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#72099
+Evil Gremlin~
+a Gremlin~
+A small puny creature sits in the corner glaring
+~
+~
+1 128 0 S
+127 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#72000
+Spriti Weape~
+spriti Weape~
+Spriti Weape~
+~
+9 19779 5
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 10000
+A
+13 10000
+A
+13 10000
+A
+13 10000
+A
+13 10000
+A
+12 10000
+A
+12 10000
+A
+12 10000
+A
+12 10000
+A
+12 10000
+A
+14 10000
+A
+14 10000
+A
+14 10000
+A
+14 10000
+A
+14 10000
+A
+18 100
+A
+19 100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72001
+10000 Point Quest Token~
+a nice quest token sits on the floor.~
+A 10000 quest token lies in the floor, what the FUCK are you waiting for? Pick it up.~
+~
+33 131072 16385
+0 0 67108864
+10000 0 0 0
+700 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72003
+no name~
+(no short description)~
+(no description)~
+~
+9 0 3
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72005
+heal con container~
+heal Container~
+Heal Container~
+~
+17 131395 16385
+0 0 0
+100 100 19 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72010
+dark aura sword~
+darkAura Sword~
+DarkAura Sword~
+~
+5 285555 16385
+0 0 0
+24 250 255 1
+100 1000000 0
+A
+1 100
+A
+13 32000
+A
+13 32000
+A
+13 32000
+A
+13 32000
+A
+13 32000
+A
+13 32000
+A
+13 32000
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72011
+simple ring~
+(no short description)~
+(no description)~
+~
+13 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+A
+8 13
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72012
+stat item~
+#rDark#RAura#n #7Necklace#n~
+#rDark#RAura#n #7Necklace#n~
+~
+9 -1057797 5
+0 0 0
+0 0 0 0
+1 0 0
+A
+18 1000
+A
+19 1000
+A
+13 10000
+A
+12 10000
+A
+14 10000
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72013
+Proxy Test~
+proxy test~
+Proxy Test~
+~
+9 131074 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72014
+Translucent Proxy~
+a Translucent Proxy~
+A Translucent Proxy~
+~
+9 0 16385
+0 0 0
+0 0 0 6
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72015
+Regenerative Proxy~
+a Regenerative Proxy~
+A Regenerative Proxy~
+~
+9 0 5
+0 0 0
+0 0 0 16
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72016
+Training equipment~
+a Training eq~
+A training eq~
+~
+9 8781824 1
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 -10000
+A
+12 -10000
+A
+14 -10000
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72017
+Training Proxy~
+a Training Proxy~
+A training proxy sits on the ground.~
+~
+9 262144 1
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 -1000
+A
+12 -1000
+A
+14 -1000
+A
+19 -100
+A
+18 -100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72020
+no name~
+a sign~
+#7A silvery sign is posted here.#n~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72021
+sign~
+a sign~
+#7A sign reads '<-- Spell Training     Weapon Training -->'~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72022
+sign~
+a sign~
+#7A sign that reads '<-- #GGargoyles#n    #LEl#yem#Ren#ltal#7 Canyon -->'#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72023
+sign~
+a sign~
+#7A sign reads '<-- #yArchon Palace#0     Spider Web#7 -->'#n~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72024
+sign~
+a sign~
+#7A sign reads '<-- #RDystopia Dungeon#L    Atlantis#7 -->'#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72025
+sign~
+a sign~
+#7A sign reads '<-- Heaven     #rVampire Masquerade#7 -->'~
+~
+12 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72026
+Key Test Your Might~
+#oThe Key To the Test of Might Area#n~
+#oThe Key To the Test of Might Area#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#72030
+A Exchange Sign~
+#R/\ Up is a Exchange portal#n~
+#R/\ Up is a Exchange portal#n~
+~
+36 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72031
+crown of mischannels~
+#yCrown #rof #7M#Ri#Gs#Cc#Lh#ya#Pn#7n#Re#Gl#Cs#n~
+You have been nominated the head of mischannels if you wear this crown.~
+~
+9 0 17
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#72095
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72096
+helish devil dice belt~
+#R<Hellish> Devil Dice #0Ultra #yChamp#g~
+#R<Hellish> Devil Dice #0Ultra #yChamp#g~
+~
+13 8 2049
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72098
+serena~
+#yT#ohrone #7of the #CG#coddess #CM#carisella#n~
+#yT#ohrone #7of the #CG#coddess #CM#carisella#n~
+~
+12 3 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#72099
+Sex swing~
+#RMarisella's sex swing#n ~
+#RMarisella's sex swing#n is here, it looks like its been used recently.~
+~
+12 323 0
+0 0 0
+1 2 0 0
+10000 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#72000
+Jinnai's Temple Altar~
+|\                      |\
+                        |\\                     |\\
+                        | \|                    | \|
+                        |                       |     
+                 |-|_|-|A|-|_|-|         |-|_|-|A|-|_|-|   
+                  \ _________ /           \ _________ /
+                   |_|__|__|_|             |_|__|__|_|
+      \-._         |__|__|__||             ||__|__|__|        _.-/
+   .   \  --.      |_|__|__|_|_|-|_|-|_|-|_|_|__|__|_|     .--  /   .
+  _)\   |    `\    |__|__|__|__|__|___|__|__|__|__|__|   /'    |   /(_
+ /.  \_./  \   `\  |_|__|__|__|__|__|__|__|__|__|__|_| /'   /  \._/  .\
+ `-.  .\    |    \  \ |__|__|__|__|__|__|__|___|__| / /    |    /.  .-'
+ |G./ / .-. |     |  |__|__|__|__|__|__|__|__|__|__| |     | .-. \ \_3|
+ _\_./_  \ \|-.   |  ||__|__|__|__|__|__|__|__|___|| |   .-|/ / ._\._/_
+(_  .__`  |    `\ |  |__|__|__|__|__|__|__|__|__|__| | /'    |   __.  _)
+  ---._--}'      \|  ||___|__|__|__|__|__|__|__|__|| |/      `{--_.---
+     __/ /        |  |__|__|__| _.-----._ |__|__|__|           \ \__
+   ''.-.'      .-.   ||__|__|_.-| | | | |-._|__|__||   .-.      `.-.``
+    ((|))     ((|))  |__|__|__| | | | | | |__|__|__|  ((|))     ((|))
+     |||.-'-`-.|||_.-||__|__|_|=|=|=|=|=|=|_|__|__||-._|||.-'-`-.|||
+     |||.-'-'-.||| .-|__|__|__| | | | | | |__|__|__|-. |||.-'-`-.|||
+     |||       |||/  ||__|__|_| | | | | | |_|__|__||  \|||       |||
+     |||       ||| _/|__|__|__| | | | | | |__|__|__|\_ |||       |||
+     |||       ||||     |     | | | | | | |     |     ||||       |||
+    //|\\     //|\|_____|_____|=|=|=|=|=|=|_____|_____|/|\\     /dan\
+   |||||||---|||||            | | | | | | |            |||||---||hunt| 
+   -------------------------------------------------------------------
+                           //                \\
+                          //                  \\
+                         //                    \\
+                        //______________________\\
+                          /\/\/\/\/\/\/\/\/\/\/\
+To the north you see a very dark room, Don't enter if you cant kill Protector.
+ 
+~
+0 4 0
+E
+sign~
+O..#7North-Jinnai's Temple#n..O
+ 
+O..#REast-Saaid's House#n.....O
+ 
+O..#LWest-Clan Halls#n........O
+ 
+O..#ySouth-Portal Rooms#n.....O
+~
+D2
+~
+~
+0 0 72001
+D4
+~
+~
+0 0 3001
+S
+#72001
+Training Lobby~
+~
+0 687865861 1
+D0
+~
+~
+0 0 72000
+D1
+~
+~
+2097216 0 72018
+D3
+~
+~
+2097152 0 72019
+D4
+~
+~
+0 0 72020
+S
+#72002
+Easy Areas~
+You look before you and you see the streets of Jinnai Zone.  To the west
+is the Newbie train area, and to the east is the Level train area.  
+~
+0 4 1
+S
+#72003
+Hard Areas~
+<-- #0Shadowlands#n #LUncharted Waters#n --> 
+~
+0 4 0
+S
+#72004
+Training Relax Room~
+~
+0 553648140 0
+D5
+~
+~
+0 0 72001
+S
+#72005
+Medium Areas - Floor 1~
+~
+0 135290880 0
+D4
+~
+~
+0 0 72010
+S
+#72006
+Conference Room~
+~
+0 1064960 0
+D0
+~
+~
+0 0 72097
+D3
+~
+~
+0 0 72002
+D4
+~
+~
+0 0 77045
+D5
+~
+~
+0 0 3001
+S
+#72007
+Clan Halls~
+~
+0 135291392 0
+D0
+~
+~
+0 0 86010
+D1
+~
+~
+0 0 86090
+D2
+~
+~
+0 0 86000
+D3
+~
+~
+64 0 72098
+D5
+~
+~
+0 0 86020
+S
+#72008
+#CK#yingdom #CE#ylevator~
+~
+0 4 0
+S
+#72009
+Dark Aura~
+~
+0 164651015 0
+S
+#72010
+Medium Areas - Floor 2~
+These are areas that people made.
+Up is more portals.
+~
+0 1048580 0
+D1
+~
+~
+0 0 0
+D3
+~
+~
+0 0 0
+D4
+~
+~
+0 0 72016
+D5
+~
+~
+0 0 72005
+S
+#72011
+#0Chosen#n #7Pathway to Enemy Kingdoms#n~
+~
+0 5267487 9
+D0
+~
+~
+0 0 72014
+D1
+~
+~
+0 0 72015
+D2
+~
+~
+0 0 72012
+D3
+~
+~
+0 0 72013
+S
+#72012
+CrazyDevils~
+~
+0 1064971 0
+D0
+~
+~
+0 0 72011
+D2
+~
+~
+0 0 86020
+S
+#72013
+Elite~
+~
+0 1064971 0
+D1
+~
+~
+0 0 72011
+D2
+~
+~
+0 0 86000
+S
+#72014
+#0Chosen#n #7Hallway#n~
+~
+0 9453583 0
+D0
+~
+~
+0 0 86010
+D2
+~
+~
+0 0 72011
+S
+#72015
+#y<#R*#y>#CG#Lua#Crd#Lia#Cns#y<#R*#y>#n~
+~
+0 1064971 0
+D2
+~
+~
+0 0 86030
+D3
+~
+~
+0 0 72011
+S
+#72016
+Medium Areas - Floor 3~
+Here are more areas that people have made.
+~
+0 1048576 0
+D0
+~
+~
+0 0 30045
+D5
+~
+~
+0 0 72010
+S
+#72017
+Misc Areas~
+~
+0 0 0
+D0
+~
+~
+0 0 75000
+D1
+~
+~
+0 0 0
+D2
+~
+~
+0 0 0
+D3
+~
+~
+0 0 0
+S
+#72018
+Weapon Training~
+~
+0 17850374 0
+D3
+~
+~
+2097216 0 72001
+S
+#72019
+Spell Training Room~
+c #Ppeek #n
+c #Rpoison#n self 
+c #yidentify#n <object name> 
+c #Gteleport#n 
+c #Lfly#n 
+ 
+If you are caught botting these spells elsewhere expect to recieve due punishments. These rooms are not safe so bot at your own risk.
+ 
+-The Imms
+~
+0 135290886 0
+D1
+~
+~
+2097152 0 72001
+S
+#72020
+More Spell-Training Rooms!!!! NOT SAFE!!!~
+c #Ppeek #n
+c #Rpoison#n self 
+c #yidentify#n <object name> 
+c #Gteleport#n 
+c #Lfly#n 
+ 
+If you are caught botting these spells elsewhere expect to recieve due punishments. These rooms are not safe so bot at your own risk.
+ 
+-The Imms
+~
+0 536879104 0
+D1
+~
+~
+2097152 0 72023
+D3
+~
+~
+2097152 0 72022
+D5
+~
+~
+0 0 72001
+S
+#72021
+#LEXCHANGE PORTAL#n~
+~
+0 4 0
+S
+#72022
+Spell Training Room~
+c #Ppeek #n
+c #Rpoison#n self 
+c #yidentify#n <object name> 
+c #Gteleport#n 
+c #Lfly#n 
+ 
+If you are caught botting these spells elsewhere expect to recieve due punishments. These rooms are not safe so bot at your own risk.
+ 
+-The Imms
+~
+0 1073158 0
+D1
+~
+~
+2097152 0 72020
+S
+#72023
+Spell Training Room~
+c #Ppeek #n
+c #Rpoison#n self 
+c #yidentify#n <object name> 
+c #Gteleport#n 
+c #Lfly#n 
+ 
+If you are caught botting these spells elsewhere expect to recieve due punishments. These rooms are not safe so bot at your own risk.
+ 
+-The Imms
+~
+0 1073158 0
+D3
+~
+~
+2097152 0 72020
+S
+#72024
+~
+~
+0 134217732 0
+D5
+~
+~
+0 0 3054
+S
+#72025
+More areas!~
+~
+0 0 0
+D0
+~
+~
+4194407 72026 40600
+S
+#72080
+Buffy and Faith's Kitchen~
+~
+0 0 0
+D2
+~
+~
+0 0 72081
+D3
+~
+~
+0 0 72087
+S
+#72081
+Buffy and Faith's Study~
+~
+0 0 0
+D0
+~
+~
+0 0 72080
+D2
+~
+~
+0 0 72082
+D3
+~
+~
+0 0 72088
+S
+#72082
+Faith's Bedroom~
+~
+0 16384 0
+D0
+~
+~
+0 0 72081
+D3
+~
+~
+0 0 72083
+S
+#72083
+Buffy and Faith's Storage Room~
+~
+0 16384 0
+D0
+~
+~
+0 0 72088
+D1
+~
+~
+0 0 72082
+D3
+~
+~
+0 0 72084
+S
+#72084
+Buffy's Bedroom~
+~
+0 16384 0
+D0
+~
+~
+0 0 72085
+D1
+~
+~
+0 0 72083
+S
+#72085
+Buffy and Faith's Dining Room~
+~
+0 0 0
+D0
+~
+~
+0 0 72086
+D1
+~
+~
+0 0 72088
+D2
+~
+~
+0 0 72084
+S
+#72086
+Buffy and Faith's Bathroom~
+~
+0 1048576 0
+D1
+~
+~
+0 0 72087
+D2
+~
+~
+0 0 72085
+S
+#72087
+Buffy and Faith's Living Room~
+~
+0 0 0
+D1
+~
+~
+0 0 72080
+D2
+~
+~
+0 0 72088
+D3
+~
+~
+0 0 72086
+S
+#72088
+Entrance to Buffy and Faith's Mansion~
+~
+0 0 0
+D0
+~
+~
+0 0 72087
+D1
+~
+~
+0 0 72081
+D2
+~
+~
+0 0 72083
+D3
+~
+~
+0 0 72085
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 72089
+S
+#72089
+The Butler's Room~
+~
+0 0 0
+D4
+~
+~
+0 0 72088
+S
+#72097
+~
+~
+0 4 0
+D2
+~
+~
+0 0 72006
+S
+#72098
+guardian~
+~
+0 206594048 0
+D0
+~
+~
+0 0 72006
+D1
+~
+~
+97 72001 72007
+D2
+~
+~
+0 0 72000
+D3
+~
+~
+0 0 3001
+D4
+~
+~
+0 0 77099
+S
+#72099
+#rSaaid's #0House #rof #0Pain#n~
+Type Look RP
+Type Look Form
+Type Look Store
+~
+0 17850368 0
+E
+store~
+#rName#yCost
+#rHeal#y#3Rp
+#rSword#y10Rp #0(dose 1d10 damge in fight but you lose 10 hp to use)
+#rRevive#y15#n
+MORE TO COME lATER
+ 
+weapons and heals are same from animals dice
+heals cost 3 rp
+can only carry max of 10
+#rThrone #y 50 RP
+#0Swords now do 1 d 15 takes away 10 hit points though to sue
+~
+E
+rppk~
+The point of roleplay is to give characters a sense of background.
+But while in character there are certain rules that apply.
+1. Everything you say must be IC.  No OOC chatter.  
+2. You must have an IC reason for all PK.  After all PK, you must write a note IC to describe what happened
+and why.  This is to keep other players up to date on what is happening with the roleplay scenarios.  You can
+lose RP Points and pkills for not abiding by this rule.
+Rules while fighting:
+1. Grouping is allowed against other RP characters.
+2. If you help in a fight without actually being in combat, you still count as part of the RP group and must
+explain your reason in notes.
+3. If you die in an RP situation, you must make an IC note detailing your resurrection/reincarnation(if any).
+This could be a number of things, for instance, Gods, friendly Priests, a pact with the Devil, etc.
+~
+E
+form~
+Fill this form out and send it to my email
+ 
+wedison@siue.edu or princesaaid@yahoo.com
+#rCharater Form
+#yName:
+#0Race:
+#7Godwars Class:
+#rRp Job pick one from list.#n
+Assassian
+Warrior
+Thief
+Warlock
+Mage
+Sorcesor
+Beastmaster
+Black Knight
+Other:must tell me any other job that you would like to have 
+I will decide if it will fit in the rp world
+#yAnd your Rp Side
+#0This Form will decide on what ablities in rp you get for
+Combat each person excpet Rukason helpers will get 3 starting
+skills#n
+~
+D2
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+M 72004 spec_cast_adept
+M 72005 spec_breath_any
+M 72006 spec_breath_any
+M 72008 spec_breath_any
+M 72009 spec_breath_any
+M 72010 spec_breath_any
+M 72011 spec_breath_any
+M 72012 spec_vladd_decap
+M 72098 spec_gremlin_born
+M 72099 spec_gremlin_original
+S
+
+
+
+#RESETS
+O 0 72020 0 72000
+O 0 72015 0 72001
+O 0 72014 0 72001
+O 0 72021 0 72001
+O 0 72030 0 72002
+O 0 72022 0 72002
+O 0 72024 0 72003
+O 0 72023 0 72005
+M 0 72010 1 72009
+E 0 72005 0 17
+M 0 72011 1 72009
+E 0 72010 0 16
+E 0 72012 0 3
+M 0 72004 8 72009
+M 0 72004 9 72009
+M 0 72003 4 72018
+M 0 72003 4 72018
+M 0 72003 4 72018
+M 0 72003 4 72018
+O 0 72026 0 72025
+M 0 24 1 72089
+E 0 151 0 11
+E 0 150 0 16
+M 0 72012 4 72098
+M 0 72012 4 72098
+M 0 72012 4 72098
+M 0 72012 4 72098
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

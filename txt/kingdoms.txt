@@ -1,0 +1,42 @@
+#7R#0e#7t#0i#7r#0e#7d#n    ~
+#7R#0e#7t#0i#7r#0e#7d#n~
+Jay~
+burningrush~
+40000
+20 17 49883
+0 0 0 1
+Project Mayhem~
+#sM#sa#sy#sh#se#sm#n~
+Jaichim~
+lupin~
+40100
+20 9 217530
+0 0 0 0
+#GG#ya#Gi#ya#G'#ys #RS#ra#Rv#ra#Rg#re#Rs#n~
+#y*#l[#GG#ya#Gi#ya#G'#ys #RS#ra#Rv#ra#Rg#re#Rs#l]#y*#n~
+Leftovers~
+am~
+40200
+2 16 38352
+300000 200000 200000 1
+None~
+#rN#Righ#rtm#Ra#rs#Rk#n~
+Gorgamesa~
+ravu~
+40302
+0 0 0
+300000 0 0 0
+None~
+None~
+None~
+dantaar~
+40400
+0 0 0
+0 0 0 0
+None~
+None~
+No One!~
+(null)~
+0
+0 0 0
+0 0 0 0

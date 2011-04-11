@@ -1,0 +1,421 @@
+#AREADATA
+Name        Mari    Immortal Homes~
+Builders    Marisella~
+VNUMs       86000 86099
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#86000
+kandor~
+kandor~
+Kandor, the trainer of Elite
+~
+~
+36227 0 0 S
+7 0 0 50d0+0 0d0+0
+0 0
+0 0 0
+#86001
+elite soldier guard~
+an elite soldier~
+An Elite soldier guards the entrance.
+~
+~
+25 0 0 S
+8072 0 0 0d1+1 0d0+0
+0 0
+0 0 0
+#86010
+true thug~
+the true thug~
+The true thug
+~
+~
+1 128 0 S
+100011 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#86020
+Trainer~
+a Trainer~
+A Trainer stands here.
+~
+~
+32769 0 0 S
+51 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#86021
+realm of honor trainer~
+#oR#re#oa#rl#om #ro#of #rH#oo#rn#oo#rr #yT#rr#ya#ri#yn#re#yr#n~
+The #oR#re#oa#rl#om #ro#of #rH#oo#rn#oo#rr #yT#rr#ya#ri#yn#re#yr#n is here waiting for kingdom members to train with him.
+~
+~
+32899 0 0 S
+23 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#86022
+#oR#re#oa#rl#om #ro#of #rH#oo#rn#oo#rr #yH#re#ya#rl#ye#rr#n~
+#oR#re#oa#rl#om #ro#of #rH#oo#rn#oo#rr #yH#re#ya#rl#ye#rr#n~
+The #oR#re#oa#rl#om #ro#of #rH#oo#rn#oo#rr #yH#re#ya#rl#ye#rr#n is here to heal the kingdom members.
+~
+~
+19 128 -1000 S
+975 0 0 15d20+2 0d0+0
+0 0
+0 0 0
+#86023
+#oR#re#oa#rl#om#n #ro#of #rH#oo#rn#oo#rr #yG#ru#ya#rr#yd#n~
+#oR#re#oa#rl#om#n #ro#of #rH#oo#rn#oo#rr #yG#ru#ya#rr#yd#n~
+(no long description)
+~
+~
+8211 5874366 -1000 S
+100056 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#86000
+Elite portal~
+a shimmering portal~
+A shimmering portal is here.~
+~
+27 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#86001
+noname~
+.~
+.~
+~
+12 0 0
+0 0 0
+1 2 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#86000
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 1048580 0
+D2
+~
+~
+0 0 86001
+S
+#86001
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 17842694 0
+D0
+~
+~
+0 0 86000
+D2
+~
+~
+0 0 86002
+S
+#86002
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 4 0
+D0
+~
+~
+0 0 86001
+D2
+~
+~
+0 0 86003
+D3
+~
+~
+0 0 40101
+S
+#86003
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 4 0
+D0
+~
+~
+0 0 86002
+D2
+~
+~
+0 0 86004
+S
+#86004
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 4 0
+D0
+~
+~
+0 0 86003
+D1
+~
+~
+0 0 40300
+D2
+~
+~
+0 0 86006
+D3
+~
+~
+0 0 40200
+S
+#86005
+Realm of Honor Kingdom Entrance~
+~
+0 4 0
+D0
+~
+~
+0 0 86004
+S
+#86006
+#CP#Lathway #Ct#Lo #CK#Lingdoms#n~
+~
+0 4 0
+D0
+~
+~
+0 0 86004
+S
+#86007
+#CK#yingdom #CE#ylevator~
+~
+0 4 0
+D5
+~
+~
+0 0 86008
+S
+#86008
+#CK#yingdom #CE#ylevator~
+~
+0 4 0
+D4
+~
+~
+0 0 86007
+D5
+~
+~
+0 0 86009
+S
+#86009
+#CK#yingdom #CE#ylevator~
+~
+0 4 0
+D1
+~
+~
+0 0 40100
+D3
+~
+~
+0 0 40000
+D4
+~
+~
+0 0 86008
+D5
+~
+~
+0 0 86010
+S
+#86010
+#CK#yingdom #CE#ylevator~
+You've entered the Pathway to the Kingdoms.  
+~
+0 1064962 0
+D4
+~
+~
+0 0 86009
+S
+#86011
+#0Chosen#n #7Meeting Room#n~
+~
+0 1065988 0
+S
+#86012
+Gangsta Healing Room~
+~
+0 1065988 0
+S
+#86013
+#0Chosen#n #7Practice Chamber#n~
+~
+0 17842180 0
+S
+#86014
+#0Chosen#n #7Protection Chamber#n~
+~
+0 1065988 0
+S
+#86015
+#0Chosen#n #7Portal#n~
+~
+0 1064964 0
+S
+#86016
+#0Chosen#n #7Items Storage Chamber#n~
+~
+0 1065988 0
+S
+#86017
+~
+~
+0 4 0
+S
+#86018
+~
+~
+0 4 0
+S
+#86019
+~
+~
+0 4 0
+S
+#86020
+DarkLotus HQ~
+~
+0 135282694 0
+S
+#86021
+~
+~
+0 -2012200956 0
+S
+#86022
+Training Room~
+~
+0 152068102 0
+S
+#86023
+~
+~
+0 4 0
+S
+#86024
+~
+~
+0 4 0
+S
+#86025
+~
+~
+0 4 0
+S
+#86030
+Distortions HQ~
+~
+0 1064960 0
+D5
+~
+~
+0 0 3001
+S
+#86050
+The World Arena of Kingdoms~
+~
+0 9986054 0
+S
+#86090
+#RN#ri#RG#rh#RT #rB#Rr#rI#RN#rg#RE#rr#RS #rH#RQ#n~
+~
+0 1064960 0
+D1
+~
+~
+0 0 86091
+D2
+~
+~
+0 0 86092
+D5
+~
+~
+0 0 3001
+S
+#86091
+#rN#RB #rP#Ro#rr#Rt#ra#Rl#rs #Rr#ro#Ro#rm#n~
+~
+0 1065988 0
+D0
+~
+~
+0 0 32087
+D3
+~
+~
+0 0 86090
+S
+#86092
+#RN#rB #RM#re#Re#rt#Ri#rn#Rg #rR#Ro#Ro#rm#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 86090
+S
+#0
+
+
+
+#SPECIALS
+M 86010 spec_breath_gas
+M 86022 spec_cast_cleric
+M 86023 spec_guard
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

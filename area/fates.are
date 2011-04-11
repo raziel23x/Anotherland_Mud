@@ -1,0 +1,1274 @@
+#AREADATA
+Name        Chrono  The Fates~
+Builders    Chrono~
+VNUMs       103000 103099
+Security    7
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#103000
+Fate Greeter~
+#g[#CF#ca#Ct#ce#g]#n Shao~
+Shao stand's here pointing to a sign.
+~
+#g[#CF#ca#Ct#ce#g]#n Shao looks like he is pointing to a sign in the room.
+~
+42131 0 0 S
+1005 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#103001
+Guardian of Fate~
+#7G#0uardian #nof #g[#CF#ca#Ct#ce#g]#n~
+#7G#0uardian #nof #g[#CF#ca#Ct#ce#g]#n stands guard here.
+~
+The guard looks pretty much in excellent shape and well equiped.
+~
+74889 702 500 S
+2013 0 0 1d10+1 0d0+0
+0 0
+0 0 1
+#103002
+Fate Sorcereress~
+#g[#CF#ca#Ct#ce#g] #7S#0orceroress#n~
+#g[#CF#ca#Ct#ce#g] #7S#0orceroress#n flys about the room.
+~
+~
+66689 5802686 0 S
+1777 0 0 2d5+1 0d0+0
+0 0
+0 0 2
+#103003
+Fate Villager~
+#g[#CF#ca#Ct#ce#g] #0V#nillager#n~
+#g[#CF#ca#Ct#ce#g] #0V#nillage wanderers about.
+~
+~
+1 0 1000 S
+60 0 0 1d1+1 0d0+0
+0 0
+0 0 0
+#103004
+Archer of the Fates~
+#7A#0rcher #7o#0f #7T#0he #g[#CF#ca#Ct#ce#Cs#g]~
+#7A#0rcher #7o#0f #7T#0he #g[#CF#ca#Ct#ce#Cs#g]#c stands here keeping guard
+~
+A gracefull archer keeps his guard, looking for intruders.
+~
+74783 98472 -1000 S
+5038 0 0 15d5+2 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#103000
+The Fates Battle Sword~
+#7T#0he #g[#CF#ca#Ct#ce#Cs#g]#n #7B#0attle #7S#0word#n~
+A mystic battle sword lays flat on the ground, battered from war.~
+~
+5 0 8193
+0 512 2457600
+37 75 100 1
+3 1000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103087
+Statue of Memory~
+statue of Marisella~
+You see a statue made of pure gold. On the statue you see a plaque reading: "In Loving Memory of Marisella"~
+~
+8 1 0
+0 0 0
+0 0 0 0
+16960 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103088
+Mysidian Token of Honor~
+#0M#7ysidian #0T#7oken #0o#7f #0H#7onor#n~
+A old and scratched coin lays here.~
+~
+9 262144 65537
+0 0 67108864
+50 0 0 29
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 100
+A
+19 100
+A
+1 10
+A
+2 10
+A
+5 10
+A
+4 10
+A
+3 10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103089
+Mysidian Cape~
+#0M#7ysidian #0C#7ape#n~
+A old torn and abused cape lays here.~
+~
+9 262144 9
+0 0 67108864
+55 0 0 24
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 100
+A
+19 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103090
+Mysidian Sleeves~
+#0M#7ysidian #0S#7leeves#n~
+A old pair of worn out gloves lay here.~
+~
+9 262144 257
+0 0 67108864
+55 0 0 21
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 100
+A
+19 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103091
+Mysidian Gloves~
+#0M#7ysidian #0G#7loves#n~
+A pair of old and torn gloves lay here.~
+~
+9 262144 129
+0 0 67108864
+125 0 0 13
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 100
+A
+19 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103092
+Mysidian Boots~
+#0M#7ysidian #0B#7oots#n~
+A old and pair of smelly boots lay on the ground.~
+~
+9 262144 65
+0 0 67108864
+125 0 0 15
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103093
+Mysidian Leggings~
+#0M#7ysidian #0L#7eggings#n~
+A old and useless legging lays here battered from war.~
+~
+9 262144 33
+0 0 67108864
+150 0 0 0
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103094
+Mysidian Chestplate~
+#0M#7ysidian #0C#7hest#0p#7late#n~
+A old and batter chestplate lays on the ground.~
+~
+9 262144 1025
+0 0 67108864
+250 0 0 0
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103095
+Mysidian Belt~
+#0M#7ysidian #0B#7elt#n~
+A old and aged belt lays on the ground.~
+~
+9 262144 2049
+0 0 67108864
+75 0 0 0
+0 0 0
+A
+13 1000
+A
+14 1000
+A
+12 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103096
+Mysidian Mask~
+#0M#7ysidian #0F#7ace#0m#7ask#n~
+A old and worn out mask lays before you.~
+~
+9 262144 32769
+0 0 67108864
+75 0 0 0
+0 0 0
+A
+13 1000
+A
+14 1000
+A
+12 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103097
+Mysidian Bracer~
+#0M#7ysidian #0B#7racer#n~
+A old and worn out bracer lays on the ground~
+~
+9 262144 4097
+0 0 67108864
+75 0 0 0
+0 0 0
+A
+13 1000
+A
+14 1000
+A
+12 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103098
+Mysidian Pendant~
+#0M#7ysidian #0P#7endant#n~
+A old and unused necklace lays on the ground.~
+~
+9 262144 5
+0 0 67108864
+75 0 0 0
+0 0 0
+A
+13 1000
+A
+14 1000
+A
+12 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#103099
+Mysidian Ring~
+#0M#7ysidian #0R#7ing#n~
+A old and unused ring lays here.~
+~
+9 262144 3
+0 0 67436544
+75 0 0 0
+0 0 0
+A
+13 1000
+A
+12 1000
+A
+14 1000
+A
+18 700
+A
+19 700
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#103000
+Kingdom of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+A #owooden#n sign
+~
+0 0 0
+E
+sign~
+Whom to it may concern: Welcome to The Kingdom of the #g[#CF#ca#Ct#ce#Cs#g]#n
+In this kingdom you shall find many wonders and many rewards if ventured through.
+Be warned this may be a complicated task, and many dangers await you ahead.
+~
+D0
+~
+~
+4194304 0 103001
+S
+#103001
+Inside the Kingdom of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103002
+D2
+~
+~
+4194304 0 103000
+S
+#103002
+Inside the Kingdom of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103005
+D1
+~
+~
+0 0 103004
+D2
+~
+~
+0 0 103001
+D3
+~
+~
+0 0 103003
+S
+#103003
+Inside the Kingdom of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103002
+S
+#103004
+Inside the Kingdom of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103002
+S
+#103005
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103006
+D2
+~
+~
+0 0 103002
+S
+#103006
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103009
+D1
+~
+~
+0 0 103008
+D2
+~
+~
+0 0 103005
+D3
+~
+~
+0 0 103007
+S
+#103007
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103006
+S
+#103008
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103006
+S
+#103009
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103012
+D1
+~
+~
+0 0 103011
+D2
+~
+~
+0 0 103006
+D3
+~
+~
+0 0 103010
+S
+#103010
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103009
+S
+#103011
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103009
+S
+#103012
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103013
+D2
+~
+~
+0 0 103009
+S
+#103013
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103016
+D1
+~
+~
+0 0 103015
+D2
+~
+~
+0 0 103012
+D3
+~
+~
+0 0 103014
+S
+#103014
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103013
+S
+#103015
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103013
+S
+#103016
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103017
+D2
+~
+~
+0 0 103013
+S
+#103017
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103026
+D2
+~
+~
+0 0 103016
+D3
+~
+~
+0 0 103018
+S
+#103018
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103017
+D3
+~
+~
+0 0 103019
+S
+#103019
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103020
+D1
+~
+~
+0 0 103018
+D3
+~
+~
+0 0 103032
+S
+#103020
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103021
+D1
+~
+~
+0 0 103033
+D2
+~
+~
+0 0 103019
+S
+#103021
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103022
+D2
+~
+~
+0 0 103020
+D3
+~
+~
+0 0 103031
+S
+#103022
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103023
+D3
+~
+~
+0 0 103021
+S
+#103023
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103030
+D1
+~
+~
+0 0 103024
+D2
+~
+~
+0 0 103034
+D3
+~
+~
+0 0 103022
+S
+#103024
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103029
+D2
+~
+~
+0 0 103025
+D3
+~
+~
+0 0 103023
+S
+#103025
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103024
+D2
+~
+~
+0 0 103026
+S
+#103026
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103025
+D1
+~
+~
+0 0 103028
+D3
+~
+~
+0 0 103017
+D5
+~
+~
+0 0 103027
+S
+#103027
+Halls of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D4
+~
+~
+0 0 103026
+S
+#103028
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103026
+S
+#103029
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103024
+S
+#103030
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D2
+~
+~
+0 0 103023
+S
+#103031
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103021
+S
+#103032
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103019
+S
+#103033
+Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D3
+~
+~
+0 0 103020
+S
+#103034
+Stairway in The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103023
+D4
+~
+~
+0 0 103035
+S
+#103035
+Stairway in The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D2
+~
+~
+0 0 103036
+D5
+~
+~
+0 0 103034
+S
+#103036
+Stairway in The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103035
+D4
+~
+~
+0 0 103037
+S
+#103037
+Stairway in The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D2
+~
+~
+0 0 103038
+D5
+~
+~
+0 0 103036
+S
+#103038
+Master Rooms of #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103037
+D3
+~
+~
+0 0 103039
+S
+#103039
+Master Rooms of #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103038
+D3
+~
+~
+0 0 103040
+S
+#103040
+Master Rooms of #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103039
+D3
+~
+~
+0 0 103041
+S
+#103041
+Master Rooms of #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D1
+~
+~
+0 0 103040
+D3
+~
+~
+3 0 103042
+S
+#103042
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D1
+~
+~
+3 0 103041
+D2
+~
+~
+0 0 103042
+D3
+~
+~
+0 0 103043
+S
+#103043
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103043
+D1
+~
+~
+0 0 103042
+D2
+~
+~
+0 0 103043
+D3
+~
+~
+0 0 103044
+D4
+~
+~
+0 0 103043
+S
+#103044
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103044
+D1
+~
+~
+0 0 103043
+D2
+~
+~
+0 0 103045
+D3
+~
+~
+0 0 103044
+D5
+~
+~
+0 0 103044
+S
+#103045
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103044
+D1
+~
+~
+0 0 103046
+D2
+~
+~
+0 0 103045
+D3
+~
+~
+0 0 103045
+D4
+~
+~
+0 0 103045
+S
+#103046
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103046
+D1
+~
+~
+0 0 103047
+D2
+~
+~
+0 0 103046
+D3
+~
+~
+0 0 103045
+D5
+~
+~
+0 0 103046
+S
+#103047
+#PH#palls #co#Cf #sI#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103048
+D1
+~
+~
+0 0 103047
+D2
+~
+~
+0 0 103047
+D3
+~
+~
+0 0 103046
+D4
+~
+~
+0 0 103047
+S
+#103048
+#PH#palls #co#Cf #sI#sl#sl#su#ss#ss#si#so#sn#n~
+~
+0 0 0
+D0
+~
+~
+3 0 103049
+D1
+~
+~
+0 0 103048
+D2
+~
+~
+0 0 103047
+D3
+~
+~
+0 0 103048
+D4
+~
+~
+0 0 103048
+S
+#103049
+Secret Room of The #g[#CF#ca#Ct#ce#Cs#g]#n~
+~
+0 0 0
+D0
+~
+~
+0 0 103052
+D1
+~
+~
+0 0 103050
+D2
+~
+~
+3 0 103048
+D3
+~
+~
+0 0 103051
+D5
+~
+~
+0 0 103000
+S
+#103050
+#g[#CF#ca#Ct#ce#g]#n Number 1~
+~
+0 0 0
+D3
+~
+~
+0 0 103049
+S
+#103051
+#g[#CF#ca#Ct#ce#g]#n Number 3~
+~
+0 0 0
+D1
+~
+~
+0 0 103049
+S
+#103052
+#g[#CF#ca#Ct#ce#g]#n Number 2~
+~
+0 0 0
+D2
+~
+~
+0 0 103049
+S
+#103099
+Tribute~
+There is a lone statue that stands here" There is a plaque at the bottom of the statue with writing on it" Plaque: In memory of: Marisella"
+ 
+Under the statue you see an altar filled with Flowers, Flowers that will never wilt, they live on with with memories that we carry of her
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 103001 spec_janitor
+M 103002 spec_sorceror
+M 103003 spec_darkzap
+M 103004 spec_rogue
+S
+
+
+
+#RESETS
+M 0 103000 1 103000
+M 0 103001 1 103001
+M 0 103003 2 103003
+M 0 103003 4 103004
+M 0 103001 2 103005
+M 0 103003 6 103007
+M 0 103003 8 103008
+M 0 103003 10 103010
+M 0 103003 12 103011
+M 0 103003 14 103014
+M 0 103003 16 103015
+M 0 103004 1 103017
+M 0 103004 2 103019
+M 0 103004 3 103021
+M 0 103004 4 103023
+M 0 103004 5 103025
+M 0 103001 1 103035
+M 0 103001 1 103035
+M 0 103001 1 103039
+M 0 103001 1 103039
+M 0 103001 1 103041
+M 0 103001 1 103041
+O 0 103087 0 103099
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

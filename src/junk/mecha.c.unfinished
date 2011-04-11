@@ -1,0 +1,1320 @@
+// Mecha Warriors CODED BY LUNIS
+
+#if defined(macintosh)
+#include <types.h>
+#else
+#include <sys/types.h>
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <time.h>
+#include "merc.h"
+
+void do_tship( CHAR_DATA *ch, char *argument )
+{
+  CHAR_DATA *victim;
+  char buf[MSL];
+  char arg[MIL];
+  argument = one_argument(argument, arg);
+
+  if (IS_NPC(ch)) return;
+  if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+  if (arg[0] == '\0')
+  {
+    stc( "And to whom would you like the transport ship to take you?\n\r", ch );
+    return;
+  }
+  if ( ( victim = get_char_world( ch, arg ) ) == NULL )
+  {
+    stc( "They aren't here.\n\r", ch );
+    return;
+  }
+  if( victim == ch )
+  {
+    stc ( "Not to yourself.\n\r",ch);
+    return;
+  }
+  if( IS_SET(victim->in_room->room_flags, ROOM_ASTRAL))
+  {
+    stc( "You can't find it's room.\n\r",ch);
+    return;
+  }
+  if( IS_SET(ch->in_room->room_flags, ROOM_ASTRAL))
+  {
+    stc( "Your room is not connected to the astral plane.\n\r",ch);
+    return;
+  }
+  if  (!IS_NPC(victim) && !IS_IMMUNE(victim,IMM_SUMMON) )
+  {
+    stc("They don't want you near them!\n\r",ch);
+    return;
+  }
+  if ( room_is_private(victim->in_room ) )
+  {
+    stc( "That room is private right now.\n\r", ch );
+    return;
+  }
+  if (victim->in_room->vnum == ch->in_room->vnum)
+  {
+    stc("But you're already there!\n\r",ch);
+    return;
+  }
+
+  act("You board a transport ship as it pulls up next to you.", ch, NULL, NULL, TO_CHAR);
+  act("$n boards a transport ship as it pulls up next to them.\n\r", ch, NULL, NULL, TO_ROOM);
+
+  char_from_room(ch);
+  char_to_room(ch,victim->in_room);
+
+  if (IS_NPC(victim))
+  {
+    sprintf(buf,"The transport ship accelerates toward %s!\n\r",victim->short_descr);
+    stc(buf, ch);
+  }
+  if (!IS_NPC(victim))
+  {
+    sprintf(buf,"The transport ship accelerates toward %s!\n\r",victim->name);
+    stc(buf, ch);
+  }
+  act("You jump out of your transport ship.\n\r", ch, NULL, victim, TO_CHAR);
+  act("$n jumps out of a transport ship just in front of you!\n\r",ch,NULL,NULL,TO_ROOM);
+  do_look(ch, "auto");
+  return;
+}
+
+void do_skyhook( CHAR_DATA *ch, char *argument )
+   {
+    char arg1[MIL];
+    ROOM_INDEX_DATA *location;
+  //  OBJ_DATA  *obj;
+    CHAR_DATA *victim;
+ //   char       arg [MIL];
+    argument = one_argument( argument, arg1 );
+
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+        if ( arg1[0] == '\0' )
+    {
+        stc( "Call for a skyhook on whom?\n\r", ch );
+        return;
+    }
+    location = ch->in_room;
+ if ( ( victim = get_char_world( ch, arg1 ) ) == NULL )
+    {
+        stc( "They aren't here.\n\r", ch );
+        return;
+    }
+    if ( victim->fighting != NULL )
+    {
+        stc( "They are fighting right now.\n\r", ch );
+        return;
+    }
+
+    if (IS_SET(victim->in_room->room_flags, ROOM_NO_RECALL)
+    ||   IS_SET(victim->in_room->room_flags, ROOM_ASTRAL)
+    ||   IS_SET(victim->in_room->room_flags, ROOM_SAFE))
+
+        {
+        stc("They seem to have slipped below radar.\n\r",ch);
+        return;
+        }
+if (IS_SET (victim->in_room->room_flags, ROOM_ARENA))
+        {
+        stc("This is a no fly zone, hence the skyhook is out of range.\n\r",ch);
+        return;
+        }
+ if (ch->practice < 1000)
+{
+stc("You need 1000 primal to use this\n\r",ch);
+return;
+}
+
+if (ch->in_room->vnum >= 900000)
+{
+        stc("This is a no fly zone, hence the skyhook is out of range.\n\r",ch);
+	return;
+}
+
+  if (victim->fight_timer == 0)
+  {
+    stc("They are too long gone, we cant skyhook them this long after last sighting.\n\r",ch);
+    return;
+  }
+    ch->practice -= 1000;
+    act( "$n is dragged away by a giant skyhook.", victim, NULL, NULL, TO_ROOM );
+    char_from_room( victim );
+    char_to_room( victim, location );
+    stc( "Your victim has been brought to you caught upon your skyhook.\n\r",ch );
+    if ( ch != victim )
+        act( "$n has caught you with a skyhook.", ch, NULL, victim, TO_VICT );
+      
+    do_look(ch, "auto");
+    do_look(victim, "auto");
+}
+
+void do_airstrike (CHAR_DATA *ch, char *argument)
+{
+  CHAR_DATA *victim;
+  char arg[MIL];
+  argument = one_argument( argument, arg );
+
+   if (!IS_CLASS(ch, CLASS_MECHA))
+   {
+   stc("Huh?\n\r",ch);
+   return;
+   }
+
+   else if (arg[0] == '\0')
+   {
+   stc("Please choose a target for the airstrike.\n\r", ch );
+   return;
+   }
+
+   else if ((victim = get_char_room(ch, arg)) == NULL)
+   {
+        stc("They are not here.\n\r", ch );
+        return;
+   } 
+   if (victim == ch)
+   {
+        stc("Why would you want to call an airstrike on yourself!\n\r",ch);
+        return;
+   }
+      if (is_safe(ch, victim)) return;
+      act("$n calls for an airstrike on $N#n!'.",ch,NULL,victim,TO_NOTVICT);
+      act("You call for an airstrike on $N#n!'.",ch,NULL,victim,TO_CHAR);
+      act("$n calls for an airstrike on you, DUCK!#n'.",ch,NULL,victim,TO_VICT);
+                multi_hit(ch, victim, gsn_airstrike);
+      WAIT_STATE(victim, 6);
+      WAIT_STATE(ch, 15);
+            return;
+}
+
+void do_forcefield (CHAR_DATA *ch, char *argument)
+{
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+  else if (!IS_MECHAFF(ch, MECHA_FORCEFIELD))
+    {
+      SET_BIT(ch->mechaff, MECHA_FORCEFIELD);
+      stc("Your forcefield shoots up in front of you shielding you from harm.\n\r",ch);
+      return;
+    }
+    else if (IS_MECHAFF(ch, MECHA_FORCEFIELD))
+    {
+      REMOVE_BIT(ch->mechaff, MECHA_FORCEFIELD);
+      stc("Your forcefield drops leaving you vulerable to attack.\n\r",ch);
+      return;
+    }
+    else
+    {
+       stc("What exactly are you trying to do?\n\r",ch);
+       return;
+    }
+}
+
+void do_titaniumskin (CHAR_DATA *ch, char *argument)
+{
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+  else if (!IS_MECHAFF(ch, MECHA_TITANIUMSKIN))
+    {
+      SET_BIT(ch->mechaff, MECHA_TITANIUMSKIN);
+      stc("The skin of your mech becomes infused with titanium.\n\r",ch);
+      return;
+    }
+    else if (IS_MECHAFF(ch, MECHA_TITANIUMSKIN))
+    {
+      REMOVE_BIT(ch->mechaff, MECHA_TITANIUMSKIN);
+      stc("The titanium begins to flake and then completely falls off your mech.\n\r",ch);
+      return;
+    }
+    else
+    {
+       stc("What exactly are you trying to do?\n\r",ch);
+       return;
+    }
+}
+
+void do_equpgrades (CHAR_DATA *ch, char *argument)
+{
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+  else if (!IS_MECHAFF(ch, MECHA_EQUPGRADES))
+    {
+      SET_BIT(ch->mechaff, MECHA_EQUPGRADES);
+      stc("You attach the SUPER MECHA III upgrades to your mech.\n\r",ch);
+      ch->damroll +=1000;
+      ch->hitroll +=1000;
+      return;
+    }
+    else if (IS_MECHAFF(ch, MECHA_EQUPGRADES))
+    {
+      REMOVE_BIT(ch->mechaff, MECHA_EQUPGRADES);
+      stc("You remove the SUPER MECHA III upgrades from your mech.\n\r",ch);
+      ch->damroll -=1000;
+      ch->hitroll -=1000;
+      return;
+    }
+    else
+    {
+       stc("What exactly are you trying to do?\n\r",ch);
+       return;
+    }
+}
+
+void do_mechaarmor( CHAR_DATA *ch, char *argument )
+{
+  OBJ_INDEX_DATA *pObjIndex;
+  OBJ_DATA *obj;
+  char arg[MIL];
+  int vnum = 0;
+
+  argument = one_argument( argument, arg );
+  if (IS_NPC(ch)) return;
+  if( !IS_CLASS(ch, CLASS_MECHA) )
+  {
+    stc("What could you possibly want with a HUGE peice of mecha equipment!!!\n\r",ch);
+    return;
+  }
+  if (arg[0] == '\0')
+  {
+    stc("Please specify which piece of mecha equipment you wish to make: wrist neck finger blaster torso leg foot hand arm waist face stomach head.\n\r", ch);
+    return;
+  }
+  if ( ch->practice < 150 )
+  {
+    stc("It costs 150 points of primal to create a piece of mecha equipment.\n\r",ch);
+    return;
+  }
+  if (!str_cmp(arg,"wrist")) vnum = 33408;
+  else if (!str_cmp(arg,"neck")) vnum = 33409;
+  else if (!str_cmp(arg,"finger")) vnum = 33410;
+  else if (!str_cmp(arg,"blaster")) vnum = 33411;
+  else if (!str_cmp(arg,"torso")) vnum = 33412;
+  else if (!str_cmp(arg,"leg")) vnum = 33413;
+  else if (!str_cmp(arg,"foot")) vnum = 33414;
+  else if (!str_cmp(arg,"hand")) vnum = 33415;
+  else if (!str_cmp(arg,"face")) vnum = 33416;
+  else if (!str_cmp(arg,"waist")) vnum = 33417;
+  else if (!str_cmp(arg,"head")) vnum = 33418;
+  else if (!str_cmp(arg,"arm")) vnum = 33419;
+  else if (!str_cmp(arg,"stomach")) vnum = 33420;
+  else
+  {
+    stc("Please specify which piece of mecha equipment you wish to make: wrist neck finger blaster body leg foot hand arm waist hand face stomach head.\n\r", ch);
+    return;
+  }
+  if ( vnum == 0 || (pObjIndex = get_obj_index( vnum )) == NULL)
+  {
+    stc("Missing object, please inform Lunis.\n\r",ch);
+    return;
+  }
+  obj = create_object(pObjIndex, 50);
+  obj->questowner = str_dup(ch->pcdata->switchname);
+  obj_to_char(obj, ch);
+  act("$p appears in your hands.",ch,obj,NULL,TO_CHAR);
+  act("$p appears in $n's hands.",ch,obj,NULL,TO_ROOM);
+  ch->practice -=150;
+  return;
+}
+
+
+void do_mconvert( CHAR_DATA *ch, char *argument )
+{
+    char arg[MIL];
+    char buf[MSL];
+    OBJ_DATA *obj;
+//    OBJ_DATA *obj_next;
+//    int converted;
+
+    if( IS_NPC(ch)) return;
+    if( !IS_CLASS(ch, CLASS_MECHA))
+    {
+	stc("Huh?\n\r", ch);
+	return;
+    }
+
+    argument = one_argument( argument, arg );
+
+/*    if ( arg[0] == '\0' )
+    {
+
+        stc("************** [STORAGE COMPARTMENT] **************\n\r", ch );
+        stc("**                                               **\n\r", ch );
+        stc("** ---------------- [TITANIUM] ----------------- **\n\r", ch );
+        sprintf(buf, "** titanium  [%d]                                 **\n\r", ch->pcdata->mconvt[0]);
+        stc(buf, ch);
+        stc("** ------------------ [GEMS] ------------------- **\n\r", ch );
+        sprintf(buf, "** diamond   [%d] emerald   [%d] sapphire  [%d]     **\n\r",
+	ch->pcdata->mconvt[1], ch->pcdata->mconvt[2], ch->pcdata->mconvt[3]);
+        stc(buf, ch);
+        sprintf(buf, "** ruby      [%d] jade      [%d] pearl     [%d]     **\n\r", 
+	ch->pcdata->mconvt[4], ch->pcdata->mconvt[5], ch->pcdata->mconvt[6]);
+        stc(buf, ch);
+        sprintf(buf, "** topaz     [%d] amethyst  [%d] onyx      [%d]     **\n\r", 
+	ch->pcdata->mconvt[7], ch->pcdata->mconvt[8], ch->pcdata->mconvt[9]);
+        stc(buf, ch);
+        sprintf(buf, "** opal      [%d] lazuli    [%d]                   **\n\r", 
+	ch->pcdata->mconvt[10], ch->pcdata->mconvt[11]);
+        stc(buf, ch);
+        stc("** ------------------ [HILTS] ------------------ **\n\r", ch );
+        sprintf(buf, "** ebony     [%d] crystal   [%d] marble    [%d]     **\n\r", 
+	ch->pcdata->mconvt[12], ch->pcdata->mconvt[13], ch->pcdata->mconvt[14]);
+        stc(buf, ch);
+        sprintf(buf, "** gold      [%d] bronze    [%d] sandstone [%d]     **\n\r", 
+	ch->pcdata->mconvt[15], ch->pcdata->mconvt[16], ch->pcdata->mconvt[17]);
+        stc(buf, ch);
+        sprintf(buf, "** limestone [%d] ivory     [%d]                   **\n\r", 
+	ch->pcdata->mconvt[18], ch->pcdata->mconvt[19]);
+        stc(buf, ch);
+        stc("***************************************************\n\r", ch );
+        return;
+    }
+
+    if (!str_cmp( arg, "mithril"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+     	{
+	  stc( "You require a mithril forging slab.\n\r", ch);
+	  return;
+	}
+        if (obj->item_type != ITEM_MITHRIL)
+        {
+          stc("That thing isn't titanium!\n\r",ch);
+          return;
+        }	
+        if (obj->item_type == ITEM_MITHRIL)
+	{
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[0] += 10;
+	}
+    }
+    else if (!str_cmp( arg, "diamond"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a diamond gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a diamond gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[1] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "emerald"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a emerald gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a emerald gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[2] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "sapphire"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a sapphire gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a sapphire gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[3] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "ruby"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a ruby gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a ruby gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[4] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "jade"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a jade gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a jade gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[5] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "pearl"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a pearl gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a pearl gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[6] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "topaz"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a topaz  gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a topaz gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[7] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "amethyst"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a amethyst gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a amethyst gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[8] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "onyx"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a onyx  gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a onyx gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[9] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "opal"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a opal gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a opal gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[10] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "lazuli"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a lazuli gem.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_GEMSTONE)
+        {
+          stc("That thing isn't a lazuli gem!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_GEMSTONE)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[11] += 5;
+        }
+    }
+    else if (!str_cmp( arg, "ebony"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a ebony hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a ebony hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[12] += 1;
+       }
+    }
+    else if (!str_cmp( arg, "crystal"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a crystal hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a crystal hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[13] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "marble"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a marble hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a marble hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[14] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "gold"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a gold hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a gold hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[15] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "bronze"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a bronze hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a bronze hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[16] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "sandstone"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a sandstone hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a sandstone hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[17] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "limestone"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a limestone hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a limestone hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[18] += 1;
+        }
+    }
+    else if (!str_cmp( arg, "ivory"))
+    {
+       if ( (obj = get_obj_carry( ch, arg) )== NULL)
+        {
+          stc( "You require a ivory hilt.\n\r", ch);
+          return;
+        }
+        if (obj->item_type != ITEM_HILT)
+        {
+          stc("That thing isn't a ivory hilt!\n\r",ch);
+          return;
+        }
+        if (obj->item_type == ITEM_HILT)
+        {
+    obj_from_char( obj );
+    act("$n puts $p into storage.", ch, obj, NULL, TO_ROOM);
+    act("You put $p into storage.", ch, obj, NULL, TO_CHAR);
+    ch->pcdata->mconvt[19] += 1;
+        }
+    }
+    else
+    {
+	stc("This item isn't appropriate for storage.", ch);
+    }
+    do_autosave(ch,"");
+    return;
+*/
+}
+void do_mspider (CHAR_DATA *ch, char *argument)
+{
+ CHAR_DATA *victim;
+ char buf [MSL];
+ char arg[MIL];
+ argument = one_argument(argument, arg);
+
+
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+   else if (arg[0] == '\0')
+   {
+   stc("Who do you want to send the spiders after.\n\r", ch );
+   return;
+   }
+
+   else if ((victim = get_char_room(ch, arg)) == NULL)
+   {
+        stc("They are not here.\n\r", ch );
+        return;
+   }
+   if (victim == ch)
+   {
+        stc("Why would you want to sick the spiders on yourself!\n\r",ch);
+        return;
+   }
+   if (is_safe(ch, victim))
+   {
+	return;
+   } 
+
+  else if (!IS_MECHAFF(victim, MECHA_MSPIDERA))
+  {
+      SET_BIT(victim->mechaff, MECHA_MSPIDERA);
+      sprintf(buf,"A spider crawls forth from %s and affixes itself to your body.\n\r",ch->name);
+      stc("Your spider attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else if (!IS_MECHAFF(victim, MECHA_MSPIDERB))
+  {
+      SET_BIT(victim->mechaff, MECHA_MSPIDERB);
+      sprintf(buf,"A spider crawls forth from %s and affixes itself to your body.\n\r",ch->name);
+      stc("Your spider attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else if (!IS_MECHAFF(victim, MECHA_MSPIDERC))
+  {
+      SET_BIT(victim->mechaff, MECHA_MSPIDERC);
+      sprintf(buf,"A spider crawls forth from %s and affixes itself to your body.\n\r",ch->name);
+      stc("Your spider attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else if (!IS_MECHAFF(victim, MECHA_MSPIDERD))
+  {
+      SET_BIT(victim->mechaff, MECHA_MSPIDERD);
+      sprintf(buf,"A spider crawls forth from %s and affixes itself to your body.\n\r",ch->name);
+      stc("Your spider attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else if (!IS_MECHAFF(victim, MECHA_MSPIDERE))
+  {
+      SET_BIT(victim->mechaff, MECHA_MSPIDERE);
+      sprintf(buf,"A spider crawls forth from %s and affixes itself to your body.\n\r",ch->name);
+      stc("Your spider attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else
+  {
+      stc("They are already covered by mechanical spiders.\n\r",ch);
+      return;
+  }
+  return;
+}
+
+void do_mdrone( CHAR_DATA *ch, char *argument )
+{
+  char arg1[MSL];
+  CHAR_DATA *victim;
+  AFFECT_DATA af;
+
+  argument=one_argument(argument,arg1);
+
+  if (IS_NPC(ch)) return;
+
+  if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+    if (IS_MECHAFF(ch, MECHA_HAS_MADE_DRONE))
+    {
+      stc("Mechalab is still constructing another drone.\n\r",ch);
+      return;
+    }
+    act( "A cargo bay opens and a drone flys out to help coral you.\n\r", ch, NULL,NULL, TO_ROOM );
+    stc( "You release a mecha drone.\n\r",ch);
+/*    victim=create_mobile( get_mob_index( MOB_VNUM_DRONE ));*/
+    free_string(victim->short_descr);
+    free_string(victim->name);
+    free_string(victim->long_descr);
+    victim->name=str_dup("mecha drone");
+    victim->short_descr=str_dup("#la small mecha drone#n");
+    victim->long_descr=str_dup("#lA small mecha drone stands here.#n\n\r");
+    victim->level = ch->spl[YELLOW_MAGIC] / 2;
+    victim->hit = 900 * ch->spl[YELLOW_MAGIC];
+    victim->max_hit = 900 * ch->spl[YELLOW_MAGIC];
+    victim->hitroll = ch->spl[YELLOW_MAGIC];
+    victim->damroll = ch->spl[YELLOW_MAGIC];
+    char_to_room( victim, ch->in_room );
+    add_follower( victim, ch );
+    af.type      = skill_lookup ("charm person");                                           
+    af.duration  = 666;
+    af.location  = APPLY_NONE;
+    af.modifier  = 0;
+    af.bitvector = AFF_CHARM;
+    affect_to_char( victim, &af );
+    SET_BIT(victim->act,ACT_NOEXP);
+    SET_BIT(victim->act,PLR_HOLYLIGHT);
+    do_group(ch,victim->name);
+    SET_BIT(ch->mechaff, MECHA_HAS_MADE_DRONE);
+    return;
+}
+void do_mtrigger( CHAR_DATA *ch, char *argument )
+{
+CHAR_DATA *victim=0;
+char buf[MSL];
+char arg[MIL];
+int dam;
+
+argument = one_argument(argument, arg);
+
+dam = 200;
+if (!IS_CLASS(ch,CLASS_MECHA))
+{
+	stc("Huh?\n\r",ch);
+	return;
+}
+
+if ( ( victim = get_char_world( ch, arg ) ) == NULL )
+{
+   stc( "They aren't here.\n\r", ch );
+   return;
+}
+
+if ((ch->fighting)!= NULL)
+{
+	stc("Your fighting, setting the spiders off now is a bad idea.",ch);
+	return;
+}
+
+if (victim == ch)
+{
+stc("Stupid stupid stupid\n\r",ch);
+return;
+}
+if (arg[0] == '\0')
+{
+stc("Who are you blowing up?.\n\r", ch );
+return;
+}
+if (!IS_MECHAFF(victim, MECHA_MSPIDERA) || !IS_MECHAFF(victim, MECHA_MSPIDERB) ||!IS_MECHAFF(victim, MECHA_MSPIDERC) 
+||!IS_MECHAFF(victim, MECHA_MSPIDERD) ||!IS_MECHAFF(victim, MECHA_MSPIDERE))
+{
+	stc("They are not infested.\n\r", ch);
+	 return;
+}
+if (IS_MECHAFF(victim, MECHA_MSPIDERA))
+{
+	if (is_safe(ch,victim) == TRUE) return;
+	sprintf(buf,"Your spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_CHAR);
+	sprintf(buf,"$n's spiders explode hitting you incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_VICT);
+	sprintf(buf,"$n's spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_NOTVICT);
+	stc("\n\r",ch);
+	hurt_person(ch,victim,dam);
+	REMOVE_BIT(victim->mechaff, MECHA_MSPIDERA);
+}
+if (IS_MECHAFF(victim, MECHA_MSPIDERB))
+{
+	if (is_safe(ch,victim) == TRUE) return;
+	sprintf(buf,"Your spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_CHAR);
+	sprintf(buf,"$n's spiders explode hitting you incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_VICT);
+	sprintf(buf,"$n's spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_NOTVICT);
+//	stc("\n\r",ch);
+	hurt_person(ch,victim,dam);
+	REMOVE_BIT(victim->mechaff, MECHA_MSPIDERB);
+}
+if (IS_MECHAFF(victim, MECHA_MSPIDERC))
+{
+	if (is_safe(ch,victim) == TRUE) return;
+	sprintf(buf,"Your spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_CHAR);
+	sprintf(buf,"$n's spiders explode hitting you incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_VICT);
+	sprintf(buf,"$n's spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_NOTVICT);
+//	stc("\n\r",ch);
+	hurt_person(ch,victim,dam);
+	REMOVE_BIT(victim->mechaff, MECHA_MSPIDERC);
+}
+if (IS_MECHAFF(victim, MECHA_MSPIDERD))
+{
+	if (is_safe(ch,victim) == TRUE) return;
+	sprintf(buf,"Your spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_CHAR);
+	sprintf(buf,"$n's spiders explode hitting you incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_VICT);
+	sprintf(buf,"$n's spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_NOTVICT);
+//	stc("\n\r",ch);
+	hurt_person(ch,victim,dam);
+	REMOVE_BIT(victim->mechaff, MECHA_MSPIDERD);
+}
+if (IS_MECHAFF(victim, MECHA_MSPIDERE))
+{
+	if (is_safe(ch,victim) == TRUE) return;
+	sprintf(buf,"Your spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_CHAR);
+	sprintf(buf,"$n's spiders explode hitting you incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_VICT);
+	sprintf(buf,"$n's spiders explode hitting $N incredibly hard! [%d]\n\r",dam);
+	act(buf,ch,NULL,victim,TO_NOTVICT);
+//	stc("\n\r",ch);
+	hurt_person(ch,victim,dam);
+	REMOVE_BIT(victim->mechaff, MECHA_MSPIDERE);
+}
+return;
+}
+
+void do_activatebug( CHAR_DATA *ch, char *argument )
+{
+    CHAR_DATA *victim;
+//  OBJ_DATA  *obj;
+    ROOM_INDEX_DATA *chroom;
+    ROOM_INDEX_DATA *victimroom;
+    char      arg [MIL];
+    char      buf [MIL];
+//  int rand_room;
+//  bool chaosvalue = FALSE;
+
+    argument = one_argument( argument, arg );
+
+    if (IS_NPC(ch)) return;
+
+    if (!IS_CLASS(ch, CLASS_MECHA))
+        {
+            stc("Huh?\n\r",ch);
+            return;
+        }
+    if ( arg[0] == '\0' )
+    {
+        stc( "Who's bug would you like to activate?\n\r", ch );
+        return;
+    }
+
+    if ( ( victim = get_char_world( ch, arg ) ) == NULL )
+    {
+        stc( "They aren't here.\n\r", ch );
+        return;
+    }
+
+    if (victim->trust > 6)
+    {
+      stc("SPYING ON THE GODS!?!?!?!\n\r",ch);
+      stc("Someone is scrying you.\n\r",victim);
+      return;
+    }
+
+
+  if (!IS_MECHAFF(victim, MECHA_MBUG))
+  {
+  	stc("They are not bugged.\n\r", ch);
+	return;
+  }
+
+    chroom = ch->in_room;
+    victimroom = victim->in_room;
+    char_from_room(ch);
+    char_to_room(ch,victimroom);
+        do_look(ch,"scry");
+    char_from_room(ch);
+    char_to_room(ch,chroom);
+
+    if (!IS_NPC(victim)) ch->fight_timer += 5;
+    stc("\n\r", ch);
+    if (IS_NPC(victim)) sprintf(buf, "%s is an NPC.\n\r",victim->short_descr);
+    else
+    {
+        if      (victim->level == 12) sprintf(buf, "%s is an Implementor.\n\r", victim->name);
+        else if (victim->level == 11) sprintf(buf, "%s is a High Judge.\n\r", victim->name);
+        else if (victim->level == 10) sprintf(buf, "%s is a Judge.\n\r", victim->name);
+        else if (victim->level == 9 ) sprintf(buf, "%s is an Enforcer.\n\r", victim->name);
+        else if (victim->level == 8 ) sprintf(buf, "%s is a Quest Maker.\n\r", victim->name);
+        else if (victim->level == 7 ) sprintf(buf, "%s is a Builder.\n\r", victim->name);
+        else if (victim->level >= 3 ) sprintf(buf, "%s is an Avatar.\n\r", victim->name);
+        else sprintf(buf, "%s is a Mortal.\n\r", victim->name);
+    }
+    stc(buf,ch);
+    if (!IS_NPC(victim))
+    {
+        sprintf(buf,"Str:%d, Int:%d, Wis:%d, Dex:%d, Con:%d.\n\r",get_curr_str(victim),get_curr_int(victim),get_curr_wis(victim),get_curr_dex(victim),get_curr_con(victim));
+        stc(buf,ch);
+    }
+      sprintf(buf,"Hp:%d/%d, Mana:%d/%d, Move:%d/%d.\n\r",victim->hit,victim->max_hit,victim->mana,victim->max_mana,victim->move,victim->max_move);
+    stc(buf,ch);
+    if (!IS_NPC(victim))
+    {
+        sprintf(buf,"Hitroll:%d, Damroll:%d, AC:%d.\n\r",char_hitroll(victim),char_damroll(victim),char_ac(victim));
+    }
+    else sprintf(buf,"AC:%d.\n\r",char_ac(victim));
+    stc(buf,ch);
+    if (!IS_NPC(victim))
+    {
+        if (IS_CLASS(victim, CLASS_VAMPIRE))
+        {
+            sprintf(buf,"Blood:%d, ",victim->pcdata->condition[COND_THIRST]);
+            stc(buf,ch);
+        }
+    }
+    sprintf(buf,"Alignment:%d.\n\r",victim->alignment);
+    stc(buf,ch);
+    if (!IS_NPC(victim) && IS_EXTRA(victim, EXTRA_PREGNANT))
+        act("$N is pregnant.",ch,NULL,victim,TO_CHAR);
+    if (!IS_NPC(victim) && IS_CLASS(victim, CLASS_VAMPIRE))
+    {
+        stc("Disciplines:",ch);
+        if (IS_VAMPAFF(victim, VAM_PROTEAN)) stc(" Protean",ch);
+        if (IS_VAMPAFF(victim, VAM_CELERITY)) stc(" Celerity",ch);
+        if (IS_VAMPAFF(victim, VAM_FORTITUDE)) stc(" Fortitude",ch);
+        if (IS_VAMPAFF(victim, VAM_POTENCE)) stc(" Potence",ch);
+        if (IS_VAMPAFF(victim, VAM_OBFUSCATE)) stc(" Obfuscate",ch);
+        if (IS_VAMPAFF(victim, VAM_OBTENEBRATION)) stc(" Obtenebration",ch);
+        if (IS_VAMPAFF(victim, VAM_SERPENTIS)) stc(" Serpentis",ch);
+        if (IS_VAMPAFF(victim, VAM_AUSPEX)) stc(" Auspex",ch);
+        if (IS_VAMPAFF(victim, VAM_DOMINATE)) stc(" Dominate",ch);
+        if (IS_VAMPAFF(victim, VAM_PRESENCE)) stc(" Presence",ch);
+        if (IS_VAMPAFF(victim, VAM_VICISSITUDE)) stc(" Vicissitude",ch);
+        if (IS_VAMPAFF(victim, VAM_THAU)) stc(" Thaumaturgy",ch);
+        if (IS_VAMPAFF(victim, VAM_ANIMAL)) stc(" Animalism",ch);
+        if (IS_VAMPAFF(victim, VAM_QUIETUS)) stc(" Quietus",ch);
+        stc(".\n\r",ch);
+    }
+
+    act("The display console of your mech glows brightly.",ch,NULL,victim,TO_CHAR);
+    act("The eyes of the bug that is attached to you glow brightly",ch,NULL,victim,TO_VICT);
+
+    return;
+}
+
+void do_mbug (CHAR_DATA *ch, char *argument)
+{
+ CHAR_DATA *victim;
+ char buf [MSL];
+ char arg[MIL];
+ argument = one_argument(argument, arg);
+
+
+ if (!IS_CLASS(ch, CLASS_MECHA))
+  {
+    stc("Huh?\n\r",ch);
+    return;
+  }
+   else if (arg[0] == '\0')
+   {
+   stc("Who do you want to bug.\n\r", ch );
+   return;
+   }
+   else if ((victim = get_char_room(ch, arg)) == NULL)
+   {
+        stc("They are not here.\n\r", ch );
+        return;
+   }
+   if (victim == ch)
+   {
+        stc("Why would you want to bug yourself!\n\r",ch);
+        return;
+   }
+
+  else if (!IS_MECHAFF(victim, MECHA_MBUG))
+  {
+      SET_BIT(victim->mechaff, MECHA_MBUG);
+      sprintf(buf,"%s reaches over and affixes a bug to your body.\n\r",ch->name);
+      stc("Your bug attaches itself to the victim.\n\r",ch);
+      stc(buf,victim);
+      return;
+  }
+  else
+  {
+      stc("They are already buged.\n\r",ch);
+      return;
+  }
+  return;
+}
+
+void do_removebug (CHAR_DATA *ch, char *argument)
+{
+//  CHAR_DATA *victim;
+//  char buf [MSL];
+    char arg[MIL];
+    argument = one_argument(argument, arg);
+
+
+  if (ch->fight_timer >0)
+  {
+	   stc("The bug is still to deeply embedded.\n\r", ch );
+           return;
+  }
+
+
+
+  if(IS_MECHAFF(ch, MECHA_MBUG))
+  {
+      REMOVE_BIT(ch->mechaff, MECHA_MBUG);
+      stc("You remove the bug attached to your body.\n\r",ch);
+      return;
+  }
+  else
+  {
+	stc("You are not bugged.\n\r", ch);
+	return;
+  }
+
+  return;
+}
+
+void do_shell( CHAR_DATA *ch, char *argument)
+{
+    CHAR_DATA *victim;
+    char      arg1 [MIL];
+    char      arg2 [MIL];
+    int sn;
+    int level = 50;
+
+    smash_tilde( argument );
+    argument = one_argument( argument, arg1 );
+    argument = one_argument( argument, arg2 );
+
+    if (IS_NPC(ch)) return;
+
+        if (!IS_CLASS(ch, CLASS_MECHA))
+        {
+                stc("Huh?\n\r", ch);
+                return;
+        }
+    if ( IS_SET(ch->in_room->room_flags,ROOM_SAFE) ) return;
+
+    if ( arg1[0] == '\0' )
+    {
+        stc( "What kind of shell do you want to fire?\n\r", ch );
+        return;
+    }
+    if ( arg2[0] == '\0' )
+    {
+        stc( "Who do you wanna fire a shell at?\n\r", ch );
+        return;
+    }
+    if ( ( victim = get_char_room( ch, arg2 ) ) == NULL )
+    {
+        stc( "They aren't here.\n\r", ch );
+        return;
+    }
+
+    if ( ch == victim )
+    {
+        stc( "Not on yourself!\n\r", ch );
+        return;
+    }
+
+    if ( ch->position == POS_FIGHTING && !str_cmp( arg1, "sleep"))
+    {
+        stc( "Not while fighting!\n\r", ch );
+        return;
+    }
+
+    if ( victim->in_room == ch->in_room && !str_cmp( arg1, "sleep"))
+        {
+        act("You fire a sleep shell at $N.",ch,NULL,victim,TO_CHAR);
+        act("$n fires a shell at you.  You feel sleepy.",ch,NULL,victim,TO_VICT);
+        victim->position = POS_SLEEPING;
+        }
+    else if ( victim->in_room == ch->in_room && !str_cmp( arg1, "slow"))
+        {
+        act("You fire a slow shell at $N.",ch,NULL,victim,TO_CHAR);
+        act("$n fires a shell at you.  You slow down.",ch,NULL,victim,TO_VICT);
+	WAIT_STATE(ch,6);
+	WAIT_STATE(victim, 25);
+        }
+    else if ( victim->in_room == ch->in_room && !str_cmp( arg1, "dispel"))
+        {
+        act("You fire a dispel shell at $N.",ch,NULL,victim,TO_CHAR);
+        act("$n fires a shell at you.  You feel all your magic drain away.",ch,NULL,victim,TO_VICT);
+	sn = skill_lookup("dispel magic");
+	(*skill_table[sn].spell_fun) (sn,level,ch,victim);
+        }
+    else if ( victim->in_room == ch->in_room && !str_cmp( arg1, "stun"))
+        {
+        act("You fire a stun shell at $N.",ch,NULL,victim,TO_CHAR);
+        act("$n fires a shell at you.  You feel well... unconcious.",ch,NULL,victim,TO_VICT);
+	victim->position = POS_STUNNED;
+       }
+    else
+	{
+	stc("ok... crackhead... get it right!",ch);
+	return;
+	}
+        return;
+}
+

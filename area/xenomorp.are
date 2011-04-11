@@ -1,0 +1,634 @@
+#AREADATA
+Name        Seppuku Xenomorph Lair~
+Builders    Steelgaze~
+VNUMs       100800 100899
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#100800
+morph~
+a #0xenomorph#n~
+A #0xenomorph#n lies along the wall.
+~
+The creature you look upon is nothing like the average human.  It is
+covered in a black, shiny exoskeletion able to withstand great damage before
+it's acidic blood spews out and eats everything it touches.  The creatures
+head seems rather large, its jaw lined with white sharp teeth.  It stands on
+two legs, and has two large claws.  
+~
+197651 4301374 0 S
+910 0 0 25d20+3 0d0+0
+0 0
+0 0 1
+#100801
+morph~
+a #0xenomorph#n~
+A #0xenomorph#n lies along the wall.
+~
+The creature you look upon is nothing like the average human.  It is
+covered in a black, shiny exoskeletion able to withstand great damage before
+it's acidic blood spews out and eats everything it touches.  Head seems
+rather large, its jaw lined with white sharp teeth.  It stands on two legs,
+and has two large claws.  
+~
+197659 4293183 0 S
+863 0 0 25d20+3 0d0+0
+0 0
+0 0 1
+#100802
+morph~
+#0a xenomorph#n~
+#0a xenomorph#n lies along the wall.
+~
+The creature you look upon is nothing like the average human.  It is
+covered in a black, shiny exoskeletion able to withstand great damage before
+it's acidic blood spews out and eats everything it touches.  The creatures
+head seems rather large, its jaw lined with white sharp teeth.  It stands on
+two legs, and has two large claws.  
+~
+197661 4293183 0 S
+945 0 0 30d20+3 0d0+0
+0 0
+0 0 1
+#100803
+facehugger~
+a #ofacehugger#n~
+A #ofacehugger#n scourges across the floor quickly.
+~
+~
+132109 1147454 0 S
+589 0 0 35d20+3 0d0+0
+0 0
+0 0 0
+#100804
+Facehugger~
+a #ofacehugger#n~
+A #ofacehugger#n coils for an attack!
+~
+~
+197657 98366 0 S
+445 0 0 35d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#100800
+xenomorph claw~
+a #0xenomproh claw#n~
+A #0xenomorph claw#n lies here severed.~
+~
+5 16896 16385
+2 0 0
+18053 50 100 5
+25 0 0
+A
+19 55
+A
+18 45
+A
+14 500
+A
+24 -10
+A
+17 350
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100801
+xenomorph inner jaw~
+a #0xenomorph#n inner jaw~
+A #0xenomorph#n inner jaw lies here.~
+~
+9 2 65537
+2 0 0
+15 0 0 16
+25 0 0
+A
+17 -50
+A
+18 30
+A
+19 25
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100802
+xenomorph tail~
+a #0xenomorph tail#n~
+A #0xenomorph#n tail lies here severed.~
+~
+9 66 1025
+2 0 0
+15 0 0 17
+25 0 0
+A
+17 -40
+A
+19 50
+A
+18 75
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100803
+xenomorph outter jaw~
+a #0xenomorph#n outter jaw~
+A #0xenomorph#n outter jaw lies here severed.~
+~
+9 2 32769
+2 0 0
+0 0 0 0
+25 0 0
+A
+18 65
+A
+19 50
+A
+24 100
+A
+18 55
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100804
+xenomorph foot talons~
+a pair of #0xenomorph#n foot talons~
+A pair of #0xenomorph#n foot talons lies here.~
+~
+9 339 65
+2 0 0
+15 0 0 21
+0 0 0
+A
+18 60
+A
+19 45
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100805
+facehugger egg tube~
+a #ofacehugger#n egg tube~
+A #ofacehugger#n egg tube lies here.~
+~
+9 83 9
+0 0 0
+15 0 0 15
+50 0 0
+A
+17 250
+A
+18 35
+A
+19 45
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100800
+The decend~
+The area here is rather strange.  No a sound of nature can be heard nor
+plant live seem.  The only sound heard is a low howling frequency from the
+wind blowing accross the a tunnel almost hidden from sight.  The tunnel
+leading further in the downward direction seems rather ..  Strange. 
+Exoskeleton-like coverings litter the floor, and create 'walls' that support
+the tunnel as it seems to wind down further into the darkness.  
+~
+0 4 2
+D5
+~
+~
+0 0 100801
+S
+#100801
+#0Tunnel#n~
+The further you venter into the tunnel, the more humid it seems to
+become.  The walls are lined with a shell of some sort, created from what it
+seems to be strong, black, shiny materials.  From here, the tunnel splits
+off into four directions, north, east, south, and west.  None of the
+directions seem to be too appealing, as a almost unaudible breathing can be
+heard.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100802
+D1
+~
+~
+0 0 100807
+D2
+~
+~
+0 0 100812
+D3
+~
+~
+0 0 100817
+D4
+~
+~
+0 0 100800
+S
+#100802
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100803
+D2
+~
+~
+0 0 100801
+S
+#100803
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100804
+D1
+~
+~
+0 0 100805
+D2
+~
+~
+0 0 100802
+S
+#100804
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D2
+~
+~
+0 0 100803
+D3
+~
+~
+0 0 100806
+S
+#100805
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D3
+~
+~
+0 0 100803
+S
+#100806
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100804
+S
+#100807
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100808
+D3
+~
+~
+0 0 100801
+S
+#100808
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100810
+D2
+~
+~
+0 0 100809
+D3
+~
+~
+0 0 100807
+S
+#100809
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8200 0
+D0
+~
+~
+0 0 100808
+S
+#100810
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100811
+D3
+~
+~
+0 0 100808
+S
+#100811
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D2
+~
+~
+0 0 100810
+S
+#100812
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100801
+D2
+~
+~
+0 0 100813
+S
+#100813
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100812
+D2
+~
+~
+0 0 100815
+D3
+~
+~
+0 0 100814
+S
+#100814
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100813
+S
+#100815
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100813
+D1
+~
+~
+0 0 100816
+S
+#100816
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D3
+~
+~
+0 0 100815
+S
+#100817
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100801
+D3
+~
+~
+0 0 100818
+S
+#100818
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100819
+D1
+~
+~
+0 0 100817
+D3
+~
+~
+0 0 100820
+S
+#100819
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D2
+~
+~
+0 0 100818
+S
+#100820
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D1
+~
+~
+0 0 100818
+D2
+~
+~
+0 0 100821
+S
+#100821
+#0Tunnel#n~
+The walls here close in tightly, only letting in one humanoid shaped
+person by one by one.  The walls here are composed of the same strong, black
+shiny materials as the tunnels before it was.  No light penetrates the area,
+save the light source carried by you.  
+~
+0 8201 0
+D0
+~
+~
+0 0 100820
+D5
+~
+~
+0 0 100822
+S
+#100822
+#0Egg Chamber#n~
+The chamber here is unlit.  It's pitch black, and the only thing
+illuminating it is your light source.  The walls are composed of the same
+black, shiny materials as the tunnel walls, except one thing here.  The
+floor here is uniformly lined with eggs, holding something within it.  
+~
+0 13 0
+S
+#0
+
+
+
+#SPECIALS
+M 100800 spec_breath_acid
+M 100801 spec_breath_acid
+M 100803 spec_cast_undead
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2894 @@
+#AREADATA
+Name        Raziels Tower of Fear~
+Builders    Raziel~
+VNUMs       102600 102699
+Security    9
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#102600
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds.
+~
+~
+27 4194472 0 S
+6011 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102601
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6027 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102602
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6010 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102603
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5957 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102604
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5980 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102605
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6020 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102606
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6020 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102607
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5977 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102608
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5950 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102609
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6034 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102610
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6004 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102611
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5990 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102612
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6056 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102613
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6010 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102614
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6027 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102615
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6052 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102616
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5985 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102617
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5944 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102618
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6039 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102619
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6012 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102620
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5937 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102621
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5980 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102622
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5966 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102623
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5948 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102624
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6007 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102625
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6001 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102626
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6040 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102627
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6027 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102628
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5988 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102629
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6003 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102630
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6030 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102631
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6058 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102632
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5981 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102633
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6023 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102634
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6043 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102635
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5980 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102636
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6083 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102637
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6023 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102638
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5970 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102639
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6065 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102640
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6034 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102641
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6020 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102642
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5982 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102643
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6050 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102644
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6031 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102645
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5990 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102646
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6035 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102647
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5992 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102648
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6002 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102649
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5990 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102650
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5986 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102651
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5998 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102652
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6018 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102653
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5941 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102654
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6003 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102655
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6011 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102656
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6033 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102657
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5997 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102658
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5998 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102659
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6085 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102660
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5997 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102661
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5976 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102662
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6013 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102663
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5998 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102664
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6024 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102665
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6015 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102666
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5968 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102667
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6031 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102668
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6060 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102669
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5999 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102670
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6006 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102671
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5960 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102672
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5951 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102673
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5989 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102674
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6001 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102675
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5992 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102676
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6051 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102677
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6114 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102678
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5964 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102679
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6038 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102680
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5994 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102681
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5977 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102682
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5984 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102683
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5975 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102684
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5970 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102685
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5953 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102686
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5972 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102687
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6217 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102688
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6145 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102689
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6010 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102690
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6017 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102691
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6026 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102692
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6057 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102693
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6142 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102694
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6030 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102695
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6043 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102696
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+6115 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102697
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5971 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102698
+fear tower guard~
+#C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n~
+A #C(#PFear#C) #0T#7o#0w#7e#0r #0G#7u#0a#7r#0d#n is here guarding the grounds
+~
+~
+27 4194472 0 S
+5988 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#102600
+top piece red soul stone soulstone~
+a Top Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A Top Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+67 0 16385
+0 0 0
+0 102604 102605 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102601
+left piece red soul stone soulstone~
+a Left side Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A left Side Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+67 0 16385
+0 0 0
+0 102602 102604 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102602
+right piece red soul stone soulstone~
+a Right side Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A Right Side Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+67 0 16385
+0 0 0
+102601 0 102604 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102603
+bottom piece red soul stone soulstone~
+a Bottom Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A Bottom Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+67 0 16385
+0 0 0
+0 102605 102606 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102604
+center piece red soul stone soulstone~
+a Center Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A Center Piece of a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+67 0 16385
+0 0 0
+102600 0 102605 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102605
+red soul stone soulstone~
+a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n Missing it Bottom~
+A #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n Missing it Bottom lies here.~
+~
+67 0 16385
+0 0 0
+102603 0 102606 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102606
+red soul stone soulstone~
+a #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n~
+A #RM#ry#Rs#rt#Re#rr#Ri#ro#Ru#rs #Rs#rt#Ro#Rn#re#n lies here.~
+~
+18 0 16385
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#102600
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102603
+D1
+~
+~
+0 0 102601
+S
+#102601
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102604
+D1
+~
+~
+0 0 102602
+D3
+~
+~
+0 0 102600
+S
+#102602
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102605
+D3
+~
+~
+0 0 102601
+S
+#102603
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102606
+D1
+~
+~
+0 0 102604
+D2
+~
+~
+0 0 102600
+S
+#102604
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102607
+D1
+~
+~
+0 0 102605
+D2
+~
+~
+0 0 102601
+D3
+~
+~
+0 0 102603
+D4
+~
+~
+0 0 102613
+S
+#102605
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102608
+D2
+~
+~
+0 0 102602
+D3
+~
+~
+0 0 102604
+S
+#102606
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102607
+D2
+~
+~
+0 0 102603
+S
+#102607
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102608
+D2
+~
+~
+0 0 102604
+D3
+~
+~
+0 0 102606
+S
+#102608
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102605
+D3
+~
+~
+0 0 102607
+S
+#102609
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102612
+D1
+~
+~
+0 0 102610
+S
+#102610
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102613
+D1
+~
+~
+0 0 102611
+D3
+~
+~
+0 0 102609
+S
+#102611
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102614
+D3
+~
+~
+0 0 102610
+S
+#102612
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102615
+D1
+~
+~
+0 0 102613
+D2
+~
+~
+0 0 102609
+S
+#102613
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102616
+D1
+~
+~
+0 0 102614
+D2
+~
+~
+0 0 102610
+D3
+~
+~
+0 0 102612
+D4
+~
+~
+0 0 102622
+D5
+~
+~
+0 0 102604
+S
+#102614
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102617
+D2
+~
+~
+0 0 102611
+D3
+~
+~
+0 0 102613
+S
+#102615
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102616
+D2
+~
+~
+0 0 102612
+S
+#102616
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102617
+D2
+~
+~
+0 0 102613
+D3
+~
+~
+0 0 102615
+S
+#102617
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102614
+D3
+~
+~
+0 0 102616
+S
+#102618
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102621
+D1
+~
+~
+0 0 102619
+S
+#102619
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102622
+D1
+~
+~
+0 0 102620
+D3
+~
+~
+0 0 102618
+S
+#102620
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102623
+D3
+~
+~
+0 0 102619
+S
+#102621
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102624
+D1
+~
+~
+0 0 102622
+D2
+~
+~
+0 0 102618
+S
+#102622
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102625
+D1
+~
+~
+0 0 102623
+D2
+~
+~
+0 0 102619
+D3
+~
+~
+0 0 102621
+D4
+~
+~
+0 0 102631
+D5
+~
+~
+0 0 102613
+S
+#102623
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102626
+D2
+~
+~
+0 0 102620
+D3
+~
+~
+0 0 102622
+S
+#102624
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102625
+D2
+~
+~
+0 0 102621
+S
+#102625
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102626
+D2
+~
+~
+0 0 102622
+D3
+~
+~
+0 0 102624
+S
+#102626
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102623
+D3
+~
+~
+0 0 102625
+S
+#102627
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102630
+D1
+~
+~
+0 0 102628
+S
+#102628
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102631
+D1
+~
+~
+0 0 102629
+D3
+~
+~
+0 0 102627
+S
+#102629
+~
+~
+0 0 0
+D0
+~
+~
+0 0 102632
+D3
+~
+~
+0 0 102628
+S
+#102630
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102633
+D1
+~
+~
+0 0 102631
+D2
+~
+~
+0 0 102627
+S
+#102631
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102634
+D1
+~
+~
+0 0 102632
+D2
+~
+~
+0 0 102628
+D3
+~
+~
+0 0 102630
+D4
+~
+~
+0 0 102640
+D5
+~
+~
+0 0 102622
+S
+#102632
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102635
+D2
+~
+~
+0 0 102629
+D3
+~
+~
+0 0 102631
+S
+#102633
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102634
+D2
+~
+~
+0 0 102630
+S
+#102634
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102635
+D2
+~
+~
+0 0 102631
+D3
+~
+~
+0 0 102633
+S
+#102635
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102632
+D3
+~
+~
+0 0 102634
+S
+#102636
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102639
+D1
+~
+~
+0 0 102637
+S
+#102637
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102640
+D1
+~
+~
+0 0 102638
+D3
+~
+~
+0 0 102636
+S
+#102638
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102641
+D3
+~
+~
+0 0 102637
+S
+#102639
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102642
+D1
+~
+~
+0 0 102640
+D2
+~
+~
+0 0 102636
+S
+#102640
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102643
+D1
+~
+~
+0 0 102641
+D2
+~
+~
+0 0 102637
+D3
+~
+~
+0 0 102639
+D4
+~
+~
+0 0 102649
+D5
+~
+~
+0 0 102631
+S
+#102641
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102644
+D2
+~
+~
+0 0 102638
+D3
+~
+~
+0 0 102640
+S
+#102642
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102643
+D2
+~
+~
+0 0 102639
+S
+#102643
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102644
+D2
+~
+~
+0 0 102640
+D3
+~
+~
+0 0 102642
+S
+#102644
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102641
+D3
+~
+~
+0 0 102643
+S
+#102645
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102648
+D1
+~
+~
+0 0 102646
+S
+#102646
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102649
+D1
+~
+~
+0 0 102647
+D3
+~
+~
+0 0 102645
+S
+#102647
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102650
+D3
+~
+~
+0 0 102646
+S
+#102648
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102651
+D1
+~
+~
+0 0 102649
+D2
+~
+~
+0 0 102645
+S
+#102649
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102652
+D1
+~
+~
+0 0 102650
+D2
+~
+~
+0 0 102646
+D3
+~
+~
+0 0 102648
+D4
+~
+~
+0 0 102658
+D5
+~
+~
+0 0 102640
+S
+#102650
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102653
+D2
+~
+~
+0 0 102647
+D3
+~
+~
+0 0 102649
+S
+#102651
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102652
+D2
+~
+~
+0 0 102648
+S
+#102652
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102653
+D2
+~
+~
+0 0 102649
+D3
+~
+~
+0 0 102651
+S
+#102653
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102650
+D3
+~
+~
+0 0 102652
+S
+#102654
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102657
+D1
+~
+~
+0 0 102655
+S
+#102655
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102658
+D1
+~
+~
+0 0 102656
+D3
+~
+~
+0 0 102654
+S
+#102656
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102659
+D3
+~
+~
+0 0 102655
+S
+#102657
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102660
+D1
+~
+~
+0 0 102658
+D2
+~
+~
+0 0 102654
+S
+#102658
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102661
+D1
+~
+~
+0 0 102659
+D2
+~
+~
+0 0 102655
+D3
+~
+~
+0 0 102657
+D4
+~
+~
+0 0 102667
+D5
+~
+~
+0 0 102649
+S
+#102659
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102662
+D2
+~
+~
+0 0 102656
+D3
+~
+~
+0 0 102658
+S
+#102660
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102661
+D2
+~
+~
+0 0 102657
+S
+#102661
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102662
+D2
+~
+~
+0 0 102658
+D3
+~
+~
+0 0 102660
+S
+#102662
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102659
+D3
+~
+~
+0 0 102661
+S
+#102663
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102666
+D1
+~
+~
+0 0 102664
+S
+#102664
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102667
+D1
+~
+~
+0 0 102665
+D3
+~
+~
+0 0 102663
+S
+#102665
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102668
+D3
+~
+~
+0 0 102664
+S
+#102666
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102669
+D1
+~
+~
+0 0 102667
+D2
+~
+~
+0 0 102663
+S
+#102667
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102670
+D1
+~
+~
+0 0 102668
+D2
+~
+~
+0 0 102664
+D3
+~
+~
+0 0 102666
+D4
+~
+~
+0 0 102676
+D5
+~
+~
+0 0 102658
+S
+#102668
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102671
+D2
+~
+~
+0 0 102665
+D3
+~
+~
+0 0 102667
+S
+#102669
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102670
+D2
+~
+~
+0 0 102666
+S
+#102670
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102671
+D2
+~
+~
+0 0 102667
+D3
+~
+~
+0 0 102669
+S
+#102671
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102668
+D3
+~
+~
+0 0 102670
+S
+#102672
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102675
+D1
+~
+~
+0 0 102673
+S
+#102673
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102676
+D1
+~
+~
+0 0 102674
+D3
+~
+~
+0 0 102672
+S
+#102674
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102677
+D3
+~
+~
+0 0 102673
+S
+#102675
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102678
+D1
+~
+~
+0 0 102676
+D2
+~
+~
+0 0 102672
+S
+#102676
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102679
+D1
+~
+~
+0 0 102677
+D2
+~
+~
+0 0 102673
+D3
+~
+~
+0 0 102675
+D4
+~
+~
+0 0 102685
+D5
+~
+~
+0 0 102667
+S
+#102677
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102680
+D2
+~
+~
+0 0 102674
+D3
+~
+~
+0 0 102676
+S
+#102678
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102679
+D2
+~
+~
+0 0 102675
+S
+#102679
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102680
+D2
+~
+~
+0 0 102676
+D3
+~
+~
+0 0 102678
+S
+#102680
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102677
+D3
+~
+~
+0 0 102679
+S
+#102681
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102684
+D1
+~
+~
+0 0 102682
+S
+#102682
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102685
+D1
+~
+~
+0 0 102683
+D3
+~
+~
+0 0 102681
+S
+#102683
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102686
+D3
+~
+~
+0 0 102682
+S
+#102684
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102687
+D1
+~
+~
+0 0 102685
+D2
+~
+~
+0 0 102681
+S
+#102685
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102688
+D1
+~
+~
+0 0 102686
+D2
+~
+~
+0 0 102682
+D3
+~
+~
+0 0 102684
+D4
+~
+~
+0 0 102694
+D5
+~
+~
+0 0 102676
+S
+#102686
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102689
+D2
+~
+~
+0 0 102683
+D3
+~
+~
+0 0 102685
+S
+#102687
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102688
+D2
+~
+~
+0 0 102684
+S
+#102688
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102689
+D2
+~
+~
+0 0 102685
+D3
+~
+~
+0 0 102687
+S
+#102689
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102686
+D3
+~
+~
+0 0 102688
+S
+#102690
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102693
+D1
+~
+~
+0 0 102691
+S
+#102691
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102694
+D1
+~
+~
+0 0 102692
+D3
+~
+~
+0 0 102690
+S
+#102692
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102695
+D3
+~
+~
+0 0 102691
+S
+#102693
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102696
+D1
+~
+~
+0 0 102694
+D2
+~
+~
+0 0 102690
+S
+#102694
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102697
+D1
+~
+~
+0 0 102695
+D2
+~
+~
+0 0 102691
+D3
+~
+~
+0 0 102693
+D4
+~
+~
+0 0 102699
+D5
+~
+~
+0 0 102685
+S
+#102695
+Tower of Fear~
+~
+0 8 0
+D0
+~
+~
+0 0 102698
+D2
+~
+~
+0 0 102692
+D3
+~
+~
+0 0 102694
+S
+#102696
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102697
+D2
+~
+~
+0 0 102693
+S
+#102697
+Tower of Fear~
+~
+0 8 0
+D1
+~
+~
+0 0 102698
+D2
+~
+~
+0 0 102694
+D3
+~
+~
+0 0 102696
+S
+#102698
+Tower of Fear~
+~
+0 8 0
+D2
+~
+~
+0 0 102695
+D3
+~
+~
+0 0 102697
+S
+#102699
+Tower of Fear~
+~
+0 0 0
+D5
+~
+~
+0 0 102694
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 102600 5 102600
+M 0 102601 5 102601
+M 0 102602 5 102602
+M 0 102603 5 102603
+M 0 102604 5 102604
+M 0 102605 5 102605
+M 0 102606 5 102606
+M 0 102607 5 102607
+M 0 102608 5 102608
+M 0 102609 5 102609
+M 0 102610 5 102610
+M 0 102611 5 102611
+M 0 102612 5 102612
+M 0 102613 5 102613
+M 0 102614 5 102614
+M 0 102615 5 102615
+M 0 102616 5 102616
+M 0 102617 5 102617
+M 0 102618 5 102618
+M 0 102619 5 102619
+M 0 102620 5 102620
+M 0 102621 5 102621
+M 0 102622 5 102622
+M 0 102623 5 102623
+M 0 102624 5 102624
+M 0 102625 5 102625
+M 0 102626 5 102626
+M 0 102627 5 102627
+M 0 102628 5 102628
+M 0 102629 5 102629
+M 0 102630 5 102630
+M 0 102631 5 102631
+M 0 102632 5 102632
+M 0 102633 5 102633
+M 0 102634 5 102634
+M 0 102635 5 102635
+M 0 102636 5 102636
+M 0 102637 5 102637
+M 0 102638 5 102638
+M 0 102639 5 102639
+M 0 102640 5 102640
+M 0 102641 5 102641
+M 0 102642 5 102642
+M 0 102643 5 102643
+M 0 102644 5 102644
+M 0 102645 5 102645
+M 0 102646 5 102646
+M 0 102647 5 102647
+M 0 102648 5 102648
+M 0 102649 5 102649
+M 0 102650 5 102650
+M 0 102651 5 102651
+M 0 102652 5 102652
+M 0 102653 5 102653
+M 0 102654 5 102654
+M 0 102655 5 102655
+M 0 102656 5 102656
+M 0 102657 5 102657
+M 0 102658 5 102658
+M 0 102659 5 102659
+M 0 102660 5 102660
+M 0 102661 5 102661
+M 0 102662 5 102662
+M 0 102663 5 102663
+M 0 102664 5 102664
+M 0 102665 5 102665
+M 0 102666 5 102666
+M 0 102667 5 102667
+M 0 102668 5 102668
+M 0 102669 5 102669
+M 0 102670 5 102670
+M 0 102671 5 102671
+M 0 102672 5 102672
+M 0 102673 5 102673
+M 0 102674 5 102674
+M 0 102675 5 102675
+M 0 102676 5 102676
+M 0 102677 5 102677
+M 0 102678 5 102678
+M 0 102679 5 102679
+M 0 102680 5 102680
+M 0 102681 5 102681
+M 0 102682 5 102682
+M 0 102683 5 102683
+M 0 102684 5 102684
+M 0 102685 5 102685
+M 0 102686 5 102686
+M 0 102687 5 102687
+M 0 102688 5 102688
+M 0 102689 5 102689
+M 0 102690 5 102690
+M 0 102691 5 102691
+M 0 102692 5 102692
+M 0 102693 5 102693
+M 0 102694 5 102694
+M 0 102695 5 102695
+M 0 102696 5 102696
+M 0 102697 5 102697
+M 0 102698 5 102698
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

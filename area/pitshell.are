@@ -1,0 +1,2237 @@
+#AREADATA
+Name        Saaid   Project~
+Builders    Saaid~
+VNUMs       100000 100099
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#100000
+Killer Monkey~
+#RKiller Monkey#g~
+#RKiller Monkey
+~
+~
+19 268436480 -1000 S
+8009 0 0 0d20+1 0d0+0
+0 0
+0 0 1
+#100001
+Ares~
+Ares~
+Ares stands here, pondering who to kill next.
+~
+~
+25 4816958 -1000 S
+99999 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#100002
+Rukason Skelton~
+#RRukason Skelton~
+#RRukason Skelton
+~
+~
+19 8 -1000 S
+3926 0 0 40d20+3 0d0+0
+0 0
+0 0 1
+#100003
+monkey~
+#0bone monkeys~
+#0Bone Monkeys
+~
+~
+19 128 -1000 S
+3495 0 0 30d15+3 0d0+0
+0 0
+0 0 0
+#100004
+Undertaker~
+#0Undertaker#g~
+#0Undertaker#g
+~
+~
+19 64 0 S
+3058 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#100005
+meeks' flame~
+#RMeeks' Flame~
+#RMeeks' Flame
+~
+~
+19 0 -100 S
+2981 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#100006
+imp~
+#0Bone Imp#g~
+#0Bone Imp#g
+~
+~
+19 128 -1000 S
+1995 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#100007
+Cain~
+#0Cain#g~
+#0Cain#g
+~
+~
+19 0 -1000 S
+3968 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#100008
+Able~
+#RAble#g~
+#RAble#g
+~
+~
+3 0 -1000 S
+5005 0 0 50d13+3 0d0+0
+0 0
+0 0 1
+#100009
+Hades~
+#0Hades#g~
+#0Hades#g
+~
+~
+3 0 -1000 S
+5938 0 0 69d20+3 0d0+0
+0 0
+0 0 1
+#100013
+mirage~
+#yMirage#g~
+#yMirage#g
+~
+A god and lord of the underworld
+~
+3 0 -1000 S
+18 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#100014
+kane son of cain~
+#RKane#g ~
+#RKane#g  #ySon #Lof #0Cain#g
+~
+~
+3 0 -1000 S
+8023 0 0 1d10+3 0d0+0
+0 0
+0 0 0
+#100015
+breain~
+#RBane#g~
+#RBane#g
+~
+~
+3 0 -1000 S
+8906 0 0 50d10+1 0d0+0
+0 0
+0 0 1
+#100016
+Fire Monkeys~
+#RFire Monkeys #g ~
+#RFire Monkeys #g 
+~
+~
+3 0 -1000 S
+6021 0 0 50d12+3 0d0+0
+0 0
+0 0 1
+#100017
+Pit Monkey~
+#0Pit Monkeys #g~
+#0Pit Monkeys #g
+~
+~
+3 0 -1000 S
+6989 0 0 50d20+1 0d0+0
+0 0
+0 0 1
+#100018
+Eros~
+#REros #g~
+#REros #g
+~
+~
+3 0 -1000 S
+8011 0 0 4d12+1 0d0+0
+0 0
+0 0 1
+#100019
+Karloff~
+#0Karloff #g~
+#0Karloff #g
+~
+~
+3 0 -3000 S
+15 0 0 95d20+3 0d0+0
+0 0
+0 0 1
+#100020
+Taros~
+#yTaros~
+#yTaros
+~
+~
+3 0 1000 S
+94 0 0 100d0+1 0d0+0
+0 0
+0 0 1
+#100021
+Ged~
+#lGed #g~
+#lGed #g
+~
+~
+1 0 1000 S
+32 0 0 99d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#100000
+gun lacky~
+a lacky's gun~
+The gun of a lacky is here, given to him by the Almighty Buffy.~
+~
+5 0 16385
+0 0 0
+24 5 20 6
+0 1000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100001
+ring another anotherland land~
+#l#iRing #7#iof #l#iAnotherLand#n~
+#7The ring of the gods lies here.~
+~
+9 0 3
+0 0 0
+0 0 0 0
+1 1000 0
+A
+14 1000
+A
+12 1000
+A
+13 1000
+A
+17 -100
+A
+19 100
+A
+18 100
+A
+1 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100002
+pendant another anotherland land~
+#l#iPendant #7#iof #l#iAnotherLand#n~
+#7A pendant of the gods lies here.~
+~
+9 0 5
+0 0 0
+0 0 0 0
+1 1000 0
+A
+17 -150
+A
+12 2000
+A
+13 1000
+A
+19 50
+A
+18 50
+A
+4 3
+A
+3 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100003
+plate another anotherland land armor~
+#l#iPlate #7#iof #l#iAnotherLand#n~
+#7The plate armor of the gods lies here.#n~
+~
+9 0 9
+0 0 0
+0 0 0 0
+1 1000 0
+A
+13 1000
+A
+17 -300
+A
+19 25
+A
+18 25
+A
+2 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100004
+mask another anotherland land~
+#l#iMask #7#iof #l#iAnotherLand#n~
+#7A mask of the gods lies here.#n~
+~
+9 0 32769
+0 0 0
+0 0 0 0
+1 1000 0
+A
+17 -100
+A
+14 2000
+A
+12 2000
+A
+13 2000
+A
+19 100
+A
+18 100
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100005
+helm another anotherland land~
+#l#iHelm #7#iof #l#iAnotherLand#n~
+#7A helmet of the gods lies here.#n~
+~
+9 0 17
+0 0 0
+0 0 0 0
+1 1000 0
+A
+13 2000
+A
+17 -300
+A
+2 3
+A
+5 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100006
+fatigues another anotherland land~
+#l#iFatigues #7#iof #l#iAnotherLand#n~
+#7The fatigues of the gods lies here.#n~
+~
+9 0 33
+0 0 0
+0 0 0 0
+1 1000 0
+A
+17 -200
+A
+19 50
+A
+18 50
+A
+14 2000
+A
+3 3
+A
+2 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100007
+boots another anotherland land~
+#l#iBoots #7#iof #l#iAnotherLand#n~
+#7The boots of the gods lie here.~
+~
+9 0 65
+0 0 0
+0 0 0 0
+1 1000 0
+A
+19 50
+A
+18 50
+A
+14 1000
+A
+13 2000
+A
+17 -100
+A
+2 3
+A
+5 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100008
+gloves another anotherland land~
+#l#iGloves #7#iof #l#iAnotherLand#n~
+#7The gloves of the gods lie here.~
+~
+9 0 129
+0 0 0
+0 0 0 0
+1 1000 0
+A
+19 300
+A
+18 300
+A
+14 1000
+A
+1 5
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100009
+god godly arm arms another anotherland land~
+#l#iGodly Arms #7#iof #l#iAnotherLand#n~
+#7The arms of a god lie here.#n~
+~
+9 0 257
+0 0 0
+0 0 0 0
+1 1000 0
+A
+19 100
+A
+18 100
+A
+14 1000
+A
+17 -200
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100010
+lost soul another anotherland land cloak~
+#l#iLost Soul #7#iof #l#iAnotherLand#n~
+#7The cloak of a lost soul of the gods lies here.#n~
+~
+9 0 1025
+0 0 0
+0 0 0 0
+1 1000 0
+A
+19 50
+A
+18 50
+A
+12 1000
+A
+13 1000
+A
+17 -200
+A
+4 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100011
+belt life another anotherland land~
+#l#iAnotherLand's Belt #7#iof #l#iLife#n~
+#7A belt of the gods lies here.#n~
+~
+9 0 2049
+0 0 0
+0 0 0 0
+0 0 0
+A
+19 50
+A
+18 50
+A
+13 1000
+A
+17 -200
+A
+5 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100012
+bracer bracers another anotherland land~
+#l#iBracers #7#iof #l#iAnotherLand#n~
+#7The bracers of the gods lies here.#n~
+~
+9 0 4097
+0 0 0
+0 0 0 0
+1 1000 0
+A
+18 100
+A
+19 100
+A
+17 -100
+A
+12 1000
+A
+4 3
+A
+5 3
+A
+1 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100013
+mirage's throne~
+#yLord Mirage's #RThrone #Lof #RBone#g~
+#yLord Mirage's#RThrone#0of#rBone#g The youngest of all rulers in hell~
+~
+12 4096 0
+0 0 0
+0 0 0 0
+20000 99999999 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100014
+D&D~
+test~
+In bag~
+~
+57 16 8192
+0 0 0
+0 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100015
+Vero's Skull~
+vero~
+#yVero's Skull#0The skull of#yVero#0last of the#yRukasveras,#0and the last of #RRukason's#yAncestors~
+~
+13 1 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100016
+dog house~
+#0Dog #RHouse#G~
+#0Dog #RHouse#G~
+~
+12 0 0
+0 0 0
+0 0 0 0
+16960 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100072
+Rukason skull~
+rukason skull~
+#RRukason Skulls:Here lies a pile of skulls that belong to the loyal sons of #yRukason.#0Here you can see tombs with names on them.#RRagnarok the Kings Prince,#0Raziel The Kings Best Boy,#yRimtech Rukason Bodygurad.~
+~
+13 16384 0
+0 0 0
+0 0 0 0
+0 30000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100098
+Dog House~
+#rDog House#n~
+#rDog House#n~
+~
+12 0 0
+0 0 0
+1 9999 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100099
+Hellish Devil dice shard one~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+0 100906 100950 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100000
+#RPits of Hell#g~
+You are incompassed by flames in a large Pit.
+You hear voice from far down in the pit
+To find out you must go down. 
+This willnot be easy many have died
+You will see some of there souls as you go down
+Mirage say,"You may not return now but by death
+You have entered the Pits of Hell at your
+own risk.
+ha ha ha you are a big fool
+~
+0 285220868 0
+E
+exit~
+help
+redit help
+help ed
+redit
+l
+l
+ed add
+l
+l
+goto 7209
+quit
+redit off
+wiz
+caht hello
+chat hello
+tell spaky hey
+wa
+slee
+sleequit
+quitr
+quit
+edit
+w
+e
+e
+e
+e
+goto 72099
+~
+D1
+~
+~
+0 0 100001
+S
+#100001
+#RPit#g~
+You are ingulfed by flames
+~
+0 16785408 0
+D3
+~
+~
+0 0 100000
+D5
+~
+~
+0 0 100002
+S
+#100002
+#RCoTB Don't Mess With The King#g~
+#0Rukason Bone Graveyard Next Stop
+~
+0 8196 0
+D3
+~
+~
+0 0 100003
+D4
+~
+~
+0 0 100001
+S
+#100003
+#RRukason Graveyard#g~
+#0You stand  in the grave yard of a family
+with a legend ruled by a master mind of money and law
+#yKing Saaid #0Evil #rTitan #yof #RRukason.#g
+#yThe skeletons in this room are of those who died
+in the great war in the land of #LKieron.#g
+#yThose who still are alive keep there family
+name  hidden in the back of ther minds and
+deep down in their hearts. Ha ha ha there is 
+more to there King, that only his brothers.
+know about him. The #REvil that lies in his heart.
+~
+0 16785412 0
+D0
+~
+~
+0 0 100004
+D1
+~
+~
+0 0 100002
+S
+#100004
+#0Graveyard Road#g~
+#yYou are walking right into the graveyard of King Saaid's past and present.
+You hear a voice#0Ha  I thought Mirage told you, 
+You must be a big fool want some come get some.
+#yAs the voice fades you see tombstones ahead.
+#RGO Back,Go back, you fool ha ha ha 
+~
+0 16785408 0
+D2
+~
+~
+0 0 100003
+D5
+~
+~
+0 0 100005
+S
+#100005
+#0Tombstone Lane#g~
+Your in the first row of tombstone you see name writen here.
+#yKing #RSouljah #0Darkness #yof #RRukason
+#yKing #LGuy #RRukason #LJudge
+#RRagnarok #RRukason Hell Knight
+#RMaynard #LProtector #0of #RRukason 
+#yHiro Holy Monk #0of #RRukason 
+#yTroy #RRukason #yLittle Light
+#0Raziel #RRukason #LTitan #yof #0Death 
+#0Alisha #RRukason #LLady #yof #0Death 
+#yPrince #RGlint Rukason #LPeace #yKeeper
+#yGrandchild #RNightfire Rukason #0Assssin
+#LModreus Protector #0of #RRukason 
+#yPrince #0Galvin #RRukason 
+#yAllince #RKazuya Rukason #0Glass #LDragon 
+#yThese names lie on the tombs you see.
+They all have died in the war for the sake of 
+the faimly name #RRukason. 
+~
+0 16785408 0
+D1
+~
+~
+0 0 100006
+D4
+~
+~
+0 0 100004
+S
+#100006
+#RMeeks' Flame~
+#0A god of hell that trained the #RRukason King to greatness
+~
+0 16785408 0
+D2
+~
+~
+0 0 100007
+D3
+~
+~
+0 0 100005
+S
+#100007
+#RKatan Loyal to Rukason#g~
+IN THE GRAVE YOU SEE A BOY ON THE GROUND
+AND A MAN RUNNING AWAY FROM THE SHADOWS.
+YOU WALK UP TO  THE BOY AND SEE HES #RBLOODING#g
+LIKE THER IS ON TOMORROW. YOU SEE A FLAG ON THE BACK OF
+HIS SHIRT #y(#R*.#g THIS SYMBOL LOOKS LIKE  A  #yMOON#g
+AND A #RSTAR#g, BUT WHAT DOES IT MEAN.
+A MAN WALKS UP AND SAYS, THIS BOYS NAME IS
+#LKATAN#g A YOUNG BOY WHO FOLLOWED THE NAME
+#RRUKASON #g. WHEN THE #yKING#g WAS #0BETRAID#g THIS 
+BOY WITH THE #yKINGS#g  #0PRINCE#g #RRAG#g #LBOY #g  STAYED BY
+THE KINGS SIDE. THE #yKING#g MADE A #LKINGDOM#g, AND
+THIS WAS THE #rFLAG#g. THIS BOY WAS A  #LLOYAL#g ONE TO 
+THE #yKING#g AND THE MAN WHO #rKILLED#n HIM IS NAME 
+#0DAGON #g. MY NAME IS #0MOD #g  THAT IS WHAT THE #yKING#g
+CALLED ME. YOU CAN FIND #0DAGON #g  LOWER IN THE PIST OF HELL.
+#0BEWARE #g HE IS AN #rASS #g  TO DEAL WITH, BUT HE IS 
+ONE OF THE  #y3#n YOU ARE LOOKING FOR 
+COME FIND ME WHEN YOU KILL HIM.
+#0Katan jumps to his feet ha ha ha you cant kill the Evil ha ha ha.
+~
+0 16785408 0
+D0
+~
+~
+0 0 100006
+D3
+~
+~
+0 0 100008
+S
+#100008
+#0Grave of #RSaaid's  #0Dreams#g~
+#gHere lies the mind of a once most loved man.
+He lost all his love when his family betrayed him.
+The one he loved #RGwenavier#g killed herself due to his
+pain from the land of Migridd. His so called uncle #LMalgin#n
+and his daughter and wife to lord #0Jade#g have put shame on 
+his name. They want power and destruction more than family.
+So in this #RSaaid#g left and started his own family with his banned
+brother #0Souljah#g who now lies deep within the heart of #RSaaid#g.
+So now the great #yKing #RSaaid  #0Death #LTitan  #yof #RRukason 
+#gwill use the great powers from the land of Kieron and Another Land 
+to kill his old mine, and use it to kill those who banished him.
+Thou the great Ged now lord of the family Innconnu still loves the 
+once known cuz and prince to his family. 
+The mind that loved this lord
+is still with the boy, but the pain of the man is there and he will never 
+go back. Now he knows that revenge is sweet, and the powers of hell will now
+rule the young boys mind till he dies. A voice says, I am Cain And I am Able
+both We will obey you lord #RSaaid #g and find those who have betrayed you
+and kill them. I Cain will hang the one you once called uncle Mal And I Able
+will find this young Morbus and auntie Kat and cut off his head while I mate
+with the wench and then kill her and her fetus so she may never come back to 
+harm you again. For we are the Sons of Hades and we are loyal to our lord 
+#RSaaid#0Dark#RPrince#yof#RHell#g. 
+~
+0 8192 0
+D1
+~
+~
+0 0 100007
+D5
+~
+~
+0 0 100009
+S
+#100009
+#0Hanging Grounds#n~
+#0As you step into the room you step in #Rblood#n; that seems 
+to be dripping from above. You look up and see a Vampire hanging 
+begging for help. #0Cain#n steps into the room and says,  Help sure 
+I will help you ha ha ha die that is. As he sticks a stake into the heart 
+of the vampire. As #0Cain#n walks away he drops a note. You pick up 
+the note and read it To thy demon Cain the one Saaid calls Mal is hidding
+in the temple in the town I will lead him out to the hanging grounds
+where you can do as you please with him signed #RAzmudane Rukason#n
+After you read the note you here laughter in the sky where is it coming from 
+the only way to find out is to go deeper into the pits of #RHell.
+~
+0 8192 0
+D3
+~
+~
+0 0 100010
+D4
+~
+~
+0 0 100008
+S
+#100010
+#LGeds#n #yHoly#n #0Pit#n~
+As you enter the room you see a #RLord#n of the #yLight#n,
+ and friend to the one who rules the #0Darkness#n #Lged#n.
+Standing next to him is
+ #RTegg#n  #0Order#n #Lof#n #yLight#n #RKnight#n #Lof#n #LGed#n.             
+You see a head underneath #RTeggs#n foot you can tell it came from the 
+Hanging room,because the rope is still around the neck. You here the 2 say
+Well it looks like he got what was coming to him #RSaaid#n was not always
+evil, but there was those that betraid him and turned his hear black we know
+that the old #RSaaid#n is still in there for we would not be aloud down here 
+if he wasnt."
+~
+0 16785408 0
+D0
+~
+~
+0 0 100011
+D1
+~
+~
+0 0 100009
+S
+#100011
+#RDagon's #0Death#g~
+YOU ENTER THE ROOM, AND SEE A SHADOW YOU SEE A FLAG ON ITS
+BACK THAT HAS A SINISTER FIGURE AND A SYMBOL IN THE MIDDLE OF
+IT THAT LOOKED LIKE THIS #y(#R*#g. THE SHADOW STARTS TO LAUGH AND SAYS,
+ THOU #LDAGON #g  YOU HAVE #0BETRAID#g  MY FAMILY AND NOW YOU WILL DIE.
+FROM A DISTANCE YOU SEE ANOTHER #y(#R*#g THE VOICE SAYS HELLO RAZ I SEE
+YOU HAVE FOUND THE ONE WHO #0BETRAID#g OUR FAMILY WE SHALL KILL HIM 
+FOR THE LAWS SAYS YOU WILL NEVER LEAVE ONCE YOU HAVE DRUNKEN THE BLOOD
+OF #RRUKASON #g. RAZ SAY, YOU ARE RIGHT RAG BOY HE MUST DIE. SO THE TWO 
+ATTACK THE BEASTFUL TRADER RAGS ARM GETS CUT BUT HEALS QUICKLY RAZ 
+CUT OFF DAGONS HEAD AND SCREAMS FOR THE FAMILY HONOR. RAG EAT THE 
+BODY OF DAGON. ALL OF A SUDDEN YOU SEE SHADOWS AND BONES RISE FROM THE GROUND, AS THEY COME UP RAZ HOLDS UP DAGONS HEAD  AND ALL THE FIGURES 
+HOWL  FOR NOW THEY ARE HAPPY ONE OF THE BEAST IS DEAD.  THE FIGURES GO BACK
+INTO THE GROUND AND UP COME #RSAAID#g HE NODS AT HIS SONS AND LEAVES.
+THE 2 BOYS HUG AND GO THERE SEPARATE WAYS FOR THEIR JOB IS DONE. MOD 
+THE LOYAL PROTECTOR SAY, NOW YOU MUST FIND ALEX.
+~
+0 8192 0
+D1
+~
+~
+0 0 100012
+D2
+~
+~
+0 0 100010
+S
+#100012
+#ySAAIDS GOOD SIDE #g~
+THE ROOM IS DARK YOU SEE THE DEMON #RAble #g
+HOLDING THE HEAD OF MORBUS AND KAT LIES HELPLESS
+ON THE GROUND. AS THE DEMON GETS READY TO LAY HIS 
+BODY ON TOP OF THE YOUNG BEAUTY TO FINISH HIS TASK
+A YELLOW FIGURE COMES INTO THE ROOM AND STOPS HIM.
+THIS FORCE WAS EVEN STRONGER THEN HIS MASTER #RSAAID #g
+BUT WAIT IT IS #ySAAID #g HIS FORCE IS STRONGER AND HE LOOKS
+AT HIS ONCE CALLED AUNTI AND SAYS NO YOU WILL NOT KILL HER
+SHE IS TOO DEAR TO ME NO MATTER WHAT I WILL NOT LET THIS HAPPEN.
+#RABLE #g NODS AND GETS READY TO LIVE THE ROOM WHEN #LALEX #g COMES AND CUTS OFF HIS HEAD. #RSAAID #g ROARS WITH ANGER AND PAIN AND OUT OF NO WHERE COMES #0MOD #g WHO BACKSTABS #lALEX #g AND SAYS  #r HA HA HA YOU FOOL YOU REALLY THOUGHT I WOULD LEAVE MY LORD AND KING. #RSAAID #g
+ TURNS BACK TO THE EVIL SIDE OF HIM AND SAYS THE GOOD CAME OUT TO 
+SAVE YOU KAT NOW LEAVE, AS FOR YOU ALEX YOU WILL 
+BURN IN #RHELL HA HA HA HA   #g
+~
+0 16785408 0
+D2
+~
+~
+0 0 100013
+D3
+~
+~
+0 0 100011
+S
+#100013
+#lALEX IN #RHELL #g~
+AS ALEX GOES INTO HELL HE SEES #0CAIN. #g 
+#0CAIN #g SAYS, #rYOU CUT THE HEAD OFF MY BROTHER AND NOW YOU
+WILL DIE OVER AND OVER AGAIN. #g
+#lALEX SAYS, #y NO I WILL NOT YOU WILL HAVE  A HARD TIME DOING THAT. #g
+SO THE 2 BEGAIN TO FIGHT AND WITH A GREAT BLOW ALEX CUTS OFF #0CAINS HEAD. #G
+OUT OF THE FLAMES COMES #rKANE #ySON #lOF #0CAIN #g.
+#RKANE #g SAYS, #RYOU WILL DIE NOW FOR YOU HAVE KILLED MY FATHER YOUR 
+SOUL WILL LIVE NO WHERE I WILL CONSUME IT INTO MY BODY, WHERE YOU WILL
+BE VANISHED FROM EVERYONES MIND IN THE LIVING WORLD AND THE LIVING DEAD
+SAAID TOLD YOUR ASS TO LEAVE HIM THE HELL ALONE NOW YOU WILL PAY. #g
+#rKANE #g LIFTS HIS HANDS AND THE SOUL OF ALEX FLIES INTO THE MOUTH OF #rKANE #g. 
+~
+0 16785408 0
+D0
+~
+~
+0 0 100012
+D3
+~
+~
+0 0 100014
+S
+#100014
+#yBane Rukavera #g~
+Hello ,says #RBane  #g I am the son of #yVero #g the last of the ancestors 
+of #RRukason #g. My father was a follower of the good ,but when he saw why 
+#0Saaid  #g turned #Revil #g he knew why, and did not stop him. My father did
+not want me to be #Revil #g ,but it was in my blood. I was the hate that he
+himself did not have. The #0Darkness #g rules the world now as #RSaaid #g sits
+on his #Rthrone #g in happiness for those who betrayed him are dead, but
+he is said for he has lost his one love #CGwen #g and now searches for another
+Hmmmm that gives me an idea. #RBane #g lifts his hand  and opens a box
+and you see a portal open Go east to the past and see the good Saaid
+you will learn about #0Innconnu #g and how he became prince and why 
+he became true evil. #RBane #g vanishes.
+~
+0 16785408 0
+D1
+~
+~
+0 0 100013
+D5
+~
+~
+0 0 100015
+S
+#100015
+#CTHE TIME WARP #g~
+As you go through the time warp you see many things giong on.
+The one thing you notice is a Place call #RAnother Land, #g where you
+see a god named #CEzra #g. The god is looking down into hell at his son
+#RDagon #g who was killed by the demons ruled by #RSaaid the Lord of Hell #g.
+You see the God go down to hell and talk to the evil souled demons and their 
+ruler.He say, Yes I understand that my son broke the laws of Rukason the law 
+said, Once you are in you may never leave never betray you faimly and protect 
+all whoshare your name.
+ I know not only did he break this but he killed you in
+ your mortal life, he started to crush your faimly with the one Alex which now 
+has no place,and his soul is gone forever. I am here to save my sons soul can 
+you please let it come home with me and let it live forever I as a god that 
+sits by you in the Temple Of The Gods ask you this dont let his soul be like 
+that of the one who he left you for. #RSaaid #g  looks at his demons nods
+and say #rYou may take it but let this be a lesson do not disobay my laws 
+I will do this for I respect you as his father to come to my house and respect
+me in my place of flames ha ha ha I am suprised you have not burned up yet.
+Only a man with good thought of comming here not to kill me but have a time 
+to talk like men you may have his soul. #g #rSaaid leaves and #cEzra takes 
+his sons soul home. #0You hear some laughing ha ha ha you saved his soul but 
+I the great teacher of the darkness who taught #rSaaid#0 knows one say you 
+will have to fight him and your soul along with your followers will burn in 
+hell. #g The voice fades and you travel on through time.
+~
+0 16785408 0
+D1
+~
+~
+0 0 100016
+D4
+~
+~
+0 0 100014
+S
+#100016
+#0Warp Zone#g~
+You leave the warp zone and land on in the world of Aabsolm 
+Land ruled By Karloff.A voice say, This is where Saaid was good and not
+the evil you know today. You look around and see a little wolf 
+killing everything in sight with a smile eon his face for he was 
+in love. This love was with a vampire name Gwenavier.
+Saaid got to be older and was adopted into a family named
+Innconnu. He lived his life until things started to change.
+This is how it happened. The voice fades.
+~
+0 16785408 0
+D2
+~
+~
+0 0 100017
+D3
+~
+~
+0 0 100015
+S
+#100017
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100016
+D3
+~
+~
+0 0 100018
+S
+#100018
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100019
+D1
+~
+~
+0 0 100017
+S
+#100019
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100020
+D2
+~
+~
+0 0 100018
+S
+#100020
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100019
+D5
+~
+~
+0 0 100021
+S
+#100021
+#RPath to Ares#n~
+~
+0 16785408 0
+D4
+~
+~
+0 0 100020
+D5
+~
+~
+0 0 100022
+S
+#100022
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100023
+D4
+~
+~
+0 0 100021
+S
+#100023
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100022
+D3
+~
+~
+0 0 100024
+S
+#100024
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100023
+D3
+~
+~
+0 0 100025
+S
+#100025
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100024
+D2
+~
+~
+0 0 100026
+S
+#100026
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100025
+D2
+~
+~
+0 0 100027
+S
+#100027
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100026
+D2
+~
+~
+0 0 100028
+S
+#100028
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100027
+D5
+~
+~
+0 0 100029
+S
+#100029
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100030
+D4
+~
+~
+0 0 100028
+S
+#100030
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100031
+D3
+~
+~
+0 0 100029
+S
+#100031
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100032
+D3
+~
+~
+0 0 100030
+S
+#100032
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100031
+D5
+~
+~
+0 0 100033
+S
+#100033
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100034
+D4
+~
+~
+0 0 100032
+S
+#100034
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100035
+D1
+~
+~
+0 0 100033
+S
+#100035
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100036
+D2
+~
+~
+0 0 100034
+S
+#100036
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100037
+D3
+~
+~
+0 0 100035
+S
+#100037
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100036
+D5
+~
+~
+0 0 100038
+S
+#100038
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100039
+D4
+~
+~
+0 0 100037
+S
+#100039
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100040
+D3
+~
+~
+0 0 100038
+S
+#100040
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100041
+D2
+~
+~
+0 0 100039
+S
+#100041
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100042
+D2
+~
+~
+0 0 100040
+S
+#100042
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100041
+D3
+~
+~
+0 0 100043
+S
+#100043
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100042
+D5
+~
+~
+0 0 100044
+S
+#100044
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100045
+D4
+~
+~
+0 0 100043
+S
+#100045
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100046
+D3
+~
+~
+0 0 100044
+S
+#100046
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100047
+D3
+~
+~
+0 0 100045
+S
+#100047
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100046
+D5
+~
+~
+0 0 100048
+S
+#100048
+#RPath to Ares#n~
+~
+0 16785408 0
+D4
+~
+~
+0 0 100047
+D5
+~
+~
+0 0 100049
+S
+#100049
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100050
+D4
+~
+~
+0 0 100048
+S
+#100050
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100049
+D5
+~
+~
+0 0 100051
+S
+#100051
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100052
+D4
+~
+~
+0 0 100050
+S
+#100052
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100053
+D1
+~
+~
+0 0 100051
+S
+#100053
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100054
+D2
+~
+~
+0 0 100052
+S
+#100054
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100055
+D3
+~
+~
+0 0 100053
+S
+#100055
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100054
+D5
+~
+~
+0 0 100056
+S
+#100056
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100057
+D4
+~
+~
+0 0 100055
+S
+#100057
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100058
+D2
+~
+~
+0 0 100056
+S
+#100058
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100057
+D5
+~
+~
+0 0 100059
+S
+#100059
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100060
+D4
+~
+~
+0 0 100058
+S
+#100060
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100059
+D5
+~
+~
+0 0 100061
+S
+#100061
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100062
+D4
+~
+~
+0 0 100060
+S
+#100062
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100063
+D3
+~
+~
+0 0 100061
+S
+#100063
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100064
+D3
+~
+~
+0 0 100062
+S
+#100064
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100063
+D3
+~
+~
+0 0 100065
+S
+#100065
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100064
+D5
+~
+~
+0 0 100066
+S
+#100066
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100067
+D4
+~
+~
+0 0 100065
+S
+#100067
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100066
+D2
+~
+~
+0 0 100068
+S
+#100068
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100067
+D1
+~
+~
+0 0 100069
+S
+#100069
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100068
+D5
+~
+~
+0 0 100070
+S
+#100070
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100071
+D4
+~
+~
+0 0 100069
+S
+#100071
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100073
+D3
+~
+~
+0 0 100070
+S
+#100072
+#CThe Alt Prison#n~
+~
+0 147875846 0
+S
+#100073
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100074
+D3
+~
+~
+0 0 100071
+S
+#100074
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100073
+D3
+~
+~
+0 0 100075
+S
+#100075
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100076
+D1
+~
+~
+0 0 100074
+S
+#100076
+#RPath to Ares#n~
+~
+0 16777216 0
+D1
+~
+~
+0 0 100077
+D2
+~
+~
+0 0 100075
+S
+#100077
+#RPath to Ares#n~
+~
+0 16777216 0
+D2
+~
+~
+0 0 100078
+D3
+~
+~
+0 0 100076
+S
+#100078
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100077
+D5
+~
+~
+0 0 100079
+S
+#100079
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100080
+D4
+~
+~
+0 0 100078
+S
+#100080
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100081
+D3
+~
+~
+0 0 100079
+S
+#100081
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100080
+D3
+~
+~
+0 0 100082
+S
+#100082
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100081
+D2
+~
+~
+0 0 100083
+S
+#100083
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100082
+D1
+~
+~
+0 0 100084
+S
+#100084
+#RPath to Ares#n~
+~
+0 16785408 0
+D0
+~
+~
+0 0 100086
+D3
+~
+~
+0 0 100083
+S
+#100086
+#RPath to Ares#n~
+~
+0 16785408 0
+D2
+~
+~
+0 0 100084
+D3
+~
+~
+0 0 100087
+S
+#100087
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100086
+D5
+~
+~
+0 0 100088
+S
+#100088
+#RPath to Ares#n~
+~
+0 16785408 0
+D1
+~
+~
+0 0 100089
+D4
+~
+~
+0 0 100087
+S
+#100089
+#RPath to Ares#n~
+~
+0 16785408 0
+D3
+~
+~
+0 0 100088
+S
+#100090
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D1
+~
+~
+0 0 100091
+S
+#100091
+#0Rukavera #rLane#n~
+~
+0 17825792 0
+D1
+~
+~
+0 0 100092
+D3
+~
+~
+0 0 100090
+S
+#100092
+#0Rukavera #rLane#n~
+~
+0 17825792 0
+D1
+~
+~
+0 0 100093
+D3
+~
+~
+0 0 100091
+S
+#100093
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D1
+~
+~
+0 0 100099
+D3
+~
+~
+0 0 100092
+S
+#100094
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D3
+~
+~
+0 0 100095
+S
+#100095
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D1
+~
+~
+0 0 100094
+D3
+~
+~
+0 0 100096
+S
+#100096
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D1
+~
+~
+0 0 100095
+D3
+~
+~
+0 0 100097
+S
+#100097
+#0Rukavera #rLane#n~
+~
+0 17833984 0
+D1
+~
+~
+0 0 100096
+D3
+~
+~
+0 0 100099
+S
+#100098
+#0Gate #rGuards #0Post~
+You stand before the gate taht is guarded by shadows.  Tall and Black you
+see the words written here.  Beyond this gate lies the Temple of the Gods
+and The Casino.  
+~
+0 17833984 0
+D0
+~
+~
+0 0 100909
+D2
+~
+~
+0 0 100099
+S
+#100099
+#0Kingdom #rSquare~
+~
+0 1056768 0
+D0
+~
+~
+0 0 100098
+D1
+~
+~
+0 0 100097
+D3
+~
+~
+0 0 100093
+S
+#0
+
+
+
+#SPECIALS
+M 100000 spec_breath_fire
+M 100001 spec_breath_any
+M 100002 spec_poison
+M 100003 spec_cast_mage
+M 100005 spec_breath_fire
+M 100006 spec_cast_mage
+S
+
+
+
+#RESETS
+O 0 100013 0 100000
+M 0 100013 1 100000
+M 0 100013 1 100000
+M 0 100000 5 100001
+M 0 100000 5 100001
+M 0 100000 5 100001
+M 0 100000 5 100001
+M 0 100000 5 100001
+M 0 100000 9 100002
+M 0 100001 1 100002
+M 0 100002 3 100003
+M 0 100002 3 100003
+M 0 100002 3 100003
+O 0 100072 0 100003
+O 0 100015 0 100003
+M 0 100003 5 100004
+M 0 100003 5 100004
+M 0 100003 5 100004
+M 0 100004 1 100005
+M 0 100005 1 100006
+M 0 100006 5 100007
+M 0 100006 5 100007
+M 0 100006 5 100007
+M 0 100006 5 100007
+M 0 100006 5 100007
+M 0 100007 1 100008
+E 0 93019 0 16
+M 0 100008 1 100008
+M 0 100014 1 100013
+M 0 100015 1 100014
+M 0 100017 1 100015
+M 0 100017 1 100015
+M 0 100017 1 100015
+M 0 100017 1 100015
+M 0 100017 1 100015
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

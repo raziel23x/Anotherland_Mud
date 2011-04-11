@@ -1,0 +1,1312 @@
+#AREADATA
+Name        Seppuku Crystal Palace~
+Builders    Kandahar~
+VNUMs       101100 101599
+Security    5
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#101100
+queen serenity~
+#CQu#cee#Cn #7Serenity#n~
+The #CQueen#n of Crystal Tokyo stands here. 
+~
+~
+8195 128 1000 S
+6569 0 0 1d17+2 0d0+0
+0 0
+0 0 2
+#101101
+negadroid~
+#gNe#pgadro#gid#n~
+A Negadroid crawls here.
+~
+~
+17 0 -1000 S
+1967 0 0 1d6+1 0d0+0
+0 0
+0 0 0
+#101102
+nega prince~
+#GNe#Pga Pr#Gince#n~
+The Nega Prince stands here
+~
+~
+17 0 -100 S
+4472 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#101103
+evil henchmen~
+#RE#rvi#Rl #0Hench#7me#0n#n~
+An Evil Henchmen stands here being evil.
+~
+~
+17 128 -1000 S
+4002 0 0 1d9+1 0d0+0
+0 0
+0 0 1
+#101104
+swordsman~
+#7Sw#0ords#7man#n~
+A Sw#0ordsm#nan stands here.
+~
+~
+17 0 -50 S
+4326 0 0 1d13+1 0d0+0
+0 0
+0 0 0
+#101105
+gatemaster~
+#CGa#ctemas#Cter#n~
+The Gatemaster stands here. DONT FIGHT HIM!
+~
+~
+8211 0 0 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#101140
+malachite~
+#0Malachite#n~
+Malachite protects the queen here!
+~
+~
+27 128 0 S
+4916 0 0 1d14+3 0d0+0
+0 0
+0 0 0
+#101141
+jaedi~
+#yJaedite#n~
+Jaedite stands here.
+~
+~
+27 128 -1000 S
+4018 0 0 1d16+3 0d0+0
+0 0
+0 0 0
+#101150
+queen beryl~
+#gQ#Guee#gn #pB#Pery#pl#n~
+The Queen of the Negaverse stands here.
+~
+~
+19 128 -1000 S
+6541 0 0 2d20+3 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#101100
+spiral heart sceptor~
+#7]#P-#p-#7[#CSpiral He#cart Sc#Ceptor#7]#p-#P-#7[#n~
+The Sceptor of the Queen lies here.~
+~
+3 1 8193
+0 0 0
+2 40 40 ' '
+3 0 0
+A
+18 45
+A
+19 45
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101101
+evil hammer~
+#REvil #rHammer#n~
+An Evil Tool lies here.~
+~
+5 2 8193
+0 0 0
+0 79 100 8
+4 0 0
+A
+13 100
+A
+1 3
+A
+4 -1
+A
+18 10
+A
+19 10
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101104
+nega sword~
+#GN#geg#Ga #0Sword#n~
+(no description)~
+~
+5 1 8193
+0 0 0
+100 29 49 3
+4 0 0
+A
+18 27
+A
+19 10
+A
+5 1
+A
+1 1
+A
+4 -2
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101149
+armor of darkness~
+#pAr#Pmor o#pf #7D#0arknes#7s#n~
+The shield of Queen Beryl lies here~
+~
+9 3 2049
+0 0 0
+0 0 0 0
+2 0 0
+A
+5 2
+A
+17 -160
+A
+1 3
+A
+13 500
+A
+2 1
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101150
+staff of the negaverse~
+#0Staff #7of #0The #gNe#Ggave#grse#n~
+The Staff of the Negaverse lies here gathering dust.~
+~
+4 1 8193
+0 0 0
+3 100 100 ' '
+2 0 0
+A
+12 100
+A
+1 1
+A
+2 -1
+A
+14 150
+A
+17 -34
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101217
+a gold winged helm~
+#7A #oGold #yWinged #0Helmet#n~
+A Golden Helmet lies here.~
+~
+9 1 17
+0 0 0
+0 0 0 0
+3 0 0
+A
+17 70
+A
+19 20
+A
+18 75
+A
+14 300
+A
+12 300
+A
+13 300
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101499
+silver crystal~
+#7Si#0lve#7r Cry#0sta#7l#n~
+The Powerful Crystal lies here.~
+~
+9 35 65537
+0 0 0
+0 0 0 0
+1 0 0
+A
+18 20
+A
+19 20
+A
+5 1
+A
+4 2
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#101100
+#CCry#cstal P#Calace#n~
+~
+0 8192 0
+D0
+~
+~
+0 0 101102
+S
+#101102
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101103
+D2
+~
+~
+0 0 101100
+S
+#101103
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101104
+D2
+~
+~
+0 0 101102
+S
+#101104
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D2
+~
+~
+0 0 101105
+D3
+~
+~
+0 0 101103
+S
+#101105
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101104
+D2
+~
+~
+0 0 101106
+S
+#101106
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101105
+D5
+~
+~
+0 0 101107
+S
+#101107
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D3
+~
+~
+0 0 101108
+D4
+~
+~
+0 0 101106
+S
+#101108
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101108
+D1
+~
+~
+0 0 101107
+D2
+~
+~
+0 0 101108
+D3
+~
+~
+0 0 101109
+S
+#101109
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101108
+D3
+~
+~
+0 0 101110
+S
+#101110
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101109
+D2
+~
+~
+0 0 101111
+S
+#101111
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101110
+D4
+~
+~
+0 0 101112
+S
+#101112
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D4
+~
+~
+0 0 101113
+D5
+~
+~
+0 0 101111
+S
+#101113
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D3
+~
+~
+0 0 101114
+D5
+~
+~
+0 0 101112
+S
+#101114
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101115
+D1
+~
+~
+0 0 101113
+S
+#101115
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101116
+D2
+~
+~
+0 0 101114
+S
+#101116
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101117
+D2
+~
+~
+0 0 101115
+S
+#101117
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D3
+~
+~
+0 0 101116
+D5
+~
+~
+0 0 101118
+S
+#101118
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D2
+~
+~
+0 0 101119
+D4
+~
+~
+0 0 101117
+S
+#101119
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101118
+D2
+~
+~
+0 0 101120
+S
+#101120
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101119
+D3
+~
+~
+0 0 101121
+S
+#101121
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101120
+D3
+~
+~
+0 0 101122
+S
+#101122
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101121
+D3
+~
+~
+0 0 101123
+S
+#101123
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101124
+D1
+~
+~
+0 0 101122
+S
+#101124
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101125
+D2
+~
+~
+0 0 101123
+S
+#101125
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101126
+D2
+~
+~
+0 0 101124
+S
+#101126
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101127
+D3
+~
+~
+0 0 101125
+S
+#101127
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101128
+D3
+~
+~
+0 0 101126
+S
+#101128
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D3
+~
+~
+0 0 101127
+D4
+~
+~
+0 0 101129
+S
+#101129
+#CCry#cstal P#Calace#n~
+~
+0 0 0
+D4
+~
+~
+0 0 101130
+D5
+~
+~
+0 0 101128
+S
+#101130
+#CCry#cstal S#Cquare#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101131
+D5
+~
+~
+0 0 101129
+S
+#101131
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101132
+D3
+~
+~
+0 0 101130
+S
+#101132
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101133
+D3
+~
+~
+0 0 101131
+S
+#101133
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101134
+D2
+~
+~
+0 0 101132
+S
+#101134
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D2
+~
+~
+0 0 101133
+D3
+~
+~
+0 0 101135
+S
+#101135
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101134
+D2
+~
+~
+0 0 101136
+S
+#101136
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101135
+D1
+~
+~
+0 0 101137
+S
+#101137
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101138
+D3
+~
+~
+0 0 101136
+S
+#101138
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101139
+D3
+~
+~
+0 0 101137
+S
+#101139
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101140
+D3
+~
+~
+0 0 101138
+S
+#101140
+#CM#coo#Cn #cKing#Cdom#n~
+~
+0 0 0
+D2
+~
+~
+0 0 101141
+D3
+~
+~
+0 0 101139
+S
+#101141
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101140
+D2
+~
+~
+0 0 101142
+S
+#101142
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101141
+D3
+~
+~
+0 0 101143
+S
+#101143
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101142
+D5
+~
+~
+0 0 101144
+S
+#101144
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101145
+D4
+~
+~
+0 0 101143
+S
+#101145
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101146
+D3
+~
+~
+0 0 101144
+S
+#101146
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101147
+D3
+~
+~
+0 0 101145
+S
+#101147
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D1
+~
+~
+0 0 101148
+D3
+~
+~
+0 0 101146
+S
+#101148
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D2
+~
+~
+0 0 101149
+D3
+~
+~
+0 0 101147
+S
+#101149
+#CM#coo#Cn #cBa#Cttle#cfie#Cld#n~
+~
+0 0 0
+D0
+~
+~
+0 0 101148
+D4
+~
+~
+0 0 101150
+S
+#101150
+#CCr#cys#Ctal #cHea#cve#Cn#n~
+~
+0 0 0
+D5
+~
+~
+0 0 101149
+S
+#101200
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101201
+D1
+~
+~
+0 0 101220
+S
+#101201
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101202
+D1
+~
+~
+0 0 101219
+D2
+~
+~
+0 0 101200
+S
+#101202
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101203
+D1
+~
+~
+0 0 101218
+D2
+~
+~
+0 0 101201
+S
+#101203
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101204
+D1
+~
+~
+0 0 101217
+D2
+~
+~
+0 0 101202
+S
+#101204
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101205
+D2
+~
+~
+0 0 101203
+S
+#101205
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101206
+D2
+~
+~
+0 0 101204
+S
+#101206
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101207
+D2
+~
+~
+0 0 101205
+S
+#101207
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101208
+D2
+~
+~
+0 0 101206
+S
+#101208
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101209
+D2
+~
+~
+0 0 101207
+S
+#101209
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101210
+D2
+~
+~
+0 0 101208
+S
+#101210
+~
+~
+0 0 0
+D1
+~
+~
+0 0 101211
+D2
+~
+~
+0 0 101209
+S
+#101211
+~
+~
+0 0 0
+D2
+~
+~
+0 0 101212
+D3
+~
+~
+0 0 101210
+S
+#101212
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101211
+D2
+~
+~
+0 0 101213
+S
+#101213
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101212
+D2
+~
+~
+0 0 101214
+S
+#101214
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101213
+D2
+~
+~
+0 0 101215
+S
+#101215
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101214
+D2
+~
+~
+0 0 101216
+S
+#101216
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101215
+D2
+~
+~
+0 0 101217
+S
+#101217
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101216
+D2
+~
+~
+0 0 101218
+D3
+~
+~
+0 0 101203
+S
+#101218
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101217
+D2
+~
+~
+0 0 101219
+D3
+~
+~
+0 0 101202
+S
+#101219
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101218
+D2
+~
+~
+0 0 101220
+D3
+~
+~
+0 0 101201
+S
+#101220
+~
+~
+0 0 0
+D0
+~
+~
+0 0 101219
+D3
+~
+~
+0 0 101200
+S
+#0
+
+
+
+#SPECIALS
+M 101100 spec_breath_gas
+M 101101 spec_assassin
+M 101102 spec_cast_undead
+M 101103 spec_cast_mage
+M 101140 spec_assassin
+M 101141 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 101100 1 101100
+E 0 101100 0 16
+E 0 101499 0 23
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101101 10 101107
+M 0 101105 1 101107
+M 0 101101 2 101140
+M 0 101101 2 101140
+M 0 101104 5 101148
+E 0 101104 0 16
+M 0 101104 5 101148
+E 0 101104 0 16
+M 0 101104 5 101148
+E 0 101104 0 16
+M 0 101104 5 101148
+E 0 101104 0 16
+M 0 101104 5 101148
+E 0 101104 0 16
+M 0 101101 3 101149
+M 0 101101 3 101149
+M 0 101101 3 101149
+M 0 101104 5 101149
+E 0 101104 0 16
+M 0 101104 5 101149
+E 0 101104 0 16
+M 0 101104 5 101149
+E 0 101104 0 16
+M 0 101104 5 101149
+E 0 101104 0 16
+M 0 101104 5 101149
+E 0 101104 0 16
+M 0 101150 1 101150
+E 0 101149 0 13
+E 0 101150 0 16
+E 0 101150 0 16
+M 0 101140 1 101150
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

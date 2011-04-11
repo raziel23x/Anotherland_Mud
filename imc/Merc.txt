@@ -1,0 +1,349 @@
+Installation for Merc
+---------------------
+
+1. In your Makefile, below the main list of L_FLAGS,
+   include the following:
+
+#IMC2 - Comment out to disable IMC2 support
+IMC = 1
+
+   Then directly below the list of O_FILES, add the following:
+   [Note: BSD users - put a period in front of the word ifdef, and in front of the word endif]
+
+ifdef IMC
+   O_FILES := imc.o sha256.o $(O_FILES)
+   C_FLAGS := $(C_FLAGS) -DIMC -DIMCMERC
+endif
+
+2. Open merc.h and locate the following code:
+
+#define PULSE_PER_SECOND	    4
+#define PULSE_VIOLENCE		  ( 3 * PULSE_PER_SECOND)
+#define PULSE_MOBILE		  ( 4 * PULSE_PER_SECOND)
+#define PULSE_TICK		  (30 * PULSE_PER_SECOND)
+#define PULSE_AREA		  (60 * PULSE_PER_SECOND)
+
+   Directly below that, add the following:
+
+#ifdef IMC
+   #include "imc.h"
+#endif
+
+   Locate your pc_data struct
+
+   Add the following to the end of it:
+
+#ifdef IMC
+    IMC_CHARDATA *imcchardata;
+#endif
+
+3. Open interp.c and locate the following section:
+
+if ( !check_social( ch, command, argument )
+
+   Add the following condition to whatever series of ifchecks exist there:
+
+#ifdef IMC
+	&&   !imc_command_hook( ch, command, argument )
+#endif
+
+4. Open comm.c and locate the following in main() :
+
+   If your mud uses copyover, at the top of main(), below:
+
+   struct timeval now_time;
+   bool fCopyOver = !TRUE;
+
+   Add:
+
+#ifdef IMC
+   int imcsocket = -1;
+#endif
+
+   A. If your mud uses copyover/hotboot, find this section( it may not look EXACTLY like this, adjust as needed ):
+	If your mud does NOT use copyover/hotboot, move to B.
+
+      if( argv[2] && argv[2][0] )
+      {
+         fCopyOver = TRUE;
+         control = atoi( argv[3] );
+      }
+      else
+         fCopyOver = FALSE;
+
+   Change it to read as( while adjusting as needed ):
+
+      if( argv[2] && argv[2][0] )
+      {
+         fCopyOver = TRUE;
+         control = atoi( argv[3] );
+#ifdef IMC
+	   imcsocket = atoi( argv[4] );
+#endif
+      }
+      else
+         fCopyOver = FALSE;
+
+   This next part is somewhat tricky. If copyover_recover is called in db.c as is the usual case in
+   most default installs, you need to place the following BEFORE the boot_db call. If it is listed
+   somewhere here in comm.c, the following needs to be placed ABOVE it. Either way, imc_startup needs
+   to be called BEFORE copyover_recover or your mud WILL crash every time you do a copyover.
+
+#ifdef IMC
+   /* Initialize and connect to IMC2 */
+   imc_startup( FALSE, imcsocket, fCopyOver );
+#endif
+
+   B. If your mud is NOT using copyover/hotboot:
+
+      Locate the following:
+
+#if defined(unix)
+    control = init_socket( port );
+    boot_db( );
+    sprintf( log_buf, "Merc is ready to rock on port %d.", port );
+    log_string( log_buf );
+
+   Add the following beneath that:
+
+#ifdef IMC
+    imc_startup( FALSE, -1, FALSE );
+#endif
+
+   C. ALL MUDS CONTINUE HERE:
+
+   Then further down in main(), locate the following:
+
+    while ( descriptor_list )
+	close_socket( descriptor_list );
+
+   Add the following beneath that:
+
+#ifdef IMC
+   imc_shutdown( FALSE );
+#endif
+
+   Then in game_loop(), locate the following:
+
+	/*
+	 * Autonomous game motion.
+	 */
+	update_handler( );
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+	imc_loop();
+#endif
+
+5. Open save.c and locate fread_char:
+
+   Find:
+
+	case 'L':
+	    KEY( "Level",	ch->level,		fread_number( fp ) );
+	    KEY( "LongDescr",	ch->long_descr,		fread_string( fp ) );
+	    break;
+
+   *ABOVE* that, add:
+
+      case 'I':
+#ifdef IMC
+	 if( ( fMatch = imc_loadchar( ch, fp, word ) ) )
+            break;
+#endif
+         break;
+
+   Then in fwrite_char, locate:
+
+    fprintf( fp, "End\n\n" );
+
+   Directly ABOVE that, add:
+
+#ifdef IMC
+    imc_savechar( ch, fp );
+#endif
+
+   Then in load_char_obj(), locate the following:
+
+    found = FALSE;
+    fclose( fpReserve );
+
+    /* parsed player file directories by Yaz of 4th Realm */
+    /* decompress if .gz file exists - Thx Alander */
+
+   Directly ABOVE that, add the following:
+
+#ifdef IMC
+    imc_initchar( ch );
+#endif
+
+6. Open db.c
+
+   Locate free_char:
+
+   Under the following block of code:
+
+	free_string( ch->pcdata->pwd		);
+	free_string( ch->pcdata->bamfin		);
+	free_string( ch->pcdata->bamfout	);
+	free_string( ch->pcdata->title		);
+
+   Add:
+
+#ifdef IMC
+	imc_freechardata( ch );
+#endif
+
+7. For users of copyover/hotboot ONLY:
+
+   Locate do_copyover.
+
+   In the variable declarations, add another bufX[100], where X is the next number in line.
+
+   Then just before the buffers for the execl call are
+   allocated, add the following:
+
+#ifdef IMC
+   imc_hotboot();
+#endif
+
+   Then right before the execl call, add the following, where X is the same number in the
+   new declaration you just made:
+
+#ifdef IMC
+   if( this_imcmud )
+      snprintf( bufX, 100, "%d", this_imcmud->desc );
+   else
+      strncpy( bufX, "-1", 100 );
+#else
+   strncpy( bufX, "-1", 100 );
+#endif
+
+   Then you need to add your new buffer to the execl call. So if you have this:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, (char *)NULL );
+
+   It needs to become:
+
+    execl( EXE_FILE, "smaug", buf, "hotboot",  buf2, buf3, bufX, (char *)NULL );
+
+   Again being sure to change "X" to the right number.
+   Keep in mind copyover implementations vary widely among muds and you may need to
+   make some additional adjustments.
+
+7b. Envy 2.2 ONLY:
+
+Go back to save.c, and locate the following in fread_char:
+
+        else
+        {
+            sprintf( buf, "fread_char: Unknown key '%s' in pfile.", word );
+            bug( buf, 0 );
+            fread_to_eol( fp );
+        }
+
+   Directly ABOVE that, add:
+
+#ifdef IMC
+      else if( imc_loadchar( ch, fp, word ) )
+	   ;
+#endif
+
+7c. NiMud 4 ONLY:
+
+For the db.c section, apply the changes to free_char in mem.c
+
+In imc.c, under the #ifdef IMCMERC section near the top, change:
+
+#include "merc.h"
+
+To:
+
+#include "mud.h"
+
+7d. EOS2 ONLY:
+
+In imc.c, function imclog, find:
+
+   log_string( buf );
+
+Replace with:
+
+   log_string( buf, CHANNEL_LOG, -1 );
+
+In imc.c again, find:
+
+/* Generic send_to_char type function to send to the proper code for each codebase */
+void imc_to_char( const char *txt, CHAR_DATA *ch )
+{
+   char buf[LGST*2];
+
+   snprintf( buf, LGST*2, "%s\033[0m", color_itom( txt, ch ) );
+#if defined(IMCSMAUG)
+   send_to_char_color( buf, ch );
+#elif defined(IMCCIRCLE)
+   #if _CIRCLEMUD < CIRCLEMUD_VERSION(3,0,21)
+      send_to_char( buf, ch );
+   #else
+      send_to_char( ch, "%s", buf );
+   #endif
+#else
+   send_to_char( buf, ch );
+#endif
+   return;
+}
+
+Replace it with:
+
+/* Generic send_to_char type function to send to the proper code for each codebase */
+void imc_to_char( const char *txt, CHAR_DATA *ch )
+{
+   char buf[LGST*2];
+
+   snprintf( buf, LGST*2, "%s\033[0m", color_itom( txt, ch ) );
+#if defined(IMCSMAUG)
+   send_to_char_color( buf, ch );
+#elif defined(IMCCIRCLE)
+   #if _CIRCLEMUD < CIRCLEMUD_VERSION(3,0,21)
+      send_to_char( buf, ch );
+   #else
+      send_to_char( ch, "%s", buf );
+   #endif
+#else
+   send_to_char( AT_WHITE, buf, ch );
+#endif
+   return;
+}
+
+Noting the AT_WHITE added to the last send_to_char statement.
+
+In imc.c once again, above imc_find_social, add:
+
+SOCIAL_DATA *find_social( const char *command )
+{
+   SOCIAL_DATA *pSocial;
+
+   for( pSocial = social_first;pSocial;pSocial = pSocial->next )
+   {
+      if( command[0] == pSocial->name[0] && !imcstr_prefix( command, pSocial->name ) )
+         return pSocial;
+   }
+   return NULL;
+}
+
+In imccfg.h under the #ifdef for IMCMERC, add:
+
+   #define SMAUGSOCIAL
+
+Return to the main IMC.txt file and continue where you left off.
+
+7e. Mindcloud 2:
+
+In imccfg.h, under the #ifdef section for IMCMERC, find:
+
+   #define CH_IMCRANK(ch)           (title_table[(ch)->class][(ch)->level][(ch)->sex == SEX_FEMALE ? 1 : 0])
+
+Replace with:
+
+   #define CH_IMCRANK(ch)           (IS_IMMORTAL((ch)) ? "Immortal" : "Player" )

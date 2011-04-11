@@ -1,0 +1,39 @@
+#AUCTION
+Owner     #Ra pool of blood#n~
+MinBid    100
+CurBid    500
+TotBid    2
+Last      Beorn~
+AucEnd    0
+Status    1
+#OBJECT
+Nest         0
+Name         chrono's ring of rage artifact~
+ShortDescr   #L! #L! #RC#rh#Rr#ro#Rn#ro#R'#rs #lR#ci#on#pg #co#of #RR#ra#Rg#re #L! #L!#n~
+Description  A blood red ring lies here.~
+Poweronch    normal~
+Poweroffch   normal~
+Powerusech   normal~
+Poweronvict  normal~
+Poweroffvict normal~
+Powerusevict normal~
+Questmaker   Beorn~
+Vnum         33967
+ExtraFlags   278531
+ExtraFlags2  0
+WeapFlags    0
+WearFlags    3
+WearLoc      2
+ItemType     9
+Weight       1
+Condition    100
+Toughness    100
+Resistance   1
+Quest        131072
+Level        60
+Timer        0
+Cost         1000000
+Values       300 0 0 25
+End
+
+#END

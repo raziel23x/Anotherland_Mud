@@ -1,0 +1,1085 @@
+#AREADATA
+Name        The Abyssal Pits~
+Builders    Kaladrath~
+VNUMs       150000 150100
+Security    1
+Recall      3005
+Flags	      48
+End
+
+
+
+#MOBILES
+#150000
+Satan's Advocate~
+#RS#ra#ct#Ca#cn#R's A#rd#cv#Co#cc#ra#Rt#re#n~
+#RS#ra#ct#Ca#cn#R's A#rd#cv#Co#cc#ra#Rt#re#n
+~
+~
+11 0 -1000 S
+22 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#150034
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+8000 0 0 15d13+3 0d0+0
+0 0
+0 0 0
+#150035
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+8500 0 0 20d14+3 0d0+0
+0 0
+0 0 0
+#150036
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+9000 0 0 25d15+3 0d0+0
+0 0
+0 0 0
+#150037
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+9500 0 0 30d16+3 0d0+0
+0 0
+0 0 0
+#150038
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+10000 0 0 35d17+3 0d0+0
+0 0
+0 0 0
+#150039
+Acolyte of Blood~
+#oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #RB#rl#Ro#ro#Rd#n stands here glaring at you.
+~
+~
+467995 4260026 0 S
+10500 0 0 40d17+3 0d0+0
+0 0
+0 0 0
+#150040
+High Priest of Slaughter~
+#cH#gi#cg#gh #RP#lr#Ri#le#Rs#lt #nof #0S#rl#pa#ou#0g#rh#pt#oe#0r#n~
+The #cH#gi#cg#gh #RP#lr#Ri#le#Rs#lt #nof #0S#rl#pa#ou#0g#rh#pt#oe#0r#n stands here wielding a sickening blade.
+~
+~
+467995 4260026 0 S
+11000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#150000
+Action Figurine~
+(no short description)~
+A Small replica figurine is here.~
+~
+8 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150001
+Bone Leg Plates~
+#oBone #7Leg #0Plates#n~
+Some #obone #7leg #0plates#n lie here in the dust.~
+~
+67 0 1
+0 0 65536
+0 150002 150003 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150002
+Dracolich Blood~
+#rD#or#ra#oc#ro#ol#ri#oc#rh #RB#rl#Ro#ro#Rd#n~
+Some #rd#or#ra#oc#ro#ol#ri#oc#rh #Rb#rl#Ro#ro#Rd#n lies here in a puddle.~
+~
+67 1 1
+0 0 0
+150001 0 150003 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150003
+Demonic Leg Plates~
+#rD#7e#rm#7o#rn#7i#rc #oLeg #0P#ol#0a#ot#0e#os#n~
+A pair of #rd#7e#rm#7o#rn#7i#rc #oleg #0p#ol#0a#ot#0e#os#n lie here in the dust.~
+~
+9 13369667 33
+2 0 1114112
+100 0 0 0
+0 0 0
+A
+17 -750
+A
+19 500
+A
+18 500
+A
+13 6000
+A
+12 6000
+A
+14 6000
+A
+1 7
+A
+2 5
+A
+5 8
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150004
+Skeletal hands~
+#7S#ok#7e#ol#7e#ot#7a#ol #yHands#n~
+A pair of #7s#ok#7e#ol#7e#ot#7a#ol #yhands#n lie here in the dust.~
+~
+67 0 1
+0 0 0
+0 150005 150006 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150005
+Demonic Flesh~
+#rD#0e#rm#0o#rn#0i#rc #oFlesh#n~
+Some #rd#0e#rm#0o#rn#0i#rc #oflesh#n lies here rotting in the sun.~
+~
+67 0 1
+0 0 0
+150004 0 150006 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150006
+Demonic Claws~
+some #rD#0e#rm#0o#rn#0i#rc #pC#rl#pa#rw#ps#n~
+A pair of #rd#0e#rm#0o#rn#0i#rc #pc#rl#pa#rw#ps#n lie here covered in blood.~
+~
+9 13369667 129
+2 0 1114112
+150 0 0 0
+0 0 0
+A
+17 -500
+A
+19 500
+A
+18 500
+A
+13 7500
+A
+12 7500
+A
+14 7500
+A
+1 8
+A
+2 5
+A
+5 8
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150007
+no name~
+(no short description)~
+(no description)~
+~
+67 0 1
+0 0 0
+0 150008 150009 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150008
+no name~
+(no short description)~
+(no description)~
+~
+67 0 1
+0 0 0
+150007 0 150009 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150009
+death mask kalshallanar~
+the #0D#ge#0a#gt#0h #oM#7a#os#7k #nof #lK#cl#pa#rs#lh#ca#pl#rl#la#cn#pa#rr#n~
+A truly horrify #0d#ge#0a#gt#0h #om#7a#os#7k#n lies here.~
+~
+9 14422467 32769
+2 0 1048576
+50 0 0 29
+0 0 0
+A
+17 -500
+A
+19 500
+A
+18 500
+A
+13 7500
+A
+12 7500
+A
+14 7500
+A
+1 8
+A
+4 8
+A
+5 -5
+A
+2 -2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150034
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150035
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150036
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150037
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150038
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150039
+key of blood~
+#oKey #nof #RB#rl#Ro#ro#Rd#n~
+A #oKey #nof congealed #Rb#rl#Ro#ro#Rd#n lies here.~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150040
+Bloody Skeleton key~
+a #RB#rl#Ro#ro#Rd#ry #7Skeleton #oKey#n~
+A #Rb#rl#Ro#ro#Rd#ry #7skeleton #okey#n lies here.~
+~
+18 524288 1
+8 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150041
+50 point store token~
+a 50 point store token~
+A 50 point store token lies here.~
+~
+63 2756739 1
+0 0 0
+0 50 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#150042
+Altar of Blood~
+an #oAltar #nof #RB#rl#Ro#ro#Rd#n~
+An #oAltar #nof #RB#rl#Ro#ro#Rd#n sits here.~
+~
+15 1 0
+0 0 0
+10000 15 150040 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#150000
+#oPit #nof #0D#7e#0s#7p#0a#7i#0r#n~
+~
+0 135266310 0
+D0
+~
+~
+4194407 40655 150001
+S
+#150001
+#oH#ca#ol#cl#ow#ca#oy #nof #0D#7e#0s#7p#0a#7i#0r#n~
+~
+0 135340034 0
+D0
+~
+~
+0 0 150004
+D1
+~
+~
+0 40655 150003
+D2
+~
+~
+103 40655 150000
+D3
+~
+~
+0 40655 150002
+S
+#150002
+#oPit #nof the #yD#ca#ym#cn#ye#cd#n~
+~
+0 135274498 0
+D1
+~
+~
+0 0 150001
+S
+#150003
+#oPit #nof the #rD#ce#ra#cd#n~
+~
+0 135274498 0
+D3
+~
+~
+0 0 150001
+S
+#150004
+#0Portal #7Room #nof #0D#7e#0s#7p#0a#7i#0r#n~
+~
+0 135274498 0
+D2
+~
+~
+0 0 150001
+S
+#150005
+#GO#yr#Gg#yy #GR#yo#Go#ym#n~
+All over the walls are shelves full of various sex toys for both pleasure and pain.  Hidden over in the corner are a group of very LARGE dildo's and some whips.
+~
+0 1056788 0
+S
+#150006
+#oPit #nof #RF#ri#Rr#re#n~
+~
+0 135274496 0
+D0
+~
+~
+4202567 40643 150007
+S
+#150007
+#oH#ca#ol#cl#ow#ca#oy #nof #RF#rl#Ra#rm#Re#n~
+~
+0 135340032 0
+D0
+~
+~
+8192 0 150010
+D1
+~
+~
+8192 0 150008
+D2
+~
+~
+4202567 40643 150006
+D3
+~
+~
+8192 0 150009
+S
+#150008
+#oLair #nof the #rN#lu#rp#lp#re#lr#ri#lb#ro#n~
+~
+0 135274496 0
+D3
+~
+~
+8192 0 150007
+S
+#150009
+#oLair #nof the #oP#ri#ot #rF#oi#re#on#rd#n~
+~
+0 135274496 0
+D1
+~
+~
+8192 0 150007
+S
+#150010
+#0Portal #7Room #nof #RF#rl#Ra#rm#Re#n~
+~
+0 135274496 0
+D2
+~
+~
+8192 0 150007
+S
+#150011
+#oPit #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+~
+0 135274496 0
+D0
+~
+~
+4194375 40644 150012
+S
+#150012
+#oH#ca#ol#cl#ow#ca#oy #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+~
+0 672210944 0
+D0
+~
+~
+0 0 150014
+D1
+~
+~
+16384 0 150015
+D2
+~
+~
+4194375 40644 150011
+D3
+~
+~
+16384 0 150013
+S
+#150013
+#oR#ga#on#gc#oi#gd #lW#ca#lt#ce#lr #7Tank#n~
+~
+0 135274496 0
+D1
+~
+~
+16384 0 150012
+S
+#150014
+#0Portal #7Room #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+~
+0 135274496 0
+D2
+~
+~
+0 0 150012
+S
+#150015
+#oPit #nof #oD#li#os#le#oa#ls#oe#n~
+~
+0 135274500 0
+D3
+~
+~
+16384 0 150012
+S
+#150016
+#oPit #nof #0D#ge#0a#gt#0h#n~
+~
+0 135274496 0
+D0
+~
+~
+4194375 40445 150017
+S
+#150017
+#oH#ca#ol#cl#ow#ca#oy #nof #0D#ge#0a#gt#0h#n~
+~
+0 135340032 0
+D0
+~
+~
+0 0 150020
+D1
+~
+~
+8192 0 150018
+D2
+~
+~
+4194375 40445 150016
+D3
+~
+~
+16384 0 150019
+S
+#150018
+#oPit #nof #gS#0a#rc#gr#0i#rf#gi#0c#re#n~
+~
+0 135274496 0
+D3
+~
+~
+8192 0 150017
+S
+#150019
+#oPit #nof #0B#7o#0n#7e#0s#n~
+~
+0 135274496 0
+D1
+~
+~
+16384 0 150017
+S
+#150020
+#0Portal #7Room #nof #0D#ge#0a#gt#0h#n~
+~
+0 135274496 0
+D2
+~
+~
+0 0 150017
+S
+#150021
+#oPit #nof the #RA#gp#Lo#cc#oa#Rl#gy#Lp#cs#oe#n~
+~
+0 135274500 0
+D0
+~
+~
+4194375 40451 150022
+S
+#150022
+~
+~
+0 135274498 0
+D0
+~
+~
+8192 0 150027
+D1
+~
+~
+8192 0 150025
+D2
+~
+~
+4194375 40451 150021
+D3
+~
+~
+8192 0 150023
+S
+#150023
+~
+~
+0 135340032 0
+D1
+~
+~
+8192 0 150022
+D3
+~
+~
+24647 40449 150024
+S
+#150024
+~
+~
+0 135274498 0
+D1
+~
+~
+24647 40449 150023
+S
+#150025
+~
+~
+0 135340034 0
+D1
+~
+~
+24647 40446 150026
+D3
+~
+~
+8192 0 150022
+S
+#150026
+~
+~
+0 135274498 0
+D3
+~
+~
+24647 40446 150025
+S
+#150027
+Apoc~
+~
+0 135274498 0
+D0
+~
+~
+8192 0 150032
+D1
+~
+~
+8192 0 150030
+D2
+~
+~
+8192 0 150022
+D3
+~
+~
+8192 0 150028
+S
+#150028
+~
+~
+0 135340034 0
+D1
+~
+~
+8192 0 150027
+D3
+~
+~
+24647 40447 150029
+S
+#150029
+~
+~
+0 135274498 0
+D1
+~
+~
+24647 40447 150028
+S
+#150030
+~
+~
+0 135340034 0
+D1
+~
+~
+24647 40448 150031
+D3
+~
+~
+8192 0 150027
+S
+#150031
+~
+~
+0 135274498 0
+D3
+~
+~
+24647 40448 150030
+S
+#150032
+~
+~
+0 135274496 0
+D0
+~
+~
+8263 40450 150033
+D2
+~
+~
+8192 0 150027
+S
+#150033
+#0Portal #7Room #nof #RA#gp#Lo#cc#oa#Rl#gy#Lp#cs#oe#n~
+~
+0 135274496 0
+D2
+~
+~
+8263 40450 150032
+S
+#150034
+#0Room #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266306 0
+D0
+~
+~
+16487 150034 150035
+S
+#150035
+#0Hall #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266818 0
+D0
+~
+~
+16487 150035 150036
+D2
+~
+~
+16487 150034 150034
+S
+#150036
+#0Hall #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266818 0
+D0
+~
+~
+16487 150036 150037
+D2
+~
+~
+16487 150035 150035
+S
+#150037
+#0Hall #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266818 0
+D0
+~
+~
+16487 150037 150038
+D2
+~
+~
+16487 150036 150036
+S
+#150038
+#0Hall #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266818 0
+D0
+~
+~
+16487 150038 150039
+D2
+~
+~
+16487 150037 150037
+S
+#150039
+#0Hall #nof #RB#rl#Ro#ro#Rd#n~
+~
+0 135266818 0
+D0
+~
+~
+16487 150039 150040
+D2
+~
+~
+16487 150038 150038
+S
+#150040
+#7S#ca#0c#7r#ci#0f#7i#cc#0a#7l #oAltar#n~
+~
+0 135266818 0
+D2
+~
+~
+16487 150039 150039
+S
+#150098
+#rAnother #lLand #7Portal Room #0- #yMedium Areas#n~
+You've entered the portal room for #yMedium#n difficulty areas.  You are
+able to travel to them by simply typing 'enter <portal name>'.  Enjoy.  
+ 
+~
+0 4 0
+S
+#150099
+#rAnother #lLand #7Portal Room #0- #yHard Areas#n~
+You've entered the portal room for #yHard#n difficulty areas.  You are
+able to travel to them by simply typing 'enter <portal name>'.  Players
+beware there is a good chance you may die in these areas as most of the mobs
+are very agggressive.  Enjoy 
+ 
+~
+0 4 0
+S
+#150100
+The #RF#ri#Re#rr#Ry #oP#yi#ot#ys #nof #RH#re#Rl#rl#n~
+Over in the corner you see a dartboard with a picture of Gingerfish and
+right next to it a picture of Dertaherup.  Both seem to have numerous
+dartholes in the center of the image.  
+~
+0 164651014 0
+S
+#0
+
+
+
+#SPECIALS
+M 150034 spec_vladd_decap
+M 150035 spec_vladd_decap
+M 150036 spec_vladd_decap
+M 150037 spec_vladd_decap
+M 150038 spec_vladd_decap
+M 150039 spec_vladd_decap
+M 150040 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 40660 1 150000
+E 0 40655 0 3
+M 0 40650 1 150002
+E 0 150001 0 3
+M 0 40651 1 150002
+E 0 150002 0 3
+M 0 40655 1 150003
+E 0 150004 0 3
+M 0 40656 1 150003
+E 0 150005 0 3
+O 0 40654 0 150004
+M 0 40661 1 150006
+E 0 40643 0 3
+M 0 40662 1 150008
+E 0 40640 0 3
+M 0 40663 1 150009
+E 0 40641 0 3
+O 0 40654 0 150010
+M 0 40664 1 150011
+E 0 40644 0 3
+M 0 40665 1 150013
+E 0 40656 0 3
+O 0 40654 0 150014
+M 0 40666 1 150015
+E 0 40657 0 3
+M 0 40669 1 150016
+E 0 40445 0 3
+M 0 40668 1 150018
+E 0 40662 0 3
+M 0 40679 1 150018
+M 0 40667 1 150019
+E 0 40663 0 3
+M 0 40680 1 150019
+O 0 40654 0 150020
+M 0 40684 1 150021
+E 0 40451 0 3
+M 0 40677 1 150023
+E 0 40449 0 3
+M 0 40670 1 150024
+E 0 40452 0 3
+M 0 40676 1 150025
+E 0 40446 0 3
+M 0 40681 1 150026
+E 0 40453 0 3
+M 0 40675 1 150028
+E 0 40447 0 3
+M 0 40682 1 150029
+E 0 40455 0 3
+M 0 40674 1 150030
+E 0 40448 0 3
+M 0 40683 1 150031
+E 0 40456 0 3
+M 0 40685 1 150032
+E 0 40450 0 3
+O 0 40654 0 150033
+M 0 150034 1 150034
+E 0 150034 0 3
+O 0 30007 0 150034
+M 0 150035 1 150035
+E 0 150035 0 3
+O 0 30007 0 150035
+M 0 150036 1 150036
+E 0 150036 0 3
+O 0 30007 0 150036
+M 0 150037 1 150037
+E 0 150037 0 3
+O 0 30007 0 150037
+M 0 150038 1 150038
+E 0 150038 0 3
+O 0 30007 0 150038
+M 0 150039 1 150039
+E 0 150039 0 3
+O 0 30007 0 150039
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

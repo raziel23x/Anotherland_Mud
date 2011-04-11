@@ -1,0 +1,2036 @@
+#AREADATA
+Name        Saaid   Unfinished Area~
+Builders    Saaid~
+VNUMs       100900 100999
+Security    1
+Recall      3005
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#100900
+Monter List~
+#yMonster List#n~
+#yType Look Cards#n~
+~
+37 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+cards~
+1. MonkeyPox <power> 800 <special> -200 opponents power.
+2. Demons <power> 900
+3. Incarnation of Saaid <power> 2500
+4. Low Flying Cow <power> 700
+5. Three Legged Man <power> 700
+6. Cenetar Archer <power> 800
+7. Demon Dualist <power> 900
+8. Inuyasha <power> 400
+9. Bottle of pain Killiers <special> +200 to your creature draw card.
+10. Time Horsemen <power> 200
+11. Death Horsemen <power> 500
+12. Famine Horsemen <power> 400
+13. Pestilence Horsemen <power> 1000
+14. Darkened Beast <power> 600
+15. Riku <power> 600
+16. Goofy <power> 1100
+17. Donald <power> 1200
+18. Tarzan <power>1300
+19. Hercules <power> 1500
+20. Vageta <power> 1700
+21. Hellhounds <power> 900
+22. Sewer RAts <power> 500
+23. Spirit <power> 700
+24. Pegasus <power> 1300
+25. Cyclops <power> 1700
+26. Wraith <power> 1000
+27. Leech <power> 900
+28. Spiders <power> 700
+29. Golem <power> 1200
+30. Dragon <power> 1300
+31. Cleric <special> Gain 2 rp tokens draw card.
+32. Zombie <power> 1000
+33. Vampyre <power> 900
+34. Menatar <power> 700
+35. Thief <special> Steal 2 rp tokens from an opponent.
+36. Politician <special> take opponents card and 1 rp point they draw new card.
+37. Giant <power> 1000
+38. Necromancer <power> 900
+39. Gravedigger <special> auto rolls you to ##32 a Zombie <power> 1000. 
+40. Warlock <power> 1000
+41. Elemental <power> 700
+42. Swordsmen <power> 900
+43. Serial Killer <special> draw 2 cards pick one or use both if one is <special>.
+44. Balisk <special> + 400 to your creature Draw card.
+45. Lizard <power> 900
+46. Skelton <power> 1200
+47. Succubis <power> 700 <special> -200 opponent creature.
+48. Orc <power> 400
+49. Org <power> 300
+50. Griffin <power> 1000
+51. Harpy <power> 900
+52. Phoenix <power> 1300
+53. Pixie <power> 600
+54. Draconian <power> 1800
+55. Wrom <special> Steal 3 rp tokens
+56. Grr <power> 1900
+57. Cervantes <power> 2100
+58. Vero <power> 1000
+59. Seth <power> 2200
+60. Mari's Soul <power> 3000
+~
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100901
+ring~
+#RDevil Horn Ring~
+#RDevil Horn Ring~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100902
+craps table~
+#yCraps Table~
+#yCraps Table~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100903
+Dice token~
+#yDice token 100qp#n~
+#yDice token 100qp#n~
+~
+8 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100904
+Basketball court~
+#yBasketball court~
+#yBasketball court~
+~
+12 0 0
+0 0 0
+2 2 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100905
+basketball hoop~
+#LBasketball Hoop~
+#LBasketball Hoop~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100906
+Hellish Devil Dice Two~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+100099 0 100950 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100907
+Hellish Devil Dice Shard Three~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+0 100908 100951 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100908
+Hellish Devil Dice Shard Four~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+100907 0 100951 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100909
+grail~
+#0Grail #Rof #0Darkness#g~
+#0Grail #Rof #0Darkness#g~
+~
+17 0 0
+0 0 0
+99999 99999 13 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100910
+rukason grail~
+#0The #yGrail #0of #RRukason Blood#g~
+#0The #yGrail #0of #RRukason Blood#g~
+~
+17 0 1
+0 0 0
+99999 99999 13 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100911
+Card Table~
+#yCard Table#n~
+#yCard Table#n~
+~
+12 0 0
+0 0 0
+2 5 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100912
+light grail~
+#LGrail #0of  #yLight#g~
+#LGrail #0of  #yLight#g~
+~
+17 0 1
+0 0 0
+99999 99999 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100914
+throne~
+#lThrone #yof #0K#ly#Lr#7n#n~
+#lThrone #yof #0K#ly#Lr#7n#n~
+~
+12 0 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100915
+Rukason Upholder~
+#0Throne #yof #RRukason #0Upholder#g~
+#0Throne #yof #RRukason #0Upholder#CStump#ymay#Rsit#0here~
+~
+12 0 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100916
+fountain of virgin blood~
+#RF#rountain of #RV#rirgin #RB#rlood#g~
+#RF#rountain of #RV#rirgin #RB#rlood#g~
+~
+17 0 1
+0 0 0
+99999 999999 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100917
+no name~
+#GT#oA#gN#oK#g~
+#GT#oA#gN#oK#g~
+~
+12 0 0
+0 0 0
+1 10 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100918
+Throne of Nightmare~
+#0Throne #rof #RNightmare #g~
+#0Throne #rof #RNightmare #g #0Fear #g can sit here~
+~
+12 0 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100919
+key~
+a key~
+A key~
+~
+18 0 16385
+0 0 0
+0 0 0 0
+1 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100920
+lady pain throne~
+#0Throne #yof #RRukason #rLady #0of #rPain #g Trinity can sit here.~
+#0Throne #yof #RRukason #rLady #0of #rPain #g Trinity can sit here.~
+~
+12 0 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100921
+rankdice prince~
+#r<RankDice>#0Prince#n~
+#r<RankDice>#0Prince#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100922
+rankdice king~
+#r<RankDice>#0King#n~
+#r<RankDice>#0King#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100948
+weapondice RayGun~
+#r<WeaponDice> #yRayGun #C<Attack 1d6 can throw 4 for one Attack>#n~
+#r<WeaponDice> #yRayGun #C<Attack 1d6 can throw 4 for one Attack>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100949
+weapondice Spit~
+#r<WeaponDice> #ySpit #C<Attack 1d4 can spit 4 for one Attack>#n~
+#r<WeaponDice> #ySpit #C<Attack 1d4 can spit 4 for one Attack>#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100950
+Hellish Devil Dice Attack~
+#r<Hellish> #0Attack Dice#n~
+#r<Hellish> #0Attack Dice#n~
+~
+67 131072 1
+0 0 131072
+0 100951 100954 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100951
+Hellish Defence Dice~
+#r<Hellish> #0Defence Dice#n~
+#r<Hellish> #0Defence Dice#n~
+~
+67 131072 1
+0 0 131072
+100950 0 100954 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100952
+Hellish Movement dice~
+#r<Hellish> #0Movement Dice#n~
+#r<Hellish> #0Movement Dice#n~
+~
+67 131072 1
+0 0 131072
+0 100953 100959 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100953
+Hellish Summoning Dice~
+#r<Hellish> #0Summoning Dice#n~
+#r<Hellish> #0Summoning Dice#n~
+~
+67 131072 1
+0 0 131072
+100952 0 100959 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100954
+Hellish Devil Dice Crystal One~
+#r<Hellish> #0Hellish Devil Dice Crystal#n~
+#r<Hellish> #0Hellish Devil Dice Crystal#n~
+~
+67 131072 1
+0 0 131072
+0 100959 100960 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100955
+Hellish Devil Dice Shard Five~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+0 100956 100952 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100956
+Hellish Devil Dice Piece Six~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+100955 0 100952 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100957
+Hellish Devil Dice Shard Seven~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+0 100958 100953 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100958
+Hellish Devil Dice Eight~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+#r<Hellish> #0Hellish Devil Dice Shard#n~
+~
+67 131072 1
+0 0 131072
+100957 0 100953 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100959
+Hellish Devil Dice Crystal Two~
+#r<Hellish> #0Hellish Devil Dice Crystal#n~
+#r<Hellish> #0Hellish Devil Dice Crystal#n~
+~
+67 131072 1
+0 0 131072
+100954 0 100960 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100960
+Hellish Fiery Globe of Flames~
+#r<Hellish> #0Firey Globe of Flames#n~
+#r<Hellish> #0Firey Globe of Flames#n~
+~
+9 131072 65537
+0 0 131072
+1000 0 0 0
+0 0 0
+A
+13 5000
+A
+19 400
+A
+18 400
+A
+17 -500
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100961
+rankdice viceroy~
+#r<RankDice>#0Viceroy#n~
+#r<RankDice>#0Viceroy#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100962
+rankdice earl~
+#r<RankDice>#0Earl#n~
+#r<RankDice>#0Earl#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100963
+rankdice duke~
+#r<RankDice>#0Duke#n~
+#r<RankDice>#0Duke#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100964
+rankdice swordmaster~
+#r<RankDice>#0Swordmaster#n~
+#r<RankDice>#0Swordmaster#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100965
+rankdice baron~
+#r<RankDice>#0Baron#n~
+#r<RankDice>#0Baron#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100966
+rankdice lord~
+#r<RankDice>#0Lord#n~
+#r<RankDice>#0Lord#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100967
+rankdice knight~
+#r<RankDice>#0Knight#n~
+#r<RankDice>#0Knight#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100968
+rankdice squire~
+#r<RankDice>#0Squire#n~
+#r<RankDice>#0Squire#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100969
+rankdice paige                                                   ~
+#r<RankDice>#0Paige#n~
+#r<RankDice>#0Paige#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100970
+rankdice jester~
+#r<RankDice>#0Jester#n~
+#r<RankDice>#0Jester#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100971
+rankdice peasant~
+#r<RankDice>#0Peasant#n~
+#r<RankDice>#0Peasant#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100972
+rankdice beggar~
+#r<RankDice>#0Begger#n~
+#r<RankDice>#0Begger#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+life~
++21 hp
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100973
+token bag~
+token bag~
+Rp token bag~
+~
+15 0 0
+0 0 0
+9999 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100974
+weapondice Revive ~
+#r<weapondice>#yRevive Bring one player back to life#n~
+#r<weapondice>#yRevive Bring one player back to life#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100975
+weapondice Help~
+#r<weapondice> #0Help#n~
+#r<weapondice> #0Help#n~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+E
+help~
+~
+E
+file~
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100976
+WeaponDice Buda~
+#r<<weapondice> #yBuda #C<Take no Damage 2 Turns>#n~
+#r<<weapondice> #yBuda #C<Take no Damage 2 Turns>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+Buda     (25RP)         <Take no Damage 2 Turns>
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100977
+WeaponDice Wand~
+#r<<weapondice> #yWand #C<3 Heals>#n~
+#r<<weapondice> #yWand #C<3 Heals>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+Wand     (30RP)         <3 Heals>
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100978
+WeaponDice Dagger~
+#r<<weapondice> #yDagger #C<Attack 1d4 can throw 4 for one Attack>#n~
+#r<<weapondice> #yDagger #C<Attack 1d4 can throw 4 for one Attack>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+*  Dagger   (5RP)          <Attack 1d4 can throw 4 for one Attack>
+* Can only be used by Monsters with Hands.
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100979
+WeaponDice Cure~
+#r<<weapondice> #yCure #C<Heal all Damage>#n~
+#r<<weapondice> #yCure #C<Heal all Damage>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+Cure     (20RP)         <Heal all Damage>
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100980
+WeaponDice Bomb~
+#r<<weapondice> #yBomb #C<Attack 1d20 one time use>#n~
+#r<<weapondice> #yBomb #C<Attack 1d20 one time use>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+Bomb     (15RP)         <Attack 1d20 one time use>
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100981
+WeaponDice Heal~
+#r<<weapondice> #yHeal #C<Heals 40 Life>#n~
+#r<<weapondice> #yHeal #C<Heals 40 Life>#n~
+~
+13 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+status~
+Heal     (10RP)         <Heals 40 Life>
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100982
+AnimalDice Spider Monkey~
+#r<AnimalDice> #0AnimalDice Spider Monkey#n~
+#r<AnimalDice> #0AnimalDice Spider Monkey#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rSpider Monkey#y<90>     #0<d7>      #7<18RP>#n
+#y*#0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y*#0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100983
+AnimalDice Gurrilla~
+#r<AnimalDice> #0AnimalDice Gurrilla#n~
+#r<AnimalDice> #0AnimalDice Gurrilla#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rGurrilla     #y<80>     #0<d8>      #7<20RP>#n
+#y*#0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y*#0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100984
+AnimalDice Babboon~
+#r<AnimalDice> #0AnimalDice Babboon#n~
+#r<AnimalDice> #0AnimalDice Babboon#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rBabboon      #y<80>     #0<d8>      #7<20RP>#n
+#y*#0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y*#0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100985
+AnimalDice Medusa~
+#r<AnimalDice> #0AnimalDice Medusa#n~
+#r<AnimalDice> #0AnimalDice Medusa#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rMedusa       #y<70>    #0<d10>     #7<24RP>#n
+#y*#0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y*#0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100986
+AnimalDice Anaconda~
+#r<AnimalDice> #0AnimalDice Anaconda#n~
+#r<AnimalDice> #0AnimalDice Anaconda#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rAnaconda     #y<100>    #0<d10>     #7<20RP>#n
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rAnaconda     #y<70>    #0<d10>      #7<20RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100987
+AnimalDice Stingray~
+#r<AnimalDice> #0AnimalDice Stingray#n~
+#r<AnimalDice> #0AnimalDice Stingray#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rStingray     #y<80>     #0<d8>      #7<16RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100988
+animalDice KongZilla~
+#r<AnimalDice> #0AnimalDice KongZilla#n~
+#r<AnimalDice> #0AnimalDice KongZilla#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rKongZilla    #y<100>    #0<d6>      #7<30RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100989
+AnimalDice Rhino~
+#r<AnimalDice> #0AnimalDice Rhino#n~
+#r<AnimalDice> #0AnimalDice Rhino#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rRhino        #y<75>     #0<d9>      #7<18RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100990
+AnimalDice Raptor~
+#r<AnimalDice> #0AnimalDice Raptor#n~
+#r<AnimalDice> #0AnimalDice Raptor#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rRaptor       #y<90>     #0<d7>      #7<18RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100991
+AnimalDice Shark~
+#r<AnimalDice> #0AnimalDice Shark#n~
+#r<AnimalDice> #0AnimalDice Shark#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rShark        #y<90>     #0<d7>      #7<14RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100992
+AnimalDice Lizard~
+#r<AnimalDice> #0AnimalDice Lizard#n~
+#r<AnimalDice> #0AnimalDice Lizard#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rLizard       #y<80>     #0<d8>      #7<20RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100993
+AnimalDice Cobra~
+#r<AnimalDice> #0AnimalDice Cobra#n~
+#r<AnimalDice> #0AnimalDice Cobra#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rCobra        #y<90>     #0<d7>      #7<14RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100994
+AnimalDice Siamese Cat~
+#r<AnimalDice> #0AnimalDice Siamese Cat#n~
+#r<AnimalDice> #0AnimalDice Siamese Cat#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rSiamese Cat  #y<90>     #0<d7>      #7<14RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100995
+AnimalDice Rottweiler~
+#r<AnimalDice> #0AnimalDice Rottweiler#n~
+#r<AnimalDice> #0AnimalDice Rottweiler#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rRottweiler   #y<80>     #0<d8>      #7<17Rp>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100996
+AnimalDice PitBull~
+#r<AnimalDice> #0AnimalDice PitBull#n~
+#r<AnimalDice> #0AnimalDice PitBull#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y  #rPitbull      #y<70>    #0<d10>     #7<20RP>#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100997
+AnimalDice Shadow~
+#r<AnimalDice> #0AnimalDice Shadow#n~
+#r<AnimalDice> #0AnimalDice Shadow#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rShadow       #y<75>     #0<d9>      #7<22RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100998
+AnimalDice Devil~
+#r<AnimalDice> #0AnimalDice Devil#n~
+#r<AnimalDice> #0AnimalDice Devil#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rDevil        #y<90>     #0<d7>      #7<18RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n 
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#100999
+AnimalDice Wolf~
+#r<AnimalDice> #0AnimalDice Wolf#n~
+#r<AnimalDice> #0AnimalDice Wolf#n~
+~
+15 0 1
+0 0 0
+0 0 0 0
+0 0 0
+E
+eq~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+#y* #rWolf         #y<80>     #0<d8>      #7<20RP>#n
+#y* #0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y* #0The extra Cost is already added in#n
+~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100900
+#rDevil Dice Cards#n~
+Type Look Rules
+~
+0 34611200 0
+E
+rules~
+Here are the rules for Devil Dice Cards.  One, you have to pay 5 rp
+tokens to buy a monster list.  Once you have the list theree are 60 monsters
+on them.  In order to play you will make bets of rp tokens like the rest of
+the games but when you roll you will type dice 60 and the # that comes up is
+your card then you look on your list and see the power The Card with the
+most power wins the money bet.  Now there is a certain way you can tell what
+person you are attacking.  If there are 6 people playing from AZ they get a
+# 1-6 Ie Saaid Chrono Mari Raz Seth and Alesyira --  Alesyira=1 Chrono =2 Mari
+=3 Raz =4 Saaid =5 Seth =6 You would then type dice 6 to see who you would
+attack.  Type look Attack.  
+
+-
+~
+E
+attack~
+After you attack the first person you lose power on your creature IE
+Saaid has 900 power Seth has 500 saaid now has 400 You can pay 1 rp point
+per 100 until you get back to max.  Then you go onto the next fight and hope
+you win.  The person who creature lives longest wins.  This will be tested
+so you will understand.  
+~
+D0
+~
+~
+0 0 100902
+D3
+~
+~
+0 0 100903
+S
+#100902
+#LCraps~
+Type Look  Rules
+~
+0 1056768 0
+E
+rules~
+Ok this Craps is formed off some of the real rules.  But I made it unique
+to the mud also.  First let's start with the rolling then I get to the rest.
+You figure who will go first by the A-Z method.  Then that person will roll
+if he rolls a 7 he gets a token from the pot.  If he rolls any other number
+# the dice pass on to the next in line that person rolls and tries to roll
+what the first person did.  For EXAMPLE Chrono rolls a 7 out of 12 sided
+dice.  He gets a token and rolls again.  Next he rolls 9.  So I get the
+Dice.  I roll a 9 and gets a token then I roll again and get a 12, Chrono
+gets the dice and rolls a 7.  Now when this happens this is what i call a
+BUST if you Bust you are out of that hand until someone get a token.  Type
+Look Bet 
+~
+E
+bet~
+Ok all who are playing will bet one token and that # will be multiplied by 3 and that will be the pot.
+IE 5 players 5 tokens 15 Pot = 15 total chances to win a token
+~
+D1
+~
+~
+0 0 100911
+D2
+~
+~
+0 0 100900
+S
+#100903
+#RAnotherland Devil Dice #yBasketball#g~
+Type Look Rules
+~
+0 17833984 0
+E
+rules~
+Ok First players will make a min bet of 1 token this is all up to the
+players must make it so all can play.  Then the game will start with letter
+A - Z first letter of chater name Aphabetacal order.  The next thing that
+will be done is players will role a dice 7 (type dice 7) untill some one
+gets to 21.  If you go over 21 you go back to 11 everyone in the turn must
+go each turn before the game can end winner get 2/3 pot and second place
+gets rest ie 5 tokens winner get 3 second get 2 
+~
+D1
+~
+~
+0 0 100900
+D3
+~
+~
+0 0 100991
+S
+#100904
+#0Temple #oof #yLight#n~
+~
+0 1048576 0
+D5
+~
+~
+0 0 100906
+S
+#100905
+#0Temple #yof #rDestruction#n~
+~
+0 1048580 0
+D2
+~
+~
+0 0 100906
+S
+#100906
+#iTemple #Rof #CThe #yGods#g~
+#RType (exit) to see what way to go to the right temple 
+~
+0 1048576 0
+D0
+~
+~
+0 0 100905
+D1
+~
+~
+0 0 100909
+D2
+~
+~
+0 0 100908
+D4
+~
+~
+0 0 100904
+D5
+~
+~
+0 0 100935
+S
+#100907
+#0Temple #yof #rKa#cMaKa#rZe#g~
+~
+0 17833988 0
+S
+#100908
+#0Temple #oof #0Merc#n~
+~
+0 1064960 0
+D0
+~
+~
+0 0 100906
+S
+#100909
+#0Rp Rules Room~
+Type Look Rules
+Typl Look word in #rRed#n
+ 
+~
+0 1091575808 0
+E
+points~
+~
+E
+dice~
+Ok here is the deal after Fear gave us the idea for wishes i had an 8
+sided dice made for the relm we cut it up and scattered it aboutthe land in
+order for you to bealbe to get them you must be an rp player.  If you some
+how find or kill others to get the 8 pieaces you will get the rp item
+created with Fear's wish.  This is a countius thing so after they are found
+they will be scattered again 
+~
+E
+regs~
+When you kill someone if it is rped you must do it in rp notes there must
+be at least 2 notes for each kill.  Or if i am on and doing the rp story
+line and you kill some one then i will accept it if it is rped over the rp
+channel.  You Must make Rp notes no matter what so that players on the mud
+know what happens with the kills.  If you dont make rp and you kill some one
+I will not count it as one of the 3 kills to make their souls change sides. 
+(This rule is updateable at any time) also for turing back ie you are leader
+of darkness if a darkness falls you can have them kill themselves and
+sacerfice ther soul vice versa for light and merc 
+~
+E
+rules~
+1. RP #rDeath#n
+2. RP #rRegs #n For Death
+3. Rp Devil #rDice#n Wishes
+4. Rp #rPoints#n
+~
+E
+deaths~
+If you are killed in Rp 3 times by the opposing side
+one you will have to change over sides and 2 only  way to get back is if someone from the 
+first side you were on kills you 3 times.
+
+
+   now read rp death #rregs#n
+~
+D0
+~
+~
+0 0 72099
+D1
+~
+~
+0 0 100991
+D2
+~
+~
+0 0 100098
+D3
+~
+~
+0 0 100906
+S
+#100911
+#rDevil Dice #0BlackJack#n~
+Type Look Rules
+~
+0 1048576 0
+E
+rules~
+Easy you tye dice 11 and dice 10 you add those 2 up then you ask for a
+card or not youc ant go over 21.  You may bet what ever but only bet after
+you get your first 2 cards and beforeyou getyour cards 
+For hit you type dice 11
+~
+D3
+~
+~
+0 0 100902
+S
+#100935
+#0Temple #yof #RRukason#g~
+~
+0 135282694 0
+D4
+~
+~
+0 0 100906
+S
+#100969
+The #CDining#n Room~
+~
+0 1048584 0
+D1
+~
+~
+0 0 40801
+D4
+~
+~
+0 0 40805
+S
+#100991
+#rAnimal Devil Dice Fighting#n~
+Type look Rules
+Type Look List
+Type Look Item
+Type Look File
+~
+0 51396614 0
+E
+power3~
+Adds 100 life to you pet
+~
+E
+power2~
+Adds 1d6 to your pet's base attack.
+~
+E
+power1~
+Adds 50 life to your pet
+~
+E
+buda~
+Your pet will be un affected by attacks for 2 turns use only durning 
+your turn.
+~
+E
+wand~
+3 heal 40 life
+~
+E
+helm~
+Adds 30 point to your pet's life
+~
+E
+spikes~
+Adds 1d2 to your pet's base attack
+~
+E
+spit~
+An attack for no handed pets that will let them do the same as a
+dagger would in battle
+~
+E
+bat~
+Does 1d6 dagage 
+~
+E
+raygun~
+A ray used by pets who can't hold swords or bats does 1d6 damage
+~
+E
+dagger~
+does 1d4 damage you can hold up to 10 and can only be thrown once
+you can through 4 for one attack if you hit.
+~
+E
+cure~
+Heal you pet's life fully max holdable 3
+~
+E
+bomb~
+Bombs are an auto attack max holdable by player or pet is 10 they can do up to
+20 damage ie roll a 1d20.
+~
+E
+flame~
+Flames do 1d12 damage only pets that cant use swords can use this attack you will 
+lose 10 life points to add this to your pet.
+~
+E
+tourch~
+does 1d6 dammage all pets can use (also a light source for rp)
+~
+E
+sword~
+Swords for pets will do 1d12 damage you can wear 2 of them if your pet is allowed
+too. you will take a -10 life penalty for wearing each sword. for rp player's use 
+in rp fight it does 1d15 and you will lose 10 hp to wear each one stil.
+~
+E
+shield~
+adds 25 life points to you pet all pets can wear a shield but you can't wear 
+a shield and two swords.
+~
+E
+whip~
+A Whip that your pet ueses to attack with dammage of 2d6   
+~
+E
+heal~
+Heals 40 of your hp or 40 of your animals hp  max hold of 10.
+~
+E
+claws~
+A Pair of gloves that have sharp blades at the end enhancing the base attack
+of all animals wearing them even thouse without arms and feet.
+~
+E
+file~
+To view help file type help and the word in gray.
+1.#0Claws#n  
+2.#0Heal#n  
+3.#0Whip#n   
+4.#0Sheild#n
+5.#0Sword#n 
+6.#0Tourch#n   
+7.#0Flame#n
+8.#0Bomb#n  
+9.#0Cure#n
+10.#0Dagger#n
+11.#0Bat#n 
+12.#0Spikes#n
+13.#0Helm#n
+14.#0Wand#n
+15.#0Buda#n
+16.#0Power#n
+17.#0Power2#n
+18.#0Power3#n
+19.#0Spit#n
+20.#0Raygun#n
+~
+E
+rules~
+Rules to devil dice animal fighting Type Look List to see a list of
+monsters you can buy.  Type Look Items to see a list of Weapons and items
+you can buy.  Look EQ allows you to see the eq your monster has.  To rename
+your pet you can only change the long and short description to (petname)
+creaturetype IE <Saaid> Spider Monkey.  "Note you may not change the base
+type of creature when naming it" Certain Weapons have to be bought and put
+in a bag ie heals and bombs these items have a Look Status on them. 
+Attacking To hit you have to roll a 15 or higher After typing Dice 20.  If
+you hit then roll damage The damage roll is the base attack on your Chaters
+Look Eq Ie (d6) means you roll a 1 dice 6 (dice 6 command) to do your
+damage.  Each animal has atleast one eq spot and more to add things more
+rules in detail when game is played.  Thanks to Hanzo and Saran for thier
+help Saaid.  Betting you can bet before a fight begains with me or other
+players if you wish but only before the fight begains.  Crit hit rule Thanks
+to Ryouko and Saran and Hanzo if you roll a 20 out of 20 on the attack you
+get a crit hit witch mean you roll your base attack and then you roll A dice
+20 and add those togeahter for a total dam roll.  
+~
+E
+list~
+#y  #rName         #y<Life>   #0<Dam>     #7<cost>#n
+ 
+#y* #rKongZilla    #y<100>    #0<d6>      #7<30RP>#n
+#y* #rWolf         #y<80>     #0<d8>      #7<20RP>#n
+#y* #rDevil        #y<90>     #0<d7>      #7<18RP>#n
+#y* #rShadow       #y<75>     #0<d9>      #7<22RP>#n
+#y  #rPitbull      #y<70>     #0<d10>     #7<20RP>#n
+#y  #rRottweiler   #y<80>     #0<d8>      #7<17Rp>#n
+#y  #rSiamese Cat  #y<90>     #0<d7>      #7<14RP>#n
+#y  #rCobra        #y<90>     #0<d7>      #7<14RP>#n
+#y* #rLizard       #y<80>     #0<d8>      #7<20RP>#n
+#y  #rShark        #y<90>     #0<d7>      #7<14RP>#n
+#y* #rRaptor       #y<90>     #0<d7>      #7<18RP>#n
+#y  #rRhino        #y<75>     #0<d9>      #7<18RP>#n
+#y  #rStingray     #y<80>     #0<d8>      #7<16RP>#n
+#y  #rAnaconda     #y<70>     #0<d10>     #7<20RP>#n
+#y* #rMedusa       #y<70>     #0<d10>     #7<24RP>#n
+#y* #rBabboon      #y<80>     #0<d8>      #7<20RP>#n
+#y* #rGurrilla     #y<80>     #0<d8>      #7<20RP>#n
+#y* #rSpider Monkey#y<90>     #0<d7>      #7<18RP>#n
+#y*#0Can Use Swords and Daggers but Cost 4 more Rp#n
+#y*#0The extra Cost is already added in#n 
+~
+E
+items~
+#y   #0Item     #r(cost)         #y<Ability>#n
+ 
+#y** #0Claws    #r(10RP)         #y<+1d4(1d2*2claws)To Base Attack>#n
+#y   #0Heal     #r(10RP)         #y<Heals 40 Life>#n
+#y   #0Whip     #r(20RP)         #y<Attack 2d6>#n
+#y** #0Sheild   #r(15RP)         #y<+25Life>#n
+#y*  #0Sword    #r(20RP)         #y<Attack 1d12>#n
+#y   #0Tourch   #r(5RP)          #y<Attack 1d6>#n
+#y   #0Flame    #r(20RP)         #y<Attack 1d12>#n
+#y   #0Bomb     #r(15RP)         #y<Attack 1d20 one time use>#n
+#y   #0Cure     #r(20RP)         #y<Heal all Damage>#n
+#y*  #0Dagger   #r(5RP)          #y<Attack 1d4 can throw 4 for one Attack>#n
+#y   #0spit     #r(5RP)          #y<Attack 1d4 can spit 4 time for one attack>#n
+#y   #0Bat      #r(5RP)          #y<Attack 1d6>#n
+#y** #0Spikes   #r(8RP)          #y<+1d2 To Base Attack>#n
+#y   #0Raygun   #r(8RP)          #y<Attack 1d6>#n
+#y** #0Helm     #r(20RP)         #y<+30 Life>#n
+#y   #0Wand     #r(30RP)         #y<3 Heals>#n
+#y   #0Buda     #r(25RP)         #y<Take no Damage 2 Turns>#n
+#y** #0Power    #r(30RP)         #y<+50 Life>#n
+#y** #0Power2   #r(30RP)         #y<+1d6 To Base Attack>#n
+#y** #0Power3   #r(35RP)         #y<+100 Life>#n
+#y
+#y**#0Can only be bought one time.#n
+#y* #0Can only be used by Monsters with Hands.#n
+~
+D1
+~
+~
+0 0 100903
+D3
+~
+~
+0 0 100909
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 100902 0 100902
+O 0 100905 0 100903
+O 0 100904 0 100903
+O 0 100916 0 100907
+O 0 100911 0 100911
+O 0 110971 0 100969
+O 0 110974 0 100969
+O 0 110973 0 100969
+O 0 100901 0 100991
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

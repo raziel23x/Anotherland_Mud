@@ -1,0 +1,2725 @@
+#AREADATA
+Name        Raziel  The Land of the Dead~
+Builders    Raziel Marisella~
+VNUMs       102100 102199
+Security    1
+Recall      3005
+Flags	      64
+End
+
+
+
+#MOBILES
+#102100
+undead knight~
+#lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n~
+A #lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n stands here.
+~
+~
+19 168 -1000 S
+1211 0 0 0d10+2 0d0+0
+0 0
+0 0 0
+#102101
+death lord~
+#RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n~
+A #RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n is looking for someone to kill.
+~
+~
+23 170 -1000 S
+1328 0 0 50d10+1 0d0+0
+0 0
+0 0 0
+#102102
+death knight~
+#GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n~
+A #GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n is here eating a fresh kill.
+~
+~
+23 168 -1000 S
+1166 0 0 50d10+1 0d0+0
+0 0
+0 0 0
+#102103
+fallen angel~
+#0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n~
+A #0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n is standing here.
+~
+~
+23 170 -1000 S
+1319 0 0 50d10+1 0d0+0
+0 0
+0 0 0
+#102104
+lich lord~
+#pL#ci#pc#ch #pL#co#pr#cd#n~
+A #pL#ci#pc#ch #pL#co#pr#cd#n is here practising magic.
+~
+~
+23 168 -1000 S
+1151 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102105
+dragon slayer~
+#RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n~
+A #RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n is here looking for someone to kill.
+~
+~
+23 168 0 S
+1342 0 0 -50d10+3 0d0+0
+0 0
+0 0 0
+#102106
+death angel~
+#0D#le#0a#lt#0h #0A#ln#0g#le#0l#n~
+A #0D#le#0a#lt#0h #0A#ln#0g#le#0l#n is hear standing about.
+~
+~
+19 168 -1000 S
+1126 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102107
+lowellyn~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n stands here practicing his spells.
+~
+~
+23 168 -1000 S
+1239 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102108
+oppinimos~
+#GO#Cp#gp#ci#Gn#Ci#Gm#Co#gs#n~
+#GO#Cp#gp#ci#Gn#Ci#Gm#Co#gs#n stands here with fire in his eyes.
+~
+~
+19 140 -1000 S
+1226 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102109
+pavlina~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n stands here looking for a new kill.
+~
+~
+19 170 -1000 S
+1327 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102110
+dominique~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n stands here with a evil look on his face.
+~
+~
+19 168 -1000 S
+1185 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102111
+undead knight~
+#lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n~
+A #lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n stands here.
+~
+~
+19 168 -1000 S
+1274 0 0 0d10+2 0d0+0
+0 0
+0 0 0
+#102112
+death lord~
+#RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n~
+A #RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n is looking for someone to kill.
+~
+~
+19 168 -1000 S
+1366 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102113
+death knight~
+#GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n~
+A #GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n is here eating a fresh kill.
+~
+~
+19 168 -1000 S
+1161 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102114
+fallen angel~
+#0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n~
+A #0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n is standing here.
+~
+~
+19 168 -1000 S
+1304 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102115
+lich lord~
+#pL#ci#pc#ch #pL#co#pr#cd#n~
+A #pL#ci#pc#ch #pL#co#pr#cd#n is here practising magic.
+~
+~
+19 168 -1000 S
+1131 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102116
+dragon slayer~
+#RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n~
+A #RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n is here looking for someone to kill.
+~
+~
+19 168 -1000 S
+1194 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102117
+death angel~
+#0D#le#0a#lt#0h #0A#ln#0g#le#0l#n~
+A #0D#le#0a#lt#0h #0A#ln#0g#le#0l#n is here standing about.
+~
+~
+19 168 -1000 S
+1140 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102118
+lowellyn~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n stands here practicing his spells.
+~
+~
+19 168 -1000 S
+1197 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102119
+oppinimos~
+#GO#Cp#gp#ci#Gn#ci#Gm#Co#gs#n~
+#GO#Cp#gp#ci#Gn#ci#Gm#Co#gs#n stands here with fire in his eyes.
+~
+~
+19 168 -1000 S
+1193 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102120
+pavlina~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n stands here looking for a new kill.
+~
+~
+19 168 -1000 S
+1273 0 0 50d10+3 0d0+0
+0 0
+0 0 1
+#102121
+dominique~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n stands here with a evil look on his face.
+~
+~
+19 0 -1000 S
+1210 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102122
+undead knight~
+#lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n~
+A #lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n stands here.
+~
+~
+19 168 -1000 S
+1209 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102123
+death lord~
+#RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n~
+A #RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n is looking for someone to kill.
+~
+~
+19 168 -1000 S
+1301 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102124
+death knight~
+#GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n~
+A #GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n is here eating a fresh kill.
+~
+~
+19 168 -1000 S
+1225 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102125
+fallen angel~
+#0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n~
+A #0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n is standing here.
+~
+~
+19 168 -1000 S
+1301 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102126
+lich lord~
+#pL#ci#pc#ch #pL#co#pr#cd#n~
+A #pL#ci#pc#ch #pL#co#pr#cd#n is here practising magic.
+~
+~
+19 168 -1000 S
+1227 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102127
+dragon slayer~
+#RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n~
+A #RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n is here looking for someone to kill.
+~
+~
+19 168 -1000 S
+1212 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102128
+death angel~
+#0D#le#0a#lt#0h #0A#ln#0g#le#0l#n~
+A #0D#le#0a#lt#0h #0A#ln#0g#le#0l#n is hear standing about.
+~
+~
+19 168 -1000 S
+1185 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102129
+undead knight~
+#lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n~
+A #lU#Ln#gd#Ge#la#Ld #lK#Ln#gi#Gg#lh#Lt#n stands here.
+~
+~
+19 168 -1000 S
+1187 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102130
+death lord~
+#RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n~
+A #RD#pe#Ra#pt#Rh #RL#po#Rr#pd#n is looking for someone to kill.
+~
+~
+19 168 -1000 S
+1116 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102131
+death knight~
+#GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n~
+A #GD#ge#ca#Gt#gh #GK#gn#ci#Cg#Gh#gt#n is here eating a fresh kill.
+~
+~
+19 168 -1000 S
+1083 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102132
+fallen angel~
+#0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n~
+A #0F#oa#0l#ol#0e#on #0A#on#0g#oe#0l#n is standing here.
+~
+~
+19 168 -1000 S
+1265 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102133
+lich lord~
+#pL#ci#pc#ch #pL#co#pr#cd#n~
+A #pL#ci#pc#ch #pL#co#pr#cd#n is here practising magic.
+~
+~
+19 168 -1000 S
+1123 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102134
+dragon slayer~
+#RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n~
+A #RD#Cr#ra#cg#Ro#Cn #RS#Cl#ra#cy#Re#Cr#n is here looking for someone to kill.
+~
+~
+19 168 -1000 S
+1218 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102135
+death angel~
+#0D#le#0a#lt#0h #0A#ln#0g#le#0l#n~
+A #0D#le#0a#lt#0h #0A#ln#0g#le#0l#n is hear standing about.
+~
+~
+19 168 -1000 S
+1170 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102136
+lowellyn~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n~
+#RL#Go#rw#ge#Rl#Gl#ry#gn#n stands here practicing his spells.
+~
+~
+19 168 -1000 S
+1358 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102137
+oppinimos~
+#GO#Cp#gp#ci#Gn#Ci#gm#co#Gs#n~
+#GO#Cp#gp#ci#Gn#Ci#gm#co#Gs#n stands here with fire in his eyes.
+~
+~
+19 168 -1000 S
+1245 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102138
+pavlina~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n~
+#RP#Pa#Rv#Pl#Ri#Pn#Ra#n stands here looking for a new kill.
+~
+~
+19 168 -1000 S
+1251 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102139
+dominique~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n~
+#CD#Go#Cm#Gi#Cn#Gi#Cq#Gu#Ce#n stands here with a evil look on his face.
+~
+~
+19 168 -1000 S
+1186 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#102140
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1450 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102141
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1498 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102142
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1342 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102143
+sedienite~
+#PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n~
+A #PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n is here staring at you.
+~
+~
+19 168 -1000 S
+1537 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102144
+headless zombie~
+#sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n~
+A #sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n is wondering aimlessly here.
+~
+~
+19 168 -1000 S
+1462 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102145
+wondering corpse~
+#0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n~
+A #0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n is here. 
+~
+~
+19 168 -1000 S
+1491 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102146
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1454 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102147
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1276 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102148
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1257 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102149
+sedienite~
+#PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n~
+A #PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n is here staring at you.
+~
+~
+19 168 -1000 S
+1476 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102150
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1327 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102151
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1137 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102152
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1362 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102153
+sedienite~
+#PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n~
+A #PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n is here staring at you.
+~
+~
+19 168 -1000 S
+1491 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102154
+headless zombie~
+#sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n~
+A #sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n is wondering aimlessly here.
+~
+~
+19 168 -1000 S
+1442 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102155
+wondering corpse~
+#0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n~
+A #0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n is here. 
+~
+~
+19 168 -1000 S
+1473 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102156
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1477 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102157
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1524 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102158
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1370 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102159
+sedienite~
+#PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n~
+A #PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n is here staring at you.
+~
+~
+19 168 -1000 S
+1501 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102160
+headless zombie~
+#sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n~
+A #sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n is wondering aimlessly here.
+~
+~
+19 168 -1000 S
+1446 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102161
+wondering corpse~
+#0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n~
+A #0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n is here. 
+~
+~
+19 168 -1000 S
+1459 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102162
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1374 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102163
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1587 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102164
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1332 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102165
+demon dog~
+#RD#re#Rm#ro#Rn #RD#ro#Rg#n~
+A #RD#re#Rm#ro#Rn #RD#ro#Rg#n is standing here
+~
+~
+19 168 -1000 S
+1388 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102166
+evil wraith~
+#GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n~
+A #GE#pv#Gi#pl #GW#pr#Ga#pi#Gt#ph#n stands here.
+~
+~
+19 168 -1000 S
+1568 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102167
+zombie lord~
+#LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n~
+A #LZ#Co#Lm#Cb#Li#Ce #LL#Co#Lr#Cd#n is standing here.
+~
+~
+19 168 -1000 S
+1346 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102168
+sedienite~
+#PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n~
+A #PS#Ce#Pd#Ci#Pe#Cn#Pi#Ct#Pe#n is here staring at you.
+~
+~
+19 168 -1000 S
+1513 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102169
+headless zombie~
+#sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n~
+A #sH#se#sa#sd#sl#se#ss#ss #sZ#so#sm#sb#si#se#n is wondering aimlessly here.
+~
+~
+19 168 -1000 S
+1318 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102170
+wondering corpse~
+#0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n~
+A #0W#oo#0n#od#0e#or#0i#on#0g #0C#oo#0r#op#0s#oe#n is here. 
+~
+~
+19 168 -1000 S
+1356 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102171
+succubus~
+#0S#Ru#0c#Rc#0u#Rb#0u#Rs#n~
+A #0S#Ru#0c#Rc#0u#Rb#0u#Rs#n stands here.
+~
+~
+19 168 -1000 S
+1420 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102172
+revenant~
+#LR#le#Cv#ce#Ln#la#Cn#ct#n~
+A #LR#le#Cv#ce#Ln#la#Cn#ct#n stands here.
+~
+~
+19 168 -1000 S
+1634 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102173
+shade~
+#rS#yh#ra#yd#re#n~
+A #rS#yh#ra#yd#re#n is here.
+~
+~
+19 168 -1000 S
+1439 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102174
+hell~
+#CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n~
+A #CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n is here staring at you.
+~
+~
+19 168 -1000 S
+1621 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102175
+undead dragon~
+#PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n~
+A #PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n is here breathign fire.
+~
+~
+19 168 -1000 S
+1597 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102176
+evil dragon~
+#RE#Gv#Ri#Gl #RD#Gr#Ra#Gg#Ro#Gn#n~
+A #RE#Gv#Ri#Gl #RD#Gr#Ra#Gg#Ro#Gn#n has black smoke coming from his nose.
+~
+~
+19 168 -1000 S
+1669 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102177
+succubus~
+#0S#Ru#0c#Rc#0u#Rb#0u#Rs#n~
+A #0S#Ru#0c#Rc#0u#Rb#0u#Rs#n stands here.
+~
+~
+19 168 -1000 S
+1610 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102178
+revenant~
+#LR#le#Cv#ce#Ln#la#Cn#ct#n~
+A #LR#le#Cv#ce#Ln#la#Cn#ct#n stands here.
+~
+~
+19 168 -1000 S
+1704 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102179
+shade~
+#rS#yh#ra#yd#re#n~
+A #rS#yh#ra#yd#re#n is here.
+~
+~
+19 168 -1000 S
+1574 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102180
+hell~
+#CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n~
+A #CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n is here staring at you.
+~
+~
+19 168 -1000 S
+1683 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102181
+undead dragon~
+#PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n~
+A #PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n is here breathign fire.
+~
+~
+19 168 -1000 S
+1650 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102182
+evil dragon~
+#RE#Gv#Ri#Gl #RD#Gr#Ra#Gg#Ro#Gn#n~
+A #RE#Gv#Ri#Gl #RD#Gr#Ra#Gg#Ro#Gn#n has black smoke coming from his nose.
+~
+~
+19 168 -1000 S
+1679 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102183
+succubus~
+#0S#Ru#0c#Rc#0u#Rb#0u#Rs#n~
+A #0S#Ru#0c#Rc#0u#Rb#0u#Rs#n stands here.
+~
+~
+19 168 -1000 S
+1576 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102184
+revenant~
+#LR#le#Cv#ce#Ln#la#Cn#ct#n~
+A #LR#le#Cv#ce#Ln#la#Cn#ct#n stands here.
+~
+~
+19 168 -1000 S
+1722 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102185
+succubus~
+#0S#Ru#0c#Rc#0u#Rb#0u#Rs#n~
+A #0S#Ru#0c#Rc#0u#Rb#0u#Rs#n stands here.
+~
+~
+19 168 -1000 S
+1580 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102186
+revenant~
+#LR#le#Cv#ce#Ln#la#Cn#ct#n~
+A #LR#le#Cv#ce#Ln#la#Cn#ct#n stands here.
+~
+~
+19 168 -1000 S
+1726 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102187
+shade~
+#rS#yh#ra#yd#re#n~
+A #rS#yh#ra#yd#re#n is here.
+~
+~
+19 168 -1000 S
+1374 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102188
+hell~
+#CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n~
+A #CH#Re#Cl#Rl #CS#Rp#Ca#Rw#Cn#n is here staring at you.
+~
+~
+19 168 -1000 S
+1515 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102189
+undead dragon~
+#PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n~
+A #PU#Ln#Pd#Le#Pa#Ld #PD#Lr#Pa#Lg#Po#Ln#n is here breathign fire.
+~
+~
+19 168 -1000 S
+1565 0 0 50d1+3 0d0+0
+0 0
+0 0 0
+#102199
+death~
+#0D#re#0a#rt#0h#n~
+#0D#re#0a#rt#0h#n is here feasting on his fresh kill.
+~
+~
+328735 4194472 500 S
+2397 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#102100
+i killed death medal~
+#RI #yki#Gll#yed #0D#re#0a#rt#0h #GM#Ce#Gd#Ca#Gl#n~
+A #RI #yki#Gll#yed #0D#re#0a#rt#0h #GM#Ce#Gd#Ca#Gl#n lies here.~
+~
+9 262275 262145
+2 0 1114112
+100 0 0 15
+0 0 0
+A
+19 200
+A
+18 200
+A
+17 -100
+A
+13 100
+A
+12 100
+A
+14 100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102189
+250 quest point token~
+an 250 quest point token~
+An 250 quest point token lies here.~
+~
+33 0 1
+0 0 0
+250 0 0 0
+0 10 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102190
+imm trainers~
+imm trainers~
+Imm trainers~
+~
+1 0 1
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+13 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+12 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+A
+14 -30000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102191
+Raziel second rape scroll~
+#RR#ra#Rz#ri#Re#rl#R'#rs #GS#ye#Gc#yo#Gn#yd #RR#ra#Rp#re #GS#yc#Gr#yo#Gl#yl#n~
+#RR#ra#Rz#ri#Re#rl#R'#rs #GS#ye#Gc#yo#Gn#yd #RR#ra#Rp#re #GS#yc#Gr#yo#Gl#yl#n lies here.~
+~
+2 0 16385
+0 0 0
+100000 'imp fireball' 'clay ball' 'drowfire'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102192
+spell look up armor~
+spell look up armor~
+Spell look up armor~
+~
+9 0 8193
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102193
+spell look up weapon~
+spell look up weapon~
+Spell look up weapon~
+~
+5 0 1
+0 0 0
+43 0 0 1
+0 1000000 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102194
+raziel rape armor~
+#RR#Ga#Rz#Gi#Re#Gl#R'#Gs #yR#oa#yp#oe #RA#Gr#Rm#Go#Rr#n~
+#RR#Ga#Rz#Gi#Re#Gl#R'#Gs #yR#oa#yp#oe #RA#Gr#Rm#Go#Rr#n lies here.~
+~
+9 16643 9
+0 0 33619968
+999990 0 0 0
+0 0 0
+A
+14 30000
+A
+14 30000
+A
+14 30000
+A
+12 30000
+A
+12 30000
+A
+12 30000
+A
+13 30000
+A
+13 30000
+A
+13 30000
+A
+17 -30000
+A
+17 -30000
+A
+17 -30000
+A
+5 25
+A
+4 25
+A
+3 25
+A
+2 25
+A
+1 25
+A
+19 800
+A
+18 800
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102195
+raziel sword of rape~
+#RR#Ga#Rz#Gi#Re#Gl#R'#Gs #LS#Cw#Lo#Cr#Ld #yo#of #RR#Ga#Rp#Ge#n~
+#RR#Ga#Rz#Gi#Re#Gl#R'#Gs #LS#Cw#Lo#Cr#Ld #yo#of #RR#Ga#Rp#Ge#n lies here.~
+~
+5 278787 8193
+0 -1892 134053888
+210 22000 22000 1
+0 0 0
+A
+17 -25000
+A
+5 25
+A
+4 25
+A
+3 25
+A
+2 25
+A
+1 25
+A
+19 25000
+A
+18 25000
+A
+13 25000
+A
+12 25000
+A
+14 25000
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102196
+burp~
+burp~
+A burp lies here.~
+~
+17 0 16385
+0 0 0
+-1 2000000000 17 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102197
+raziel scroll of rape~
+#RR#ra#Rz#ri#Re#Rl#r'#Rs #Rs#rc#Rr#ro#Rl#rl #Ro#rf #RR#ra#Rp#re#n~
+A #RR#ra#Rz#ri#Re#Rl#r'#Rs #Rs#rc#Rr#ro#Rl#rl #Ro#rf #RR#ra#Rp#re#n lies here.~
+~
+2 0 16385
+0 0 0
+500000 'chaos blast' 'weaken' 'web'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102198
+protection scroll~
+#RP#Gr#Ro#Gt#Re#Gc#Rt#Gi#Ro#Gn #RS#Gc#Rr#Go#Rl#Gl#n~
+A #RP#Gr#Ro#Gt#Re#Gc#Rt#Gi#Ro#Gn #RS#Gc#Rr#Go#Rl#Gl#n lies here.~
+~
+2 0 16385
+0 0 0
+500000 'Godbless' 'bless' 'darkblessing'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#102199
+death scroll~
+#rD#0e#ra#0t#rh #rs#0c#rr#0o#rl#0l#n~
+A #rD#0e#ra#0t#rh #rs#0c#rr#0o#rl#0l#n lies here.~
+~
+2 3 16385
+0 0 0
+500000 'detect invis' 'detect hidden' 'stone skin'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#102100
+Center Horrid Corridor~
+The area is covered with the corpses of the ones who have come before you.
+They are covered with fresh blood that seems to be from a recent death.
+~
+0 536871940 0
+D0
+~
+~
+0 0 102101
+D1
+~
+~
+0 0 102133
+D2
+~
+~
+0 0 102134
+D3
+~
+~
+0 0 102119
+D5
+~
+~
+0 0 102149
+S
+#102101
+Horrid Corridor~
+There are scattered body parts of fallen warriors lying all about the ground.
+The smell of blood is strong in the room. The words '#RDeath to all#n' is writing
+on a stone in blood on the ground buy a corpse.
+~
+0 0 0
+D0
+~
+~
+0 0 102102
+D2
+~
+~
+0 0 102100
+S
+#102102
+Horrid Corridor~
+The area is covered with the corpses of the ones who have come before you.
+They are covered with fresh blood that seems to be from a recent death.
+On a stone by a rotting corpse the word '#RDanger#n' writing in blood  by a
+fallen tree that looks as of someone with a very large weapon cut it down
+with one swing.
+~
+0 0 0
+D0
+~
+~
+0 0 102103
+D2
+~
+~
+0 0 102101
+S
+#102103
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102104
+D2
+~
+~
+0 0 102102
+S
+#102104
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102105
+D2
+~
+~
+0 0 102103
+S
+#102105
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102120
+D2
+~
+~
+0 0 102104
+D3
+~
+~
+0 0 102106
+S
+#102106
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102105
+D3
+~
+~
+0 0 102107
+S
+#102107
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102106
+D3
+~
+~
+0 0 102108
+S
+#102108
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102107
+D3
+~
+~
+0 0 102109
+S
+#102109
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102108
+D3
+~
+~
+0 0 102110
+S
+#102110
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102109
+D2
+~
+~
+0 0 102111
+S
+#102111
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102110
+D2
+~
+~
+0 0 102112
+S
+#102112
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102111
+D2
+~
+~
+0 0 102113
+S
+#102113
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102112
+D2
+~
+~
+0 0 102114
+S
+#102114
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102113
+D2
+~
+~
+0 0 102115
+S
+#102115
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102114
+D1
+~
+~
+0 0 102116
+S
+#102116
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102117
+D3
+~
+~
+0 0 102115
+S
+#102117
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102118
+D3
+~
+~
+0 0 102116
+S
+#102118
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102119
+D3
+~
+~
+0 0 102117
+S
+#102119
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102100
+D3
+~
+~
+0 0 102118
+S
+#102120
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102121
+D3
+~
+~
+0 0 102105
+S
+#102121
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102122
+D3
+~
+~
+0 0 102120
+S
+#102122
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102123
+D3
+~
+~
+0 0 102121
+S
+#102123
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102124
+D3
+~
+~
+0 0 102122
+S
+#102124
+Horrid Corridor~
+~
+0 0 0
+D2
+~
+~
+0 0 102125
+D3
+~
+~
+0 0 102123
+S
+#102125
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102124
+D2
+~
+~
+0 0 102126
+S
+#102126
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102125
+D2
+~
+~
+0 0 102127
+S
+#102127
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102126
+D2
+~
+~
+0 0 102128
+S
+#102128
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102127
+D2
+~
+~
+0 0 102129
+S
+#102129
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102128
+D3
+~
+~
+0 0 102130
+S
+#102130
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102129
+D3
+~
+~
+0 0 102131
+S
+#102131
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102130
+D3
+~
+~
+0 0 102132
+S
+#102132
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102131
+D3
+~
+~
+0 0 102133
+S
+#102133
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102132
+D3
+~
+~
+0 0 102100
+S
+#102134
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102100
+D2
+~
+~
+0 0 102135
+S
+#102135
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102134
+D2
+~
+~
+0 0 102136
+S
+#102136
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102135
+D2
+~
+~
+0 0 102137
+S
+#102137
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102136
+D2
+~
+~
+0 0 102138
+S
+#102138
+Horrid Corridor~
+~
+0 0 0
+D0
+~
+~
+0 0 102137
+D1
+~
+~
+0 0 102139
+D3
+~
+~
+0 0 102144
+S
+#102139
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102140
+D3
+~
+~
+0 0 102138
+S
+#102140
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102141
+D3
+~
+~
+0 0 102139
+S
+#102141
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102142
+D3
+~
+~
+0 0 102140
+S
+#102142
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102143
+D3
+~
+~
+0 0 102141
+S
+#102143
+Horrid Corridor~
+~
+0 0 0
+D3
+~
+~
+0 0 102142
+S
+#102144
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102138
+D3
+~
+~
+0 0 102145
+S
+#102145
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102144
+D3
+~
+~
+0 0 102146
+S
+#102146
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102145
+D3
+~
+~
+0 0 102147
+S
+#102147
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102146
+D3
+~
+~
+0 0 102148
+S
+#102148
+Horrid Corridor~
+~
+0 0 0
+D1
+~
+~
+0 0 102147
+S
+#102149
+Center of Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102150
+D2
+~
+~
+0 0 102155
+D4
+~
+~
+0 0 102100
+D5
+~
+~
+0 0 102180
+S
+#102150
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102151
+D2
+~
+~
+0 0 102149
+S
+#102151
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102152
+D2
+~
+~
+0 0 102150
+S
+#102152
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102153
+D2
+~
+~
+0 0 102151
+S
+#102153
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102154
+D2
+~
+~
+0 0 102152
+S
+#102154
+Dungeon 1~
+~
+0 0 0
+D2
+~
+~
+0 0 102153
+S
+#102155
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102149
+D2
+~
+~
+0 0 102156
+S
+#102156
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102155
+D2
+~
+~
+0 0 102157
+S
+#102157
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102156
+D2
+~
+~
+0 0 102158
+S
+#102158
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102157
+D2
+~
+~
+0 0 102159
+S
+#102159
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102158
+D1
+~
+~
+0 0 102160
+D3
+~
+~
+0 0 102170
+S
+#102160
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102161
+D3
+~
+~
+0 0 102159
+S
+#102161
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102162
+D3
+~
+~
+0 0 102160
+S
+#102162
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102163
+D3
+~
+~
+0 0 102161
+S
+#102163
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102164
+D3
+~
+~
+0 0 102162
+S
+#102164
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102165
+D3
+~
+~
+0 0 102163
+S
+#102165
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102166
+D2
+~
+~
+0 0 102164
+S
+#102166
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102167
+D2
+~
+~
+0 0 102165
+S
+#102167
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102168
+D2
+~
+~
+0 0 102166
+S
+#102168
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102169
+D2
+~
+~
+0 0 102167
+S
+#102169
+Dungeon 1~
+~
+0 0 0
+D2
+~
+~
+0 0 102168
+S
+#102170
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102159
+D3
+~
+~
+0 0 102171
+S
+#102171
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102170
+D3
+~
+~
+0 0 102172
+S
+#102172
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102171
+D3
+~
+~
+0 0 102173
+S
+#102173
+Dungeon 1~
+~
+0 0 0
+D1
+~
+~
+0 0 102172
+D3
+~
+~
+0 0 102174
+S
+#102174
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102175
+D1
+~
+~
+0 0 102173
+S
+#102175
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102176
+D2
+~
+~
+0 0 102174
+S
+#102176
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102177
+D2
+~
+~
+0 0 102175
+S
+#102177
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102178
+D2
+~
+~
+0 0 102176
+S
+#102178
+Dungeon 1~
+~
+0 0 0
+D0
+~
+~
+0 0 102179
+D2
+~
+~
+0 0 102177
+S
+#102179
+Dungeon 1~
+~
+0 0 0
+D2
+~
+~
+0 0 102178
+S
+#102180
+Center of Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102186
+D3
+~
+~
+0 0 102181
+D4
+~
+~
+0 0 102149
+D5
+~
+~
+0 0 102199
+S
+#102181
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102180
+D3
+~
+~
+0 0 102182
+S
+#102182
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102181
+D3
+~
+~
+0 0 102183
+S
+#102183
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102182
+D3
+~
+~
+0 0 102184
+S
+#102184
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102183
+D3
+~
+~
+0 0 102185
+S
+#102185
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102195
+D1
+~
+~
+0 0 102184
+D2
+~
+~
+0 0 102197
+S
+#102186
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102187
+D3
+~
+~
+0 0 102180
+S
+#102187
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102188
+D3
+~
+~
+0 0 102186
+S
+#102188
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102189
+D3
+~
+~
+0 0 102187
+S
+#102189
+Dungeon 2~
+~
+0 0 0
+D1
+~
+~
+0 0 102190
+D3
+~
+~
+0 0 102188
+S
+#102190
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102191
+D2
+~
+~
+0 0 102193
+D3
+~
+~
+0 0 102189
+S
+#102191
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102192
+D2
+~
+~
+0 0 102190
+S
+#102192
+Dungeon 2~
+~
+0 0 0
+D2
+~
+~
+0 0 102191
+S
+#102193
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102190
+D2
+~
+~
+0 0 102194
+S
+#102194
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102193
+S
+#102195
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102196
+D2
+~
+~
+0 0 102185
+S
+#102196
+Dungeon 2~
+~
+0 0 0
+D2
+~
+~
+0 0 102195
+S
+#102197
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102185
+D2
+~
+~
+0 0 102198
+S
+#102198
+Dungeon 2~
+~
+0 0 0
+D0
+~
+~
+0 0 102197
+S
+#102199
+Death's room~
+~
+0 0 0
+D4
+~
+~
+0 0 102180
+S
+#0
+
+
+
+#SPECIALS
+M 102100 spec_vladd_decap
+M 102101 spec_breath_gas
+M 102102 spec_breath_any
+M 102104 spec_cast_mage
+M 102105 spec_vladd_decap
+M 102106 spec_vladd_decap
+M 102107 spec_cast_mage
+M 102109 spec_vladd_decap
+M 102110 spec_vladd_decap
+M 102111 spec_vladd_decap
+M 102115 spec_cast_mage
+M 102116 spec_vladd_decap
+M 102117 spec_vladd_decap
+M 102118 spec_cast_mage
+M 102199 spec_executioner
+S
+
+
+
+#RESETS
+M 0 102124 10 102101
+M 0 102123 10 102102
+M 0 102122 10 102103
+M 0 102121 10 102104
+M 0 102105 10 102105
+M 0 102104 10 102106
+M 0 102103 10 102107
+M 0 102102 10 102108
+M 0 102101 10 102109
+M 0 102100 10 102110
+M 0 102116 10 102111
+M 0 102117 10 102112
+M 0 102118 10 102113
+M 0 102119 10 102114
+M 0 102120 10 102115
+M 0 102106 10 102120
+M 0 102107 10 102121
+M 0 102108 10 102122
+M 0 102109 10 102123
+M 0 102110 10 102124
+M 0 102111 10 102125
+M 0 102112 10 102126
+M 0 102113 10 102127
+M 0 102114 10 102128
+M 0 102115 10 102129
+M 0 102125 10 102134
+M 0 102126 10 102135
+M 0 102127 10 102136
+M 0 102128 10 102137
+M 0 102134 10 102138
+M 0 102135 10 102139
+M 0 102136 10 102140
+M 0 102137 10 102141
+M 0 102138 10 102142
+M 0 102139 10 102143
+M 0 102133 10 102144
+M 0 102132 10 102145
+M 0 102131 10 102146
+M 0 102130 10 102147
+M 0 102129 10 102148
+M 0 102145 10 102149
+M 0 102144 10 102150
+M 0 102143 10 102151
+M 0 102142 10 102152
+M 0 102141 10 102153
+M 0 102140 10 102154
+M 0 102146 10 102155
+M 0 102147 10 102156
+M 0 102148 10 102157
+M 0 102149 10 102158
+M 0 102160 10 102159
+M 0 102161 10 102160
+M 0 102162 10 102161
+M 0 102163 10 102162
+M 0 102164 10 102163
+M 0 102170 10 102164
+M 0 102169 10 102165
+M 0 102168 10 102166
+M 0 102167 10 102167
+M 0 102166 10 102168
+M 0 102165 10 102169
+M 0 102159 10 102170
+M 0 102158 10 102171
+M 0 102157 10 102172
+M 0 102156 10 102173
+M 0 102155 10 102174
+M 0 102154 10 102175
+M 0 102153 10 102176
+M 0 102152 10 102177
+M 0 102151 10 102178
+M 0 102150 10 102179
+M 0 102180 10 102180
+M 0 102179 10 102181
+M 0 102178 10 102182
+M 0 102177 10 102183
+M 0 102176 10 102184
+M 0 102173 10 102185
+M 0 102181 10 102186
+M 0 102182 10 102187
+M 0 102183 10 102188
+M 0 102184 10 102189
+M 0 102187 10 102190
+M 0 102186 10 102191
+M 0 102185 10 102192
+M 0 102188 10 102193
+M 0 102189 10 102194
+M 0 102172 10 102195
+M 0 102171 10 102196
+M 0 102174 10 102197
+M 0 102175 10 102198
+M 0 102199 1 102199
+E 0 102100 0 -1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

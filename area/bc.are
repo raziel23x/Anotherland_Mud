@@ -1,0 +1,67 @@
+#AREADATA
+Name        Kage    Battle City~
+Builders    Kage~
+VNUMs       1000000 1001000
+Security    9
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#1000000
+Rules of Battle City~
+Everyone in this area must follow these rules.
+1. Players must have a Duel sphere to enter battle city.
+2. All Slang, Racial Terms, or any other form of communication is allowed in battle city.
+3. Final Rule. When you lose all your Sphere Tokens. You will be ejected from battle city.
+~
+0 1056768 0
+D0
+~
+~
+0 0 1000001
+S
+#1000001
+Battle City Game Rules.~
+These are the rules of the game.
+1. All challenges must be accepted.
+2. After a Challenge is accepted, Both Players must then roll a dice to see who will have the first turn.
+~
+0 1056768 0
+D2
+~
+~
+0 0 1000000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

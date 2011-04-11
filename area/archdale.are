@@ -1,0 +1,448 @@
+#AREADATA
+Name        Seppuku Archdale~
+Builders    Archimedes~
+VNUMs       74000 74099
+Security    1
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#74001
+Gate Guard ~
+Gate Guard ~
+The gate guard watches as you enter archdale 
+~
+~
+19 0 0 S
+53 0 0 5d4+3 0d0+0
+0 0
+0 0 1
+#74005
+Codroc~
+Codroc the Leatherworker is here~
+Codroc The Leatherworker
+~
+~
+19 0 0 S
+113 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#74097
+Watcher's secritary~
+Watcher's secritary~
+Watcher's secritary
+~
+This woman is so hard at work she does not even look up to see you enter. She is a petite red head feverishly  working to get caught up. 
+~
+19 0 0 S
+64 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#74000
+no name~
+(no short description)~
+(no description)~
+~
+13 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74001
+Sword of Mystara ~
+a glowing Black Longsword ~
+A long black sword of great power eminates a magic of unknown origin ~
+~
+5 -32512 8192
+0 0 0
+0 1000 1000 3
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74002
+Ring of Mortal Influence ~
+ring of Mortal Influence ~
+A glowing ring gives off a sence of control ~
+~
+9 67 3
+0 0 0
+0 0 0 0
+2 2000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74003
+flash light ~
+flashlight ~
+Flashlight ~
+~
+1 0 16385
+0 0 0
+0 0 2 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74004
+Cane ~
+cane of Archie~
+Cane of Archie ~
+~
+5 259 8193
+0 0 0
+0 10000 100000 3
+1 200 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74005
+Watcher Tattoo ~
+a Watcher Tattoo ~
+A purple w inset into a circular field of black ~
+~
+36 3 131081
+0 0 0
+0 0 0 0
+1 2000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74009
+throne of the dark prince~
+#RThrone #Lof #RThe #0Dark #RPrince~
+#RThrone #Lof #RThe #0Dark #RPrince~
+~
+12 64 0
+0 0 0
+1 1 0 0
+100 10000000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74097
+Raz's container~
+raz's container~
+Raz's container~
+~
+15 321 524289
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74098
+Bag of token~
+a bag ~
+This bag appears to have a single item in it. kind of looks like a coin or token.~
+~
+15 35 1
+0 0 0
+100 0 0 0
+1 10000 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#74099
+Throne of the Watcher~
+the Throne of the Watcher~
+The Throne of the Watcher~
+~
+12 4416 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#74000
+Road to Archdale ~
+The trail opens to reveal a small town. The sounds of people can be heard in the distance. 
+~
+0 4 1
+D0
+~
+~
+0 0 74001
+S
+#74001
+Gate to Archdale ~
+Adamantite gates are open to the friendly town. To the east you hear the sounds of dishes clanking and to the west you smell what you think is leather. 
+~
+0 0 1
+D0
+~
+~
+0 0 74004
+D1
+~
+~
+0 0 74002
+D2
+~
+~
+0 0 74000
+D3
+~
+~
+0 0 74003
+S
+#74002
+Outside the leather worker~
+As you approach the smell of fresh cut leather eminates from within 
+~
+0 0 1
+D1
+~
+~
+0 0 74005
+D3
+~
+~
+0 0 74001
+S
+#74003
+Outside the Red Dragon Tavern~
+You are standing outside of the Red Dragon Tavern. The smell of warm meals and cold drink are eminating from within.
+~
+0 0 1
+D1
+~
+~
+0 0 74001
+S
+#74004
+The road through Archdale ~
+You continue down the road between two more buildings. To the east you hear the clanking of armor and uffled voices. To the west the smell of the best food you have ever come across.
+~
+0 0 1
+D0
+~
+~
+0 0 74006
+D2
+~
+~
+0 0 74001
+S
+#74005
+Codroc's Leather Shop ~
+~
+0 8 0
+D3
+~
+~
+0 0 74002
+S
+#74006
+Cross roads~
+The intersection of two roads creates a choice. you can continue north, backtrack south or turn east or west.
+~
+0 4 1
+D0
+~
+~
+0 0 74008
+D1
+~
+~
+0 0 74007
+D2
+~
+~
+0 0 74004
+D3
+~
+~
+0 0 74009
+S
+#74007
+Road through Archdale~
+~
+0 0 1
+D3
+~
+~
+0 0 74006
+S
+#74008
+Northern Road~
+~
+0 0 0
+D2
+~
+~
+0 0 74006
+S
+#74009
+Untraveled path~
+~
+0 0 0
+D1
+~
+~
+0 0 74006
+S
+#74094
+Men's Rest room~
+~
+0 8 0
+D1
+~
+~
+0 0 74096
+S
+#74095
+Women's rest room~
+~
+0 8 0
+D3
+~
+~
+0 0 74096
+S
+#74096
+Office Waiting Room~
+Upon entrance of this room you notice a large window set in the north wall next to a door. a sign on the window directs you to sign in and have a seat.
+There are doors to the east and west. To the east is the womens rest room and to the west is the mens. 
+There is a pot of coffee brewing on a table next to the window. The view is a lovely overview of the entire town. 
+Sit back relax someone will be with you shortly. 
+~
+0 8 0
+D0
+~
+~
+0 0 74097
+D1
+~
+~
+0 0 74095
+D3
+~
+~
+0 0 74094
+S
+#74097
+Watcher tower inner office.~
+The inner office of the Watchers tower is set in blues and whites. Adesk is against the back wall overflowing with papers. Behind one pile you can see the top of a secritaries head as she futily works to get her work caught up.
+~
+0 8 0
+D0
+~
+~
+0 0 74098
+D2
+~
+~
+0 0 74096
+S
+#74098
+Third floor of Watchers tower~
+This room is filled with boxes and crates with the words "DND Tradeing company."
+~
+0 12 0
+D2
+~
+~
+0 0 74097
+D4
+~
+~
+3 0 74099
+S
+#74099
+Watchers main office~
+Watchers main office
+~
+0 1074188 0
+D5
+~
+~
+3 0 74098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

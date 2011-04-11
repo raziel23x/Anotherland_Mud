@@ -1,0 +1,1577 @@
+#AREADATA
+Name        Seppuku Test Your Might~
+Builders    Seppuku~
+VNUMs       40600 40699
+Security    8
+Recall      3005
+Flags	      32
+End
+
+
+
+#MOBILES
+#40600
+Mob Test Your Might Amazon~
+#7The Amazing Amazon#n~
+#7The Amazing Amazon is here guarding the first door.#n
+~
+~
+336923 12648608 0 S
+10040 0 0 0d20+0 0d0+0
+0 0
+0 0 2
+#40601
+Mob Test Your Might Assassin~
+#7A Deadly Assassin#n~
+#7A Deadly Assassin guards the second gate.#n
+~
+~
+336923 4260000 0 S
+11011 0 0 1d20+0 0d0+0
+0 0
+0 0 1
+#40602
+Mob Test Your might Garou~
+#7A Huge Garou#n~
+#7A Huge Garou guards the third gate.#n
+~
+~
+336923 4260000 0 S
+12964 0 0 5d20+3 0d0+0
+0 0
+0 0 0
+#40603
+Mob Test Your Might Pitbull~
+#7A Rabid Pitbull#n~
+#7A Rabid Pitbull is here, guarding the next gate#n
+~
+~
+336923 4260000 0 S
+13934 0 0 10d20+3 0d0+0
+0 0
+0 0 0
+#40604
+mob Test your might Golem~
+#7A huge iron golem#n~
+#7A huge iron golem is guarding the fifth gate.#n
+~
+~
+336923 4260000 0 S
+14935 0 0 15d20+3 0d0+0
+0 0
+0 0 0
+#40605
+mob test your might hydra~
+#7A giant hydra#n~
+#7A giant hydra is here blocking the sixth gate with his toe.#n
+~
+~
+336923 4260000 0 S
+15941 0 0 20d20+3 0d0+0
+0 0
+0 0 0
+#40606
+mob test your might Jin Kazama~
+#7Jin Kazama#n~
+#7Jin Kazama is here ready to brawl.#n
+~
+~
+336923 4260000 0 S
+16981 0 0 25d20+3 0d0+0
+0 0
+0 0 0
+#40607
+mob test your might Wraith~
+#7A Translucent Wraith#n~
+#7A Translucent Wraith is guarding the next gate.#n
+~
+~
+336923 4260000 0 S
+18014 0 0 30d20+3 0d0+0
+0 0
+0 0 0
+#40608
+mob test your might Arch Bishop~
+#7The Arch Bishop#n~
+#7The Arch Bishop is really gonna fuck you up.#n
+~
+~
+336923 4260000 0 S
+18787 0 0 35d20+3 0d0+0
+0 0
+0 0 0
+#40609
+test your might Portal Keeper~
+#7The Portal Keeper#n~
+#7The Portal Keeper is here in all his glory.#n
+~
+~
+467995 4260000 0 S
+2019 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40612
+Amazing Executioner~
+#yA#lmazing #yE#lxecutioner#n~
+#oThe #yA#lmazing #yE#lxecutioner #ogrins as he challenges you.#n
+~
+~
+262147 128 0 S
+12030 0 0 25d20+3 0d0+0
+0 0
+0 0 0
+#40613
+Amazing Wizard~
+#pA#Lmazing #pW#Lizard#n~
+#oThe #pA#Lmazing #pW#Lizard #ochants from his book of spells.#n
+~
+~
+262147 128 0 S
+9813 0 0 5d20+3 0d0+0
+0 0
+0 0 0
+#40614
+Another Land Warden~
+#LA#7nother #LL#7and #LW#7arden#n~
+#oThe #LA#7nother #LL#7and #LW#7arden #ogrowls at you.#n
+~
+~
+262155 327808 0 S
+9779 0 0 10d20+3 0d0+0
+0 0
+0 0 0
+#40650
+Demi Lich~
+#oDemi#p-#cL#ri#cc#rh#n~
+A #oDemi#p-#cL#ri#cc#rh#n stands here.
+~
+~
+205851 4194488 0 S
+16000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40651
+Demi lich~
+#oDemi#p-#cL#ri#cc#rh#n~
+A #oDemi#p-#cL#ri#cc#rh#n stands here.
+~
+~
+205851 4194488 0 S
+16000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40652
+Demi lich~
+#oDemi#p-#cL#ri#cc#rh#n~
+A #oDemi#p-#cL#ri#cc#rh#n stands here.
+~
+~
+459803 56 -1000 S
+3998 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40653
+Demi lich~
+#oDemi#p-#cL#ri#cc#rh#n~
+A #oDemi#p-#cL#ri#cc#rh#n stands here.
+~
+~
+459803 56 -1000 S
+4014 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40654
+Demi lich~
+#oDemi#p-#cL#ri#cc#rh#n~
+A #oDemi#p-#cL#ri#cc#rh#n stands here.
+~
+~
+459803 32 -1000 S
+10017 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40655
+zombie lord~
+#oZ#ro#om#rb#oi#re #oL#ro#or#rd#n~
+A #oZ#ro#om#rb#oi#re #oL#ro#or#rd#n stands here.
+~
+~
+205851 4194488 0 S
+16000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40656
+zombie lord~
+#oZ#ro#om#rb#oi#re #oL#ro#or#rd#n~
+A #oZ#ro#om#rb#oi#re #oL#ro#or#rd#n stands here.
+~
+~
+205851 4194488 0 S
+16000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40657
+zombie lord~
+#oZ#ro#om#rb#oi#re #oL#ro#or#rd#n~
+A #oZ#ro#om#rb#oi#re #oL#ro#or#rd#n stands here.
+~
+~
+459803 56 -1000 S
+3997 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40658
+zombie lord~
+#oZ#ro#om#rb#oi#re #oL#ro#or#rd#n~
+A #oZ#ro#om#rb#oi#re #oL#ro#or#rd#n stands here.
+~
+~
+459803 56 -1000 S
+3989 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40659
+zombie lord~
+#oZ#ro#om#rb#oi#re #oL#ro#or#rd#n~
+A #oZ#ro#om#rb#oi#re #oL#ro#or#rd#n stands here.
+~
+~
+459803 56 -1000 S
+4008 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40660
+Guardian of the Underworld~
+The #0Guardian #nof #0D#7e#0s#7p#0a#7i#0r#n~
+The #0Guardian #nof #0D#7e#0s#7p#0a#7i#0r#n floats here.
+~
+~
+74779 4194488 0 S
+14000 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#40661
+Guardian of Fire~
+#0Guardian #nof #RF#ri#Rr#re#n~
+The #0Guardian #nof #RF#ri#Rr#re#n floats here.
+~
+~
+205851 4194488 0 S
+13995 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#40662
+Nupperibo~
+The #rN#lu#rp#lp#re#lr#ri#lb#ro#n~
+The #rN#lu#rp#lp#re#lr#ri#lb#ro#n hovers here.
+~
+~
+197643 4194488 0 S
+15984 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40663
+Pit Fiend~
+The #oP#ri#ot #rF#oi#re#on#rd#n~
+The #oP#ri#ot #rF#oi#re#on#rd#n is standing here.
+~
+~
+197659 4194488 0 S
+16005 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40664
+Guardian of Pestilence~
+#0Guardian #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+The #0Guardian #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n floats here
+~
+~
+205851 4194488 0 S
+12994 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#40665
+Ahrimanes~
+#gA#ch#gr#ci#gm#ca#gn#ce#gs#n~
+#gA#ch#gr#ci#gm#ca#gn#ce#gs#n stands here glaring at you.
+~
+~
+197659 4784314 -1000 S
+35003 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#40666
+Vashtuk~
+#rV#ca#rs#ch#rt#cu#rk#n~
+#rV#ca#rs#ch#rt#cu#rk#n is hovering here ever grinning.
+~
+~
+197659 4784314 -1000 S
+34995 0 0 50d10+3 0d0+0
+0 0
+0 0 0
+#40667
+Grim Reaper~
+#7The #0G#gr#0i#gm #rR#0e#ra#0p#re#0r#n~
+#7The #0G#gr#0i#gm #rR#0e#ra#0p#re#0r#n floats here wielding a large scythe.
+~
+~
+205851 4784314 0 S
+13996 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40668
+Ilbis fallen solar~
+#7Ilbis, #nthe #oF#ga#ol#gl#oe#gn #rS#co#rl#ca#rr#n~
+#7Ilbis, #nthe #oF#ga#ol#gl#oe#gn #rS#co#rl#ca#rr#n is hovering here.
+~
+~
+205851 4784314 0 S
+14012 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40669
+Guardian of Death~
+#0Guardian #nof #0D#ge#0a#gt#0h~
+The #0Guardian #nof #0D#ge#0a#gt#0h floats here.
+~
+~
+205851 4194488 0 S
+13993 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#40670
+Rider of the Apocalypse famine~
+#rF#Ra#rm#Ri#rn#Re #nThe first #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+#rF#Ra#rm#Ri#rn#Re #nThe first #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n stands here.
+~
+~
+207899 4203704 0 S
+34996 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40674
+Acolyte of Death~
+#oA#yc#oo#yl#oy#yt#oe #nof #0D#ge#0a#gt#0h#n~
+The #oA#yc#oo#yl#oy#yt#oe #nof #0D#ge#0a#gt#0h#n is standing here.
+~
+~
+207899 4260026 0 S
+13010 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40675
+Acolyte of Pestilence~
+#oA#yc#oo#yl#oy#yt#oe #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n stands here.
+~
+~
+207899 4260026 0 S
+13003 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40676
+Acolyte of War~
+#oA#yc#oo#yl#oy#yt#oe #nof #gW#0a#Rr#n~
+An #oA#yc#oo#yl#oy#yt#oe #nof #gW#0a#Rr#n stands here.
+~
+~
+207899 4260026 0 S
+12996 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40677
+Acolyte of Famine~
+#oA#yc#oo#yy#ol#yt#oe #nof #rF#Ra#rm#Ri#rn#Re#n~
+The #oA#yc#oo#yy#ol#yt#oe #nof #rF#Ra#rm#Ri#rn#Re#n is standing here.
+~
+~
+207899 4260026 0 S
+13010 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40678
+Annoying little demon~
+#7An #0Annoying #oLittle #RD#re#Rm#ro#Rn#n~
+#7An #0Annoying #oLittle #RD#re#Rm#ro#Rn#n is hopping around madly.
+~
+~
+207899 4457496 0 S
+8016 0 0 25d5+1 0d0+0
+0 0
+0 0 0
+#40679
+Angel of Mercy~
+#7An #0A#7n#0g#7e#0l #nof #gM#pe#gr#pc#gy#n~
+#7An #0A#7n#0g#7e#0l #nof #gM#pe#gr#pc#gy#n floats here.
+~
+~
+205851 4784314 0 S
+14000 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40680
+Angel of death~
+#7An #0A#7n#0g#7e#0l #nof #0D#ge#0a#gt#0h#n~
+#7An #0A#7n#0g#7e#0l #nof #0D#ge#0a#gt#0h#n floats here.
+~
+~
+205851 4784314 0 S
+14002 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40681
+rider of the apocalypse war~
+#gW#0a#Rr #nThe second #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+#gW#0a#Rr #nThe second #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n stands here.
+~
+~
+207899 4260026 0 S
+36008 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40682
+rider of the apocalypse pestilence~
+#0P#oe#0s#ot#0i#ol#0e#on#0c#oe #nThe third #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+#0P#oe#0s#ot#0i#ol#0e#on#0c#oe #nThe third #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n stands here.
+~
+~
+207899 4260026 0 S
+37004 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40683
+rider of the apocalypse death~
+#0D#ge#0a#gt#0h #nThe fourth #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+#0D#ge#0a#gt#0h #nThe fourth #yR#gi#yd#ge#yr #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n stands here.
+~
+~
+207899 4260026 0 S
+37998 0 0 50d20+3 0d0+0
+0 0
+0 0 0
+#40684
+Guardian of Apocalypse~
+#0Guardian #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n~
+The #0Guardian #nof the #RA#gp#lo#cc#oa#Rl#gy#lp#cs#oe#n floats here.
+~
+~
+207899 4260026 0 S
+14006 0 0 5d5+2 0d0+0
+0 0
+0 0 0
+#40685
+Portal Guardian~
+#7Portal #0Guardian#n~
+The #7Portal #0Guardian#n floats here.
+~
+~
+207899 4260026 0 S
+14013 0 0 20d10+2 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#40600
+Key Amazon 01~
+#oThe Key of the Amazons#n~
+#oThe Key of the Amazons#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40601
+Key Assassin 02~
+#oThe key of the Assassin#n~
+#oThe key of the Assassin#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40602
+key Garou 03~
+#oThe Key of the Garou#n~
+#oThe Key of the Garou#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40603
+Key Pitbull 04~
+#oThe key of the Pitbull#n~
+#oThe key of the Pitbull#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40604
+key golem 05~
+#oThe key of the Golem#n~
+#oThe key of the Golem#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40605
+key hydra 06~
+#oThe key of the Hydra#n~
+#oThe key of the Hydra#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40606
+key jin 07~
+#oThe key of Jin Kazama#n~
+#oThe key of Jin Kazama#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40607
+key Wraith 08~
+#oThe key of the Wraith#n~
+#oThe key of the Wraith#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40608
+key Arch bishop 09~
+#oThe Arch bishop's key#n~
+#oThe Arch bishop's key#n~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40609
+Test Your might award~
+#oThe test your might award treasure#n~
+#oThe test your might award treasure#n~
+~
+67 0 1
+0 0 65536
+0 40614 40615 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40610
+Jewel~
+#RJ#yewel of #RP#yower#n~
+#RJ#yewel of #RP#yower#n~
+~
+67 0 1
+0 0 0
+0 40611 40612 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40611
+Broken Staff~
+#PB#Croken #PS#Ctaff#n~
+#PB#Croken #PS#Ctaff#n~
+~
+67 0 1
+0 0 0
+40610 0 40612 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40612
+Staff of Ages~
+#RS#0taff of #RA#0ges#n~
+#RS#0taff of #RA#0ges#n~
+~
+5 278528 8193
+2 0 1048576
+0 100 300 7
+0 0 0
+A
+19 200
+A
+18 200
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40613
+Test Your Skills~
+#RT#7est #RY#7our #RS#7kills#n~
+#RT#7est #RY#7our #RS#7kills#n~
+~
+27 0 1
+0 0 0
+40610 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40614
+Award Test Your Skills~
+#0T#rhe #0T#rest Your #0S#rkills Award#n~
+#0T#rhe #0T#rest Your #0S#rkills Award#n~
+~
+67 0 1
+0 0 0
+40609 0 40615 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40615
+Might of the Warrior~
+#r/#R-#y=#7^#y=#R-#r\ #0M#Cight of the #0W#Carrior #r/#R-#y=#7^#y=#R-#r\#n~
+#r/#R-#y=#7^#y=#R-#r\ #0M#Cight of the #0W#Carrior #r/#R-#y=#7^#y=#R-#r\#n~
+~
+9 278528 65537
+2 16 1048576
+100 0 0 21
+0 0 0
+A
+19 46
+A
+18 46
+A
+17 -100
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40616
+World portal~
+#oWorld Portal#n~
+#oWorld Portal#n~
+~
+27 0 0
+0 0 0
+3001 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40617
+key test of might~
+#othe key to the Test of Might area#n~
+#othe key to the Test of Might area#n~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40640
+String of Human Ears~
+a #yString #nof #oHuman #0Ears#n~
+A #yString #nof #oHuman #0Ears#n lies here.~
+~
+67 1 1
+0 0 65536
+0 40641 40642 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40641
+Demonic Pendant~
+a #0D#re#0m#ro#0n#ri#0c #oP#le#on#ld#oa#ln#ot#n~
+A #0D#re#0m#ro#0n#ri#0c #oP#le#on#ld#oa#ln#ot#n lies here.~
+~
+67 1 1
+0 0 65536
+40640 0 40642 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40642
+Lucifers Medal of Fire~
+#oL#0u#oc#0i#of#0e#or#0'#os #cM#ge#cd#ga#cl #7of #RF#rl#Ra#rm#Re#n~
+#oL#0u#oc#0i#of#0e#or#0'#os #cM#ge#cd#ga#cl #7of #RF#rl#Ra#rm#Re#n lies here smouldering.~
+~
+9 13111491 262145
+2 0 1114112
+100 0 0 15
+0 0 0
+A
+13 2500
+A
+12 2500
+A
+14 2500
+A
+17 -500
+A
+19 750
+A
+18 750
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40643
+key of flame~
+#7Key #nof #RF#rl#Ra#rm#Re#n~
+A #7Key #nof #RF#rl#Ra#rm#Re#n lies here.~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40644
+Key of Pestilence~
+#7Key #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n~
+The #7Key #nof #0P#oe#0s#ot#0i#ol#0e#on#0c#oe#n lies here~
+~
+18 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40650
+Human skull~
+a #oHuman #7S#0k#7u#0l#7l#n~
+A grotesque, decaying human skull lies here.~
+~
+67 1 1
+0 0 0
+0 40651 40652 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40651
+wand of bone~
+a #cWand #nof #7Bone#n~
+A wand made out of human bones lies here.~
+~
+67 1 1
+0 0 0
+40650 0 40652 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40652
+Artifact wand of the underworld~
+#0Wand #nof the #pU#cn#rd#oe#pr#cw#ro#or#pl#cd#n~
+An unearthly wand lies here.~
+~
+3 262145 16385
+0 0 1114112
+100000 5 5 'desanct'
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40653
+Pit of Despair~
+#7Portal to #RP#oi#ct #lo#Rf #oD#ce#ls#Rp#oa#ci#lr#n~
+#7Portal to #RP#oi#ct #lo#Rf #oD#ce#ls#Rp#oa#ci#lr#n~
+~
+27 0 0
+0 0 0
+150000 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40654
+Portal Home Midgaard~
+a #7Portal#n back #oHome#n~
+A #7Portal#n back #oHome#n~
+~
+27 0 0
+0 0 0
+3001 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40655
+Underworld Key~
+#7Key #nof #0D#7e#0s#7p#0a#7i#0r#n~
+The #7Key #nof #0D#7e#0s#7p#0a#7i#0r#n lies here.~
+~
+18 0 1
+0 0 65536
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40656
+necklace of human teeth~
+a #0N#7e#0c#7k#0l#7a#0c#7e #nof #oHuman #7Teeth#n~
+A #0N#7e#0c#7k#0l#7a#0c#7e #nof #oHuman #7Teeth#n lies here.~
+~
+67 2 1
+0 0 0
+0 40657 40668 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40657
+name Flayed skin of a human sacrifice~
+the #RF#ol#Ra#oy#Re#od #oSkin #nof a #oHuman #gS#0a#rc#gr#0i#rf#gi#0c#re#n~
+The #RF#ol#Ra#oy#Re#od #oSkin #nof a #oHuman #gS#0a#rc#gr#0i#rf#gi#0c#re#n lies here rotting in the sun.~
+~
+67 1 1
+0 0 0
+40656 0 40668 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40658
+Face piece of the human skull~
+#oA Face Piece#n of the #7Human Skull#n~
+#oA Face Piece#n of the #7Human Skull#n lies here.~
+~
+67 2 1
+0 0 0
+0 40661 40650 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40659
+Skull Fragment~
+a #7Skull Fragment#n~
+A #7Skull Fragment#n lies here.~
+~
+67 2 1
+0 0 0
+0 40660 40661 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40660
+Skull Piece~
+a #7Skull Piece#n~
+A #7Skull Piece#n lies here.~
+~
+67 2 1
+0 0 0
+40659 0 40661 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40661
+Back Piece of the Human Skull~
+a #0Back Piece #nof the #7Human Skull#n~
+A #0Back Piece #nof the #7Human Skull#n lies here.~
+~
+67 2 1
+0 0 0
+40658 0 40650 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40662
+hellfire blade~
+#RH#re#Rl#rl#Rf#ri#Rr#re #0B#7l#0a#7d#0e#n~
+A #RH#re#Rl#rl#Rf#ri#Rr#re #0B#7l#0a#7d#0e#n lies here.~
+~
+67 2 1
+0 0 0
+0 40663 40665 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40663
+Jeweled Crosspiece~
+#RJ#Ge#Cw#Le#yl#Pe#Rd #0Crosspiece#n~
+A #RJ#Ge#Cw#Le#yl#Pe#Rd #0Crosspiece#n lies here.~
+~
+67 2 1
+0 0 0
+40662 0 40665 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40664
+Leg Bone~
+a #oLeg #0Bone#n~
+A #oLeg #0Bone#n lies here.~
+~
+67 2 1
+0 0 0
+0 40667 40651 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40666
+Pelvic Bone~
+a #oPelvic #0Bone#n~
+A #oPelvic #0Bone#n lies here.~
+~
+67 2 1
+0 0 0
+40665 0 40667 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40667
+Femur Bone~
+a #oFemur #0Bone#n~
+A #oFemur #0Bone#n lies here.~
+~
+67 2 1
+0 0 0
+40664 0 40651 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40668
+Aura of Vengence~
+#yAura #nof #RV#ge#ln#og#Re#gn#lc#oe#n~
+An #yAura #nof #RV#ge#ln#og#Re#gn#lc#oe#n lies here.~
+~
+9 13369409 65537
+2 0 1048576
+200 0 0 21
+0 0 0
+A
+14 7500
+A
+12 7500
+A
+13 7500
+A
+18 500
+A
+19 500
+A
+17 -750
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40669
+dunce cap~
+#sD#su#sn#sc#se #sC#sa#sp#n~
+A #sD#su#sn#sc#se #sC#sa#sp#n lies here.~
+~
+9 655552 17
+0 0 524288
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40670
+Sign~
+do not leave your golems / charmed mobs at the altar.  It can be quite annoying.  Thank you for your time.~
+A #0Sign#n demands your attention!!~
+~
+9 0 0
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40671
+Test Gun~
+#RTest Gun#n~
+#RTest Gun#n~
+~
+31 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#40699
+Jailbringer~
+#7J#Lail#7B#Lringer#n~
+#7J#Lail#7B#Lringer#n~
+~
+5 0 8193
+0 0 0
+81 1000 2000 3
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#40600
+#RT#yest of #RM#yight #C1#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40600 40601
+S
+#40601
+#RT#yest of #RM#yight #C2#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40601 40602
+D2
+~
+~
+103 40600 40600
+S
+#40602
+#RT#yest of #RM#yight #C3#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40602 40603
+D2
+~
+~
+103 40601 40601
+S
+#40603
+#RT#yest of #RM#yight #C4#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40603 40604
+D2
+~
+~
+103 40602 40602
+S
+#40604
+#RT#yest of #RM#yight #C5#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40604 40605
+D2
+~
+~
+103 40603 40603
+S
+#40605
+#RT#yest of #RM#yight #C6#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40605 40606
+D2
+~
+~
+103 40604 40604
+S
+#40606
+#RT#yest of #RM#yight #C7#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40606 40607
+D2
+~
+~
+103 40605 40605
+S
+#40607
+#RT#yest of #RM#yight #C8#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40607 40608
+D2
+~
+~
+103 40606 40606
+S
+#40608
+#RT#yest of #RM#yight #C9#n~
+~
+0 135283202 0
+D0
+~
+~
+103 40608 40609
+D2
+~
+~
+103 40607 40607
+S
+#40609
+#RT#yest of #RM#yight #C10#n~
+~
+0 135283202 0
+D0
+~
+~
+39 0 0
+D2
+~
+~
+103 40608 40608
+S
+#40610
+#RT#7est #RY#7our #RS#7kills#n~
+~
+0 135283200 0
+D0
+~
+~
+4194304 0 40611
+S
+#40611
+#RT#7est #RY#7our #RS#7kills#n~
+#RANYBODY UNDER 5 HOURS IN THIS ZONE WILL HAVE
+#RALL STORES/QP #yAND#R MIGHT/PIT EQ TAKEN AWAY#n
+~
+0 135283200 0
+D0
+~
+~
+0 0 40614
+D1
+~
+~
+0 0 40612
+D2
+~
+~
+4194304 0 40610
+D3
+~
+~
+0 0 40613
+S
+#40612
+#RT#7est #RY#7our #RS#7kills#n~
+~
+0 135283200 0
+D3
+~
+~
+0 0 40611
+S
+#40613
+#RT#7est #RY#7our #RS#7kills#n~
+~
+0 135283200 0
+D1
+~
+~
+0 0 40611
+S
+#40614
+#RT#7est #RY#7our #RS#7kills#n~
+~
+0 135283200 0
+D0
+~
+~
+0 0 40615
+D2
+~
+~
+0 0 40611
+S
+#40615
+#RT#7est #RY#7our #RS#7kills#n~
+~
+0 134234624 0
+D2
+~
+~
+0 0 40614
+S
+#40616
+Entrance to the Test of Might~
+Screw the key.  Just open the stupid door.
+~
+0 512 0
+D0
+~
+~
+4194371 40617 40600
+S
+#0
+
+
+
+#SPECIALS
+M 40600 spec_vladd_decap
+M 40601 spec_vladd_decap
+M 40602 spec_vladd_decap
+M 40603 spec_vladd_decap
+M 40604 spec_vladd_decap
+M 40605 spec_vladd_decap
+M 40606 spec_vladd_decap
+M 40607 spec_vladd_decap
+M 40608 spec_vladd_decap
+M 40609 spec_vladd_decap
+M 40612 spec_executioner
+M 40613 spec_breath_any
+M 40614 spec_darkzap
+M 40650 spec_vladd_decap
+M 40651 spec_vladd_decap
+M 40652 spec_vladd_decap
+M 40653 spec_vladd_decap
+M 40654 spec_vladd_decap
+M 40655 spec_vladd_decap
+M 40656 spec_vladd_decap
+M 40657 spec_vladd_decap
+M 40658 spec_vladd_decap
+M 40659 spec_vladd_decap
+M 40660 spec_vladd_decap
+M 40661 spec_vladd_decap
+M 40662 spec_vladd_decap
+M 40664 spec_vladd_decap
+M 40665 spec_cast_mage
+M 40666 spec_cast_mage
+M 40667 spec_vladd_decap
+M 40668 spec_vladd_decap
+M 40669 spec_vladd_decap
+M 40670 spec_vladd_decap
+M 40674 spec_cast_mage
+M 40675 spec_cast_mage
+M 40676 spec_cast_mage
+M 40677 spec_cast_mage
+M 40678 spec_guard_kingdom6
+M 40679 spec_vladd_decap
+M 40681 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 40600 1 40600
+E 0 40600 0 -1
+M 0 40601 1 40601
+E 0 40601 0 -1
+M 0 40602 1 40602
+E 0 40602 0 -1
+M 0 40603 1 40603
+E 0 40603 0 -1
+M 0 40604 1 40604
+E 0 40604 0 -1
+M 0 40605 1 40605
+E 0 40605 0 -1
+M 0 40606 1 40606
+E 0 40606 0 -1
+M 0 40607 1 40607
+E 0 40607 0 -1
+M 0 40608 1 40608
+E 0 40608 0 -1
+M 0 40609 1 40609
+E 0 40609 0 -1
+E 0 40613 0 17
+M 0 40612 1 40612
+E 0 40610 0 3
+M 0 40613 1 40613
+E 0 40611 0 3
+M 0 40614 1 40614
+E 0 40614 0 3
+O 0 40616 0 40615
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

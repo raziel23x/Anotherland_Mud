@@ -1,0 +1,1334 @@
+#AREADATA
+Name        New area~
+Builders    None~
+VNUMs       200151 200500
+Security    1
+Recall      3001
+Flags	      0
+End
+
+
+
+#MOBILES
+#200190
+Leif~
+#LLe#Cif#n~
+#LLe#Cif #lstands around cursing about being bored.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200191
+Jessica~
+#yJes#oica#n~
+#yJes#oica #7 stands here looking bored.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#200193
+Paladin Alexander Anderson~
+#yPala#7din #LAlex#7ander #yAnde#7rson#n~
+#yPala#7din #LAlex#7ander #yAnde#7rson sits in the corner sharpening his knives.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#200200
+Arucard~
+#RAru#0card#n~
+#RAru#0card #rsits in the middle of the room wrapped in a black straight jacket.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200208
+Walter C. Dolnes, Angel Of Death~
+#7Wal#0ter #7C. #yDol#ones, #7An#0gel Of #RDea#0th#n~
+#7Wal#0ter #7C. #yDol#ones, #7An#0gel Of #RDea#0th bows politely.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200210
+Maxwell~
+#gMax#Gwell#n~
+#gMax#Gwell #7sits aroung moping over #PVic#ptoria.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200213
+Alucard~
+#RAlu#0card#n~
+#RAlu#0card hides in the shadows grinning sadistically.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200229
+General Peter~
+#gPet#Ger, #gGene#Gral#n~
+#gPet#Ger, #gGene#Gral #Gstands here shouting commands into a phone.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#200232
+Seras Victorias~
+#pSer#Pas #PVict#poria#n~
+#pSer#Pas #PVict#poria #0stands propped against her cannon.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#200235
+Sir Integral Wingates Hellsing~
+#7Sir #yInte#ogral #yWing#oates #yHell#osing#n~
+#7Sir #yInte#ogral #yWing#oates #yHell#osing #7stares at you looking impatient.#n
+~
+~
+19 128 0 S
+0 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#200151
+#RHells#0ing #RF#0acility #REntr#0ance#n~
+~
+0 0 0
+D0
+~
+~
+1 0 200152
+D2
+~
+~
+0 0 200150
+S
+#200152
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200153
+D2
+~
+~
+1 0 200151
+D3
+~
+~
+0 0 200158
+S
+#200153
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200154
+D3
+~
+~
+0 0 200152
+S
+#200154
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200155
+D3
+~
+~
+0 0 200153
+S
+#200155
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200156
+D3
+~
+~
+0 0 200154
+S
+#200156
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200157
+D3
+~
+~
+0 0 200155
+S
+#200157
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200177
+D3
+~
+~
+0 0 200156
+S
+#200158
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200152
+D3
+~
+~
+0 0 200159
+S
+#200159
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200158
+D3
+~
+~
+0 0 200160
+S
+#200160
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200159
+D3
+~
+~
+0 0 200161
+S
+#200161
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200160
+D3
+~
+~
+0 0 200162
+S
+#200162
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200163
+D1
+~
+~
+0 0 200161
+S
+#200163
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200164
+D2
+~
+~
+0 0 200162
+S
+#200164
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200165
+D2
+~
+~
+0 0 200163
+S
+#200165
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200166
+D2
+~
+~
+0 0 200164
+S
+#200166
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200167
+D2
+~
+~
+0 0 200165
+S
+#200167
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200168
+D2
+~
+~
+0 0 200166
+S
+#200168
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200169
+D3
+~
+~
+0 0 200167
+S
+#200169
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200170
+D3
+~
+~
+0 0 200168
+S
+#200170
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200171
+D3
+~
+~
+0 0 200169
+S
+#200171
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200172
+D3
+~
+~
+0 0 200170
+S
+#200172
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200181
+D1
+~
+~
+0 0 200173
+D3
+~
+~
+0 0 200171
+S
+#200173
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200174
+D3
+~
+~
+0 0 200172
+S
+#200174
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200175
+D3
+~
+~
+0 0 200173
+S
+#200175
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200176
+D3
+~
+~
+0 0 200174
+S
+#200176
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200180
+D3
+~
+~
+0 0 200175
+S
+#200177
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200178
+D2
+~
+~
+0 0 200157
+S
+#200178
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200179
+D2
+~
+~
+0 0 200177
+S
+#200179
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200180
+D2
+~
+~
+0 0 200178
+S
+#200180
+#RHells#0ing #RF#0acility #RFi#0rst #RF#0loor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200176
+D2
+~
+~
+0 0 200179
+S
+#200181
+#RF#0acility #RSt#0airs#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200172
+D4
+~
+~
+0 0 200201
+D5
+~
+~
+0 0 200182
+S
+#200182
+#RF#0acility #RSt#0airs#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200183
+D4
+~
+~
+0 0 200181
+S
+#200183
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200182
+D2
+~
+~
+0 0 200184
+S
+#200184
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200183
+D2
+~
+~
+0 0 200185
+S
+#200185
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200184
+D1
+~
+~
+0 0 200199
+D2
+~
+~
+0 0 200186
+D3
+~
+~
+0 0 200198
+S
+#200186
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200185
+D1
+~
+~
+0 0 200196
+D2
+~
+~
+0 0 200187
+D3
+~
+~
+0 0 200197
+S
+#200187
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200186
+D1
+~
+~
+0 0 200194
+D2
+~
+~
+0 0 200188
+D3
+~
+~
+0 0 200195
+S
+#200188
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200187
+D1
+~
+~
+0 0 200193
+D2
+~
+~
+0 0 200189
+D3
+~
+~
+0 0 200192
+S
+#200189
+#RHells#0ing #RJa#0il #RCel#0l #RBase#0ment#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200188
+D1
+~
+~
+0 0 200190
+D2
+~
+~
+0 0 200200
+D3
+~
+~
+0 0 200191
+S
+#200190
+#RLe#0if's #RCe#0ll#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200189
+S
+#200191
+#RJess#0ica's #RCe#0ll#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200189
+S
+#200192
+#RPri#0est's #RCe#0ll#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200188
+S
+#200193
+#RPal#0adin #RAlex#0ander #RAnde#0rson's #RCe#0ll#n ~
+~
+0 0 0
+D3
+~
+~
+0 0 200188
+S
+#200194
+#0Jan #RValentine's #RCe#0ll#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200187
+S
+#200195
+#RInco#0gnito's #RCe#0ll#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200187
+S
+#200196
+#RBio#0chipped #RVam#0pire's #RCe#0ll#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200186
+S
+#200197
+#RBoobh#0anshee's #RCe#0ll#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200186
+S
+#200198
+#RVat#0ican's #RCe#0ll#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200185
+S
+#200199
+#RMinor #0Vampire's #RCe#0ll#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200185
+S
+#200200
+#RAru#0card's #RCe#0ll#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200189
+S
+#200201
+#RF#0acility #RSt#0airs#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200202
+D5
+~
+~
+0 0 200181
+S
+#200202
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200201
+D1
+~
+~
+0 0 200203
+D3
+~
+~
+0 0 200238
+S
+#200203
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200204
+D3
+~
+~
+0 0 200202
+S
+#200204
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200205
+D3
+~
+~
+0 0 200203
+S
+#200205
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200206
+D3
+~
+~
+0 0 200204
+S
+#200206
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200208
+D1
+~
+~
+0 0 200207
+D3
+~
+~
+0 0 200205
+S
+#200207
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200209
+D3
+~
+~
+0 0 200206
+S
+#200208
+#7Wal#0ter, #RTh#0e #7Ang#0el of #RDea#0th's #yBed#oroom#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200206
+S
+#200209
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200207
+D1
+~
+~
+0 0 200210
+D2
+~
+~
+0 0 200211
+S
+#200210
+#gMax#Gwell's #yBed#oroom#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200209
+S
+#200211
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200209
+D2
+~
+~
+0 0 200212
+S
+#200212
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200211
+D1
+~
+~
+0 0 200213
+D2
+~
+~
+0 0 200214
+S
+#200213
+#RAlu#0card, #RDra#0cula's #yBed#oroom#n~
+~
+0 0 0
+D3
+~
+~
+0 0 200212
+S
+#200214
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200212
+D2
+~
+~
+0 0 200215
+S
+#200215
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200214
+D3
+~
+~
+0 0 200216
+S
+#200216
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200215
+D3
+~
+~
+0 0 200217
+S
+#200217
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200216
+D3
+~
+~
+0 0 200218
+S
+#200218
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200217
+D3
+~
+~
+0 0 200219
+S
+#200219
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200218
+D3
+~
+~
+0 0 200220
+S
+#200220
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200219
+D2
+~
+~
+0 0 200221
+D3
+~
+~
+0 0 200222
+S
+#200221
+#RHell#0sing #RSta#0irs#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200220
+D4
+~
+~
+0 0 200239
+S
+#200222
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200220
+D3
+~
+~
+0 0 200223
+S
+#200223
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200222
+D3
+~
+~
+0 0 200224
+S
+#200224
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200223
+D3
+~
+~
+0 0 200225
+S
+#200225
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200224
+D3
+~
+~
+0 0 200226
+S
+#200226
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200227
+D1
+~
+~
+0 0 200225
+S
+#200227
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200228
+D2
+~
+~
+0 0 200226
+S
+#200228
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200230
+D2
+~
+~
+0 0 200227
+D3
+~
+~
+0 0 200229
+S
+#200229
+#gPet#Ger, #7The #gGen#Geral's #yBed#oroom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200228
+S
+#200230
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200231
+D2
+~
+~
+0 0 200228
+S
+#200231
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200233
+D2
+~
+~
+0 0 200230
+D3
+~
+~
+0 0 200232
+S
+#200232
+#pSer#Pas #PVic#ptoria's #yBed#oroom#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200231
+S
+#200233
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200234
+D2
+~
+~
+0 0 200231
+S
+#200234
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200235
+D1
+~
+~
+0 0 200236
+D3
+~
+~
+0 0 200233
+S
+#200235
+#yInt#oeg#yra #yHell#osing's #yBed#oroom#n~
+~
+0 0 0
+D2
+~
+~
+0 0 200234
+S
+#200236
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200237
+D3
+~
+~
+0 0 200234
+S
+#200237
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200238
+D3
+~
+~
+0 0 200236
+S
+#200238
+#RHell#0sing #RF#0acility #RSec#0ond #RFl#0oor#n~
+~
+0 0 0
+D1
+~
+~
+0 0 200202
+D3
+~
+~
+0 0 200237
+S
+#200239
+#RHell#0sing #RSta#0irs#n~
+~
+0 0 0
+D0
+~
+~
+0 0 200240
+D5
+~
+~
+0 0 200221
+S
+#200240
+Hellsing Facility Third Floor~
+~
+0 0 0
+D2
+~
+~
+0 0 200239
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 200190 1 200190
+M 0 200191 1 200191
+M 0 200193 1 200193
+M 0 200200 1 200200
+M 0 200208 1 200208
+M 0 200210 1 200210
+M 0 200213 1 200213
+M 0 200229 1 200229
+M 0 200232 1 200232
+M 0 200235 1 200235
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

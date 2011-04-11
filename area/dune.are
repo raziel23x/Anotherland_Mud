@@ -1,0 +1,561 @@
+#AREADATA
+Name        Valosta Dune~
+Builders    Valosta~
+VNUMs       101800 101999
+Security    5
+Recall      3005
+Flags	      16
+End
+
+
+
+#MOBILES
+#101801
+Elite Atreides Guard~
+#yE#Rl#yi#Rt#ye #LA#lt#Lr#le#Li#ld#Le#ls #yG#Ru#ya#Rr#yd#n~
+An #yE#Rl#yi#Rt#ye #LA#lt#Lr#le#Li#ld#Le#ls #yG#Ru#ya#Rr#yd#n stands at attention
+~
+Ahead of you is a man standing at attention. His face gives
+a strict, terrifying look. 
+~
+132107 106624 1000 S
+5543 0 0 75d20+3 0d0+0
+0 0
+0 0 1
+#101802
+Fremen General~
+#RF#Lr#Re#Lm#Re#Ln #RG#Le#Rn#Le#Rr#La#Rl#n~
+A #RF#Lr#Re#Lm#Re#Ln #RG#Le#Rn#Le#Rr#La#Rl#n leans by the wall.
+~
+The cool icy eyes rests upon you as you glance at the Fremen General.
+~
+131075 128 1000 S
+3513 0 0 50d15+3 0d0+0
+0 0
+0 0 1
+#101803
+Fremen Soldier~
+#RF#Lr#Re#Lm#Re#Ln #RS#Lo#Rl#Ld#Ri#Le#Rr#n~
+A #RF#Lr#Re#Lm#Re#Ln #RS#Lo#Rl#Ld#Ri#Le#Rr #npatrols the area.
+~
+The tall man in cloaks stay undercover in stealth, with their blue eyes
+tranfixed at the sand for the slightest movement.
+~
+197635 106624 1000 S
+1854 0 0 5d15+3 0d0+0
+0 0
+0 0 1
+#101804
+Muad Dib~
+#LM#Ru#La#Rd#L-#RD#Li#Rb, #LH#Re#La#Rr#Lt #RO#Lf #RD#Lu#Rn#Le#n~
+#LM#Ru#La#Rd#L-#RD#Li#Rb, #LH#Re#La#Rr#Lt #RO#Lf #RD#Lu#Rn#Le#n
+~
+His icy eyes freezes you as you cannot believe
+the power he wields even as an atreides-born.
+~
+197643 4300928 1000 S
+6666619 0 0 90d20+3 0d0+0
+0 0
+0 0 1
+#101805
+Lord Odin~
+(no short description)~
+(no long description)
+~
+~
+197635 5835406 1000 S
+8855 0 0 75d20+3 0d0+0
+0 0
+0 0 1
+#101818
+Off-duty Fremen Soldier~
+#yOff-duty #RF#Lr#Re#Lm#Re#Ln #ySoldier#n~
+An #yOff-duty #RF#Lr#Re#Lm#Re#Ln #ySoldier#n walks around slowly
+~
+You look at the fremen soldier, his eyes an icy blue.
+~
+131083 0 1000 S
+1548 0 0 0d15+2 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#101801
+Atreides Sonic Blast Gun Mk.1~
+#LA#lt#Lr#le#Li#ld#Le#ls #RSonic #yBlast #RGun #yMk.1#n~
+Atreides advanced technology that led to the discovery of this super-sonic wave blasting weapon. Powerful but inaccurate.~
+~
+5 3 8193
+0 0 0
+17012 225 250 6
+5 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101802
+Atreides Sonic Blast Gun Mk.2~
+#LA#lt#Lr#le#Li#ld#Le#ls #RSonic #yBlast #RGun #yMk.2#n~
+Atreides advanced technology led to the discovery of this super-sonic wave blasting weapon. Powerful but inaccurate. Version 2.~
+~
+5 3 8193
+2 0 0
+17012 333 366 6
+8 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#101803
+marisella throne chair~
+#RMarisella's #yThrone#n~
+This throne is reserved for Marisella so she can sit in it and watch Ghant work.~
+~
+12 8 0
+0 0 0
+1 1 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#101800
+Dune VNUMs 101800-101999~
+~
+0 1048580 0
+S
+#101801
+#LA#lt#Lr#le#Li#ld#Le#ls #ySpace #yPort#n~
+Your pupils shift as you entered a room thats dimmer than
+the bright dune sun. Atreides space shuttles and frigates
+stay motionless on their landing pads. Atreides merchandise
+lies in crates scattered around the floor.
+~
+0 4 0
+D0
+~
+~
+0 0 101802
+S
+#101802
+#yOutside #LA#lt#Lr#le#Li#ld#Le#ls #ySpace #yPort#n~
+To the south lies the Atreides Space Port where incoming goods from
+their homeplanet arrives to aid them in a battle for spice. It is a
+much welcome place rather than the hot,sweltering and harsh climate that is
+in your horizons. 
+~
+0 1048580 0
+D0
+~
+~
+0 0 101803
+D1
+~
+~
+0 0 101804
+D2
+~
+~
+0 0 101801
+D3
+~
+~
+0 0 101805
+S
+#101803
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1056768 10
+D0
+~
+~
+0 0 101807
+D1
+~
+~
+0 0 101807
+D2
+~
+~
+0 0 101802
+D3
+~
+~
+0 0 101806
+S
+#101804
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1056768 10
+D0
+~
+~
+0 0 101807
+D3
+~
+~
+0 0 101802
+S
+#101805
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1056768 10
+D0
+~
+~
+0 0 101806
+D1
+~
+~
+0 0 101802
+S
+#101806
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1048580 10
+D0
+~
+~
+0 0 101808
+D1
+~
+~
+0 0 101803
+D2
+~
+~
+0 0 101805
+D3
+~
+~
+0 0 101806
+S
+#101807
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1056768 10
+D0
+~
+~
+0 0 101807
+D1
+~
+~
+0 0 101804
+D2
+~
+~
+0 0 101804
+D3
+~
+~
+0 0 101803
+S
+#101808
+#yNearing #rF#lr#re#lm#re#ln#r'#ls #ySiege#L(Carthag-Tuek)#n~
+The sweltering hot sun beats under your back as a fremen's siege
+nears your horizons, it brings you hope and revitalises you with energy.
+Just a little more to the northeast.
+~
+0 1056768 10
+D0
+~
+~
+0 0 101809
+D1
+~
+~
+0 0 101803
+D2
+~
+~
+0 0 101808
+D3
+~
+~
+0 0 101807
+S
+#101809
+#yNearing #rF#lr#re#lm#re#ln#r'#ls #ySiege#L(Carthag-Tuek)#n~
+The sweltering hot sun beats under your back as a fremen's siege
+nears your horizons, it brings you hope and revitalises you with energy.
+Just a little more to the northeast.
+~
+0 1056768 10
+D0
+~
+~
+0 0 101808
+D1
+~
+~
+0 0 101811
+D2
+~
+~
+0 0 101804
+D3
+~
+~
+0 0 101810
+S
+#101810
+#yThe #yShifting #ySands #yOf #yDune#n~
+~
+0 1048580 10
+D1
+~
+~
+0 0 101809
+S
+#101811
+#yNearing #rF#lr#re#lm#re#ln#r'#ls #ySiege#L(Carthag-Tuek)#n~
+The sweltering hot sun beats under your back as a fremen's siege
+nears your horizons, it brings you hope and revitalises you with energy.
+Just a little more to the northeast.
+~
+0 1056768 10
+D0
+~
+~
+0 0 101812
+D1
+~
+~
+0 0 101811
+D2
+~
+~
+0 0 101806
+D3
+~
+~
+0 0 101804
+S
+#101812
+#yOutside #rF#lr#re#lm#re#ln#r'#ls #ySiege#L(Carthag-Tuek)#n~
+Behold you lies a hidden siege, it must have been a tough time trying
+to get here. The shifting sands behind you sways as the heat still beats
+your back, to the north is the siege itself. Cool air rushes from inside.
+~
+0 1056768 0
+D0
+~
+~
+0 0 101813
+D2
+~
+~
+0 0 101811
+S
+#101813
+#yEntrance #yof #ythe #rF#lr#re#lm#re#ln#r'#ls #ysiege#L(Carthag Tuek)#n~
+The lifewater drips from its still at the corner of the cavern. The walls
+seem to emit some kind of soothing aura as you feel much refreshed.
+The cavern goes deeper in. Cool wind rushes from the deep cavern.
+~
+0 1056768 0
+D2
+~
+~
+0 0 101812
+D5
+~
+~
+0 0 101814
+S
+#101814
+#yDeep #yin #ythe #rF#lr#re#lm#re#ln#r'#ls #ysiege#L(Carthag Tuek)#n~
+Cool air rushes from the holes in the surface and it seems a very
+relaxing place to be. The room is a junction that leads to the four bunkers
+where the fremen rests.
+~
+0 1056768 0
+D0
+~
+~
+0 0 101816
+D1
+~
+~
+0 0 101815
+D2
+~
+~
+0 0 101817
+D3
+~
+~
+0 0 101818
+D4
+~
+~
+0 0 101813
+S
+#101815
+#lF#rr#le#rm#le#rn #yBunk #rOf #LCarthag Tuek#n~
+Rows of beds are arranged neatly around the corners of the rooms, cool air
+rushes in from the entrance.
+~
+0 1056768 0
+D3
+~
+~
+0 0 101814
+S
+#101816
+#lF#rr#le#rm#le#rn #yBunk #rOf #LCarthag Tuek#n~
+Rows of beds are arranged neatly around the corners of the rooms, cool air
+rushes in from the entrance.
+~
+0 1056768 0
+D2
+~
+~
+0 0 101814
+S
+#101817
+#lF#rr#le#rm#le#rn #yBunk #rOf #LCarthag Tuek#n~
+Rows of beds are arranged neatly around the corners of the rooms, cool air
+rushes in from the entrance.
+~
+0 1056768 0
+D0
+~
+~
+0 0 101814
+S
+#101818
+#lF#rr#le#rm#le#rn #yBunk #rOf #LCarthag Tuek#n~
+Rows of beds are arranged neatly around the corners of the rooms, cool air
+rushes in from the entrance.
+~
+0 1056768 0
+D1
+~
+~
+0 0 101814
+S
+#101819
+~
+~
+0 4 0
+S
+#101999
+.~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 101801 spec_vladd_decap
+M 101804 spec_vladd_decap
+S
+
+
+
+#RESETS
+M 0 101803 6 101812
+M 0 101803 6 101812
+M 0 101803 6 101812
+M 0 101803 6 101812
+M 0 101803 6 101812
+M 0 101803 6 101812
+M 0 101802 1 101813
+M 0 101802 1 101813
+M 0 101818 6 101814
+M 0 101818 6 101814
+M 0 101818 6 101814
+M 0 101818 6 101814
+M 0 101818 6 101814
+M 0 101818 6 101814
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101815
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101816
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101817
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 12 101818
+M 0 101818 12 101818
+M 0 101818 12 101818
+M 0 101818 12 101818
+M 0 101818 12 101818
+M 0 101818 12 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+M 0 101818 6 101818
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,80 @@
+#AREADATA
+Name        Buffy   Buffy's Mansion~
+Builders    Buffy~
+VNUMs       86100 89999
+Security    5
+Recall      3005
+Flags	      0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#87500
+wedding cake~
+a slice of Wedding Cake~
+A slice of wedding cake for you to eat.~
+~
+19 0 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#87148
+#0R#7o#no#0m #nof #0S#Wh#na#nd#Wo#0w#n~
+~
+0 684728344 1
+D0
+~
+~
+0 0 3054
+D1
+~
+~
+0 0 3054
+D2
+~
+~
+4194406 0 3500
+D3
+~
+~
+0 0 3054
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,660 @@
+#AREADATA
+Name        Souljah Biker Innconnu~
+Builders    Souljah~
+VNUMs       100501 100700
+Security    5
+Recall      3005
+End
+
+
+
+#MOBILES
+#100502
+Innconnu Biker~
+#RI#rnnconnu #0Biker#n~
+An #RI#rnnconnu #0Biker#n is ready to rumble!
+~
+~
+1 0 0 S
+205 0 0 -20d5+1 0d0+0
+0 0
+0 0 0
+#100503
+Innconnu Biker Leader~
+#RI#rnnconnu #0Biker #yL#oe#ya#od#ye#or#n~
+The #RI#rnnconnu #0Biker #yL#oe#ya#od#ye#or#n is ready to brawl!
+~
+~
+1 0 0 S
+383 0 0 50d17+2 0d0+0
+0 0
+0 0 0
+#100504
+Rukason Biker~
+#rRuk#Rason #0Biker#n~
+A #rRuk#Rason #0Biker#n is ready to rumble!
+~
+~
+1 0 0 S
+307 0 0 20d3+1 0d0+0
+0 0
+0 0 0
+#100505
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 0 0 S
+14 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#100506
+Rukason Biker Leader~
+#rRuk#Rason #0Biker #yL#oe#ya#od#ye#or#n~
+The #rRuk#Rason #0Biker #yL#oe#ya#od#ye#or#n is ready to brawl!
+~
+~
+1 0 0 S
+33 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#100511
+Stripper~
+A Stripper~
+A Stripper dances around here.
+~
+~
+3 0 0 S
+205 0 0 -20d4+1 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#100502
+Innconnu Biker Tattoo~
+#RI#rnnconnu #0Biker Tattoo#n~
+An #RI#rnnconnu #0Biker Tattoo#n sits here.~
+~
+9 0 131073
+0 0 0
+0 0 0 0
+0 0 0
+A
+13 50
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100503
+Bar Stool~
+a Bar Stool~
+A Bar Stool sits here.~
+~
+5 0 8193
+0 0 0
+0 50 100 7
+10 0 0
+A
+18 -2
+A
+19 3
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100504
+Rukason Biker Tattoo~
+#RRukason#0Biker Tattoo#n~
+#RRukason#0Biker Tattoo#n~
+~
+9 0 131073
+0 0 0
+0 0 0 0
+0 0 0
+A
+19 1
+A
+18 2
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100505
+Broken Bottle~
+#oBroken Bottle#n~
+A #oBroken Bottle#n lays here.~
+~
+5 0 8193
+0 0 0
+0 20 102 2
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100510
+Souljahs Gem~
+#yS#oO#yU#oL#yJ#oA#yH#oS #LG#lE#LM#n~
+#yS#oO#yU#oL#yJ#oA#yH#oS #LG#lE#LM#n~
+~
+8 131075 1
+0 0 0
+0 0 0 0
+0 0 0
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100513
+Brotherly Love~
+#yB#pr#yo#pt#yh#pe#yr#pl#yy #pL#yo#pv#ye#n~
+#pB#yr#po#yt#ph#ye#pr#yl#py #yL#po#yv#pe#n~
+~
+9 16707 524289
+0 0 0
+0 0 0 0
+0 0 0
+A
+14 10000
+A
+12 10000
+A
+13 10000
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#100519
+Innconnu Dagger~
+#RI#rnnconnu #0Dagger#n~
+The #RI#rnnconnu #0Dagger#n lays here.~
+~
+5 18979 8193
+0 0 0
+0 200 500 11
+0 0 0
+A
+4 10
+A
+2 10
+A
+5 10
+A
+1 10
+A
+14 10000
+A
+12 10000
+A
+13 10000
+A
+19 250
+A
+18 250
+Q
+normal~
+normal~
+normal~
+normal~
+normal~
+normal~
+0 0
+#0
+
+
+
+#ROOMDATA
+#100501
+Entrance To The No-Return Bar.~
+The entrance to the No-Return Bar.  The door hangs from its hinges, and
+is covered with blood.  The windows are broken, and the thick smell of
+alcohol and cigar smoke come from within.  
+~
+0 0 0
+D0
+~
+~
+0 0 100502
+S
+#100502
+Inside The No-return Bar.~
+The No-Return Bar is in ruins.  Bar stools are being thrown around,
+bottles are being rammed into flesh, punches are being thrown, steel-capped
+boots are breaking bones.  The Biker Gangs Innconnu and Rukason are warring
+with eachother, and everyone else in the room is getting involved.  
+~
+0 0 0
+D1
+~
+~
+0 0 100503
+D2
+~
+~
+0 0 100501
+S
+#100503
+The Bar~
+Theres blood everywhere!  Broken stools and shattered glass cover the
+ground!  Blood Puddles slosh around on the ground, and the corpses of
+drunken bikers are piled ontop of eachother.  
+~
+0 0 0
+D0
+~
+~
+0 0 100504
+D3
+~
+~
+0 0 100502
+S
+#100504
+Along The Bar~
+The Bar is messy and bloody.  There is broken glass and bullet shells all
+over the ground.  There is a bullet hole in the ceiling where light shines
+in through the cigar smoke.  Screams of battle are all around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 100505
+D2
+~
+~
+0 0 100503
+S
+#100505
+Along The Bar~
+The Bartender cowers behind the counter.  A barstool flys overhead! 
+Shouts and screams errupt from the bikeys.  This place is insane!  The floor
+is practically covered with blood!  
+~
+0 0 0
+D0
+~
+~
+0 0 100506
+D2
+~
+~
+0 0 100504
+S
+#100506
+Along The Bar~
+The Bar is messy and bloody.  There is broken glass and bullet shells all
+over the ground.  There is a bullet hole in the ceiling where light shines
+in through the cigar smoke.  Screams of battle are all around you.  
+~
+0 0 0
+D0
+~
+~
+0 0 100507
+D2
+~
+~
+0 0 100505
+S
+#100507
+Along The Bar~
+The walls are riddled with bullet holes.  The alcohol and glass are
+sprayed all over the bar and the floor.  Those who arent related with the
+gang war leap for cover.  They hide under tables and jump out windows just
+to get away from it all.  The bathrooms are to the north.  
+~
+0 4 0
+D0
+~
+~
+0 0 100508
+D2
+~
+~
+0 0 100506
+S
+#100508
+Inside The Bathroom~
+The floor is covered with old, cracked, dusty tiles.  They look as though
+they were once white and shiney, though now they are degraded from age.  You
+can still hear the screams of the bar-brawl outside.  
+~
+0 0 0
+D0
+~
+~
+0 0 100509
+D2
+~
+~
+0 0 100507
+D3
+~
+~
+0 0 100510
+S
+#100509
+Inside The Bathroom~
+The bathrooms smell aweful!  Theres blood splashed on the floor, soiled
+toilet paper lying around, puddles of urine covering the floor, and other
+things that are better left unmentioned laying in piles in the corners.  The
+toilets are moldy and digusting.  They are a green yellow in color, and look
+as though they havent been cleaned in a thousand years.  
+~
+0 0 0
+D2
+~
+~
+0 0 100508
+S
+#100510
+Stage Right~
+Smashed glass and broken wood lay about the room.  Overturned tables and
+broken up bar-stools are visable in every direction.  To the west is the
+Strippers Stage.  The girls dance on, even as the whole bar errupts in war. 
+~
+0 0 0
+D1
+~
+~
+0 0 100508
+D3
+~
+~
+0 0 100511
+S
+#100511
+Strippers Stage~
+Even as the war wages in all corners of the No-Return Bar, these
+strippers continue to dance on!  Blood spatters cover the stage, and the
+blue and red garments of the strippers, but the dancers continue to dance,
+and the occasional tip is still hurled up by some men who arent associated
+with the gangs.  
+~
+0 0 0
+D1
+~
+~
+0 0 100510
+D3
+~
+~
+0 0 100512
+S
+#100512
+Strippers Stage~
+Even as the war wages in all corners of the No-Return Bar, these
+strippers continue to dance on!  Blood spatters cover the stage, and the
+blue and red garments of the strippers, but the dancers continue to dance,
+and the occasional tip is still hurled up by some men who arent associated
+with the gangs.  
+~
+0 0 0
+D1
+~
+~
+0 0 100511
+D3
+~
+~
+0 0 100513
+S
+#100513
+Stage Left~
+Smashed glass and broken wood lay about the room.  Overturned tables and
+broken up bar-stools are visable in every direction.  To the east is the
+Strippers Stage.  The girls dance on, even as the whole bar errupts in war. 
+~
+0 0 0
+D1
+~
+~
+0 0 100512
+S
+#100514
+~
+~
+0 4 0
+S
+#100515
+~
+~
+0 4 0
+S
+#100516
+~
+~
+0 433973766 0
+S
+#100517
+~
+~
+0 4 0
+S
+#100518
+~
+~
+0 4 0
+S
+#100519
+~
+~
+0 4 0
+S
+#100520
+~
+~
+0 4 0
+S
+#100521
+~
+~
+0 269484036 0
+S
+#100522
+~
+~
+0 433973766 0
+S
+#100523
+~
+~
+0 4 0
+S
+#100524
+~
+~
+0 4 0
+S
+#100525
+~
+~
+0 4 0
+S
+#100526
+~
+~
+0 4 0
+S
+#100527
+~
+~
+0 4 0
+S
+#100528
+~
+~
+0 4 0
+S
+#100529
+~
+~
+0 1064966 0
+S
+#100530
+~
+~
+0 4 0
+S
+#100531
+~
+~
+0 4 0
+S
+#100532
+~
+~
+0 4 0
+S
+#100533
+~
+~
+0 4 0
+S
+#100534
+~
+~
+0 4 0
+S
+#100535
+~
+~
+0 4 0
+S
+#100536
+~
+~
+0 4 0
+S
+#100537
+~
+~
+0 4 0
+S
+#100538
+~
+~
+0 4 0
+S
+#100539
+~
+~
+0 4 0
+S
+#100540
+~
+~
+0 4 0
+S
+#100541
+~
+~
+0 4 0
+S
+#100542
+~
+~
+0 4 0
+S
+#100543
+~
+~
+0 433973766 0
+S
+#100544
+~
+~
+0 4 0
+S
+#100545
+~
+~
+0 4 0
+S
+#100546
+~
+~
+0 4 0
+S
+#100547
+~
+~
+0 4 0
+S
+#100548
+~
+~
+0 4 0
+S
+#100549
+~
+~
+0 4 0
+S
+#100550
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 100502 20 100502
+E 0 100502 0 26
+E 0 100503 0 17
+M 0 100504 20 100506
+E 0 100504 0 26
+E 0 100505 0 16
+M 0 100502 20 100506
+M 0 100503 1 100507
+E 0 100502 0 26
+M 0 100506 1 100507
+E 0 100504 0 26
+M 0 100511 10 100511
+M 0 100511 10 100512
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,49 @@
+#!/bin/sh
+#
+# /bin/sh replacement for startup
+#
+
+# grab the port number
+port=6969
+if [ "$1" != "" ]; then port=$1; fi
+
+# set up
+cd ../area
+if [ -f shutdown.txt ]; then mv shutdown.txt shutdown2.txt; fi
+if [ -f current.txt ]; then mv current.txt current2.txt; fi
+
+# allow cores
+ulimit -c 25555k
+# stack limit
+# ulimit -s 1500
+
+# renice +5 -p $$
+# loop indefinately
+while :
+do
+  # find a logfile
+
+  index=1
+  name=AL-
+  while :
+  do
+    logfile=../log/$name$index.log
+    if [ ! -e $logfile ]; then break; fi
+    let index=$index+1
+  done
+
+  # run the mud
+  ../src/dystopia $port >$logfile 2>&1
+
+  # shutdown?
+
+
+  if [ -e shutdown.txt ]; then
+    echo "startup: shutting down" >>$logfile
+    exit 1
+  fi
+
+  # sleep, so if we fail on boot we don't get massive looping
+  sleep 2
+done
+

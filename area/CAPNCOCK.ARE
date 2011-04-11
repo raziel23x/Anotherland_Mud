@@ -1,0 +1,73 @@
+
+#AREA ~
+
+
+#MOBILES
+#32600
+Cap'n Cock~
+Cap'n Cock~
+Cap'n Cock glares at you through his one eye!
+~
+Cap'n Cock has a very large head and only one eye. He seems to have trouble
+keeping his balance on his only leg.
+~
+98 168 1 S
+999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#32600
+Vibrator doom~
+Vibratr of Doom~
+A long rubber thing shakes on the ground.~
+~
+5 256 8193
+0 99 99 7
+1 1000 0
+#0
+
+
+#ROOMS
+#32600
+#RT#Gest #RR#Goom#n~
+this is a large stupid room. It is almost big enough to fit your mothers ass!
+~
+326 8 0
+D0
+
+~
+~
+0 0 32601
+S
+#32601
+#RT#Gest #RR#Goom#n~
+this is a large stupid room. It is almost big enough to fit your mothers ass!
+~
+326 8 0
+D2
+
+~
+~
+0 0 32600
+S
+#0
+
+
+#RESETS
+M 0 32600 20 32601  * Cap'n Cock -> #RT#Gest #RR#Goom#n
+E 0 32600 2 16  * Vibratr of Doom
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+#$
+
