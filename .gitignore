@@ -1,0 +1,6 @@
+src/dystopia
+src/obj/*.o
+player/*
+player/store/*
+player/backup/*
+log/*
