@@ -5,24 +5,18 @@
 # Enable IMC Uncomment
 #IMC = 1
                                                                                                                              
-CC = gcc
+CC = gcc34
 RM = rm
 EXE = dystopia
 PROF = -g3 -ggdb3
                                                                                                                              
 # Use these two lines to use crypt(), ie on Linux systems.
-#ifdef IMC
-#C_FLAGS = $(PROF) -Wall -O -s -DIMC -DMERC
-#else
 C_FLAGS = $(PROF) -Wall -O
-#endif
-#L_FLAGS = $(PROF) -lcrypt -lz
                                                                                                                              
 # Uncomment these two lines to use plaintext passwords.
 # This is how you fix the 'crypt' linking errors!
 #C_FLAGS = $(PROF) -s -Dlinux -O2
 #C_FLAGS = $(PROF) -s -Dlinux -g -p -O -Wuninitialized
-#C_FLAGS = $(PROF) -DIMC -IMCMERC
 L_FLAGS = $(PROF) -lz -lcrypt -lpthread -lm -Dlinux
                                                                                                                              
 # Source Files
@@ -33,11 +27,6 @@ SRC_FILES := $(wildcard *.c)
 OBJ_DIR = obj
 OBJ_FILES := $(patsubst %.c,$(OBJ_DIR)/%.o,$(SRC_FILES))
 
-ifdef IMC
-   SRC_FILES = imc.o sha256.o $(OBJ_FILES)
-#   C_FLAGS = $(C_FLAGS) -DIMC -DIMCMERC
-endif
-                                                                                                                             
 dystopia: $(OBJ_FILES)
 	$(RM) -f $(EXE)
 	chmod g+w $(OBJ_DIR)/*.o
